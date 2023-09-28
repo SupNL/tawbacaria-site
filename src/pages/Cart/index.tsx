@@ -43,6 +43,7 @@ import { FaTimesCircle } from 'react-icons/fa';
 
 import deliveryFeeData from '../../assets/delivery_free.json';
 import SetAddressModal from '../../components/SetAddressModal';
+import { Link } from 'react-router-dom';
 
 const storageKeyName = 'tawbacaria-app-user-name';
 const storageKeyPayment = 'tawbacaria-app-user-payment';
@@ -110,9 +111,11 @@ export default function Cart() {
     }, [toRetire]);
 
     const seeItensButton = (
-        <Button variant={'link'} colorScheme={'blue'} size={'sm'}>
-            Ver produtos
-        </Button>
+        <Link to='/produtos'>
+            <Button variant={'link'} colorScheme={'blue'} size={'sm'}>
+                Ver produtos
+            </Button>
+        </Link>
     );
 
     const savedAddress = getAddress();
@@ -163,7 +166,7 @@ export default function Cart() {
             />
             <Heading
                 fontWeight={600}
-                fontSize={{ base: '2xl', sm: '4xl', md: '6xl' }}
+                fontSize={{ base: '2xl', sm: '4xl', md: '4xl' }}
                 lineHeight={'110%'}
             >
                 Seu carrinho
