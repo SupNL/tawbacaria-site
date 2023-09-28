@@ -137,7 +137,8 @@ export default function Cart() {
             : null;
     const totalPrice =
         Object.values(items).reduce(
-            (prev, curr) => prev + curr.price * curr.count,
+            (prev, curr) =>
+                prev + curr.price * (curr.count <= 0 ? 1 : curr.count),
             0
         ) + (deliveryFee ?? 0);
     const changeNumeric =
@@ -335,7 +336,9 @@ export default function Cart() {
                                                     <IconButton
                                                         aria-label='Incrementar item'
                                                         icon={<AiOutlinePlus />}
-                                                        isDisabled={item.count >= 999}
+                                                        isDisabled={
+                                                            item.count >= 999
+                                                        }
                                                         onClick={() =>
                                                             updateItemCount(
                                                                 item.code,
