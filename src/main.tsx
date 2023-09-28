@@ -41,12 +41,17 @@ const styles = {
         },
     }),
 };
+const config = {
+    initialColorMode: 'system',
+    useSystemColorMode: true,
+}
 
 
 export const theme = extendTheme({
     components,
     styles,
     colors,
+    config,
 });
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
