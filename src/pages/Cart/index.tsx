@@ -380,8 +380,8 @@ export default function Cart() {
                             {paymentMethod.method === 'PIX' && (
                                 <Text maxW='280px' mx='auto' fontSize='xs'>
                                     O pagamento por PIX poderá ser efetuado após
-                                    o pedido ser confirmado pelo
-                                    estabelecimento no WhatsApp.
+                                    o pedido ser confirmado pelo estabelecimento
+                                    no WhatsApp.
                                 </Text>
                             )}
                             {paymentMethod.method === 'Dinheiro' && (
@@ -469,9 +469,10 @@ export default function Cart() {
                                     bg: 'green.500',
                                 }}
                                 isDisabled={
-                                    savedAddress == null ||
-                                    userName === '' ||
                                     toRetire === '' ||
+                                    (toRetire === 'no' &&
+                                        savedAddress == null) ||
+                                    userName === '' ||
                                     paymentMethod.method === '' ||
                                     (paymentMethod.method === 'Dinheiro' &&
                                         (paymentMethod.change == null ||

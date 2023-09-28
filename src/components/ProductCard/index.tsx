@@ -6,7 +6,6 @@ import {
     Image,
     useColorModeValue,
     Icon,
-    chakra,
     Tooltip,
 } from '@chakra-ui/react';
 import { FiPlusCircle } from 'react-icons/fi';
@@ -56,13 +55,15 @@ function ProductCard(props: ProductCardProps) {
                 fontSize={'1.2em'}
                 top='3'
             >
-                <chakra.a
-                    href={'#'}
+                <Box
                     display={['none', 'none', 'flex']}
                     position='absolute'
                     bottom='2'
                     right='2'
                     p={1}
+                    _hover={{
+                        cursor: 'pointer',
+                    }}
                 >
                     <Icon
                         as={FiPlusCircle}
@@ -72,7 +73,7 @@ function ProductCard(props: ProductCardProps) {
                         color={useColorModeValue('grey.300', 'grey.300')}
                         onClick={() => addItem(product)}
                     />
-                </chakra.a>
+                </Box>
             </Tooltip>
             <Box
                 p={['2', null, '4']}
