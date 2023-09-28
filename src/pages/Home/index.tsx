@@ -34,7 +34,7 @@ export default function Home() {
                     >
                         <Link to='produtos'>
                             <Button
-                                colorScheme={'blue'} 
+                                colorScheme={'blue'}
                                 bg={'purple.400'}
                                 rounded={'full'}
                                 px={6}
@@ -45,13 +45,15 @@ export default function Home() {
                                 Ver produtos
                             </Button>
                         </Link>
-                        <Button
-                            variant={'link'}
-                            colorScheme={'blue'}
-                            size={'sm'}
-                        >
-                            Contato
-                        </Button>
+                        <Link to='contato'>
+                            <Button
+                                variant={'link'}
+                                colorScheme={'blue'}
+                                size={'sm'}
+                            >
+                                Contato
+                            </Button>
+                        </Link>
                     </Stack>
                 </Stack>
             </Container>
