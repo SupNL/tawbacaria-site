@@ -8,6 +8,7 @@ import {
     useColorMode,
 } from '@chakra-ui/react';
 import { Divider } from '@chakra-ui/react';
+import { AiFillInstagram } from 'react-icons/ai';
 import { FaWhatsapp } from 'react-icons/fa';
 import { FaLocationDot } from 'react-icons/fa6';
 
@@ -19,7 +20,7 @@ export default function Contact() {
     const { colorMode } = useColorMode();
 
     const CardInfoText: React.FC<React.PropsWithChildren> = ({ children }) => {
-        return <Text>{children}</Text>;
+        return <Text lineHeight='16px' fontSize='sm'>{children}</Text>;
     };
 
     const IconWrapper: React.FC<React.PropsWithChildren> = ({ children }) => {
@@ -40,7 +41,7 @@ export default function Contact() {
                             direction={['column-reverse', 'row']}
                         >
                             <Box>
-                                <Flex direction='column' gap='2'>
+                                <Flex direction='column' gap='4'>
                                     <Heading fontSize='2xl'>
                                         Tawbacaria Hookah Shop
                                     </Heading>
@@ -56,6 +57,21 @@ export default function Contact() {
                                             >
                                                 <CardInfoText>
                                                     +55 18 99694-6870
+                                                </CardInfoText>
+                                            </Flex>
+                                        </Flex>
+                                    </Box>
+                                    <Box>
+                                        <Flex align='center' gap='2'>
+                                            <IconWrapper>
+                                                <AiFillInstagram />
+                                            </IconWrapper>
+                                            <Flex
+                                                direction='column'
+                                                justify='center'
+                                            >
+                                                <CardInfoText>
+                                                    @tawbacaria
                                                 </CardInfoText>
                                             </Flex>
                                         </Flex>
