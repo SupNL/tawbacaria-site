@@ -51,7 +51,6 @@ const ProductsQueryProvider: React.FC<React.PropsWithChildren> = ({
     };
 
     const getProduct = (productCode : string) => {
-        console.log(normalizedItems);
         return normalizedItems.find(i => i.code === productCode) ?? null;
     }
 

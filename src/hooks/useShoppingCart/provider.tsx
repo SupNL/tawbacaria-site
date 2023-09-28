@@ -13,7 +13,6 @@ const ShoppingCartProvider: React.FC<React.PropsWithChildren> = ({
     });
 
     const addItem = (item: TawbacariaApp.ProductItem) => {
-        console.log('Add item called');
         setCartItems((old) => {
             const foundItem = old[item.code];
             if (!foundItem) {
@@ -22,9 +21,13 @@ const ShoppingCartProvider: React.FC<React.PropsWithChildren> = ({
                     [item.code]: { ...item, count: 1 },
                 };
             }
+            if (foundItem.count >= 999) return old;
             return {
                 ...old,
-                [item.code]: { ...foundItem, count: foundItem.count + 1 },
+                [item.code]: {
+                    ...foundItem,
+                    count: foundItem.count + 1,
+                },
             };
         });
     };
@@ -34,7 +37,7 @@ const ShoppingCartProvider: React.FC<React.PropsWithChildren> = ({
             const code = typeof item === 'string' ? item : item.code;
             const foundItem = old[code];
             if (!foundItem) return old;
-            const newCart = { 
+            const newCart = {
                 ...old,
                 [code]: { ...foundItem, count: foundItem.count - 1 },
             };
@@ -54,6 +57,21 @@ const ShoppingCartProvider: React.FC<React.PropsWithChildren> = ({
         });
     };
 
+    const setCount = (
+        item: TawbacariaApp.ProductItem | string,
+        count: number
+    ) => {
+        setCartItems((old) => {
+            const code = typeof item === 'string' ? item : item.code;
+            const foundItem = old[code];
+            if (!foundItem) return old;
+            return {
+                ...old,
+                [code]: { ...foundItem, count },
+            };
+        });
+    };
+
     const clearCart = () => {
         setCartItems({});
     };
@@ -70,6 +88,7 @@ const ShoppingCartProvider: React.FC<React.PropsWithChildren> = ({
                 removeItem,
                 clearItem,
                 clearCart,
+                setCount,
             }}
         >
             {children}

@@ -24,7 +24,6 @@ import {
     NumberInput,
     NumberInputField,
     IconButton,
-    Box,
 } from '@chakra-ui/react';
 import useShoppingCart from '../../hooks/useShoppingCart';
 import {
@@ -77,7 +76,16 @@ type PaymentMethod = {
 };
 
 export default function Cart() {
-    const { items, addItem, removeItem, clearItem } = useShoppingCart();
+    const { items, setCount, clearItem } = useShoppingCart();
+    const [itemCount, setItemCount] = useState<{ [key: string]: string }>(
+        () => {
+            const i: { [key: string]: string } = {};
+            Object.values(items).forEach((item) => {
+                i[item.code] = item.count.toString();
+            });
+            return i;
+        }
+    );
 
     const [isAddressModalVisible, setIsAddressModalVisible] = useState(false);
 
@@ -158,8 +166,23 @@ export default function Cart() {
         return `${formatToCurrency(numeric / 100)}`;
     };
 
+    useEffect(() => {
+        Object.entries(itemCount).forEach(([key, value]) => {
+            const num = Number(value);
+            if (isNaN(num)) return;
+            setCount(key, num);
+        });
+    }, [itemCount, setCount]);
+
+    const updateItemCount = (code: string, value: string) => {
+        setItemCount((old) => ({
+            ...old,
+            [code]: value,
+        }));
+    };
+
     return (
-        <Container maxW={'4xl'}>
+        <Container maxW={'5xl'}>
             <SetAddressModal
                 isOpen={isAddressModalVisible}
                 onClose={() => setIsAddressModalVisible(false)}
@@ -240,17 +263,87 @@ export default function Cart() {
                                                             item.count <= 1
                                                         }
                                                         onClick={() =>
-                                                            removeItem(item)
+                                                            updateItemCount(
+                                                                item.code,
+                                                                (
+                                                                    item.count -
+                                                                    1
+                                                                ).toString()
+                                                            )
                                                         }
                                                     />
-                                                    <Box minW='auto' px='3'>
-                                                        {item.count}
-                                                    </Box>
+                                                    <NumberInput
+                                                        minW='100px'
+                                                        maxW='100px'
+                                                        value={
+                                                            itemCount[item.code]
+                                                        }
+                                                        onBlur={() => {
+                                                            if (
+                                                                itemCount[
+                                                                    item.code
+                                                                ] === ''
+                                                            ) {
+                                                                updateItemCount(
+                                                                    item.code,
+                                                                    '1'
+                                                                );
+                                                            }
+                                                        }}
+                                                        onChange={(val) => {
+                                                            if (
+                                                                val.length > 3
+                                                            ) {
+                                                                updateItemCount(
+                                                                    item.code,
+                                                                    val.substring(
+                                                                        0,
+                                                                        3
+                                                                    )
+                                                                );
+                                                                return;
+                                                            }
+                                                            if (val === '') {
+                                                                updateItemCount(
+                                                                    item.code,
+                                                                    ''
+                                                                );
+                                                                return;
+                                                            }
+                                                            const num =
+                                                                Number(val);
+                                                            if (
+                                                                isNaN(num) ||
+                                                                num <= 0
+                                                            )
+                                                                updateItemCount(
+                                                                    item.code,
+                                                                    '1'
+                                                                );
+                                                            else
+                                                                updateItemCount(
+                                                                    item.code,
+                                                                    val
+                                                                );
+                                                        }}
+                                                    >
+                                                        <NumberInputField
+                                                            min='1'
+                                                            max='100'
+                                                        />
+                                                    </NumberInput>
                                                     <IconButton
                                                         aria-label='Incrementar item'
                                                         icon={<AiOutlinePlus />}
+                                                        isDisabled={item.count >= 999}
                                                         onClick={() =>
-                                                            addItem(item)
+                                                            updateItemCount(
+                                                                item.code,
+                                                                (
+                                                                    item.count +
+                                                                    1
+                                                                ).toString()
+                                                            )
                                                         }
                                                     />
                                                 </Flex>
@@ -259,7 +352,9 @@ export default function Cart() {
                                                 R${' '}
                                                 {formatToCurrency(
                                                     (item.price / 100) *
-                                                        item.count
+                                                        (item.count <= 0
+                                                            ? 1
+                                                            : item.count)
                                                 )}
                                             </Td>
                                             <Td>

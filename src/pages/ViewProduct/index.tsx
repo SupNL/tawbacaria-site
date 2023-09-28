@@ -22,10 +22,7 @@ export default function ViewProduct() {
     const { getProduct } = useProductsQueryContext();
     const { addItem } = useShoppingCart();
 
-    console.log(code);
-
     const product = getProduct(code);
-    console.log(product);
 
     const colorMode = useColorModeValue('purple.600', 'purple.300');
     const bgColorMode = useColorModeValue('purple.300', 'purple.600');
