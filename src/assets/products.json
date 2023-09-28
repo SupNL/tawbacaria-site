@@ -8,15 +8,6 @@
             "is_highlight" : true,
             "in_stock" : true,
             "image_url" : "https://i.imgur.com/1c3faw2.jpg"
-        },
-        {
-            "code" : "12345",
-            "label" : "Ziggy Morango e Laranja",
-            "description" : "50g, Morango e Laranja 🍓🍊",
-            "price" : 999999,
-            "is_highlight" : true,
-            "in_stock" : true,
-            "image_url" : "https://i.imgur.com/xKvBLqm.jpg"
         }
     ],
     "Carvão" : [
@@ -26,15 +17,6 @@
             "description" : "Unidade de carvão",
             "price" : 150,
             "is_highlight" : true,
-            "in_stock" : true,
-            "image_url" : null
-        },
-        {
-            "code" : "34567",
-            "label" : "Carvão Caro",
-            "description" : "50g, Abacaxi Tropical🍍",
-            "price" : 999999,
-            "is_highlight" : false,
             "in_stock" : true,
             "image_url" : null
         }
