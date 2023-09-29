@@ -17,7 +17,11 @@ export default function Home() {
     return (
         <>
             <Container maxW={'4xl'}>
-                <Stack as={Box} textAlign={'center'} py={{ base: 10, md: 36 }}>
+                <Stack
+                    as={Box}
+                    textAlign={'center'}
+                    pt={[10, 12, 12, 12, 12, 32]}
+                >
                     <Box>
                         <Flex justifyContent='center'>
                             <Image
