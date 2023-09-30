@@ -10,14 +10,16 @@ import Home from '../pages/Home';
 import NotFound from '../pages/NotFound';
 import Navbar from '../components/Navbar';
 import Products from '../pages/Products';
-import { Box } from '@chakra-ui/react';
+import { Box, Flex, Spinner, Text } from '@chakra-ui/react';
 import ShoppingCartDrawer from '../components/ShoppingCartDrawer';
 import Cart from '../pages/Cart';
 import Contact from '../pages/Contact';
 import ViewProduct from '../pages/ViewProduct';
+import useCurrentTimeContext from '../hooks/useCurrentTime';
 
 const WrapperTemplate = () => {
     const location = useLocation();
+    const { isAvailable, loading, error } = useCurrentTimeContext();
 
     return (
         <>
@@ -36,7 +38,36 @@ const WrapperTemplate = () => {
                         );
                     }}
                 >
-                    <Outlet />
+                    {!loading ? (
+                        error ? (
+                            <Text
+                                textAlign='center'
+                                color='red.300'
+                                fontWeight='bold'
+                            >
+                                Ocorreu um erro inesperado
+                            </Text>
+                        ) : (
+                            <>
+                                {!isAvailable && (
+                                    <Text
+                                        textAlign='center'
+                                        color='red.300'
+                                        fontWeight='bold'
+                                    >
+                                        Loja fechada! Horário de atendimento:
+                                        11:00 - 22:00
+                                    </Text>
+                                )}
+                                <Outlet />
+                            </>
+                        )
+                    ) : (
+                        <Flex justifyContent='center' gap='2'>
+                            <Text>Carregando...</Text>
+                            <Spinner />
+                        </Flex>
+                    )}
                 </ErrorBoundary>
             </Box>
             <ShoppingCartDrawer />

@@ -43,6 +43,7 @@ import { FaTimesCircle } from 'react-icons/fa';
 import deliveryFeeData from '../../assets/delivery_free.json';
 import SetAddressModal from '../../components/SetAddressModal';
 import { Link } from 'react-router-dom';
+import useCurrentTimeContext from '../../hooks/useCurrentTime';
 
 const storageKeyName = 'tawbacaria-app-user-name';
 const storageKeyPayment = 'tawbacaria-app-user-payment';
@@ -76,6 +77,7 @@ type PaymentMethod = {
 };
 
 export default function Cart() {
+    const { isAvailable } = useCurrentTimeContext();
     const { items, setCount, clearItem } = useShoppingCart();
     const [itemCount, setItemCount] = useState<{ [key: string]: string }>(
         () => {
@@ -86,7 +88,6 @@ export default function Cart() {
             return i;
         }
     );
-
     const [isAddressModalVisible, setIsAddressModalVisible] = useState(false);
 
     const [paymentMethod, setPaymentMethod] = useState<PaymentMethod>(
@@ -117,6 +118,15 @@ export default function Cart() {
     useEffect(() => {
         localStorage.setItem(storageKeyRetire, toRetire);
     }, [toRetire]);
+
+    useEffect(() => {
+        Object.entries(itemCount).forEach(([key, value]) => {
+            const num = Number(value);
+            if (isNaN(num)) return;
+            setCount(key, num);
+        });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [itemCount]);
 
     const seeItensButton = (
         <Link to='/produtos'>
@@ -166,14 +176,6 @@ export default function Cart() {
         const numeric = Number(value);
         return `${formatToCurrency(numeric / 100)}`;
     };
-
-    useEffect(() => {
-        Object.entries(itemCount).forEach(([key, value]) => {
-            const num = Number(value);
-            if (isNaN(num)) return;
-            setCount(key, num);
-        });
-    }, [itemCount, setCount]);
 
     const updateItemCount = (code: string, value: string) => {
         setItemCount((old) => ({
@@ -375,140 +377,21 @@ export default function Cart() {
                                 </Tbody>
                             </Table>
                         </TableContainer>
-                        <Flex>
-                            <FormControl isRequired isInvalid={toRetire == ''}>
-                                <FormLabel>Retirar produto no local?</FormLabel>
-                                <RadioGroup
-                                    onChange={(value) => setToRetire(value)}
-                                    value={toRetire}
-                                >
-                                    <Stack direction='row'>
-                                        <Radio value='yes'>Sim</Radio>
-                                        <Radio value='no'>Não</Radio>
-                                    </Stack>
-                                </RadioGroup>
-                                <FormErrorMessage>Obrigatório</FormErrorMessage>
-                            </FormControl>
-                        </Flex>
-                        <Flex
-                            direction='column'
-                            align='center'
-                            justifyContent='center'
-                        >
-                            {toRetire === 'no' && (
-                                <FormControl
-                                    isRequired
-                                    isInvalid={savedAddress == null}
-                                >
-                                    <Flex gap='4' align='center'>
-                                        <Text>
-                                            {textAddress ??
-                                                'Endereço de entrega ainda não definido'}
-                                        </Text>
-                                        <Button
-                                            colorScheme={'blue'}
-                                            bg={'blue.400'}
-                                            onClick={() =>
-                                                setIsAddressModalVisible(true)
-                                            }
-                                            size='sm'
-                                        >
-                                            {savedAddress
-                                                ? 'Alterar'
-                                                : 'Definir'}
-                                        </Button>
-                                    </Flex>
-                                    <FormErrorMessage>
-                                        Obrigatório
-                                    </FormErrorMessage>
-                                </FormControl>
-                            )}
-                        </Flex>
-                        <Text fontSize='3xl'>
-                            Total:{' '}
-                            <span style={{ fontWeight: 'bold' }}>
-                                R$ {formatToCurrency(totalPrice / 100)}
-                            </span>
-                        </Text>
-                        {deliveryFee && (
-                            <Text fontSize='md'>
-                                (Inclui frete:{' '}
-                                <span style={{ fontWeight: 'bold' }}>
-                                    R$ {formatToCurrency(deliveryFee / 100)}
-                                </span>
-                                )
-                            </Text>
-                        )}
-                        <Flex gap='4' direction='column'>
-                            <FormControl isRequired isInvalid={userName === ''}>
-                                <FormLabel>Seu nome/apelido</FormLabel>
-                                <Input
-                                    value={userName}
-                                    onChange={(e) =>
-                                        setUserName(e.target.value)
-                                    }
-                                />
-                                <FormErrorMessage>Obrigatório</FormErrorMessage>
-                            </FormControl>
-                            <FormControl
-                                isRequired
-                                isInvalid={paymentMethod.method === ''}
-                            >
-                                <FormLabel>Forma de pagamento</FormLabel>
-                                <Select
-                                    value={paymentMethod.method}
-                                    onChange={(e) =>
-                                        setPaymentMethod((old) => ({
-                                            ...old,
-                                            method: e.target.value,
-                                        }))
-                                    }
-                                >
-                                    <option hidden disabled value=''>
-                                        Selecione a forma de pagamento
-                                    </option>
-                                    <option value='Cartão (Crédito)'>
-                                        Cartão (Crédito)
-                                    </option>
-                                    <option value='Cartão (Débito)'>
-                                        Cartão (Débito)
-                                    </option>
-                                    <option value='Dinheiro'>Dinheiro</option>
-                                    <option value='PIX'>PIX</option>
-                                </Select>
-                                <FormErrorMessage>Obrigatório</FormErrorMessage>
-                            </FormControl>
-                            {paymentMethod.method === 'PIX' && (
-                                <Text maxW='280px' mx='auto' fontSize='xs'>
-                                    O pagamento por PIX poderá ser efetuado após
-                                    o pedido ser confirmado pelo estabelecimento
-                                    no WhatsApp.
-                                </Text>
-                            )}
-                            {paymentMethod.method === 'Dinheiro' && (
-                                <>
+                        {isAvailable && (
+                            <>
+                                <Flex>
                                     <FormControl
                                         isRequired
-                                        isInvalid={paymentMethod.change == null}
+                                        isInvalid={toRetire == ''}
                                     >
-                                        <FormLabel>Precisa de troco?</FormLabel>
+                                        <FormLabel>
+                                            Retirar produto no local?
+                                        </FormLabel>
                                         <RadioGroup
                                             onChange={(value) =>
-                                                setPaymentMethod((old) => ({
-                                                    ...old,
-                                                    change:
-                                                        value === 'yes'
-                                                            ? true
-                                                            : false,
-                                                }))
+                                                setToRetire(value)
                                             }
-                                            value={
-                                                paymentMethod.change == null
-                                                    ? ''
-                                                    : paymentMethod.change
-                                                    ? 'yes'
-                                                    : 'no'
-                                            }
+                                            value={toRetire}
                                         >
                                             <Stack direction='row'>
                                                 <Radio value='yes'>Sim</Radio>
@@ -519,73 +402,257 @@ export default function Cart() {
                                             Obrigatório
                                         </FormErrorMessage>
                                     </FormControl>
-                                    {paymentMethod.change === true && (
+                                </Flex>
+                                <Flex
+                                    direction='column'
+                                    align='center'
+                                    justifyContent='center'
+                                >
+                                    {toRetire === 'no' && (
                                         <FormControl
                                             isRequired
-                                            isInvalid={neededChange <= 0}
+                                            isInvalid={savedAddress == null}
                                         >
-                                            <FormLabel>Troco para</FormLabel>
-                                            <NumberInput
-                                                onChange={(valueString) =>
-                                                    setPaymentMethod((old) => ({
-                                                        ...old,
-                                                        changeValue:
-                                                            parseCurrency(
-                                                                valueString
-                                                            ),
-                                                    }))
-                                                }
-                                                value={formatToValue(
-                                                    paymentMethod.changeValue
-                                                )}
-                                            >
-                                                <Flex align='center' gap='2'>
-                                                    <Text>R$</Text>
-                                                    <NumberInputField />
-                                                </Flex>
-                                            </NumberInput>
-                                            {neededChange > 0 && (
+                                            <Flex gap='4' align='center'>
                                                 <Text>
-                                                    Troco: R${' '}
-                                                    {formatToCurrency(
-                                                        neededChange / 100
-                                                    )}
+                                                    {textAddress ??
+                                                        'Endereço de entrega ainda não definido'}
                                                 </Text>
-                                            )}
+                                                <Button
+                                                    colorScheme={'blue'}
+                                                    bg={'blue.400'}
+                                                    onClick={() =>
+                                                        setIsAddressModalVisible(
+                                                            true
+                                                        )
+                                                    }
+                                                    size='sm'
+                                                >
+                                                    {savedAddress
+                                                        ? 'Alterar'
+                                                        : 'Definir'}
+                                                </Button>
+                                            </Flex>
                                             <FormErrorMessage>
-                                                Precisa ser superior ao total
+                                                Obrigatório
                                             </FormErrorMessage>
                                         </FormControl>
                                     )}
-                                </>
-                            )}
-                        </Flex>
-                        <Flex gap='4'>
-                            <Button
-                                colorScheme={'green'}
-                                color={'white'}
-                                bg={'green.400'}
-                                px={6}
-                                _hover={{
-                                    bg: 'green.500',
-                                }}
-                                isDisabled={
-                                    toRetire === '' ||
-                                    (toRetire === 'no' &&
-                                        savedAddress == null) ||
-                                    userName === '' ||
-                                    paymentMethod.method === '' ||
-                                    (paymentMethod.method === 'Dinheiro' &&
-                                        (paymentMethod.change == null ||
-                                            (paymentMethod.change === true &&
-                                                neededChange <= 0)))
-                                }
-                                onClick={handleNewRequest}
-                                leftIcon={<AiOutlineWhatsApp />}
-                            >
-                                Finalizar pedido pelo WhatsApp
-                            </Button>
-                        </Flex>
+                                </Flex>
+                            </>
+                        )}
+                        <Text fontSize='3xl'>
+                            Total:{' '}
+                            <span style={{ fontWeight: 'bold' }}>
+                                R$ {formatToCurrency(totalPrice / 100)}
+                            </span>
+                        </Text>
+                        {!isAvailable && <Text color='red.300'>
+                            Não é possível realizar pedido fora do horário
+                        </Text>}
+                        {deliveryFee && (
+                            <Text fontSize='md'>
+                                (Inclui frete:{' '}
+                                <span style={{ fontWeight: 'bold' }}>
+                                    R$ {formatToCurrency(deliveryFee / 100)}
+                                </span>
+                                )
+                            </Text>
+                        )}
+                        {isAvailable && (
+                            <>
+                                <Flex gap='4' direction='column'>
+                                    <FormControl
+                                        isRequired
+                                        isInvalid={userName === ''}
+                                    >
+                                        <FormLabel>Seu nome/apelido</FormLabel>
+                                        <Input
+                                            value={userName}
+                                            onChange={(e) =>
+                                                setUserName(e.target.value)
+                                            }
+                                        />
+                                        <FormErrorMessage>
+                                            Obrigatório
+                                        </FormErrorMessage>
+                                    </FormControl>
+                                    <FormControl
+                                        isRequired
+                                        isInvalid={paymentMethod.method === ''}
+                                    >
+                                        <FormLabel>
+                                            Forma de pagamento
+                                        </FormLabel>
+                                        <Select
+                                            value={paymentMethod.method}
+                                            onChange={(e) =>
+                                                setPaymentMethod((old) => ({
+                                                    ...old,
+                                                    method: e.target.value,
+                                                }))
+                                            }
+                                        >
+                                            <option hidden disabled value=''>
+                                                Selecione a forma de pagamento
+                                            </option>
+                                            <option value='Cartão (Crédito)'>
+                                                Cartão (Crédito)
+                                            </option>
+                                            <option value='Cartão (Débito)'>
+                                                Cartão (Débito)
+                                            </option>
+                                            <option value='Dinheiro'>
+                                                Dinheiro
+                                            </option>
+                                            <option value='PIX'>PIX</option>
+                                        </Select>
+                                        <FormErrorMessage>
+                                            Obrigatório
+                                        </FormErrorMessage>
+                                    </FormControl>
+                                    {paymentMethod.method === 'PIX' && (
+                                        <Text
+                                            maxW='280px'
+                                            mx='auto'
+                                            fontSize='xs'
+                                        >
+                                            O pagamento por PIX poderá ser
+                                            efetuado após o pedido ser
+                                            confirmado pelo estabelecimento no
+                                            WhatsApp.
+                                        </Text>
+                                    )}
+                                    {paymentMethod.method === 'Dinheiro' && (
+                                        <>
+                                            <FormControl
+                                                isRequired
+                                                isInvalid={
+                                                    paymentMethod.change == null
+                                                }
+                                            >
+                                                <FormLabel>
+                                                    Precisa de troco?
+                                                </FormLabel>
+                                                <RadioGroup
+                                                    onChange={(value) =>
+                                                        setPaymentMethod(
+                                                            (old) => ({
+                                                                ...old,
+                                                                change:
+                                                                    value ===
+                                                                    'yes'
+                                                                        ? true
+                                                                        : false,
+                                                            })
+                                                        )
+                                                    }
+                                                    value={
+                                                        paymentMethod.change ==
+                                                        null
+                                                            ? ''
+                                                            : paymentMethod.change
+                                                            ? 'yes'
+                                                            : 'no'
+                                                    }
+                                                >
+                                                    <Stack direction='row'>
+                                                        <Radio value='yes'>
+                                                            Sim
+                                                        </Radio>
+                                                        <Radio value='no'>
+                                                            Não
+                                                        </Radio>
+                                                    </Stack>
+                                                </RadioGroup>
+                                                <FormErrorMessage>
+                                                    Obrigatório
+                                                </FormErrorMessage>
+                                            </FormControl>
+                                            {paymentMethod.change === true && (
+                                                <FormControl
+                                                    isRequired
+                                                    isInvalid={
+                                                        neededChange <= 0
+                                                    }
+                                                >
+                                                    <FormLabel>
+                                                        Troco para
+                                                    </FormLabel>
+                                                    <NumberInput
+                                                        onChange={(
+                                                            valueString
+                                                        ) =>
+                                                            setPaymentMethod(
+                                                                (old) => ({
+                                                                    ...old,
+                                                                    changeValue:
+                                                                        parseCurrency(
+                                                                            valueString
+                                                                        ),
+                                                                })
+                                                            )
+                                                        }
+                                                        value={formatToValue(
+                                                            paymentMethod.changeValue
+                                                        )}
+                                                    >
+                                                        <Flex
+                                                            align='center'
+                                                            gap='2'
+                                                        >
+                                                            <Text>R$</Text>
+                                                            <NumberInputField />
+                                                        </Flex>
+                                                    </NumberInput>
+                                                    {neededChange > 0 && (
+                                                        <Text>
+                                                            Troco: R${' '}
+                                                            {formatToCurrency(
+                                                                neededChange /
+                                                                    100
+                                                            )}
+                                                        </Text>
+                                                    )}
+                                                    <FormErrorMessage>
+                                                        Precisa ser superior ao
+                                                        total
+                                                    </FormErrorMessage>
+                                                </FormControl>
+                                            )}
+                                        </>
+                                    )}
+                                </Flex>
+                                <Flex gap='4'>
+                                    <Button
+                                        colorScheme={'green'}
+                                        color={'white'}
+                                        bg={'green.400'}
+                                        px={6}
+                                        _hover={{
+                                            bg: 'green.500',
+                                        }}
+                                        isDisabled={
+                                            toRetire === '' ||
+                                            (toRetire === 'no' &&
+                                                savedAddress == null) ||
+                                            userName === '' ||
+                                            paymentMethod.method === '' ||
+                                            (paymentMethod.method ===
+                                                'Dinheiro' &&
+                                                (paymentMethod.change == null ||
+                                                    (paymentMethod.change ===
+                                                        true &&
+                                                        neededChange <= 0)))
+                                        }
+                                        onClick={handleNewRequest}
+                                        leftIcon={<AiOutlineWhatsApp />}
+                                    >
+                                        Finalizar pedido pelo WhatsApp
+                                    </Button>
+                                </Flex>
+                            </>
+                        )}
                     </>
                 )}
             </Stack>

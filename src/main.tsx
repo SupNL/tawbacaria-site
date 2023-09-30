@@ -6,6 +6,7 @@ import { ChakraProvider, ColorModeScript, extendTheme } from '@chakra-ui/react';
 import { mode } from '@chakra-ui/theme-tools';
 import ProductsQueryProvider from './hooks/useProductsQuery/provider';
 import ShoppingCartProvider from './hooks/useShoppingCart/provider.tsx';
+import CurrentTimeProvider from './hooks/useCurrentTime/provider.tsx';
 
 const components = {
     // Drawer variant to allow pointer events to the underlying content
@@ -44,8 +45,7 @@ const styles = {
 const config = {
     initialColorMode: 'system',
     useSystemColorMode: true,
-}
-
+};
 
 export const theme = extendTheme({
     components,
@@ -58,11 +58,13 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <React.StrictMode>
         <ChakraProvider theme={theme}>
             <ColorModeScript initialColorMode={theme.config.initialColorMode} />
-            <ProductsQueryProvider>
-                <ShoppingCartProvider>
-                    <App />
-                </ShoppingCartProvider>
-            </ProductsQueryProvider>
+            <CurrentTimeProvider>
+                <ProductsQueryProvider>
+                    <ShoppingCartProvider>
+                        <App />
+                    </ShoppingCartProvider>
+                </ProductsQueryProvider>
+            </CurrentTimeProvider>
         </ChakraProvider>
     </React.StrictMode>
 );
