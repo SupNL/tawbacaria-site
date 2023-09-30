@@ -17,7 +17,7 @@ const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
             .then((data: { utc_datetime: string }) => {
                 const date = new Date(data.utc_datetime);
                 const hours = date.getHours();
-                setIsAvailable(hours >= 17 && hours < 22);
+                setIsAvailable(hours >= 11 && hours < 22);
             })
             .catch((err) => {
                 if (typeof err === 'string') setError(err);
