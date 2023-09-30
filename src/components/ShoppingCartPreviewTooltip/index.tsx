@@ -8,7 +8,7 @@ const ShoppingCartPreviewTooltip = () => {
     const textColor = useColorModeValue('gray.600', 'gray.400');
 
     const itemsArray = Object.values(items);
-    const max = 10;
+    const max = 8;
     const diff = itemsArray.length - max;
 
     return (
