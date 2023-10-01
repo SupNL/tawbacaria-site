@@ -96,3 +96,29 @@ export function normalizeString(value: string) {
     const normalized = latinizedString.normalize();
     return normalized;
 }
+
+export function generateThumbnailUrl(
+    imgurUrl: string,
+    thumbnailType: 'small' | 'medium'
+) {
+    // Check if the input is a valid Imgur URL
+    const imgurRegex =
+        /imgur\.com\/([a-zA-Z0-9]+)\.(jpg|jpeg|png|gif)$/;
+
+    const matches = imgurUrl.match(imgurRegex);
+    if (!matches) throw 'Invalid Imgur URL';
+
+    const imgurId = matches[1];
+    const extension = matches[2];
+
+    // Generate the thumbnail URL based on the thumbnail type
+    let thumbnailUrl;
+
+    if (thumbnailType === 'small')
+        thumbnailUrl = `https://i.imgur.com/${imgurId}t.${extension}`;
+    else if (thumbnailType === 'medium')
+        thumbnailUrl = `https://i.imgur.com/${imgurId}m.${extension}`;
+    else throw "Invalid thumbnail type. Use 'small' or 'medium'.";
+
+    return thumbnailUrl;
+}

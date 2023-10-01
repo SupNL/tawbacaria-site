@@ -16,6 +16,7 @@ import Cart from '../pages/Cart';
 import Contact from '../pages/Contact';
 import ViewProduct from '../pages/ViewProduct';
 import useCurrentTimeContext from '../hooks/useCurrentTime';
+import PlusEighteenModal from '../components/PlusEighteenModal';
 
 const WrapperTemplate = () => {
     const location = useLocation();
@@ -23,6 +24,7 @@ const WrapperTemplate = () => {
 
     return (
         <>
+            {/* <PlusEighteenModal /> */}
             <Navbar />
             <Box pt='8' pb='16'>
                 <ErrorBoundary

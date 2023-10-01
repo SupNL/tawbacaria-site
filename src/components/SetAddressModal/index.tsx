@@ -106,11 +106,15 @@ const SetAddressModal: React.FC<{
                         <option hidden disabled value=''>
                             Selecione o bairro
                         </option>
-                        {Object.entries(deliveryFeeData).map(([key, item]) => (
-                            <option value={key} key={key}>
-                                {item.label}
-                            </option>
-                        ))}
+                        {Object.entries(deliveryFeeData)
+                            .sort(([key], [keyPrev]) =>
+                                key > keyPrev ? 1 : key < keyPrev ? -1 : 0
+                            )
+                            .map(([key, item]) => (
+                                <option value={key} key={key}>
+                                    {item.label}
+                                </option>
+                            ))}
                     </Select>
                     <FormErrorMessage>Obrigatório</FormErrorMessage>
                 </FormControl>

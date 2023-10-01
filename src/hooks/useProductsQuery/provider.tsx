@@ -7,12 +7,21 @@ const categories: string[] = [];
 
 Object.entries(productsData).forEach(([key, value]) => {
     categories.push(key);
-    value.forEach((item) =>
-        normalizedItems.push({
-            ...item,
-            category: key,
-        })
-    );
+    value
+        .filter(item => item.in_stock)
+        .sort((item, prevItem) =>
+            item.label > prevItem.label
+                ? 1
+                : item.label < prevItem.label
+                ? -1
+                : 0
+        )
+        .forEach((item) =>
+            normalizedItems.push({
+                ...item,
+                category: key,
+            })
+        );
 });
 
 const ProductsQueryProvider: React.FC<React.PropsWithChildren> = ({
@@ -32,8 +41,13 @@ const ProductsQueryProvider: React.FC<React.PropsWithChildren> = ({
             const search = query.searchQuery.toLowerCase();
             filteredProducts = filteredProducts.filter((item) => {
                 if (normalizeString(item.label).includes(search)) return true;
-                if (normalizeString(item.category).includes(search)) return true;
-                if (item.description && normalizeString(item.description).includes(search)) return true;
+                if (normalizeString(item.category).includes(search))
+                    return true;
+                if (
+                    item.description &&
+                    normalizeString(item.description).includes(search)
+                )
+                    return true;
                 if (normalizeString(item.code).includes(search)) return true;
                 return false;
             });
@@ -50,9 +64,9 @@ const ProductsQueryProvider: React.FC<React.PropsWithChildren> = ({
         };
     };
 
-    const getProduct = (productCode : string) => {
-        return normalizedItems.find(i => i.code === productCode) ?? null;
-    }
+    const getProduct = (productCode: string) => {
+        return normalizedItems.find((i) => i.code === productCode) ?? null;
+    };
 
     return (
         <ProductsQueryContext.Provider

@@ -22,11 +22,20 @@ const ShoppingCartPreviewTooltip = () => {
             background={backgroundColor}
         >
             <Flex direction='column' gap='4'>
-                {itemsArray.slice(0, max).map((item) => (
-                    <Text key={item.code} color={textColor}>
-                        {item.label} x{item.count}
-                    </Text>
-                ))}
+                {itemsArray
+                    .sort((item, prevItem) =>
+                        item.label > prevItem.label
+                            ? 1
+                            : item.label < prevItem.label
+                            ? -1
+                            : 0
+                    )
+                    .slice(0, max)
+                    .map((item) => (
+                        <Text key={item.code} color={textColor}>
+                            {item.label} x{item.count}
+                        </Text>
+                    ))}
 
                 {diff > 0 && (
                     <Text color={textColor}>

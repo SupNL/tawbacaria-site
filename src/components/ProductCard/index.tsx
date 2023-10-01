@@ -14,7 +14,7 @@ import { AiOutlinePlus } from 'react-icons/ai';
 import useShoppingCart from '../../hooks/useShoppingCart';
 
 import FallbackProductImage from '../../assets/fallback-product.jpg';
-import { formatToCurrency } from '../../utils';
+import { formatToCurrency, generateThumbnailUrl } from '../../utils';
 import { StarIcon } from '@chakra-ui/icons';
 import { useNavigate } from 'react-router-dom';
 
@@ -37,7 +37,11 @@ function ProductCard(props: ProductCardProps) {
             h={['90px', '100px', '120px']}
         >
             <Image
-                src={product.image_url ?? FallbackProductImage}
+                src={
+                    product.image_url
+                        ? generateThumbnailUrl(product.image_url, 'small')
+                        : FallbackProductImage
+                }
                 alt={`Imagem de ${product.label}`}
                 roundedLeft='lg'
                 objectFit='cover'
@@ -85,7 +89,7 @@ function ProductCard(props: ProductCardProps) {
                 <Flex direction='row' alignItems='center' gap='2'>
                     {product.is_highlight && <StarIcon />}
                     <Box
-                        fontSize={['xs', 'md', '2xl']}
+                        fontSize={['xs', 'md', 'xl']}
                         fontWeight='semibold'
                         as='h4'
                         textAlign='initial'

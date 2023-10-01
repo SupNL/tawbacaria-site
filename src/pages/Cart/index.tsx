@@ -24,11 +24,13 @@ import {
     NumberInput,
     NumberInputField,
     IconButton,
+    useColorModeValue,
 } from '@chakra-ui/react';
 import useShoppingCart from '../../hooks/useShoppingCart';
 import {
     buildAndEncodeMessage,
     formatToCurrency,
+    generateThumbnailUrl,
     getLocalStorageObjectSafely,
     getSessionStorageObjectSafely,
     parseCurrency,
@@ -125,7 +127,7 @@ export default function Cart() {
             if (isNaN(num)) return;
             setCount(key, num);
         });
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [itemCount]);
 
     const seeItensButton = (
@@ -184,6 +186,10 @@ export default function Cart() {
         }));
     };
 
+    const ErrorText: React.FC<React.PropsWithChildren> = ({ children }) => (
+        <Text color={useColorModeValue('red.500', 'red.300')}>{children}</Text>
+    );
+
     return (
         <Container maxW={'5xl'}>
             <SetAddressModal
@@ -229,151 +235,182 @@ export default function Cart() {
                                     </Tr>
                                 </Thead>
                                 <Tbody>
-                                    {Object.values(items).map((item) => (
-                                        <Tr
-                                            key={item.code}
-                                            alignItems='center'
-                                            position='relative'
-                                            overflow='visible'
-                                        >
-                                            <Td>
-                                                <Flex align='center' gap='2'>
-                                                    {item.image_url && (
-                                                        <Image
-                                                            src={item.image_url}
-                                                            alt={item.label}
-                                                            rounded='lg'
-                                                            maxW='52px'
-                                                        />
+                                    {Object.values(items)
+                                        .sort((item, prevItem) =>
+                                            item.label > prevItem.label
+                                                ? 1
+                                                : item.label < prevItem.label
+                                                ? -1
+                                                : 0
+                                        )
+                                        .map((item) => (
+                                            <Tr
+                                                key={item.code}
+                                                alignItems='center'
+                                                position='relative'
+                                                overflow='visible'
+                                            >
+                                                <Td>
+                                                    <Flex
+                                                        align='center'
+                                                        gap='2'
+                                                    >
+                                                        {item.image_url && (
+                                                            <Image
+                                                                src={generateThumbnailUrl(
+                                                                    item.image_url,
+                                                                    'small'
+                                                                )}
+                                                                alt={item.label}
+                                                                rounded='lg'
+                                                                maxW='52px'
+                                                            />
+                                                        )}
+                                                        {item.label}
+                                                    </Flex>
+                                                </Td>
+                                                <Td>
+                                                    R${' '}
+                                                    {formatToCurrency(
+                                                        item.price / 100
                                                     )}
-                                                    {item.label}
-                                                </Flex>
-                                            </Td>
-                                            <Td>
-                                                R${' '}
-                                                {formatToCurrency(
-                                                    item.price / 100
-                                                )}
-                                            </Td>
-                                            <Td isNumeric>
-                                                <Flex align='center' gap='2'>
-                                                    <IconButton
-                                                        aria-label='Decrementar item'
-                                                        icon={
-                                                            <AiOutlineMinus />
-                                                        }
-                                                        isDisabled={
-                                                            item.count <= 1
-                                                        }
-                                                        onClick={() =>
-                                                            updateItemCount(
-                                                                item.code,
-                                                                (
-                                                                    item.count -
-                                                                    1
-                                                                ).toString()
-                                                            )
-                                                        }
-                                                    />
-                                                    <NumberInput
-                                                        minW='100px'
-                                                        maxW='100px'
-                                                        value={
-                                                            itemCount[item.code]
-                                                        }
-                                                        onBlur={() => {
-                                                            if (
+                                                </Td>
+                                                <Td isNumeric>
+                                                    <Flex
+                                                        align='center'
+                                                        gap='2'
+                                                    >
+                                                        <IconButton
+                                                            aria-label='Decrementar item'
+                                                            icon={
+                                                                <AiOutlineMinus />
+                                                            }
+                                                            isDisabled={
+                                                                item.count <= 1
+                                                            }
+                                                            onClick={() =>
+                                                                updateItemCount(
+                                                                    item.code,
+                                                                    (
+                                                                        item.count -
+                                                                        1
+                                                                    ).toString()
+                                                                )
+                                                            }
+                                                        />
+                                                        <NumberInput
+                                                            minW='100px'
+                                                            maxW='100px'
+                                                            value={
                                                                 itemCount[
                                                                     item.code
-                                                                ] === ''
-                                                            ) {
-                                                                updateItemCount(
-                                                                    item.code,
-                                                                    '1'
-                                                                );
+                                                                ]
                                                             }
-                                                        }}
-                                                        onChange={(val) => {
-                                                            if (
-                                                                val.length > 3
-                                                            ) {
-                                                                updateItemCount(
-                                                                    item.code,
-                                                                    val.substring(
-                                                                        0,
-                                                                        3
-                                                                    )
-                                                                );
-                                                                return;
+                                                            onBlur={() => {
+                                                                if (
+                                                                    itemCount[
+                                                                        item
+                                                                            .code
+                                                                    ] === ''
+                                                                ) {
+                                                                    updateItemCount(
+                                                                        item.code,
+                                                                        '1'
+                                                                    );
+                                                                }
+                                                            }}
+                                                            onChange={(val) => {
+                                                                if (
+                                                                    val.length >
+                                                                    3
+                                                                ) {
+                                                                    updateItemCount(
+                                                                        item.code,
+                                                                        val.substring(
+                                                                            0,
+                                                                            3
+                                                                        )
+                                                                    );
+                                                                    return;
+                                                                }
+                                                                if (
+                                                                    val === ''
+                                                                ) {
+                                                                    updateItemCount(
+                                                                        item.code,
+                                                                        ''
+                                                                    );
+                                                                    return;
+                                                                }
+                                                                const num =
+                                                                    Number(val);
+                                                                if (
+                                                                    isNaN(
+                                                                        num
+                                                                    ) ||
+                                                                    num <= 0
+                                                                )
+                                                                    updateItemCount(
+                                                                        item.code,
+                                                                        '1'
+                                                                    );
+                                                                else
+                                                                    updateItemCount(
+                                                                        item.code,
+                                                                        val
+                                                                    );
+                                                            }}
+                                                        >
+                                                            <NumberInputField
+                                                                min='1'
+                                                                max='100'
+                                                            />
+                                                        </NumberInput>
+                                                        <IconButton
+                                                            aria-label='Incrementar item'
+                                                            icon={
+                                                                <AiOutlinePlus />
                                                             }
-                                                            if (val === '') {
-                                                                updateItemCount(
-                                                                    item.code,
-                                                                    ''
-                                                                );
-                                                                return;
+                                                            isDisabled={
+                                                                item.count >=
+                                                                999
                                                             }
-                                                            const num =
-                                                                Number(val);
-                                                            if (
-                                                                isNaN(num) ||
-                                                                num <= 0
-                                                            )
+                                                            onClick={() =>
                                                                 updateItemCount(
                                                                     item.code,
-                                                                    '1'
-                                                                );
-                                                            else
-                                                                updateItemCount(
-                                                                    item.code,
-                                                                    val
-                                                                );
-                                                        }}
-                                                    >
-                                                        <NumberInputField
-                                                            min='1'
-                                                            max='100'
+                                                                    (
+                                                                        item.count +
+                                                                        1
+                                                                    ).toString()
+                                                                )
+                                                            }
                                                         />
-                                                    </NumberInput>
+                                                    </Flex>
+                                                </Td>
+                                                <Td
+                                                    isNumeric
+                                                    position='relative'
+                                                >
+                                                    R${' '}
+                                                    {formatToCurrency(
+                                                        (item.price / 100) *
+                                                            (item.count <= 0
+                                                                ? 1
+                                                                : item.count)
+                                                    )}
+                                                </Td>
+                                                <Td>
                                                     <IconButton
-                                                        aria-label='Incrementar item'
-                                                        icon={<AiOutlinePlus />}
-                                                        isDisabled={
-                                                            item.count >= 999
-                                                        }
+                                                        aria-label='Remover item'
+                                                        icon={<FaTimesCircle />}
                                                         onClick={() =>
-                                                            updateItemCount(
-                                                                item.code,
-                                                                (
-                                                                    item.count +
-                                                                    1
-                                                                ).toString()
-                                                            )
+                                                            clearItem(item)
                                                         }
+                                                        size='sm'
                                                     />
-                                                </Flex>
-                                            </Td>
-                                            <Td isNumeric position='relative'>
-                                                R${' '}
-                                                {formatToCurrency(
-                                                    (item.price / 100) *
-                                                        (item.count <= 0
-                                                            ? 1
-                                                            : item.count)
-                                                )}
-                                            </Td>
-                                            <Td>
-                                                <IconButton
-                                                    aria-label='Remover item'
-                                                    icon={<FaTimesCircle />}
-                                                    onClick={() =>
-                                                        clearItem(item)
-                                                    }
-                                                    size='sm'
-                                                />
-                                            </Td>
-                                        </Tr>
-                                    ))}
+                                                </Td>
+                                            </Tr>
+                                        ))}
                                 </Tbody>
                             </Table>
                         </TableContainer>
@@ -447,10 +484,12 @@ export default function Cart() {
                                 R$ {formatToCurrency(totalPrice / 100)}
                             </span>
                         </Text>
-                        {!isAvailable && <Text color='red.300'>
-                            Não é possível realizar pedido fora do horário
-                        </Text>}
-                        {deliveryFee && (
+                        {!isAvailable && (
+                            <ErrorText>
+                                Não é possível realizar pedido fora do horário
+                            </ErrorText>
+                        )}
+                        {isAvailable && deliveryFee && (
                             <Text fontSize='md'>
                                 (Inclui frete:{' '}
                                 <span style={{ fontWeight: 'bold' }}>
