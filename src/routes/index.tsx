@@ -24,7 +24,7 @@ const WrapperTemplate = () => {
 
     return (
         <>
-            {/* <PlusEighteenModal /> */}
+            <PlusEighteenModal />
             <Navbar />
             <Box pt='8' pb='16'>
                 <ErrorBoundary
