@@ -9,7 +9,7 @@ const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch('http://worldtimeapi.org/api/timezone/America/Sao_Paulo')
+        fetch('https://worldtimeapi.org/api/timezone/America/Sao_Paulo')
             .then((res) => {
                 if (res.ok) return res.json();
                 throw Error('Erro ao consultar horário');
