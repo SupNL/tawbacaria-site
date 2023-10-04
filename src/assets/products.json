@@ -1,6 +1,15 @@
 {
     "Essências Ziggy": [
         {
+            "code": "7908479402079",
+            "label": "Ziggy Abacaxi Tropical 🍍🌴",
+            "description": "50g de Essência Ziggy para Narguile, sabor Abacaxi com Menta 🍍🌴",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/1c3faw2.jpg"
+        },
+        {
             "code": "7898965792060",
             "label": "Ziggy Banana Tropical 🍌",
             "description": "50g de Essência Ziggy para Narguile, sabor Banana 🍌",
@@ -134,15 +143,6 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/fVO2fwL.png"
-        },
-        {
-            "code": "7908479402079",
-            "label": "Ziggy Abacaxi Tropical 🍍🌴",
-            "description": "50g de Essência Ziggy para Narguile, sabor Abacaxi com Menta 🍍🌴",
-            "price": 1000,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/1c3faw2.jpg"
         },
         {
             "code": "7908479402086",

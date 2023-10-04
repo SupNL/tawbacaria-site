@@ -9,12 +9,37 @@ namespace TawbacariaApp {
         description?: string | null;
         is_highlight?: boolean | null;
         image_url?: string | null;
+
+        // only available through a limited time
+        availability_period?: StringDateRange;
+        discount?: {
+            discount: number;
+            period: StringDateRange;
+        };
     };
-    type ProductItem = ItemJsonData & {
+    type ProductItem = Omit<
+        ItemJsonData,
+        'availability_period' | 'discount'
+    > & {
         category: string;
+        availability_period?: DateRange;
+        discount?: {
+            discount: number;
+            period: DateRange;
+        };
+        originalPrice?: number;
     };
 }
 
+type DateRange = {
+    start: Date;
+    end: Date;
+};
+
+type StringDateRange = {
+    start: string;
+    end: string;
+};
 
 type AddressInfo = {
     address: string;

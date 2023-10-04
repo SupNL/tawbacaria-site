@@ -10,17 +10,19 @@ import Home from '../pages/Home';
 import NotFound from '../pages/NotFound';
 import Navbar from '../components/Navbar';
 import Products from '../pages/Products';
-import { Box, Flex, Spinner, Text } from '@chakra-ui/react';
+import { Box, Text } from '@chakra-ui/react';
 import ShoppingCartDrawer from '../components/ShoppingCartDrawer';
 import Cart from '../pages/Cart';
 import Contact from '../pages/Contact';
 import ViewProduct from '../pages/ViewProduct';
 import useCurrentTimeContext from '../hooks/useCurrentTime';
 import PlusEighteenModal from '../components/PlusEighteenModal';
+import { isInWorkingTime } from '../utils';
 
 const WrapperTemplate = () => {
     const location = useLocation();
-    const { isAvailable, loading, error } = useCurrentTimeContext();
+    const { date } = useCurrentTimeContext();
+    const isShopOpen = isInWorkingTime(date);
 
     return (
         <>
@@ -40,36 +42,19 @@ const WrapperTemplate = () => {
                         );
                     }}
                 >
-                    {!loading ? (
-                        error ? (
+                    <>
+                        {!isShopOpen && (
                             <Text
                                 textAlign='center'
                                 color='red.300'
                                 fontWeight='bold'
                             >
-                                Ocorreu um erro inesperado
+                                Loja fechada! Horário de atendimento: 11:00 -
+                                22:00
                             </Text>
-                        ) : (
-                            <>
-                                {!isAvailable && (
-                                    <Text
-                                        textAlign='center'
-                                        color='red.300'
-                                        fontWeight='bold'
-                                    >
-                                        Loja fechada! Horário de atendimento:
-                                        11:00 - 22:00
-                                    </Text>
-                                )}
-                                <Outlet />
-                            </>
-                        )
-                    ) : (
-                        <Flex justifyContent='center' gap='2'>
-                            <Text>Carregando...</Text>
-                            <Spinner />
-                        </Flex>
-                    )}
+                        )}
+                        <Outlet />
+                    </>
                 </ErrorBoundary>
             </Box>
             <ShoppingCartDrawer />

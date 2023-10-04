@@ -1,14 +1,67 @@
+import { useState } from 'react';
 import productsData from '../../assets/products.json';
-import { normalizeString } from '../../utils';
+import { isWithinDateRange, normalizeString } from '../../utils';
+import useCurrentTimeContext from '../useCurrentTime';
 import ProductsQueryContext from './context';
 
 const normalizedItems: TawbacariaApp.ProductItem[] = [];
 const categories: string[] = [];
 
+function instantiateDateWithTimezone(
+    strDate: string,
+    itemMeta: TawbacariaApp.ItemJsonData
+) {
+    if (!strDate.endsWith('-03:00')) {
+        strDate += '-03:00';
+    }
+    const date = new Date(strDate);
+    if (isNaN(date.getTime()))
+        throw new Error('Invalid date for ' + itemMeta.label);
+    return date;
+}
+
+function parseProduct(
+    item: TawbacariaApp.ItemJsonData,
+    category: string
+): TawbacariaApp.ProductItem {
+    const data: TawbacariaApp.ProductItem = {
+        ...item,
+        category,
+        availability_period: undefined,
+        discount: undefined,
+    };
+    if (item.availability_period)
+        data['availability_period'] = {
+            start: instantiateDateWithTimezone(
+                item.availability_period.start,
+                item
+            ),
+            end: instantiateDateWithTimezone(
+                item.availability_period.end,
+                item
+            ),
+        };
+    if (item.discount)
+        data['discount'] = {
+            discount: item.discount.discount,
+            period: {
+                start: instantiateDateWithTimezone(
+                    item.discount.period.start,
+                    item
+                ),
+                end: instantiateDateWithTimezone(
+                    item.discount.period.end,
+                    item
+                ),
+            },
+        };
+    return data;
+}
+
 Object.entries(productsData).forEach(([key, value]) => {
     categories.push(key);
     value
-        .filter(item => item.in_stock)
+        .filter((item) => item.in_stock)
         .sort((item, prevItem) =>
             item.label > prevItem.label
                 ? 1
@@ -16,19 +69,37 @@ Object.entries(productsData).forEach(([key, value]) => {
                 ? -1
                 : 0
         )
-        .forEach((item) =>
-            normalizedItems.push({
-                ...item,
-                category: key,
-            })
-        );
+        .map((item) => normalizedItems.push(parseProduct(item, key)));
 });
 
 const ProductsQueryProvider: React.FC<React.PropsWithChildren> = ({
     children,
 }) => {
+    const { date } = useCurrentTimeContext();
+
+    const [products] = useState(() => {
+        return normalizedItems
+            .filter((i) => {
+                if (
+                    i.availability_period &&
+                    !isWithinDateRange(date, i.availability_period)
+                )
+                    return false;
+                return true;
+            })
+            .map((i) => {
+                if (i.discount && isWithinDateRange(date, i.discount.period)) {
+                    const newItem = { ...i };
+                    newItem.originalPrice = newItem.price;
+                    newItem.price = newItem.price - i.discount.discount;
+                    return newItem;
+                }
+                return i;
+            });
+    });
+
     const getProducts = (query?: QueryOptions) => {
-        let filteredProducts = [...normalizedItems];
+        let filteredProducts = [...products];
         if (query?.categoryExact)
             filteredProducts = filteredProducts.filter(
                 (item) => item.category === query.categoryExact
@@ -37,6 +108,7 @@ const ProductsQueryProvider: React.FC<React.PropsWithChildren> = ({
             filteredProducts = filteredProducts.filter(
                 (item) => item.is_highlight
             );
+
         if (query?.searchQuery) {
             const search = query.searchQuery.toLowerCase();
             filteredProducts = filteredProducts.filter((item) => {
@@ -65,7 +137,7 @@ const ProductsQueryProvider: React.FC<React.PropsWithChildren> = ({
     };
 
     const getProduct = (productCode: string) => {
-        return normalizedItems.find((i) => i.code === productCode) ?? null;
+        return products.find((i) => i.code === productCode) ?? null;
     };
 
     return (

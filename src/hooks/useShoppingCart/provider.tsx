@@ -1,15 +1,33 @@
 import { useEffect, useState } from 'react';
-import { getSessionStorageObjectSafely } from '../../utils';
+import { getSessionStorageObjectSafely, isWithinDateRange } from '../../utils';
 import ShoppingCartContext from './context';
+import useProductsQueryContext from '../useProductsQuery';
 
 const key = 'tawbacaria-app-cart';
+
+type SessionStorageCart = {
+    code: string;
+    count: number;
+}[];
 
 const ShoppingCartProvider: React.FC<React.PropsWithChildren> = ({
     children,
 }) => {
+    const { getProduct } = useProductsQueryContext();
+
     const [cartItems, setCartItems] = useState<Cart>(() => {
-        const items = getSessionStorageObjectSafely<Cart>(key);
-        return items ?? {};
+        const items = getSessionStorageObjectSafely<SessionStorageCart>(key);
+        if (!items) return {};
+        const newCart: Cart = {};
+        items.forEach((item) => {
+            const product = getProduct(item.code);
+            if (!product) return;
+            newCart[item.code] = {
+                ...product,
+                count: item.count,
+            };
+        });
+        return newCart;
     });
 
     const addItem = (item: TawbacariaApp.ProductItem) => {
@@ -72,12 +90,53 @@ const ShoppingCartProvider: React.FC<React.PropsWithChildren> = ({
         });
     };
 
+    function isCartInSync(date: Date) {
+        let isOk = true;
+        const newCart: Cart = {};
+        Object.entries(cartItems).forEach(([key, item]) => {
+            if (
+                item.availability_period &&
+                !isWithinDateRange(date, item.availability_period)
+            )
+                isOk = false;
+            else newCart[key] = { ...item };
+
+            if (
+                item.discount &&
+                !isWithinDateRange(date, item.discount.period) &&
+                item.originalPrice
+            ) {
+                isOk = false;
+            }
+            setCartItems(newCart);
+        });
+        if (!isOk)
+            sessionStorage.setItem(
+                key,
+                JSON.stringify(
+                    Object.values(newCart).map((item) => ({
+                        code: item.code,
+                        count: item.count,
+                    }))
+                )
+            );
+        return isOk;
+    }
+
     const clearCart = () => {
         setCartItems({});
     };
 
     useEffect(() => {
-        sessionStorage.setItem(key, JSON.stringify(cartItems));
+        sessionStorage.setItem(
+            key,
+            JSON.stringify(
+                Object.values(cartItems).map((item) => ({
+                    code: item.code,
+                    count: item.count,
+                }))
+            )
+        );
     }, [cartItems]);
 
     return (
@@ -89,6 +148,7 @@ const ShoppingCartProvider: React.FC<React.PropsWithChildren> = ({
                 clearItem,
                 clearCart,
                 setCount,
+                isCartInSync,
             }}
         >
             {children}

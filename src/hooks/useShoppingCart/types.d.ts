@@ -13,4 +13,5 @@ type ShoppingCartContextProps = {
     clearItem: (item: TawbacariaApp.ProductItem | string) => void;
     setCount: (item: TawbacariaApp.ProductItem | string, count : number) => void;
     clearCart: () => void;
+    isCartInSync: (date : Date) => boolean;
 };

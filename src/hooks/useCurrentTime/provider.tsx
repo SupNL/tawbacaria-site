@@ -4,35 +4,39 @@ import CurrentTimeContext from './context';
 const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
     children,
 }) => {
-    const [isAvailable, setIsAvailable] = useState<boolean | null>(null);
+    const [date, setDate] = useState<Date | null>(null);
     const [error, setError] = useState<string | null>(null);
-    const [loading, setLoading] = useState(true);
+
+    async function getCurrentDate() {
+        const res = await fetch(
+            'https://worldtimeapi.org/api/timezone/America/Sao_Paulo'
+        );
+        if (!res.ok) throw 'Erro ao consultar horário';
+        const data = await res.json();
+        const date = new Date(data.utc_datetime);
+        return date;
+    }
 
     useEffect(() => {
-        fetch('https://worldtimeapi.org/api/timezone/America/Sao_Paulo')
-            .then((res) => {
-                if (res.ok) return res.json();
-                throw Error('Erro ao consultar horário');
-            })
-            .then((data: { utc_datetime: string }) => {
-                const date = new Date(data.utc_datetime);
-                const hours = date.getHours();
-                setIsAvailable(hours >= 11 && hours < 22);
+        getCurrentDate()
+            .then((date) => {
+                setDate(date);
             })
             .catch((err) => {
                 if (typeof err === 'string') setError(err);
                 else if (err instanceof Error) setError(err.message);
                 else setError('Erro inesperado ao consultar');
-            })
-            .finally(() => setLoading(false));
+            });
     }, []);
+
+    if (error) return <>{error}</>;
+    if (!date) return <></>;
 
     return (
         <CurrentTimeContext.Provider
             value={{
-                isAvailable,
-                error,
-                loading,
+                date,
+                getCurrentDate,
             }}
         >
             {children}

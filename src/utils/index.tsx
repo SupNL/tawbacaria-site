@@ -102,8 +102,7 @@ export function generateThumbnailUrl(
     thumbnailType: 'small' | 'medium'
 ) {
     // Check if the input is a valid Imgur URL
-    const imgurRegex =
-        /imgur\.com\/([a-zA-Z0-9]+)\.(jpg|jpeg|png|gif)$/;
+    const imgurRegex = /imgur\.com\/([a-zA-Z0-9]+)\.(jpg|jpeg|png|gif)$/;
 
     const matches = imgurUrl.match(imgurRegex);
     if (!matches) throw 'Invalid Imgur URL';
@@ -121,4 +120,16 @@ export function generateThumbnailUrl(
     else throw "Invalid thumbnail type. Use 'small' or 'medium'.";
 
     return thumbnailUrl;
+}
+
+export function isWithinDateRange(target: Date, range: DateRange) {
+    return (
+        target.getTime() <= range.end.getTime() &&
+        target.getTime() >= range.start.getTime()
+    );
+}
+
+export function isInWorkingTime(date: Date) {
+    const hours = date.getHours();
+    return hours >= 11 && hours < 22;
 }

@@ -33,6 +33,7 @@ import {
     generateThumbnailUrl,
     getLocalStorageObjectSafely,
     getSessionStorageObjectSafely,
+    isInWorkingTime,
     parseCurrency,
 } from '../../utils';
 import {
@@ -79,8 +80,10 @@ type PaymentMethod = {
 };
 
 export default function Cart() {
-    const { isAvailable } = useCurrentTimeContext();
-    const { items, setCount, clearItem } = useShoppingCart();
+    const [buttonLoading, setButtonLoading] = useState(false);
+
+    const { getCurrentDate, date } = useCurrentTimeContext();
+    const { items, setCount, clearItem, isCartInSync } = useShoppingCart();
     const [itemCount, setItemCount] = useState<{ [key: string]: string }>(
         () => {
             const i: { [key: string]: string } = {};
@@ -160,18 +163,37 @@ export default function Cart() {
     const neededChange =
         totalPrice && changeNumeric ? changeNumeric - totalPrice : 0;
 
+    const raiseAndRefresh = (message: string) => {
+        alert(message);
+        window.location.reload();
+    };
+
     const handleNewRequest = () => {
-        const baseUri = `https://wa.me/5518996946870/?text=`;
-        const message = buildAndEncodeMessage({
-            name: userName,
-            paymentMethod: paymentMethod.method,
-            shoppingCart: items,
-            totalPrice: totalPrice,
-            deliveryFee: deliveryFee,
-            changeValue: changeNumeric,
-            fullAddress: textAddress,
+        setButtonLoading(true);
+        getCurrentDate().then((date) => {
+            if (!isInWorkingTime(date)) {
+                raiseAndRefresh('Fora do horário de atendimento, recarregando');
+                return;
+            }
+            if (!isCartInSync(date)) {
+                raiseAndRefresh(
+                    'Alguns itens não estão mais disponíveis ou em promoção, recarregando'
+                );
+                return;
+            }
+            const baseUri = `https://wa.me/5518996946870/?text=`;
+            const message = buildAndEncodeMessage({
+                name: userName,
+                paymentMethod: paymentMethod.method,
+                shoppingCart: items,
+                totalPrice: totalPrice,
+                deliveryFee: deliveryFee,
+                changeValue: changeNumeric,
+                fullAddress: textAddress,
+            });
+            opentoNewTab(`${baseUri}${message}`);
+            setButtonLoading(false);
         });
-        opentoNewTab(`${baseUri}${message}`);
     };
 
     const formatToValue = (value: string) => {
@@ -189,6 +211,8 @@ export default function Cart() {
     const ErrorText: React.FC<React.PropsWithChildren> = ({ children }) => (
         <Text color={useColorModeValue('red.500', 'red.300')}>{children}</Text>
     );
+
+    const isShopOpen = isInWorkingTime(date);
 
     return (
         <Container maxW={'5xl'}>
@@ -414,7 +438,7 @@ export default function Cart() {
                                 </Tbody>
                             </Table>
                         </TableContainer>
-                        {isAvailable && (
+                        {isShopOpen && (
                             <>
                                 <Flex>
                                     <FormControl
@@ -484,12 +508,12 @@ export default function Cart() {
                                 R$ {formatToCurrency(totalPrice / 100)}
                             </span>
                         </Text>
-                        {!isAvailable && (
+                        {!isShopOpen && (
                             <ErrorText>
                                 Não é possível realizar pedido fora do horário
                             </ErrorText>
                         )}
-                        {isAvailable && deliveryFee && (
+                        {isShopOpen && deliveryFee && (
                             <Text fontSize='md'>
                                 (Inclui frete:{' '}
                                 <span style={{ fontWeight: 'bold' }}>
@@ -498,7 +522,7 @@ export default function Cart() {
                                 )
                             </Text>
                         )}
-                        {isAvailable && (
+                        {isShopOpen && (
                             <>
                                 <Flex gap='4' direction='column'>
                                     <FormControl
@@ -686,6 +710,7 @@ export default function Cart() {
                                         }
                                         onClick={handleNewRequest}
                                         leftIcon={<AiOutlineWhatsApp />}
+                                        isLoading={buttonLoading}
                                     >
                                         Finalizar pedido pelo WhatsApp
                                     </Button>

@@ -1,5 +1,4 @@
 type CurrentTimeProps = {
-    error : string | null;
-    loading : boolean;
-    isAvailable : boolean | null;
+    date: Date;
+    getCurrentDate : () => Promise<Date>;
 };
