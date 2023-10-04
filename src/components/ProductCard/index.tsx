@@ -26,6 +26,9 @@ function ProductCard(props: ProductCardProps) {
     const { product } = props;
     const { addItem } = useShoppingCart();
     const navigate = useNavigate();
+
+    const discountPriceColor = useColorModeValue('purple.400', 'purple.200');
+
     return (
         <Box
             bg={useColorModeValue('white', 'gray.800')}
@@ -34,7 +37,7 @@ function ProductCard(props: ProductCardProps) {
             shadow='lg'
             position='relative'
             display='flex'
-            h={['90px', '100px', '120px']}
+            minH={['90px', '100px', '120px']}
         >
             <Image
                 src={
@@ -111,29 +114,41 @@ function ProductCard(props: ProductCardProps) {
                         {`    ${product.category}`}
                     </Box>
                 </Flex>
-                <Flex justifyContent='space-between' alignContent='center'>
-                    <Box
-                        fontSize={['md', 'xl', '2xl']}
-                        fontWeight='semibold'
-                        color={useColorModeValue('purple.500', 'purple.300')}
-                    >
+                <Flex alignContent='center'>
+                    <Flex direction='column'>
+                        {product.originalPrice && (
+                            <Box
+                                fontSize={['3xs', '2xs', 'sm']}
+                                fontWeight='semibold'
+                                color={discountPriceColor}
+                                textDecoration='line-through'
+                                lineHeight='0.3'
+                                mt='1'
+                            >
+                                {'R$ ' +
+                                    formatToCurrency(
+                                        product.originalPrice / 100
+                                    )}
+                            </Box>
+                        )}
                         <Box
-                            as='span'
+                            fontSize={['md', 'xl', '2xl']}
+                            fontWeight='semibold'
                             color={useColorModeValue(
                                 'purple.500',
                                 'purple.300'
                             )}
-                            fontSize='md'
-                            pr={['1', null, '2']}
                         >
-                            R$
+                            <Box as='span' fontSize='md' pr='1'>
+                                R$
+                            </Box>
+                            {formatToCurrency(product.price / 100)}
+                            <Box as='span' fontSize='sm'>
+                                {' '}
+                                un.
+                            </Box>
                         </Box>
-                        {formatToCurrency(product.price / 100)}
-                        <Box as='span' fontSize='sm'>
-                            {' '}
-                            un.
-                        </Box>
-                    </Box>
+                    </Flex>
                 </Flex>
             </Box>
             <Box

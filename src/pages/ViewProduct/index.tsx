@@ -40,11 +40,30 @@ export default function ViewProduct() {
                 <Flex direction='column' gap='2' grow='1' minH='160px'>
                     <Flex gap='4'>
                         <Heading fontSize={['2xl', '2xl', '3xl']}>
-                            {product.is_highlight && <StarIcon fontSize='lg' mr='2' />}
+                            {product.is_highlight && (
+                                <StarIcon fontSize='lg' mr='2' />
+                            )}
                             {product.label}
                         </Heading>
                     </Flex>
-                    <Flex align={['initial', 'initial', 'center']} gap='4' direction={['column', 'column', 'row']}>
+                    <Flex
+                        align={['initial', 'initial', 'center']}
+                        gap='2'
+                        direction={['column', 'column', 'row']}
+                    >
+                        {product.originalPrice && (
+                            <Text
+                                fontSize={['xs', 'md', 'md']}
+                                fontWeight='semibold'
+                                color={colorMode}
+                                textDecoration='line-through'
+                            >
+                                {'R$ ' +
+                                    formatToCurrency(
+                                        product.originalPrice / 100
+                                    )}
+                            </Text>
+                        )}
                         <Text
                             fontSize='2xl'
                             fontWeight='bold'
