@@ -933,6 +933,44 @@
             "image_url": ""
         }
     ],
+    "Essências Ignite" : [
+        {
+            "code": "0619205894774",
+            "label": "Ignite Banana Ice 🍌🧊",
+            "description": "50g de Essência Ignite, sabor Banana 🍌",
+            "price": 1400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": ""
+        },
+        {
+            "code": "0619205894798",
+            "label": "Ignite Lemon Melon 🍋🍈",
+            "description": "50g de Essência Ignite, sabor Limão com Melão 🍋🍈",
+            "price": 1400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": ""
+        },
+        {
+            "code": "0619205894811",
+            "label": "Ignite Peach Cantaloupe 🍑🍈",
+            "description": "50g de Essência Ignite, sabor Pêssego com Melão 🍋🍈",
+            "price": 1400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": ""
+        },
+        {
+            "code": "0619205894804",
+            "label": "Ignite Blue Razz Ice 🫐",
+            "description": "50g de Essência Ignite, sabor Blueberry (Mirtilo) com Framboesa 🫐",
+            "price": 1400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": ""
+        }
+    ],
     "Ervas para Tereré" : [
         {
             "code": "0602883951099",
