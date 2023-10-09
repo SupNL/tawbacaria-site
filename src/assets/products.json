@@ -521,7 +521,7 @@
         },
         {
             "code": "8681655725245",
-            "label": "Adalya Black Horchata 🖤🥛",
+            "label": "Adalya Horchata 🖤🥛",
             "description": "50g de Essência Adalya para Narguile, sabor Amêndoa Cremosa",
             "price": 1400,
             "is_highlight": false,
@@ -979,7 +979,7 @@
             "price": 1700,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": ""
+            "image_url": "https://i.imgur.com/6oDjv0Y.png"
         },
         {
             "code": "0602883951167",
@@ -988,7 +988,7 @@
             "price": 1700,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": ""
+            "image_url": "https://i.imgur.com/n7P7aOk.png"
         },
         {
             "code": "0602883951075",
@@ -997,7 +997,7 @@
             "price": 1700,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": ""
+            "image_url": "https://i.imgur.com/ILcBLcw.png"
         },
         {
             "code": "0602883951136",
@@ -1006,7 +1006,7 @@
             "price": 1700,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": ""
+            "image_url": "https://i.imgur.com/WtdLkmO.png"
         },
         {
             "code": "0602883951082",
@@ -1015,7 +1015,7 @@
             "price": 1700,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": ""
+            "image_url": "https://i.imgur.com/1osV5PY.png"
         },
         {
             "code": "0602883851129",
@@ -1024,7 +1024,7 @@
             "price": 1700,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": ""
+            "image_url": "https://i.imgur.com/Jt7cQI7.png"
         },
         {
             "code": "0602883951143",
@@ -1033,7 +1033,7 @@
             "price": 1700,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": ""
+            "image_url": "https://i.imgur.com/0pPhl6B.png"
         },
         {
             "code": "0602883951150",
@@ -1042,7 +1042,7 @@
             "price": 1700,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": ""
+            "image_url": "https://i.imgur.com/WjlTPjR.png"
         },
         {
             "code": "0618231164882",
@@ -1051,7 +1051,7 @@
             "price": 1700,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": ""
+            "image_url": "https://i.imgur.com/OH94QKl.png"
         }
     ],
     "Carvão": [
@@ -1083,6 +1083,343 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Jngu3ea.png"
+        }
+    ],
+    "Headshop" : [
+        {
+            "code": "78420267",
+            "label": "Seda Zomo Perfect Black",
+            "description": "Unidade de pacote com 33 folhas de Papel de Seda Zomo Perfect Black feita com Goma Arábica Natural",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/D7roWpU.png"
+        },
+        {
+            "code": "78420274",
+            "label": "Seda Zomo Natural Perfect",
+            "description": "Unidade de pacote com 33 folhas de Papel de Seda Zomo Natural Perfect, 100% natural e sem aditivos",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/N5DByms.png"
+        },
+        {
+            "code": "78421738",
+            "label": "Seda Zomo Perfect Pink",
+            "description": "Unidade de pacote com 33 folhas de Papel de Seda Zomo Perfect Pink na cor rosa",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/ylSe71U.png"
+        },
+        {
+            "code": "78425590",
+            "label": "Seda Zomo Slim Alfafa",
+            "description": "Unidade de pacote com 33 folhas de Papel de Seda Zomo Slim Alfafa na cor verde",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/fQk1RyS.png"
+        },
+        {
+            "code": "8414775013547",
+            "label": "Seda Smoking Brown",
+            "description": "Unidade de pacote com 33 folhas de Papel de Seda Smoking Brown Alfafa, na cor marrom",
+            "price": 600,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/PvUAl0C.png"
+        },
+        {
+            "code": "7898634871003",
+            "label": "Seda aLeda Celulose",
+            "description": "Unidade de pacote com 33 folhas de Papel de Seda aLeda Celulose totalmente transparente, 100% original e totalmente biodegradável",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/z1xAg4E.png"
+        },
+        {
+            "code": "7898960207217",
+            "label": "Seda King Paper Mini Size",
+            "description": "Unidade de pacote com 33 folhas de Papel de Seda King Paper Mini Size, na cor branca",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/HLSXqeE.png"
+        },
+        {
+            "code": "02010302",
+            "label": "Piteira Bem Bolado Brown Large",
+            "description": "Unidade de pacote com 32 Piteiras Bem Bolado Brown Large, tamanho 6cm x 2,5cm, fabricado de forma mais natural, sem clareamento e livre de componentes químicos",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/6kJ4t4W.png"
+        },
+        {
+            "code": "02010101",
+            "label": "Piteira Bem Bolado Slim",
+            "description": "Unidade de pacote com 32 Piteiras Bem Bolado Slim, tamanho 6cm x 2cm, papel branco",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/J7U6WEf.png"
+        },
+        {
+            "code": "02010101",
+            "label": "Piteira Bem Bolado Extra Large",
+            "description": "Unidade de pacote com 32 Piteiras Bem Bolado Extra Large tamanho 6cm x 3,3cm, papel branco",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/LDwaM8g.png"
+        },
+        {
+            "code": "7898659810131",
+            "label": "Piteira Chillin Prontas 50 unidades",
+            "description": "Unidade de pacote com 50 Piteiras Chillin pré-enroladas, tamanho 5mm x 20mm",
+            "price": 500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/QNGTc1a.png"
+        },
+        {
+            "code": "89989898131685",
+            "label": "Piteira Chillin de Vidro",
+            "description": "Unidade de Piteira de Vidro Chillin, tamanho 6mm x 40mm",
+            "price": 800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/6Zo6ONX.png"
+        },
+        {
+            "code": "dichavador-kings-azul",
+            "label": "Dichavador Kings Azul",
+            "description": "Dichavador de Policarbonato Kings Grande Azul, com 7cm de diâmetro. Possui três compartimentos",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/1ETbGOt.png"
+        },
+        {
+            "code": "742832800082",
+            "label": "Dichavador Bem Bolado",
+            "description": "Dichavador de Policarbonato Bem Bolado, com 4cm de diâmetro. Possui três compartimentos",
+            "price": 1500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Kb7Liy0.png"
+        },
+        {
+            "code": "dichavador-metal",
+            "label": "Dichavador Metal Grande",
+            "description": "Dichavador de Metal, com 5cm de diâmetro, com 5cm de diâmetro. Possui três compartimentos",
+            "price": 1500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/XQDVQVs.png"
+        },
+        {
+            "code": "7898960207019",
+            "label": "King Blunt Chocolate",
+            "description": "Unidade de pacote com 5 folhas para blunt com um aroma de chocolate, tamanho 110mm x 44mm",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/yJx9kx5.png"
+        },
+        {
+            "code": "7898960207439",
+            "label": "King Blunt Mel",
+            "description": "Unidade de pacote com 5 folhas para blunt com um aroma de mel, tamanho 110mm x 44mm",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/5lPiF6U.png"
+        },
+        {
+            "code": "7898960207033",
+            "label": "King Blunt Baunilha",
+            "description": "Unidade de pacote com 5 folhas para blunt com um aroma de baunilha, tamanho 110mm x 44mm",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/HGoaRz0.png"
+        },
+        {
+            "code": "porta-cigarro-rok",
+            "label": "Porta Cigarro Rok",
+            "description": "Unidade de porta cigarro feito de polipropileno, com 11,5cm de comprimento. Disponíveis nas cores verde, rosa, amarelo e azul",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/eeWo9jY.png"
+        },
+        {
+            "code": "bandeja-metal-astro-world",
+            "label": "Bandeja de Metal Astro World",
+            "description": "Unidade de bandeja de metal Astro World, tamanho 14cm x 18cm",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/piD34Yr.png"
+        },
+        {
+            "code": "bolador",
+            "label": "Bolador",
+            "description": "Bolador simples para enrolar seus cigarros, 12cm de comprimento. Disponível nas cores vermelha e azul",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/6brwpuF.png"
+        },
+        {
+            "code": "bong-acrilico",
+            "label": "Bong Acrílico 20cm",
+            "description": "Bong de acrílico de 20cm. Disponíveis na cor amarela e verde",
+            "price": 4000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/VwuphrG.png"
+        }
+    ],
+    "Acessórios" : [
+        {
+            "code": "rosh-bking-manchester",
+            "label": "Rosh Bking Manchester United",
+            "description": "Unidade de Rosh de Cerâmica da Bking",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/WvwjSzI.png"
+        },
+        {
+            "code": "rosh-bking-goku",
+            "label": "Rosh Bking Goku",
+            "description": "Unidade de Rosh de Cerâmica da Bking",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Vo0UFI8.png"
+        },
+        {
+            "code": "rosh-bking-barcelona",
+            "label": "Rosh Bking Barcelona",
+            "description": "Unidade de Rosh de Cerâmica da Bking",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/sjsJAvp.png"
+        },
+        {
+            "code": "rosh-bking-wolverine",
+            "label": "Rosh Bking Wolverine",
+            "description": "Unidade de Rosh de Cerâmica da Bking",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/JgnyIJ4.png"
+        },
+        {
+            "code": "rosh-bking-capitao-america",
+            "label": "Rosh Bking Capitão América",
+            "description": "Unidade de Rosh de Cerâmica da Bking",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/9Zu0ceA.png"
+        },
+        {
+            "code": "rosh-econo-branco",
+            "label": "Rosh Econo Branco",
+            "description": "Unidade de Rosh de Barro da Econo",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/5LcybLZ.png"
+        },
+        {
+            "code": "rosh-econo-preto",
+            "label": "Rosh Econo Preto",
+            "description": "Unidade de Rosh de Barro da Econo",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/tHYNdxZ.png"
+        },
+        {
+            "code": "rosh-econo-todo-preto",
+            "label": "Rosh Econo Todo Preto",
+            "description": "Unidade de Rosh de Barro da Econo",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/xPDmezc.png"
+        },
+        {
+            "code": "rosh-osiris-nut-rosa",
+            "label": "Rosh Osiris Nut Rosa",
+            "description": "Unidade de Rosh de Barro da Osiris",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/bTJQJN0.png"
+        },
+        {
+            "code": "rosh-osiris-nut-rosa-marrom",
+            "label": "Rosh Osiris Nut Rosa com Marrom",
+            "description": "Unidade de Rosh de Barro da Osiris",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/0m4UBnN.png"
+        },
+        {
+            "code": "rosh-simples-cinza",
+            "label": "Rosh Simples Cinza",
+            "description": "Unidade de Rosh de Cerâmica",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/iiRVdLF.png"
+        },
+        {
+            "code": "controlador-calor-kaloud",
+            "label": "Controlador de Calor Kaloud",
+            "description": "Controlador de calor de alumínio com alça de silicone",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/TdqclET.png"
+        },
+        {
+            "code": "borracha-vedacao-vaso",
+            "label": "Borracha Vedação Vaso",
+            "description": "Borracha Vedação para Vaso de Narguile Pequeno",
+            "price": 550,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Mi1ET7p.png"
+        },
+        {
+            "code": "borracha-vedacao-mangueira",
+            "label": "Borracha Vedação Mangueira",
+            "description": "Borracha Vedação para Mangueira de Narguile",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Jb6T3CB.png"
+        },
+        {
+            "code": "borracha-vedacao-rosh",
+            "label": "Borracha Vedação Rosh",
+            "description": "Borracha Vedação para Rosh",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/caaYIM7.png"
         }
     ],
     "Bebidas": [
