@@ -84,10 +84,10 @@ const router = createHashRouter(
                     path: 'carrinho',
                     element: <Cart />,
                 },
-                {
-                    path: 'produto/:code',
-                    element: <ViewProduct />,
-                },
+                // {
+                //     path: 'produto/:code',
+                //     element: <ViewProduct />,
+                // },
                 {
                     path: '*',
                     element: <NotFound />,

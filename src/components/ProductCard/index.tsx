@@ -16,18 +16,22 @@ import useShoppingCart from '../../hooks/useShoppingCart';
 import FallbackProductImage from '../../assets/fallback-product.jpg';
 import { formatToCurrency, generateThumbnailUrl } from '../../utils';
 import { StarIcon } from '@chakra-ui/icons';
-import { useNavigate } from 'react-router-dom';
 
 type ProductCardProps = {
     product: TawbacariaApp.ProductItem;
+    onSelect?: (product: TawbacariaApp.ProductItem) => void;
 };
 
 function ProductCard(props: ProductCardProps) {
     const { product } = props;
     const { addItem } = useShoppingCart();
-    const navigate = useNavigate();
 
     const discountPriceColor = useColorModeValue('purple.400', 'purple.200');
+
+    const handleOnClick = () => {
+        if (!props.onSelect) return;
+        props.onSelect(product);
+    };
 
     return (
         <Box
@@ -52,7 +56,7 @@ function ProductCard(props: ProductCardProps) {
                 _hover={{
                     cursor: 'pointer',
                 }}
-                onClick={() => navigate(`/produto/${product.code}`)}
+                onClick={handleOnClick}
             />
             <Tooltip
                 label='Adicionar ao carrinho'
@@ -87,7 +91,7 @@ function ProductCard(props: ProductCardProps) {
                 _hover={{
                     cursor: 'pointer',
                 }}
-                onClick={() => navigate(`/produto/${product.code}`)}
+                onClick={handleOnClick}
             >
                 <Flex direction='row' alignItems='center' gap='2'>
                     {product.is_highlight && <StarIcon />}
@@ -143,10 +147,10 @@ function ProductCard(props: ProductCardProps) {
                                 R$
                             </Box>
                             {formatToCurrency(product.price / 100)}
-                            <Box as='span' fontSize='sm'>
+                            {/* <Box as='span' fontSize='sm'>
                                 {' '}
                                 un.
-                            </Box>
+                            </Box> */}
                         </Box>
                     </Flex>
                 </Flex>
