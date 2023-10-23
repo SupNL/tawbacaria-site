@@ -46,7 +46,7 @@ const ProductDisplay: React.FC<{
     console.log(isOpen);
 
     return (
-        <Modal isOpen={isOpen} onClose={onClose}>
+        <Modal isOpen={isOpen} onClose={onClose} closeOnOverlayClick={true}>
             <ModalOverlay />
             <ModalContent maxW='80%' minW='70%' width='unset' padding='1rem'>
                 <Button leftIcon={<ArrowBackIcon />} mb='2' onClick={onClose}>
