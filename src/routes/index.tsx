@@ -14,7 +14,6 @@ import { Box, Text } from '@chakra-ui/react';
 import ShoppingCartDrawer from '../components/ShoppingCartDrawer';
 import Cart from '../pages/Cart';
 import Contact from '../pages/Contact';
-import ViewProduct from '../pages/ViewProduct';
 import useCurrentTimeContext from '../hooks/useCurrentTime';
 import PlusEighteenModal from '../components/PlusEighteenModal';
 import { isInWorkingTime } from '../utils';
