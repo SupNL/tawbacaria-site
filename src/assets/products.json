@@ -1456,7 +1456,7 @@
             "code": "0742832179485",
             "label": "Piteira Bem Bolado Girls in + Green Super Large",
             "description": "Unidade de pacote com 50 Piteiras Bem Bolado Super Large 6cm x 4cm, papel branco",
-            "price": 600,
+            "price": 500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Njv0pNU.png"
@@ -2405,7 +2405,7 @@
             "code": "7896718701031",
             "label": "Energético 8 Segundos 2 Litros (GELADO)",
             "description": "BEBIDA GELADA - Energético Funada 8 Segundos, à base de Taurina e Cafeína, pronto para consumo em garrafa pet. Contém 2 litros.",
-            "price": 1300,
+            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/9oXVyVM.png"
@@ -2430,11 +2430,11 @@
         },
         {
             "code": "7836683",
-            "label": "Heineken Garrafa 330ml (GELADA)",
+            "label": "Heineken Long Neck 330ml (GELADA)",
             "description": "BEBIDA GELADA - Cerveja Heineken em Garrafa Long Neck de 330ml, com Graduação Alcoólica 5,0%. Beba com moderação!",
-            "price": 500,
+            "price": 900,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/W7bdhl6.png"
         },
         {
@@ -2454,6 +2454,24 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": ""
+        },
+        {
+            "code": "7891991014762",
+            "label": "Budweiser Long Neck 330ml (GELADA)",
+            "description": "BEBIDA GELADA - Cerveja Heineken em Garrafa Long Neck de 330ml, com Graduação Alcoólica 5,0%. Beba com moderação!",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/lthrdvG.png"
+        },
+        {
+            "code": "",
+            "label": "Coca-cola Mini Pet 250ml (GELADA)",
+            "description": "BEBIDA GELADA - Refrigerante Coca-cola em Garrafa Mini Pet de 250ml",
+            "price": 300,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/txckGgo.png"
         }
     ]
 }
