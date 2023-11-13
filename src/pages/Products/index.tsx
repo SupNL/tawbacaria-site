@@ -43,8 +43,6 @@ const ProductDisplay: React.FC<{
 
     if (!product) return null;
 
-    console.log(isOpen);
-
     return (
         <Modal isOpen={isOpen} onClose={onClose} closeOnOverlayClick={true}>
             <ModalOverlay />
@@ -124,8 +122,6 @@ export default function Products() {
     >(null);
     const [selectedProduct, setSelectedProduct] =
         useState<TawbacariaApp.ProductItem | null>(null);
-
-    console.log(selectedProduct);
 
     const [total, setTotal] = useState(0);
     const [offset, setOffset] = useState(0);
