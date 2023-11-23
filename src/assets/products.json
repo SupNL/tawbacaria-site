@@ -1162,7 +1162,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com menta",
             "price": 1700,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Jt7cQI7.png"
         },
         {
@@ -1171,7 +1171,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com menta extra",
             "price": 1700,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/0pPhl6B.png"
         },
         {
@@ -1180,7 +1180,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão e menta",
             "price": 1700,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WjlTPjR.png"
         },
         {
@@ -1196,7 +1196,7 @@
     "Carvão": [
         {
             "code": "carvao-zomo-unidade",
-            "label": "Carvão Zomo - UNIDADE",
+            "label": "Carvão Hexagonal Zomo - UNIDADE",
             "description": "Uma unidade de Carvão Zomo Hexagonal",
             "price": 100,
             "is_highlight": false,
@@ -1205,12 +1205,39 @@
         },
         {
             "code": "carvao-chacal-unidade",
-            "label": "Carvão Chacal - UNIDADE",
+            "label": "Carvão Hexagonal Chacal - UNIDADE",
             "description": "Uma unidade de Carvão Zomo Hexagonal",
             "price": 150,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/SBSMUgG.png"
+        },
+        {
+            "code": "carvao-zomo-caixa-1kg",
+            "label": "Caixa 1kg Carvão Hexagonal Zomo",
+            "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
+            "price": 4500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/7qzN2L8.png"
+        },
+        {
+            "code": "carvao-chacal-caixa-1kg",
+            "label": "Caixa 1kg Carvão Hexagonal Chacal",
+            "description": "Caixa com 1kg de Carvão Chacal Hexagonal",
+            "price": 5500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/s3Em5lU.png"
+        },
+        {
+            "code": "carvao-chacal-caixa-250g",
+            "label": "Caixa 250g Carvão Hexagonal Chacal",
+            "description": "Caixa com 250g de Carvão Chacal Hexagonal",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/z9cmW8q.png"
         }
     ],
     "Papel Alumínio": [
@@ -1323,6 +1350,215 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/GPywAEs.png"
+        },
+        {
+            "code": "isqueiro-clipper-recarregavel",
+            "label": "Isqueiro Recarregável Clipper (Driving Skulls)",
+            "description": "Unidade de Isqueiro Recarregável Clipper, da coleção Driving Skulls. Escolher ums dos modelos da foto (de 1 a 4, da esquerda p direita)",
+            "price": 800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/7CMpCyL.png"
+        },
+        {
+            "code": "isqueiro-bic-max",
+            "label": "Unidade Isqueiro Bic Maxi",
+            "description": "Unidade de Isqueiro Bic Maxi",
+            "price": 600,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/PYg6QDY.png"
+        },
+        {
+            "code": "isqueiro-wuji",
+            "label": "Unidade Isqueiro Wuji",
+            "description": "Unidade de Isqueiro Wuji de Maçarico, escolha entre as seguintes cores: vermelho, azul, preto, verde e amarelo",
+            "price": 600,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/K16hGyv.png"
+        },
+        {
+            "code": "caixa-fosforo-parana",
+            "label": "Caixa Fósforo 40 unidades Paraná",
+            "description": "Unidade de caixa de fósforo com 40 unidades",
+            "price": 100,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/QMrSy98.png"
+        }
+    ],
+    "Juices e Nic Salts" : [
+        {
+            "code": "JCCRZ011",
+            "label": "Juice 30ml/0mg Crazy Clouds Kiwi 🥝",
+            "description": "30ml de Juice Crazy Clouds para vaper (sem nicotina), sabor Kiwi 🥝",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/mMbFHZh.png"
+        },
+        {
+            "code": "JCCRZ002",
+            "label": "Juice 30ml/0mg Crazy Clouds Crazy Corn 🌽",
+            "description": "30ml de Juice Crazy Clouds para vaper (sem nicotina), sabor Milho 🌽",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/lRHMpA5.png"
+        },
+        {
+            "code": "JCCRZ017",
+            "label": "Juice 30ml/3mg Crazy Clouds Uva com Creme 🍇🍦",
+            "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Uva com Creme 🍇🍦",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/u6L7l0U.png"
+        },
+        {
+            "code": "JCCRZ016",
+            "label": "Juice 30ml/3mg Crazy Clouds Morango 🍓",
+            "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Morango 🍓",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/eL07U12.png"
+        },
+        {
+            "code": "JCCRZ012",
+            "label": "Juice 30ml/3mg Crazy Clouds Love 66 🍈🍉🌿",
+            "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melão, Melancia e Menta 🍈🍉🌿",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Ok7wYxd.png"
+        },
+        {
+            "code": "JCCRZ014",
+            "label": "Juice 30ml/3mg Crazy Clouds Melancia 🍉",
+            "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melancia 🍉",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/vczPr7Y.png"
+        },
+        {
+            "code": "JUIRE22",
+            "label": "Juice 50ml/3mg Fantasia Cereja 🍒",
+            "description": "50ml de Juice Fantasia para vaper (com 3mg de nicotina), sabor Cereja 🍒",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/f12kLJV.png"
+        },
+        {
+            "code": "JUIRE20",
+            "label": "Juice 50ml/3mg Fantasia Blueberry 🫐",
+            "description": "50ml de Juice Fantasia para vaper (com 3mg de nicotina), sabor Blueberry (Mirtilo) 🫐",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/10AfQph.png"
+        },
+        {
+            "code": "FNRP005",
+            "label": "Juice 60ml/3mg Fantasi Cherry 🍒",
+            "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Cereja 🍒",
+            "price": 5500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/jXgw9g2.png"
+        },
+        {
+            "code": "FNRP001",
+            "label": "Juice 60ml/3mg Fantasi Mango 🥭",
+            "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Mango 🥭",
+            "price": 5500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Hu2tFR6.png"
+        },
+        {
+            "code": "FNRP006",
+            "label": "Juice 60ml/3mg Fantasi Pineapple 🍍",
+            "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Abacaxi 🍍",
+            "price": 5500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/7RMeenU.png"
+        },
+        {
+            "code": "FNRP003",
+            "label": "Juice 60ml/3mg Fantasi Grape 🍇",
+            "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Uva 🍇",
+            "price": 5500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Bm3r19b.png"
+        },
+        {
+            "code": "NCCRZ001",
+            "label": "NicSalt 30ml/35mg Crazy Clouds Cane Mint 🌿",
+            "description": "30ml de NicSalt Crazy Clouds para pod (com 35mg de nicotina), sabor Menta 🌿",
+            "price": 6000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/XtM9tlG.png"
+        },
+        {
+            "code": "NCCRZ004",
+            "label": "NicSalt 30ml/35mg Crazy Clouds Mango Crazy 🥭",
+            "description": "30ml de NicSalt Crazy Clouds para pod (com 35mg de nicotina), sabor Manga 🥭",
+            "price": 6000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/djHV4Mp.png"
+        },
+        {
+            "code": "NCCRZ002",
+            "label": "NicSalt 30ml/35mg Crazy Clouds Crazy Love 🍈🍉",
+            "description": "30ml de NicSalt Crazy Clouds para pod (com 35mg de nicotina), sabor Melão com Melancia 🍈🍉",
+            "price": 6000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/6d8o8jx.png"
+        },
+        {
+            "code": "NCCRZ003",
+            "label": "NicSalt 30ml/35mg Crazy Clouds Grape Fusion 🍇",
+            "description": "30ml de NicSalt Crazy Clouds para pod (com 35mg de nicotina), sabor Uva 🍇",
+            "price": 6000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/p7QrcKz.png"
+        },
+        {
+            "code": "JF9JVPCL7",
+            "label": "NicSalt 15ml/35mg Caravela Mint 🌿",
+            "description": "15ml de NicSalt Caravela para pod (com 35mg de nicotina), sabor Menta 🌿",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/zr3OsjY.png"
+        },
+        {
+            "code": "QJ2N593KE",
+            "label": "NicSalt 15ml/35mg  Cereja Ice 🍒",
+            "description": "15ml de NicSalt Caravela para pod (com 35mg de nicotina), sabor  Cereja 🍒",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/YBpQqb0.png"
+        },
+        {
+            "code": "CRV004",
+            "label": "NicSalt 15ml/35mg Caravela Purple Ice 🍇",
+            "description": "15ml de NicSalt Caravela para pod (com 35mg de nicotina), sabor Uva 🍇",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/8dikvSO.png"
         }
     ],
     "Headshop" : [
@@ -1811,7 +2047,7 @@
             "description": "Unidade de Rosh Mini de Cerâmica da Pro Hookah",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/8JQtKtL.png"
         },
         {
