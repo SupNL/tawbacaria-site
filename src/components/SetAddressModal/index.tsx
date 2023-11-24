@@ -63,7 +63,7 @@ const SetAddressModal: React.FC<{
             <ModalOverlay />
             <ModalContent gap='2' w={['90%', 'unset', 'unset']} p='3'>
                 <FormControl isRequired isInvalid={isAddressError}>
-                    <FormLabel>Logradouro</FormLabel>
+                    <FormLabel>Rua</FormLabel>
                     <Input
                         value={addressInfo.address}
                         onChange={(e) =>
