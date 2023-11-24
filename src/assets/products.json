@@ -1386,6 +1386,78 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/QMrSy98.png"
+        },
+        {
+            "code": "7898994462040",
+            "label": "Tabaco/Fumo Sasso Hash 25g",
+            "description": "Tabaco com Blend desenvolvido aos apreciadores de um belo tabaco. Folha e classes especialmente selecionadas de médio impacto.",
+            "price": 1800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/qE1IiiS.png"
+        },
+        {
+            "code": "7898956381105",
+            "label": "Tabaco/Fumo Rainbow Silver Bright 25g",
+            "description": "O Rainbow Silver Bright agrada qualquer sommelier, além é claro de ser 100% natural. Bag de 25g com zipper \"abre e fecha\" para facilitar o manuseio e manter as propriedades do seu tabaco natural.",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/LTJIggw.png"
+        },
+        {
+            "code": "7898911411144",
+            "label": "Charuto Talvis Corona Tradicional 2 unidades",
+            "description": "Fabricado com folhas de tabaco da região do Recônvaco Baiano; Tamanho de 157mm x 15mm. Embalados indivdualmente preservando seu frescor e qualidade de sabor suave.",
+            "price": 500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/w0dOlhs.png"
+        },
+        {
+            "code": "7897414100197",
+            "label": "Fumo Juriti 30g",
+            "description": "30g de fumo de corda já desfiado e pronto para ser enrolado",
+            "price": 500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/ABxXf7V.png"
+        },
+        {
+            "code": "78938380",
+            "label": "Cigarro Chesterfield Remix Purple",
+            "description": "Maço com 20 unidades de cigarro, sabor Uva",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/RlmbyLg.png"
+        },
+        {
+            "code": "78942660",
+            "label": "Cigarro Chesterfield Remix Beats",
+            "description": "Maço com 20 unidades de cigarro, sabor Melancia",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/9iHD6Lp.png"
+        },
+        {
+            "code": "78945555",
+            "label": "Cigarro Chesterfield Remix Blossom",
+            "description": "Maço com 20 unidades de cigarro, sabor Chiclete",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/s8k9B3J.png"
+        },
+        {
+            "code": "7897963400281",
+            "label": "Papel para Enrolar Peão Slim 50 folhas",
+            "description": "Pacote com 50 unidades de folhas para enrolar seu fumo da Peão Slim",
+            "price": 150,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/reQ1IVQ.png"
         }
     ],
     "Juices e Nic Salts" : [
@@ -2625,6 +2697,24 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/aW88YzM.png"
+        },
+        {
+            "code": "suporte-narguile-pequeno-branco",
+            "label": "Suporte para Narguilé Pequeno - Branco",
+            "description": "Suporte para Narguilé Pequeno, feito de MDF",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/KRj3nLR.png"
+        },
+        {
+            "code": "suporte-narguile-pequeno-bege",
+            "label": "Suporte para Narguilé Pequeno - Bege",
+            "description": "Suporte para Narguilé Pequeno, feito de MDF",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/TPBmDt5.png"
         }
     ],
     "Bebidas": [
