@@ -5,216 +5,384 @@
             "label": "Ziggy Abacaxi Tropical 🍍🌴",
             "description": "50g de Essência Ziggy para Narguile, sabor Abacaxi com Menta 🍍🌴",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/1c3faw2.jpg"
+            "image_url": "https://i.imgur.com/1c3faw2.jpg",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898965792060",
             "label": "Ziggy Banana Tropical 🍌",
             "description": "50g de Essência Ziggy para Narguile, sabor Banana 🍌",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/VxKOQR5.png"
+            "image_url": "https://i.imgur.com/VxKOQR5.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898962227060",
             "label": "Ziggy Fresh Açaí",
             "description": "50g de Essência Ziggy para Narguile, sabor Açaí",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/opke5pQ.png"
+            "image_url": "https://i.imgur.com/opke5pQ.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7908479402192",
             "label": "Ziggy Duas Maçãs Verdes 🍏🍏",
             "description": "50g de Essência Ziggy para Narguile, sabor Maçã Verde",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/Qn4e23p.png"
+            "image_url": "https://i.imgur.com/Qn4e23p.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898962227091",
             "label": "Ziggy Berry",
             "description": "50g de Essência Ziggy para Narguile, sabor Framboesa",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/3aBaRTS.png"
+            "image_url": "https://i.imgur.com/3aBaRTS.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898965792039",
             "label": "Ziggy Caju Tropical",
             "description": "50g de Essência Ziggy para Narguile, sabor Caju",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/vYLARw7.png"
+            "image_url": "https://i.imgur.com/vYLARw7.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898965792039",
             "label": "Ziggy Frutti 🍬",
             "description": "50g de Essência Ziggy para Narguile, sabor Tutti-Frutti 🍬",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/xHx3IYD.png"
+            "image_url": "https://i.imgur.com/xHx3IYD.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "789896579053",
             "label": "Ziggy Laranjola Tropical",
             "description": "50g de Essência Ziggy para Narguile, sabor Laranja com Acerola",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/dzPvYhc.png"
+            "image_url": "https://i.imgur.com/dzPvYhc.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898927097691",
             "label": "Ziggy Fresh Lemon 🍋",
             "description": "50g de Essência Ziggy para Narguile, sabor Limão 🍋",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/Ji4tOsW.png"
+            "image_url": "https://i.imgur.com/Ji4tOsW.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898965792046",
             "label": "Ziggy Tropical 🌴",
             "description": "50g de Essência Ziggy para Narguile, sabor de mix de frutas tropical: Limão, Abacaxi, Maracujá e Mamão 🌴",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/K8lnkaq.png"
+            "image_url": "https://i.imgur.com/K8lnkaq.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898962227114",
             "label": "Ziggy Tanger Bomb 🍊",
             "description": "50g de Essência Ziggy para Narguile, sabor Tangerina 🍊",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/krCad56.png"
+            "image_url": "https://i.imgur.com/krCad56.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898927097806",
             "label": "Ziggy Cherry Starbust 🍒",
             "description": "50g de Essência Ziggy para Narguile, sabor Cereja 🍒",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/NtodnQU.png"
+            "image_url": "https://i.imgur.com/NtodnQU.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898927097707",
             "label": "Ziggy Yellow Starbust",
             "description": "50g de Essência Ziggy para Narguile, sabor Maracujá",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/snBIUQx.png"
+            "image_url": "https://i.imgur.com/snBIUQx.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898927097684",
             "label": "Ziggy Hapocalyx Mint 🌿",
             "description": "50g de Essência Ziggy para Narguile, sabor Menta 🌿",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/fd4Qm1q.png"
+            "image_url": "https://i.imgur.com/fd4Qm1q.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898927097820",
             "label": "Ziggy Watermelon Bomb 🍉",
             "description": "50g de Essência Ziggy para Narguile, sabor Melancia 🍉",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/oJCCgGx.png"
+            "image_url": "https://i.imgur.com/oJCCgGx.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898927097790",
             "label": "Ziggy Macchiato ☕️",
             "description": "50g de Essência Ziggy para Narguile, sabor Café ☕️",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/HaoWBDO.png"
+            "image_url": "https://i.imgur.com/HaoWBDO.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7908479401911",
             "label": "Ziggy Red Lemonade (Sakamoto)",
             "description": "50g de Essência Ziggy para Narguile, sabor Limão com Frutas vermelhas",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/fVO2fwL.png"
+            "image_url": "https://i.imgur.com/fVO2fwL.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7908479402086",
             "label": "Ziggy Coco Tropical 🥥",
             "description": "50g de Essência Ziggy para Narguile, sabor Coco 🥥",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/LfnyLhV.png"
+            "image_url": "https://i.imgur.com/LfnyLhV.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7908479402109",
             "label": "Ziggy Yogurt 🍓",
             "description": "50g de Essência Ziggy para Narguile, sabor Iogurt de Morango 🍓",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/FZGAOnz.png"
+            "image_url": "https://i.imgur.com/FZGAOnz.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7908479402116",
             "label": "Ziggy Grape Starburst 🍇",
             "description": "50g de Essência Ziggy para Narguile, sabor Uva 🍇",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/rhU7wNA.png"
+            "image_url": "https://i.imgur.com/rhU7wNA.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7908479402130",
             "label": "Ziggy Mix Morango e Laranja 🍓🍊",
             "description": "50g de Essência Ziggy para Narguile, sabor Morango com Laranja 🍓🍊",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/xKvBLqm.jpg"
+            "image_url": "https://i.imgur.com/xKvBLqm.jpg",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898962227213",
             "label": "Ziggy Burley Mint 🌿",
             "description": "50g de Essência Ziggy para Narguile, sabor tabaco Burley com Menta 🌿",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/Kx7OT8T.png"
+            "image_url": "https://i.imgur.com/Kx7OT8T.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7908479402161",
             "label": "Ziggy Mix Duas Goiabas",
             "description": "50g de Essência Ziggy para Narguile, sabor Goiaba Branca com Goiaba Vermelha",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/BIMLLcn.png"
+            "image_url": "https://i.imgur.com/BIMLLcn.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7908479402185",
             "label": "Ziggy Fresh Melon 🍈",
             "description": "50g de Essência Ziggy para Narguile, sabor Melão 🍈",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/oX1vHPX.png"
+            "image_url": "https://i.imgur.com/oX1vHPX.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         }
     ],
     "Essências Zomo": [
@@ -378,117 +546,208 @@
             "label": "Onix Pear (Pêra) 🍐",
             "description": "50g de Essência Onix Experience para Narguile, sabor Pêra 🍐",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/F5zilYk.png"
+            "image_url": "https://i.imgur.com/F5zilYk.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898967424041",
             "label": "Onix Apple (Maçã Verde) 🍏",
             "description": "50g de Essência Onix Experience para Narguile, sabor Maçã Verde 🍏",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/G4nTb4R.png"
+            "image_url": "https://i.imgur.com/G4nTb4R.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898967524010",
             "label": "Onix Danon (Danone) 🍓",
             "description": "50g de Essência Onix Experience para Narguile, sabor Iogurte de Morango 🍓",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/F6CDUhO.png"
+            "image_url": "https://i.imgur.com/F6CDUhO.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898967524003",
             "label": "Onix Mint (Menta) 🌿",
             "description": "50g de Essência Onix Experience para Narguile, sabor Menta 🌿",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/jFoPZlY.png"
+            "image_url": "https://i.imgur.com/jFoPZlY.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898967524102",
             "label": "Onix Banana e Açaí Fusion 🍌",
             "description": "50g de Essência Onix Experience para Narguile, sabor Açaí com Banana 🍌",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/WinL6wV.png"
+            "image_url": "https://i.imgur.com/WinL6wV.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "4898967524065",
             "label": "Onix Grape (Uva) 🍇",
             "description": "50g de Essência Onix Experience para Narguile, sabor Uva 🍇",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/MVmXreg.png"
+            "image_url": "https://i.imgur.com/MVmXreg.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898967524126",
             "label": "Onix Chicelete Canela",
             "description": "50g de Essência Onix Experience para Narguile, sabor Chiclete com Canela",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/HpJal6V.png"
+            "image_url": "https://i.imgur.com/HpJal6V.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "7898967524096",
             "label": "Onix Mango 🥭",
             "description": "50g de Essência Onix Experience para Narguile, sabor Manga 🥭",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/9iKT9lR.png"
+            "image_url": "https://i.imgur.com/9iKT9lR.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "0618231942503",
             "label": "Onix Yellow Drops (Frutas Amarelas) 🍍🥭",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Manga, Abacaxi e Maracujá 🍍🥭",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/Sd2yTzb.png"
+            "image_url": "https://i.imgur.com/Sd2yTzb.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "0619205200797",
             "label": "Onix High Lemon 🍋",
             "description": "50g de Essência Onix para Narguile, sabor Limão 🍋",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/ujKOViF.png"
+            "image_url": "https://i.imgur.com/ujKOViF.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "0619205200773",
             "label": "Onix High Passion (Maracujá)",
             "description": "50g de Essência Onix para Narguile, sabor Maracujá",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/QtYwGDR.png"
+            "image_url": "https://i.imgur.com/QtYwGDR.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "0619205943042",
             "label": "Onix Starcoffee ☕️",
             "description": "50g de Essência Onix para Narguile, sabor Café ☕️",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/bJsHJkq.png"
+            "image_url": "https://i.imgur.com/bJsHJkq.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "0619205200803",
             "label": "Onix Red Drops 🍓🍒",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Morango, Cereja e Tutti-frutti",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/ETrSTEZ.png"
+            "image_url": "https://i.imgur.com/ETrSTEZ.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         }
     ],
     "Essências Adalya" : [
@@ -1004,54 +1263,96 @@
             "label": "Pimp Moranguete (Chocolate c Morango) 🍓🍫",
             "description": "50g de Essência Pimp, sabor Chocolate com Morango 🍓🍫",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/8XVfLU5.png"
+            "image_url": "https://i.imgur.com/8XVfLU5.png",
+            "discount" : {
+                "discount" : 300,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "00206006",
             "label": "Pimp Crazy Sweet (Citrus)",
             "description": "50g de Essência Pimp, sabor mix de Frutas Cítricas",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/vaaWZMx.png"
+            "image_url": "https://i.imgur.com/vaaWZMx.png",
+            "discount" : {
+                "discount" : 300,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "00202039",
             "label": "Pimp New Morangie 🍊🥭",
             "description": "50g de Essência Pimp, sabor Manga e Laranja 🍊🥭",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/mUqYwL7.png"
+            "image_url": "https://i.imgur.com/mUqYwL7.png",
+            "discount" : {
+                "discount" : 300,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "00203203",
             "label": "Pimp Banana Papaya",
             "description": "50g de Essência Pimp, sabor Banana com Mamão",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/Uw465hS.png"
+            "image_url": "https://i.imgur.com/Uw465hS.png",
+            "discount" : {
+                "discount" : 300,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "00202077",
             "label": "Pimp Artic Cherry 🍒🧊",
             "description": "50g de Essência Pimp, sabor Cereja Refrescante 🍒🧊",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/O5ptokQ.png"
+            "image_url": "https://i.imgur.com/O5ptokQ.png",
+            "discount" : {
+                "discount" : 300,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         },
         {
             "code": "00202084",
             "label": "Pimp Explosion Green 🍏",
             "description": "50g de Essência Pimp, sabor Maçã Verde 🍏",
             "price": 1000,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/r7l6YM2.png"
+            "image_url": "https://i.imgur.com/r7l6YM2.png",
+            "discount" : {
+                "discount" : 300,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         }
     ],
     "Essências Sense" : [
