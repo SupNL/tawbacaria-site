@@ -2220,7 +2220,7 @@
             "description": "Bolador simples para enrolar seus cigarros, 12cm de comprimento. Disponível nas cores vermelha e azul",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6brwpuF.png"
         },
         {
