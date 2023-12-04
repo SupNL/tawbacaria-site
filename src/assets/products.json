@@ -1804,7 +1804,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melão, Melancia e Menta 🍈🍉🌿",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Ok7wYxd.png"
         },
         {
