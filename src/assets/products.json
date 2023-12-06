@@ -5,7 +5,7 @@
             "label": "Ziggy Abacaxi Tropical 🍍🌴",
             "description": "50g de Essência Ziggy para Narguile, sabor Abacaxi com Menta 🍍🌴",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/1c3faw2.jpg",
             "discount" : {
@@ -21,7 +21,7 @@
             "label": "Ziggy Banana Tropical 🍌",
             "description": "50g de Essência Ziggy para Narguile, sabor Banana 🍌",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/VxKOQR5.png",
             "discount" : {
@@ -37,7 +37,7 @@
             "label": "Ziggy Fresh Açaí",
             "description": "50g de Essência Ziggy para Narguile, sabor Açaí",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/opke5pQ.png",
             "discount" : {
@@ -53,7 +53,7 @@
             "label": "Ziggy Duas Maçãs Verdes 🍏🍏",
             "description": "50g de Essência Ziggy para Narguile, sabor Maçã Verde",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Qn4e23p.png",
             "discount" : {
@@ -69,7 +69,7 @@
             "label": "Ziggy Berry",
             "description": "50g de Essência Ziggy para Narguile, sabor Framboesa",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/3aBaRTS.png",
             "discount" : {
@@ -85,7 +85,7 @@
             "label": "Ziggy Caju Tropical",
             "description": "50g de Essência Ziggy para Narguile, sabor Caju",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/vYLARw7.png",
             "discount" : {
@@ -101,7 +101,7 @@
             "label": "Ziggy Frutti 🍬",
             "description": "50g de Essência Ziggy para Narguile, sabor Tutti-Frutti 🍬",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/xHx3IYD.png",
             "discount" : {
@@ -117,7 +117,7 @@
             "label": "Ziggy Laranjola Tropical",
             "description": "50g de Essência Ziggy para Narguile, sabor Laranja com Acerola",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/dzPvYhc.png",
             "discount" : {
@@ -133,7 +133,7 @@
             "label": "Ziggy Fresh Lemon 🍋",
             "description": "50g de Essência Ziggy para Narguile, sabor Limão 🍋",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Ji4tOsW.png",
             "discount" : {
@@ -149,7 +149,7 @@
             "label": "Ziggy Tropical 🌴",
             "description": "50g de Essência Ziggy para Narguile, sabor de mix de frutas tropical: Limão, Abacaxi, Maracujá e Mamão 🌴",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/K8lnkaq.png",
             "discount" : {
@@ -165,7 +165,7 @@
             "label": "Ziggy Tanger Bomb 🍊",
             "description": "50g de Essência Ziggy para Narguile, sabor Tangerina 🍊",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/krCad56.png",
             "discount" : {
@@ -181,7 +181,7 @@
             "label": "Ziggy Cherry Starbust 🍒",
             "description": "50g de Essência Ziggy para Narguile, sabor Cereja 🍒",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/NtodnQU.png",
             "discount" : {
@@ -197,7 +197,7 @@
             "label": "Ziggy Yellow Starbust",
             "description": "50g de Essência Ziggy para Narguile, sabor Maracujá",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/snBIUQx.png",
             "discount" : {
@@ -213,7 +213,7 @@
             "label": "Ziggy Hapocalyx Mint 🌿",
             "description": "50g de Essência Ziggy para Narguile, sabor Menta 🌿",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/fd4Qm1q.png",
             "discount" : {
@@ -229,7 +229,7 @@
             "label": "Ziggy Watermelon Bomb 🍉",
             "description": "50g de Essência Ziggy para Narguile, sabor Melancia 🍉",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/oJCCgGx.png",
             "discount" : {
@@ -245,7 +245,7 @@
             "label": "Ziggy Macchiato ☕️",
             "description": "50g de Essência Ziggy para Narguile, sabor Café ☕️",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/HaoWBDO.png",
             "discount" : {
@@ -261,7 +261,7 @@
             "label": "Ziggy Red Lemonade (Sakamoto)",
             "description": "50g de Essência Ziggy para Narguile, sabor Limão com Frutas vermelhas",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/fVO2fwL.png",
             "discount" : {
@@ -277,7 +277,7 @@
             "label": "Ziggy Coco Tropical 🥥",
             "description": "50g de Essência Ziggy para Narguile, sabor Coco 🥥",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/LfnyLhV.png",
             "discount" : {
@@ -293,7 +293,7 @@
             "label": "Ziggy Yogurt 🍓",
             "description": "50g de Essência Ziggy para Narguile, sabor Iogurt de Morango 🍓",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/FZGAOnz.png",
             "discount" : {
@@ -309,7 +309,7 @@
             "label": "Ziggy Grape Starburst 🍇",
             "description": "50g de Essência Ziggy para Narguile, sabor Uva 🍇",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/rhU7wNA.png",
             "discount" : {
@@ -325,7 +325,7 @@
             "label": "Ziggy Mix Morango e Laranja 🍓🍊",
             "description": "50g de Essência Ziggy para Narguile, sabor Morango com Laranja 🍓🍊",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/xKvBLqm.jpg",
             "discount" : {
@@ -341,7 +341,7 @@
             "label": "Ziggy Burley Mint 🌿",
             "description": "50g de Essência Ziggy para Narguile, sabor tabaco Burley com Menta 🌿",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Kx7OT8T.png",
             "discount" : {
@@ -357,7 +357,7 @@
             "label": "Ziggy Mix Duas Goiabas",
             "description": "50g de Essência Ziggy para Narguile, sabor Goiaba Branca com Goiaba Vermelha",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/BIMLLcn.png",
             "discount" : {
@@ -373,7 +373,7 @@
             "label": "Ziggy Fresh Melon 🍈",
             "description": "50g de Essência Ziggy para Narguile, sabor Melão 🍈",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/oX1vHPX.png",
             "discount" : {
@@ -546,7 +546,7 @@
             "label": "Onix Pear (Pêra) 🍐",
             "description": "50g de Essência Onix Experience para Narguile, sabor Pêra 🍐",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/F5zilYk.png",
             "discount" : {
@@ -562,7 +562,7 @@
             "label": "Onix Apple (Maçã Verde) 🍏",
             "description": "50g de Essência Onix Experience para Narguile, sabor Maçã Verde 🍏",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/G4nTb4R.png",
             "discount" : {
@@ -578,7 +578,7 @@
             "label": "Onix Danon (Danone) 🍓",
             "description": "50g de Essência Onix Experience para Narguile, sabor Iogurte de Morango 🍓",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/F6CDUhO.png",
             "discount" : {
@@ -594,7 +594,7 @@
             "label": "Onix Mint (Menta) 🌿",
             "description": "50g de Essência Onix Experience para Narguile, sabor Menta 🌿",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/jFoPZlY.png",
             "discount" : {
@@ -610,7 +610,7 @@
             "label": "Onix Banana e Açaí Fusion 🍌",
             "description": "50g de Essência Onix Experience para Narguile, sabor Açaí com Banana 🍌",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/WinL6wV.png",
             "discount" : {
@@ -626,7 +626,7 @@
             "label": "Onix Grape (Uva) 🍇",
             "description": "50g de Essência Onix Experience para Narguile, sabor Uva 🍇",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/MVmXreg.png",
             "discount" : {
@@ -642,7 +642,7 @@
             "label": "Onix Chicelete Canela",
             "description": "50g de Essência Onix Experience para Narguile, sabor Chiclete com Canela",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/HpJal6V.png",
             "discount" : {
@@ -658,7 +658,7 @@
             "label": "Onix Mango 🥭",
             "description": "50g de Essência Onix Experience para Narguile, sabor Manga 🥭",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/9iKT9lR.png",
             "discount" : {
@@ -674,7 +674,7 @@
             "label": "Onix Yellow Drops (Frutas Amarelas) 🍍🥭",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Manga, Abacaxi e Maracujá 🍍🥭",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Sd2yTzb.png",
             "discount" : {
@@ -690,7 +690,7 @@
             "label": "Onix High Lemon 🍋",
             "description": "50g de Essência Onix para Narguile, sabor Limão 🍋",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/ujKOViF.png",
             "discount" : {
@@ -706,7 +706,7 @@
             "label": "Onix High Passion (Maracujá)",
             "description": "50g de Essência Onix para Narguile, sabor Maracujá",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/QtYwGDR.png",
             "discount" : {
@@ -722,7 +722,7 @@
             "label": "Onix Starcoffee ☕️",
             "description": "50g de Essência Onix para Narguile, sabor Café ☕️",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/bJsHJkq.png",
             "discount" : {
@@ -738,9 +738,25 @@
             "label": "Onix Red Drops 🍓🍒",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Morango, Cereja e Tutti-frutti",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/ETrSTEZ.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
+        },
+        {
+            "code": "7898967524119",
+            "label": "Onix Drops 🍓🍉",
+            "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Morango e Melancia 🍓🍉",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/aV8Dzww.png",
             "discount" : {
                 "discount" : 150,
                 "period" : {
@@ -1263,7 +1279,7 @@
             "label": "Pimp Moranguete (Chocolate c Morango) 🍓🍫",
             "description": "50g de Essência Pimp, sabor Chocolate com Morango 🍓🍫",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/8XVfLU5.png",
             "discount" : {
@@ -1279,7 +1295,7 @@
             "label": "Pimp Crazy Sweet (Citrus)",
             "description": "50g de Essência Pimp, sabor mix de Frutas Cítricas",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/vaaWZMx.png",
             "discount" : {
@@ -1295,7 +1311,7 @@
             "label": "Pimp New Morangie 🍊🥭",
             "description": "50g de Essência Pimp, sabor Manga e Laranja 🍊🥭",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/mUqYwL7.png",
             "discount" : {
@@ -1311,7 +1327,7 @@
             "label": "Pimp Banana Papaya",
             "description": "50g de Essência Pimp, sabor Banana com Mamão",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Uw465hS.png",
             "discount" : {
@@ -1327,7 +1343,7 @@
             "label": "Pimp Artic Cherry 🍒🧊",
             "description": "50g de Essência Pimp, sabor Cereja Refrescante 🍒🧊",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/O5ptokQ.png",
             "discount" : {
@@ -1343,7 +1359,7 @@
             "label": "Pimp Explosion Green 🍏",
             "description": "50g de Essência Pimp, sabor Maçã Verde 🍏",
             "price": 1000,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/r7l6YM2.png",
             "discount" : {
@@ -1817,6 +1833,15 @@
             "image_url": "https://i.imgur.com/vczPr7Y.png"
         },
         {
+            "code": "JCCRZ015",
+            "label": "Juice 30ml/3mg Crazy Clouds Menta 🌿",
+            "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Menta 🌿",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": false,
+            "image_url": "https://i.imgur.com/uZQ7zz0.png"
+        },
+        {
             "code": "JUIRE22",
             "label": "Juice 50ml/3mg Fantasia Cereja 🍒",
             "description": "50ml de Juice Fantasia para vaper (com 3mg de nicotina), sabor Cereja 🍒",
@@ -1869,6 +1894,33 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Bm3r19b.png"
+        },
+        {
+            "code": "TRY3004",
+            "label": "Juice 60ml/3mg Trydents Grape 🍇",
+            "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Uva 🍇",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/g1zKxcM.png"
+        },
+        {
+            "code": "TRY3001",
+            "label": "Juice 60ml/3mg Trydents Black Mint 🥶",
+            "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Menta Refrescante 🌿",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/ruPwZMk.png"
+        },
+        {
+            "code": "TRY3008",
+            "label": "Juice 60ml/3mg Trydents Tutti-Frutti 🍬",
+            "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Tutti-Frutti 🍬",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Czenl48.png"
         },
         {
             "code": "NCCRZ001",
