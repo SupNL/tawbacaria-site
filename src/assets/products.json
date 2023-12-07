@@ -1910,7 +1910,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Menta Refrescante 🌿",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ruPwZMk.png"
         },
         {
