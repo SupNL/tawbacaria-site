@@ -937,6 +937,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://imgur.com/9pkFppO.png"
+        },
+        {
+            "code": "8681511389161",
+            "label": "Adalya Swiss Bonbon 🥶",
+            "description": "50g de Essência Adalya para Narguile, sabor Chiclete com Refrescância",
+            "price": 1400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": ""
         }
     ],
     "Essências Magic" : [
@@ -1204,6 +1213,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/EsK8Iwn.png"
+        },
+        {
+            "code": "0619205823514",
+            "label": "Nay Yogurt Fruits 🍓",
+            "description": "50g de Essência Nay, sabor Yogurt de Morango 🍓",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/8YajecH.png"
         }
     ],
     "Essências Blue Horse" : [
@@ -1811,7 +1829,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/eL07U12.png"
         },
         {
@@ -2193,6 +2211,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/UB5snmS.png"
+        },
+        {
+            "code": "6920180123402",
+            "label": "Dichavador Acrílico Bob Marley",
+            "description": "Dichavador de Acrílico Bob Marley, com 4cm de diâmetro e 2cm de altura. Disponível em várias estampas",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/hdhfqT1.png"
         },
         {
             "code": "7898960207019",
