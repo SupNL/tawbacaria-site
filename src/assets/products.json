@@ -2164,7 +2164,7 @@
             "description": "Unidade de Piteira de Vidro Chillin, tamanho 6mm x 40mm",
             "price": 800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6Zo6ONX.png"
         },
         {
@@ -2173,7 +2173,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 7cm de comprimento",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WLjfnly.png"
         },
         {
