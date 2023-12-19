@@ -383,6 +383,22 @@
                     "end" : "2023-11-28T00:00:00"
                 }
             }
+        },
+        {
+            "code": "7908479402321",
+            "label": "Ziggy Mix Frutas Amarela",
+            "description": "50g de Essência Ziggy para Narguile, sabor Laranja, Abacaxi e Maracujá 🍊🍍🥭",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/LH8aCga.png",
+            "discount" : {
+                "discount" : 200,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         }
     ],
     "Essências Zomo": [
@@ -764,6 +780,22 @@
                     "end" : "2023-11-28T00:00:00"
                 }
             }
+        },
+        {
+            "code": "0631430045342",
+            "label": "Onix Goiaba e Morango 🍓",
+            "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Goiaba e Morango 🍓",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/TAp0pEz.png",
+            "discount" : {
+                "discount" : 150,
+                "period" : {
+                    "start" : "2023-11-25T00:00:00",
+                    "end" : "2023-11-28T00:00:00"
+                }
+            }
         }
     ],
     "Essências Adalya" : [
@@ -791,7 +823,7 @@
             "description": "50g de Essência Adalya para Narguile, sabor Creme de Banana com toque de Menta 🍌🌿",
             "price": 1400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/SlUuVkp.png"
         },
         {
@@ -1802,7 +1834,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (sem nicotina), sabor Kiwi 🥝",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/mMbFHZh.png"
         },
         {
@@ -1820,7 +1852,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Uva com Creme 🍇🍦",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/u6L7l0U.png"
         },
         {
@@ -1829,7 +1861,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/eL07U12.png"
         },
         {
@@ -1838,7 +1870,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melão, Melancia e Menta 🍈🍉🌿",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Ok7wYxd.png"
         },
         {
@@ -1856,8 +1888,17 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Menta 🌿",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/uZQ7zz0.png"
+        },
+        {
+            "code": "JCCRZ018",
+            "label": "Juice 30ml/3mg Crazy Clouds Cane Mint 🌿",
+            "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Menta e Cana 🌿",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/HEdjOOb.png"
         },
         {
             "code": "JUIRE22",
@@ -1901,7 +1942,7 @@
             "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Abacaxi 🍍",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/7RMeenU.png"
         },
         {
