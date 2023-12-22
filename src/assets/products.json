@@ -1473,7 +1473,7 @@
             "description": "50g de Essência Sense, sabor Manga com Banana 🥭 🍌",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/oVYLN6l.png"
         }
     ],
@@ -1825,6 +1825,33 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/reQ1IVQ.png"
+        },
+        {
+            "code": "zengaz-macarico-preto",
+            "label": "Maçarico Zengaz Preto",
+            "description": "Maçarico da Zengaz com coloração Preta",
+            "price": 4000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/xVQVwIf.png"
+        },
+        {
+            "code": "zengaz-macarico-vinho",
+            "label": "Maçarico Zengaz Vinho",
+            "description": "Maçarico da Zengaz com coloração Vinho",
+            "price": 4000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/IwQTAer.png"
+        },
+        {
+            "code": "zengaz-macarico-amarelo",
+            "label": "Maçarico Zengaz Amarelo",
+            "description": "Maçarico da Zengaz com coloração Amarela",
+            "price": 4000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Jqoo3Uc.png"
         }
     ],
     "Juices e Nic Salts" : [
@@ -2351,6 +2378,60 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/VwuphrG.png"
+        },
+        {
+            "code": "pipe-metal-bob-marley",
+            "label": "Pipe de Metal - Bob Marley",
+            "description": "Pipe de Metal com estampa Bob Marley",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Qw7z9S1.png"
+        },
+        {
+            "code": "pipe-metal-bob-peace",
+            "label": "Pipe de Metal - Peace",
+            "description": "Pipe de Metal com estampa Peace",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/C8ZhEnv.png"
+        },
+        {
+            "code": "bong-acrilico-colorido",
+            "label": "Bong Acrílico 15cm - Colorido",
+            "description": "Bong Acrílico de 15cm colorido com vermelho, amarelo e verde",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/S5lhtqc.png"
+        },
+        {
+            "code": "bong-acrilico-azul",
+            "label": "Bong Acrílico 15cm - Azul",
+            "description": "Bong Acrílico de 15cm colorido com azul",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/tR2hhkq.png"
+        },
+        {
+            "code": "bong-acrilico-transparente",
+            "label": "Bong Acrílico 15cm - Transparente",
+            "description": "Bong Acrílico de 15cm, transparente",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/o9FT7jt.png"
+        },
+        {
+            "code": "dichavador-grande-metal-dourado",
+            "label": "Dichavador Metal Grande - Dourado",
+            "description": "Dichavador de Metal e Dourado, com 5cm de diâmetro. Possui 3 compartimentos",
+            "price": 4500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/pqRMyLM.png"
         }
     ],
     "Acessórios" : [
