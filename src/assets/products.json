@@ -787,7 +787,7 @@
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Goiaba e Morango 🍓",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/TAp0pEz.png",
             "discount" : {
                 "discount" : 150,
@@ -1951,7 +1951,7 @@
             "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Cereja 🍒",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/jXgw9g2.png"
         },
         {
@@ -1960,7 +1960,7 @@
             "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Mango 🥭",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Hu2tFR6.png"
         },
         {
@@ -2250,7 +2250,7 @@
             "description": "Dichavador de Policarbonato Kings Grande Azul, com 7cm de diâmetro. Possui três compartimentos",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/1ETbGOt.png"
         },
         {
