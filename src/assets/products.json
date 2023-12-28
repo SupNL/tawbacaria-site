@@ -723,7 +723,7 @@
             "description": "50g de Essência Onix para Narguile, sabor Maracujá",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/QtYwGDR.png",
             "discount" : {
                 "discount" : 150,
@@ -1482,7 +1482,7 @@
             "code": "0602883951099",
             "label": "Chacal Erva-Mate Fit Hibisco",
             "description": "500g de Erva-Mate para Tereré, sabor for de hibisco bem tropical",
-            "price": 1700,
+            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/6oDjv0Y.png"
@@ -1491,7 +1491,7 @@
             "code": "0602883951167",
             "label": "Chacal Erva-Mate Pura Folha",
             "description": "500g de Erva-Mate para Tereré, sabor autêntico das folhas do mate",
-            "price": 1700,
+            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/n7P7aOk.png"
@@ -1500,7 +1500,7 @@
             "code": "0602883951075",
             "label": "Chacal Erva-Mate Burrito",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate e burrito",
-            "price": 1700,
+            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/ILcBLcw.png"
@@ -1509,7 +1509,7 @@
             "code": "0602883951136",
             "label": "Chacal Erva-Mate Menta Boldo",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com boldo combinado com menta",
-            "price": 1700,
+            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/WtdLkmO.png"
@@ -1518,7 +1518,7 @@
             "code": "0602883951082",
             "label": "Chacal Erva-Mate Energético",
             "description": "500g de Erva-Mate para Tereré, inspiradas nos energéticos",
-            "price": 1700,
+            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/1osV5PY.png"
@@ -1527,37 +1527,46 @@
             "code": "0602883851129",
             "label": "Chacal Erva-Mate Menta",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com menta",
-            "price": 1700,
+            "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Jt7cQI7.png"
         },
         {
             "code": "0602883951143",
             "label": "Chacal Erva-Mate Menta Forte",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com menta extra",
-            "price": 1700,
+            "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/0pPhl6B.png"
         },
         {
             "code": "0602883951150",
             "label": "Chacal Erva-Mate Menta Limão",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão e menta",
-            "price": 1700,
+            "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/WjlTPjR.png"
         },
         {
             "code": "0618231164882",
             "label": "Chacal Erva-Mate Cereja",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com cereja",
-            "price": 1700,
+            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/OH94QKl.png"
+        },
+        {
+            "code": "0619205423523",
+            "label": "Chacal Erva-Mate Menta Xtreme 🥶",
+            "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com um intenso sabor de menta",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/gFb8TIP.png"
         }
     ],
     "Carvão": [
@@ -2236,13 +2245,31 @@
             "image_url": "https://i.imgur.com/6Zo6ONX.png"
         },
         {
-            "code": "piteira-vidro-longa",
+            "code": "piteira-vidro-longa-70",
             "label": "Piteira de Vidro Longa",
             "description": "Unidade de Piteira de Vidro Longa, 7cm de comprimento",
             "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/WLjfnly.png"
+        },
+        {
+            "code": "piteira-vidro-longa-55",
+            "label": "Piteira de Vidro Longa",
+            "description": "Unidade de Piteira de Vidro Longa, 5,5cm x 5mm",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Icb6XfH.png"
+        },
+        {
+            "code": "piteira-vidro-curta-4",
+            "label": "Piteira de Vidro Curta",
+            "description": "Unidade de Piteira de Vidro Longa, 4cm x 5mm",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/RAtPbLU.png"
         },
         {
             "code": "dichavador-kings-azul",
@@ -2268,7 +2295,7 @@
             "description": "Dichavador de Metal, com 5cm de diâmetro. Possui três compartimentos",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/XQDVQVs.png"
         },
         {
@@ -2322,7 +2349,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de uva, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6I8Tmw9.png"
         },
         {
@@ -2331,7 +2358,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de morango, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/gAPCQMU.png"
         },
         {
@@ -2340,7 +2367,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de melancia, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/RbL9qsw.png"
         },
         {
@@ -2367,7 +2394,7 @@
             "description": "Bolador simples para enrolar seus cigarros, 12cm de comprimento. Disponível nas cores vermelha e azul",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6brwpuF.png"
         },
         {
@@ -2385,7 +2412,7 @@
             "description": "Pipe de Metal com estampa Bob Marley",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Qw7z9S1.png"
         },
         {
