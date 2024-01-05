@@ -1585,7 +1585,7 @@
             "description": "Uma unidade de Carvão Zomo Hexagonal",
             "price": 150,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/SBSMUgG.png"
         },
         {
@@ -1603,7 +1603,7 @@
             "description": "Caixa com 1kg de Carvão Chacal Hexagonal",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/s3Em5lU.png"
         },
         {
@@ -1778,7 +1778,7 @@
             "description": "O Rainbow Silver Bright agrada qualquer sommelier, além é claro de ser 100% natural. Bag de 25g com zipper \"abre e fecha\" para facilitar o manuseio e manter as propriedades do seu tabaco natural.",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/LTJIggw.png"
         },
         {
@@ -2050,7 +2050,7 @@
             "description": "30ml de NicSalt Crazy Clouds para pod (com 35mg de nicotina), sabor Uva 🍇",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/p7QrcKz.png"
         },
         {
@@ -2059,7 +2059,7 @@
             "description": "15ml de NicSalt Caravela para pod (com 35mg de nicotina), sabor Menta 🌿",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/zr3OsjY.png"
         },
         {
@@ -2205,7 +2205,7 @@
             "description": "Unidade de pacote com 32 Piteiras Bem Bolado Extra Large tamanho 6cm x 3,3cm, papel branco",
             "price": 400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/LDwaM8g.png"
         },
         {
