@@ -8,11 +8,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/1c3faw2.jpg",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -24,11 +24,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/VxKOQR5.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -40,11 +40,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/opke5pQ.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -56,11 +56,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Qn4e23p.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -72,11 +72,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/3aBaRTS.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -88,11 +88,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/vYLARw7.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -104,11 +104,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/xHx3IYD.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -120,11 +120,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/dzPvYhc.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -136,11 +136,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Ji4tOsW.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -152,11 +152,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/K8lnkaq.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -168,11 +168,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/krCad56.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -184,11 +184,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/NtodnQU.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -200,11 +200,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/snBIUQx.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -216,11 +216,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/fd4Qm1q.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -232,11 +232,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/oJCCgGx.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -248,11 +248,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/HaoWBDO.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -264,11 +264,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/fVO2fwL.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -280,11 +280,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/LfnyLhV.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -296,11 +296,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/FZGAOnz.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -312,11 +312,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/rhU7wNA.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -328,11 +328,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/xKvBLqm.jpg",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -344,11 +344,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Kx7OT8T.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -360,11 +360,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/BIMLLcn.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -376,11 +376,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/oX1vHPX.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -392,11 +392,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/LH8aCga.png",
-            "discount" : {
-                "discount" : 200,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         }
@@ -556,7 +556,7 @@
             "image_url": "https://i.imgur.com/wRbgure.png"
         }
     ],
-    "Essências Onix" : [
+    "Essências Onix": [
         {
             "code": "7898967524027",
             "label": "Onix Pear (Pêra) 🍐",
@@ -565,11 +565,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/F5zilYk.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -581,11 +581,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/G4nTb4R.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -597,11 +597,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/F6CDUhO.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -613,11 +613,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/jFoPZlY.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -629,11 +629,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/WinL6wV.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -645,11 +645,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/MVmXreg.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -661,11 +661,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/HpJal6V.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -677,11 +677,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/9iKT9lR.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -693,11 +693,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Sd2yTzb.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -709,11 +709,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/ujKOViF.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -725,11 +725,11 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/QtYwGDR.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -741,11 +741,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/bJsHJkq.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -757,11 +757,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/ETrSTEZ.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -773,11 +773,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/aV8Dzww.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -789,16 +789,16 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/TAp0pEz.png",
-            "discount" : {
-                "discount" : 150,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         }
     ],
-    "Essências Adalya" : [
+    "Essências Adalya": [
         {
             "code": "8681511386771",
             "label": "Adalya Love 66 💕",
@@ -980,7 +980,7 @@
             "image_url": ""
         }
     ],
-    "Essências Magic" : [
+    "Essências Magic": [
         {
             "code": "7908479400105",
             "label": "Magic Space Guava (Goiaba)",
@@ -1072,7 +1072,7 @@
             "image_url": "https://i.imgur.com/h0o0TAs.png"
         }
     ],
-    "Essências Haze" : [
+    "Essências Haze": [
         {
             "code": "1759401080",
             "label": "Haze PCK (Paçoca)",
@@ -1110,7 +1110,7 @@
             "image_url": "https://i.imgur.com/xA1FAM9.png"
         }
     ],
-    "Essências Nay" : [
+    "Essências Nay": [
         {
             "code": "78420557",
             "label": "Nay Bubble Blend (Bubbaloo) 🍬",
@@ -1256,7 +1256,7 @@
             "image_url": "https://i.imgur.com/8YajecH.png"
         }
     ],
-    "Essências Blue Horse" : [
+    "Essências Blue Horse": [
         {
             "code": "8681654700136",
             "label": "Blue Horse Jamaica (Bob Marley)",
@@ -1285,7 +1285,7 @@
             "image_url": "https://i.imgur.com/1xfauuE.png"
         }
     ],
-    "Essências Ignite" : [
+    "Essências Ignite": [
         {
             "code": "0619205894774",
             "label": "Ignite Banana Ice 🍌🧊",
@@ -1323,7 +1323,7 @@
             "image_url": "https://i.imgur.com/HEbbHtz.png"
         }
     ],
-    "Essências Pimp" : [
+    "Essências Pimp": [
         {
             "code": "00205009",
             "label": "Pimp Moranguete (Chocolate c Morango) 🍓🍫",
@@ -1332,11 +1332,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/8XVfLU5.png",
-            "discount" : {
-                "discount" : 300,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 300,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -1348,11 +1348,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/vaaWZMx.png",
-            "discount" : {
-                "discount" : 300,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 300,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -1364,11 +1364,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/mUqYwL7.png",
-            "discount" : {
-                "discount" : 300,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 300,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -1380,11 +1380,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Uw465hS.png",
-            "discount" : {
-                "discount" : 300,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 300,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -1396,11 +1396,11 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/O5ptokQ.png",
-            "discount" : {
-                "discount" : 300,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 300,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         },
@@ -1412,16 +1412,16 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/r7l6YM2.png",
-            "discount" : {
-                "discount" : 300,
-                "period" : {
-                    "start" : "2023-11-25T00:00:00",
-                    "end" : "2023-11-28T00:00:00"
+            "discount": {
+                "discount": 300,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
                 }
             }
         }
     ],
-    "Essências Sense" : [
+    "Essências Sense": [
         {
             "code": "0618231813452",
             "label": "Sense Lychee Candy (Du Macário)",
@@ -1477,7 +1477,7 @@
             "image_url": "https://i.imgur.com/oVYLN6l.png"
         }
     ],
-    "Ervas para Tereré" : [
+    "Ervas para Tereré": [
         {
             "code": "0602883951099",
             "label": "Chacal Erva-Mate Fit Hibisco",
@@ -1663,7 +1663,7 @@
             "image_url": "https://i.imgur.com/PxF3IWt.png"
         }
     ],
-    "Fumos" : [
+    "Fumos": [
         {
             "code": "0742832996259",
             "label": "Palheiro Santropez Uva 20 unidades 🍇",
@@ -1863,7 +1863,7 @@
             "image_url": "https://i.imgur.com/Jqoo3Uc.png"
         }
     ],
-    "Juices e Nic Salts" : [
+    "Juices e Nic Salts": [
         {
             "code": "JCCRZ011",
             "label": "Juice 30ml/0mg Crazy Clouds Kiwi 🥝",
@@ -2081,7 +2081,7 @@
             "image_url": "https://i.imgur.com/8dikvSO.png"
         }
     ],
-    "Headshop" : [
+    "Headshop": [
         {
             "code": "78420267",
             "label": "Seda Zomo Perfect Black",
@@ -2461,7 +2461,7 @@
             "image_url": "https://i.imgur.com/pqRMyLM.png"
         }
     ],
-    "Acessórios" : [
+    "Acessórios": [
         {
             "code": "rosh-bking-manchester",
             "label": "Rosh Bking Manchester United",
