@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build --outDir ./docs && replace 'crossorigin' 'defer' ./docs/index.html && python scripts/generate_item_list.py && python scripts/rename_index.py",
+    "build": "pnpm exec prettier --write src/assets/products.json --config ./prettier.config.json && tsc && vite build --outDir ./docs && replace 'crossorigin' 'defer' ./docs/index.html && python scripts/generate_item_list.py && python scripts/rename_index.py",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
