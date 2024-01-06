@@ -723,7 +723,7 @@
             "description": "50g de Essência Onix para Narguile, sabor Maracujá",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/QtYwGDR.png",
             "discount": {
                 "discount": 150,
@@ -1520,7 +1520,7 @@
             "description": "500g de Erva-Mate para Tereré, inspiradas nos energéticos",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/1osV5PY.png"
         },
         {
@@ -1556,7 +1556,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com cereja",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/OH94QKl.png"
         },
         {
@@ -1632,7 +1632,7 @@
             "description": "Caixa com 50 unidades de folha de alto relevo de papel alumínio Stan Special Foil",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/INy6GHj.png"
         },
         {
@@ -2457,7 +2457,7 @@
             "description": "Dichavador de Metal e Dourado, com 5cm de diâmetro. Possui 3 compartimentos",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/pqRMyLM.png"
         }
     ],
