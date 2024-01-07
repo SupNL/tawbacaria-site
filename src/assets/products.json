@@ -2918,7 +2918,7 @@
             "description": "Unidade de Fogareiro da MD",
             "price": 15000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/jfEcV6B.png"
         },
         {
@@ -2945,7 +2945,7 @@
             "description": "Unidade de Fogareiro Grande para 220w",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/hEzXVlq.png"
         },
         {
