@@ -20,7 +20,7 @@ export default function Finalize() {
                     Seu pedido abaixo
                 </Heading>
                 <pre style={{ marginBottom: '8px', fontSize: '1rem' }}>
-                    {wappMessage?.replaceAll('*', '')}
+                    {wappMessage?.replace(/\*/g, '')}
                 </pre>
                 <a href={uri} target='_blank'>
                     <Button
