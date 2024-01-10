@@ -36,32 +36,18 @@ import {
     isInWorkingTime,
     parseCurrency,
 } from '../../utils';
-import {
-    AiOutlineMinus,
-    AiOutlinePlus,
-    AiOutlineWhatsApp,
-} from 'react-icons/ai';
+import { AiOutlineMinus, AiOutlinePlus } from 'react-icons/ai';
 import { FaTimesCircle } from 'react-icons/fa';
 
 import deliveryFeeData from '../../assets/delivery_free.json';
 import SetAddressModal from '../../components/SetAddressModal';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import useCurrentTimeContext from '../../hooks/useCurrentTime';
 
 const storageKeyName = 'tawbacaria-app-user-name';
 const storageKeyPayment = 'tawbacaria-app-user-payment';
 const storageKeyAddress = 'tawbacaria-app-address';
 const storageKeyRetire = 'tawbacaria-app-retire';
-
-function opentoNewTab(url: string) {
-    const link = document.createElement('a');
-    link.href = url;
-    link.target = '_blank';
-    link.rel = 'noopener noreferrer';
-    document.body.appendChild(link);
-    link.click();
-    link.remove();
-}
 
 const buildAddressText = (data: AddressInfo | null) => {
     return data
@@ -81,6 +67,7 @@ type PaymentMethod = {
 
 export default function Cart() {
     const [buttonLoading, setButtonLoading] = useState(false);
+    const navigate = useNavigate();
 
     const { getCurrentDate, date } = useCurrentTimeContext();
     const { items, setCount, clearItem, isCartInSync } = useShoppingCart();
@@ -181,7 +168,6 @@ export default function Cart() {
                 );
                 return;
             }
-            const baseUri = `https://wa.me/5518996946870/?text=`;
             const message = buildAndEncodeMessage({
                 name: userName,
                 paymentMethod: paymentMethod.method,
@@ -191,7 +177,7 @@ export default function Cart() {
                 changeValue: changeNumeric,
                 fullAddress: textAddress,
             });
-            opentoNewTab(`${baseUri}${message}`);
+            navigate(`/finalizar?wappmessage=${message}`);
             setButtonLoading(false);
         });
     };
@@ -213,6 +199,14 @@ export default function Cart() {
     );
 
     const isShopOpen = isInWorkingTime(date);
+    const finishButtonDisabled =
+        toRetire === '' ||
+        (toRetire === 'no' && savedAddress == null) ||
+        userName === '' ||
+        paymentMethod.method === '' ||
+        (paymentMethod.method === 'Dinheiro' &&
+            (paymentMethod.change == null ||
+                (paymentMethod.change === true && neededChange <= 0)));
 
     return (
         <Container maxW={'5xl'}>
@@ -688,31 +682,18 @@ export default function Cart() {
                                 </Flex>
                                 <Flex gap='4'>
                                     <Button
-                                        colorScheme={'green'}
-                                        color={'white'}
-                                        bg={'green.400'}
                                         px={6}
-                                        _hover={{
-                                            bg: 'green.500',
-                                        }}
-                                        isDisabled={
-                                            toRetire === '' ||
-                                            (toRetire === 'no' &&
-                                                savedAddress == null) ||
-                                            userName === '' ||
-                                            paymentMethod.method === '' ||
-                                            (paymentMethod.method ===
-                                                'Dinheiro' &&
-                                                (paymentMethod.change == null ||
-                                                    (paymentMethod.change ===
-                                                        true &&
-                                                        neededChange <= 0)))
-                                        }
+                                        isDisabled={finishButtonDisabled}
                                         onClick={handleNewRequest}
-                                        leftIcon={<AiOutlineWhatsApp />}
                                         isLoading={buttonLoading}
+                                        backgroundColor='purple.300'
+                                        color='black'
+                                        _hover={{
+                                            textDecoration: 'none',
+                                            bg: 'purple.400',
+                                        }}
                                     >
-                                        Finalizar pedido pelo WhatsApp
+                                        Fechar e revisar pedido
                                     </Button>
                                 </Flex>
                             </>

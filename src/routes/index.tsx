@@ -17,6 +17,7 @@ import Contact from '../pages/Contact';
 import useCurrentTimeContext from '../hooks/useCurrentTime';
 import PlusEighteenModal from '../components/PlusEighteenModal';
 import { isInWorkingTime } from '../utils';
+import Finalize from '../pages/Finalize';
 
 const WrapperTemplate = () => {
     const location = useLocation();
@@ -82,6 +83,10 @@ const router = createHashRouter(
                 {
                     path: 'carrinho',
                     element: <Cart />,
+                },
+                {
+                    path: 'finalizar',
+                    element: <Finalize />,
                 },
                 // {
                 //     path: 'produto/:code',
