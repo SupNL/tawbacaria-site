@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { Base64 } from 'js-base64';
 import {
     Heading,
     Container,
@@ -177,7 +178,7 @@ export default function Cart() {
                 changeValue: changeNumeric,
                 fullAddress: textAddress,
             });
-            navigate(`/finalizar?wappmessage=${message}`);
+            navigate(`/finalizar?wappmessage=${Base64.encode(message)}`);
             setButtonLoading(false);
         });
     };

@@ -1865,7 +1865,7 @@
     ],
     "Juices e Nic Salts": [
         {
-            "code": "JCCRZ011",
+            "code": "JCCRZ011-semnicotina",
             "label": "Juice 30ml/0mg Crazy Clouds Kiwi 🥝",
             "description": "30ml de Juice Crazy Clouds para vaper (sem nicotina), sabor Kiwi 🥝",
             "price": 3000,
@@ -1881,6 +1881,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/lRHMpA5.png"
+        },
+        {
+            "code": "JCCRZ011",
+            "label": "Juice 30ml/3mg Crazy Clouds Kiwi 🥝",
+            "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Kiwi 🥝",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/mMbFHZh.png"
         },
         {
             "code": "JCCRZ017",
@@ -1991,6 +2000,24 @@
             "image_url": "https://i.imgur.com/Bm3r19b.png"
         },
         {
+            "code": "FNRP004",
+            "label": "Juice 60ml/3mg Fantasi Blue Ice 🫐🧊",
+            "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Mirtilo Refrescante 🫐🧊",
+            "price": 5500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/vOPA8IP.png"
+        },
+        {
+            "code": "FNRP002",
+            "label": "Juice 60ml/3mg Fantasi Orange ice 🍊🧊",
+            "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Laranja Refrescante 🫐🧊",
+            "price": 5500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/4VO26P3.png"
+        },
+        {
             "code": "TRY3004",
             "label": "Juice 60ml/3mg Trydents Grape 🍇",
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Uva 🍇",
@@ -2016,6 +2043,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Czenl48.png"
+        },
+        {
+            "code": "TRY3002",
+            "label": "Juice 60ml/3mg Trydents Cherry 🍒",
+            "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Cereja 🍒",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/6sfduFY.png"
         },
         {
             "code": "NCCRZ001",
@@ -3308,7 +3344,7 @@
             "price": 600,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": ""
+            "image_url": "https://i.imgur.com/lthrdvG.png"
         },
         {
             "code": "7891991014762",
