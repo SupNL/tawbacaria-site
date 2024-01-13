@@ -1538,7 +1538,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com menta extra",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/0pPhl6B.png"
         },
         {
@@ -1641,7 +1641,7 @@
             "description": "Caixa com 50 unidades de folha de papel alumínio Predator",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/nLHtGL3.png"
         },
         {
@@ -1650,7 +1650,7 @@
             "description": "Caixa com 50 unidades de folha de papel alumínio Brazilian Hookah",
             "price": 1300,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/NNRN4ZY.png"
         },
         {
@@ -1659,7 +1659,7 @@
             "description": "Caixa com 50 unidades de folha de alto relevo de papel alumínio Predator",
             "price": 1300,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/PxF3IWt.png"
         }
     ],
@@ -1906,7 +1906,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/eL07U12.png"
         },
         {
@@ -1924,7 +1924,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/vczPr7Y.png"
         },
         {
