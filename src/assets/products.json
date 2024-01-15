@@ -2005,7 +2005,7 @@
             "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Mirtilo Refrescante 🫐🧊",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/vOPA8IP.png"
         },
         {
@@ -2050,7 +2050,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Cereja 🍒",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6sfduFY.png"
         },
         {
