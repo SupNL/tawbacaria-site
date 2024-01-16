@@ -1641,7 +1641,7 @@
             "description": "Caixa com 50 unidades de folha de papel alumínio Predator",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/nLHtGL3.png"
         },
         {
@@ -2540,7 +2540,7 @@
             "description": "Unidade de Rosh de Cerâmica da Bking",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/9Zu0ceA.png"
         },
         {
@@ -2774,7 +2774,7 @@
             "description": "Unidade de Pegador de Carvão de 23cm da Zenith Catcher",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/K3qBmnk.png"
         },
         {
@@ -2837,7 +2837,7 @@
             "description": "Unidade de Piteira de 40cm da ZH",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/sQ0IZ1S.png"
         },
         {
@@ -2999,7 +2999,7 @@
             "description": "Unidade de Garfo com Furador da ZORD",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/2R8uFoi.png"
         },
         {
@@ -3008,7 +3008,7 @@
             "description": "Unidade de Garfo com Furador da ZORD",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/zQWHtDV.png"
         },
         {
@@ -3017,7 +3017,7 @@
             "description": "Unidade de Garfo com Furador da ZORD",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/DV2WHBB.png"
         },
         {
@@ -3026,7 +3026,7 @@
             "description": "Unidade de Garfo com Furador da ZORD",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/xlfKxhj.png"
         },
         {
@@ -3044,7 +3044,7 @@
             "description": "Unidade de Garfo com Furador da DOM HOOKAH",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/0s22D0H.png"
         },
         {
