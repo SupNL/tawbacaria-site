@@ -1321,6 +1321,24 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/HEbbHtz.png"
+        },
+        {
+            "code": "0631430044373",
+            "label": "Ignite Grape Ice 🍇🧊",
+            "description": "50g de Essência Ignite, sabor Uva 🍇",
+            "price": 1400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/yJvRwer.png"
+        },
+        {
+            "code": "0631430044380",
+            "label": "Ignite Guava Watermelon (Goiaba e Melancia)",
+            "description": "50g de Essência Ignite, sabor Goiaba com Melancia",
+            "price": 1400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/odeOp8I.png"
         }
     ],
     "Essências Pimp": [
@@ -2353,6 +2371,15 @@
             "image_url": "https://i.imgur.com/hdhfqT1.png"
         },
         {
+            "code": "dichavador-grande-metal-caveira",
+            "label": "Dichavador Metal Grande Caveira",
+            "description": "Dichavador de Metal com estampa de caveira, com 5cm de diâmetro e 2,5cm de altura. Disponível em várias estampas",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/d8Ibbzq.png"
+        },
+        {
             "code": "7898960207019",
             "label": "King Blunt Chocolate",
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de chocolate, tamanho 110mm x 44mm",
@@ -3246,6 +3273,51 @@
             "image_url": "https://i.imgur.com/5MjdKsn.png"
         },
         {
+            "code": "mangueira-silicone-slim-azulclaro",
+            "label": "Mangueira de Silicone Slim 1,5m - Azul Claro",
+            "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Azul Claro",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/09XbM62.png"
+        },
+        {
+            "code": "mangueira-silicone-slim-rosa",
+            "label": "Mangueira de Silicone Slim 1,5m - Rosa",
+            "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Rosa",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/I4bUfKJ.png"
+        },
+        {
+            "code": "mangueira-silicone-slim-lilas",
+            "label": "Mangueira de Silicone Slim 1,5m - Lilás",
+            "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Lilás",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Noigw3Q.png"
+        },
+        {
+            "code": "mangueira-silicone-slim-azulescuro",
+            "label": "Mangueira de Silicone Slim 1,5m - Azul Escuro",
+            "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Azul Escuro",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/oAJLXL4.png"
+        },
+        {
+            "code": "mangueira-silicone-slim-dourado",
+            "label": "Mangueira de Silicone Slim 1,5m - Dourada",
+            "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Dourada",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/csWO3Of.png"
+        },
+        {
             "code": "contra-piteira-silicone-preta",
             "label": "Contra Piteira de Silicone Preta",
             "description": "Contra Piteira de Silicone, cor Preta",
@@ -3280,6 +3352,33 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/TPBmDt5.png"
+        },
+        {
+            "code": "abafador-preto",
+            "label": "Abafador - Preto",
+            "description": "Abafador de alumínio, coloração Preta",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/XFLhc3J.png"
+        },
+        {
+            "code": "abafador-dourado",
+            "label": "Abafador - Dourado",
+            "description": "Abafador de alumínio, coloração Dourada",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/ytsGuOR.png"
+        },
+        {
+            "code": "abafador-prata",
+            "label": "Abafador - Prata",
+            "description": "Abafador de alumínio, coloração Prata",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/ZgEhVG0.png"
         }
     ],
     "Bebidas": [
