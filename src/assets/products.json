@@ -2675,7 +2675,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6UyDbfk.png"
         },
         {
@@ -2738,7 +2738,7 @@
             "description": "Unidade de Rosh de Cerâmica",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/iiRVdLF.png"
         },
         {
