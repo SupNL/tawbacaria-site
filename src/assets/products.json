@@ -1583,7 +1583,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com um intenso sabor de menta",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/gFb8TIP.png"
         }
     ],
@@ -1621,7 +1621,7 @@
             "description": "Caixa com 1kg de Carvão Chacal Hexagonal",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/s3Em5lU.png"
         },
         {
@@ -1897,7 +1897,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (sem nicotina), sabor Milho 🌽",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/lRHMpA5.png"
         },
         {
@@ -1906,7 +1906,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Kiwi 🥝",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/mMbFHZh.png"
         },
         {
@@ -1924,7 +1924,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/eL07U12.png"
         },
         {
@@ -1942,7 +1942,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/vczPr7Y.png"
         },
         {
@@ -1951,7 +1951,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Menta 🌿",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/uZQ7zz0.png"
         },
         {
@@ -2068,7 +2068,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Cereja 🍒",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6sfduFY.png"
         },
         {
@@ -2639,7 +2639,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/qxe1dVM.png"
         },
         {
