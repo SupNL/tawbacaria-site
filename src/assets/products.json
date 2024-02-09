@@ -1088,7 +1088,7 @@
             "description": "50g de Essência Haze Tobacco, sabor Framboesa com Pêssego",
             "price": 1700,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Vux4aR0.png"
         },
         {
@@ -2068,7 +2068,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Cereja 🍒",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6sfduFY.png"
         },
         {
