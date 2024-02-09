@@ -2277,7 +2277,7 @@
             "description": "Unidade de pacote com 50 Piteiras Bem Bolado Super Large 6cm x 4cm, papel branco",
             "price": 500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Njv0pNU.png"
         },
         {
