@@ -1650,7 +1650,7 @@
             "description": "Caixa com 50 unidades de folha de alto relevo de papel alumínio Stan Special Foil",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/INy6GHj.png"
         },
         {
@@ -1924,7 +1924,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/eL07U12.png"
         },
         {
@@ -1942,7 +1942,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/vczPr7Y.png"
         },
         {
@@ -2403,7 +2403,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de mel, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/5lPiF6U.png"
         },
         {
