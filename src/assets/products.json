@@ -2702,7 +2702,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/0FCLjDU.png"
         },
         {
@@ -2765,7 +2765,7 @@
             "description": "Unidade de Rosh de Cerâmica da Pro Hookah",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/b6uNxNY.png"
         },
         {
@@ -3242,7 +3242,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração azul escuro",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/eQ9ypcU.png"
         },
         {
