@@ -3,7 +3,7 @@
         {
             "code": "7908479402079",
             "label": "Ziggy Abacaxi Tropical 🍍🌴",
-            "description": "50g de Essência Ziggy para Narguile, sabor Abacaxi com Menta 🍍🌴",
+            "description": "50g de Essência Ziggy para Narguile, sabor Abacaxi com Hortelã 🍍🌴",
             "price": 1000,
             "is_highlight": false,
             "in_stock": true,
@@ -1094,7 +1094,7 @@
         {
             "code": "1759401099",
             "label": "Haze Mint Supreme 🧊",
-            "description": "50g de Essência Haze Tobacco, sabor Menta 🌿",
+            "description": "50g de Essência Haze Tobacco, sabor Hortelã 🌿",
             "price": 1700,
             "is_highlight": false,
             "in_stock": true,
@@ -1254,6 +1254,53 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/8YajecH.png"
+        }
+    ],
+    "Essências Chacal": [
+        {
+            "code": "619205423691",
+            "label": "Chacal Ice 🧊",
+            "description": "50g de Essência Chacal Refrescante 🧊",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/kdDVnJ9.png"
+        },
+        {
+            "code": "619205423660",
+            "label": "Chacal Mint 🌿",
+            "description": "50g de Essência Chacal, sabor Hortelã 🌿",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/fkcQBL3.png"
+        },
+        {
+            "code": "619205423677",
+            "label": "Chacal Bubba Grape 🍇",
+            "description": "50g de Essência Chacal, sabor Uva 🍇",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/JiIKwDe.png"
+        },
+        {
+            "code": "619205423677",
+            "label": "Chacal Bubba Sweet Lemon 🍋",
+            "description": "50g de Essência Chacal, sabor Limão 🍋",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/KNABeoG.png"
+        },
+        {
+            "code": "619205423677",
+            "label": "Chacal Bubba Strawberry 🍓",
+            "description": "50g de Essência Chacal, sabor Morango 🍓",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/B0zMFm2.png"
         }
     ],
     "Essências Blue Horse": [
@@ -1619,7 +1666,7 @@
             "code": "carvao-chacal-caixa-1kg",
             "label": "Caixa 1kg Carvão Hexagonal Chacal",
             "description": "Caixa com 1kg de Carvão Chacal Hexagonal",
-            "price": 5500,
+            "price": 5000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/s3Em5lU.png"
@@ -1628,10 +1675,19 @@
             "code": "carvao-chacal-caixa-250g",
             "label": "Caixa 250g Carvão Hexagonal Chacal",
             "description": "Caixa com 250g de Carvão Chacal Hexagonal",
-            "price": 2000,
+            "price": 1500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/z9cmW8q.png"
+        },
+        {
+            "code": "carvao-dcoco-caixa-250g",
+            "label": "Caixa 250g Carvão Hexagonal D'Coco",
+            "description": "Caixa com 250g de Carvão D'coco Hexagonal",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/OAYGvxG.png"
         }
     ],
     "Papel Alumínio": [
@@ -1679,6 +1735,15 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/PxF3IWt.png"
+        },
+        {
+            "code": "brasuka-papel-aluminio",
+            "label": "Papel Alumínio Brasuka 50 folhas",
+            "description": "Caixa com 50 unidades de folha de papel alumínio Brasuka",
+            "price": 1300,
+            "is_highlight": false,
+            "in_stock": false,
+            "image_url": "https://i.imgur.com/ujwZ2gj.png"
         }
     ],
     "Fumos e Isqueiros": [
@@ -1748,11 +1813,20 @@
         {
             "code": "isqueiro-clipper-recarregavel",
             "label": "Isqueiro Recarregável Clipper (Driving Skulls)",
-            "description": "Unidade de Isqueiro Recarregável Clipper, da coleção Driving Skulls. Escolher ums dos modelos da foto (de 1 a 4, da esquerda p direita)",
+            "description": "Unidade de Isqueiro Recarregável Clipper, da coleção Driving Skulls. Escolher um dos modelos da foto (de 1 a 4, da esquerda p direita)",
             "price": 800,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/7CMpCyL.png"
+        },
+        {
+            "code": "isqueiro-clipper-colors-neons",
+            "label": "Isqueiro Clipper Color Neons",
+            "description": "Unidade de Isqueiro Clipper, da coleção Color Neons. Escolher uma das cores da foto",
+            "price": 600,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/7ZRIG5L.png"
         },
         {
             "code": "isqueiro-bic-max",
@@ -3039,6 +3113,15 @@
             "image_url": "https://i.imgur.com/QhpfDoS.png"
         },
         {
+            "code": "gas-ntk-campgas",
+            "label": "Gás Campgas para Fogareiro 227g",
+            "description": "Unidade de Cartucho de refil de gás de Butano da Campgas 227g",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/2JQ1fGm.png"
+        },
+        {
             "code": "fogareiro-grande-eletrico",
             "label": "Fogareiro Elétrico Grande 220w",
             "description": "Unidade de Fogareiro Grande para 220w",
@@ -3054,7 +3137,7 @@
             "price": 4000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/wjSH4wn.png"
+            "image_url": "https://i.imgur.com/YjQiRVe.png"
         },
         {
             "code": "garfo-furador-zord-rosa-claro",
