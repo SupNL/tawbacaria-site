@@ -1281,7 +1281,7 @@
             "description": "50g de Essência Chacal, sabor Uva 🍇",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/JiIKwDe.png"
         },
         {
