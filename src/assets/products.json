@@ -1980,7 +1980,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Kiwi 🥝",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/mMbFHZh.png"
         },
         {
@@ -1989,7 +1989,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Uva com Creme 🍇🍦",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/u6L7l0U.png"
         },
         {
@@ -1998,7 +1998,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/eL07U12.png"
         },
         {
@@ -2016,7 +2016,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/vczPr7Y.png"
         },
         {
@@ -2025,7 +2025,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Menta 🌿",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/uZQ7zz0.png"
         },
         {
@@ -2142,7 +2142,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Cereja 🍒",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6sfduFY.png"
         },
         {
@@ -2315,7 +2315,7 @@
             "description": "Unidade de Cuia de Silicone, disponível em várias cores",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/1C9ZH47.png"
         },
         {
@@ -2450,7 +2450,7 @@
             "description": "Dichavador de Acrílico Bob Marley, com 4cm de diâmetro e 2cm de altura. Disponível em várias estampas",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/hdhfqT1.png"
         },
         {
@@ -2576,7 +2576,7 @@
             "description": "Bong Acrílico de 15cm colorido com vermelho, amarelo e verde",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/S5lhtqc.png"
         },
         {
