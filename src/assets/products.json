@@ -2463,6 +2463,24 @@
             "image_url": "https://i.imgur.com/d8Ibbzq.png"
         },
         {
+            "code": "dichavador-papelito-colors",
+            "label": "Dichavador Papelito Colors",
+            "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/fz9g8Qd.png"
+        },
+        {
+            "code": "dichavador-papelito-brilho",
+            "label": "Dichavador Papelito Brilho",
+            "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/QLua3qK.png"
+        },
+        {
             "code": "7898960207019",
             "label": "King Blunt Chocolate",
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de chocolate, tamanho 110mm x 44mm",
@@ -2681,6 +2699,24 @@
             "image_url": "https://i.imgur.com/9Zu0ceA.png"
         },
         {
+            "code": "rosh-econo-marrom",
+            "label": "Rosh Econo Marrom",
+            "description": "Unidade de Rosh de Barro da Econo",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/X3UMs7I.png"
+        },
+        {
+            "code": "rosh-econo-mesclado",
+            "label": "Rosh Econo Mesclado",
+            "description": "Unidade de Rosh de Barro da Econo",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/5vNXYDj.png"
+        },
+        {
             "code": "rosh-econo-branco",
             "label": "Rosh Econo Branco",
             "description": "Unidade de Rosh de Barro da Econo",
@@ -2695,8 +2731,8 @@
             "description": "Unidade de Rosh de Barro da Econo",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/tHYNdxZ.png"
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/pye71pN.png"
         },
         {
             "code": "rosh-econo-todo-preto",
@@ -2705,7 +2741,7 @@
             "price": 3500,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/xPDmezc.png"
+            "image_url": "https://i.imgur.com/zXox927.png"
         },
         {
             "code": "rosh-osiris-nut-rosa",
@@ -2841,6 +2877,24 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/b6uNxNY.png"
+        },
+        {
+            "code": "rosh-simples-branco-fluxo-bowl",
+            "label": "Rosh Simples Branco Fluxo Bowl",
+            "description": "Unidade de Rosh de cerâmica da Fluxo Bowl",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/hAeh9ts.png"
+        },
+        {
+            "code": "rosh-simples-preto-fluxo-bowl",
+            "label": "Rosh Simples Preto Fluxo Bowl",
+            "description": "Unidade de Rosh de cerâmica da Fluxo Bowl",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/xlONyOA.png"
         },
         {
             "code": "rosh-simples-cinza",
