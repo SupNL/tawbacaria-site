@@ -2463,6 +2463,15 @@
             "image_url": "https://i.imgur.com/d8Ibbzq.png"
         },
         {
+            "code": "dichavador-papelito-neon",
+            "label": "Dichavador Papelito Neon",
+            "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/G8ZQvIw.png"
+        },
+        {
             "code": "dichavador-papelito-colors",
             "label": "Dichavador Papelito Colors",
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
