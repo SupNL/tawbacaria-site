@@ -1742,7 +1742,7 @@
             "description": "Caixa com 50 unidades de folha de papel alumínio Brasuka",
             "price": 1300,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/ujwZ2gj.png"
         }
     ],
