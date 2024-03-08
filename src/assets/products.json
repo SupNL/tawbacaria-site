@@ -787,7 +787,7 @@
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Goiaba e Morango 🍓",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/TAp0pEz.png",
             "discount": {
                 "discount": 150,
@@ -1285,7 +1285,7 @@
             "image_url": "https://i.imgur.com/JiIKwDe.png"
         },
         {
-            "code": "619205423677",
+            "code": "619205423646",
             "label": "Chacal Bubba Sweet Lemon 🍋",
             "description": "50g de Essência Chacal, sabor Limão 🍋",
             "price": 1000,
@@ -1294,12 +1294,12 @@
             "image_url": "https://i.imgur.com/KNABeoG.png"
         },
         {
-            "code": "619205423677",
+            "code": "619205423684",
             "label": "Chacal Bubba Strawberry 🍓",
             "description": "50g de Essência Chacal, sabor Morango 🍓",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/B0zMFm2.png"
         }
     ],
@@ -1493,7 +1493,7 @@
             "description": "50g de Essência Sense, sabor Doce de Lichia",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/3VC0E8t.png"
         },
         {
@@ -2016,7 +2016,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/vczPr7Y.png"
         },
         {
@@ -2115,7 +2115,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Uva 🍇",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/g1zKxcM.png"
         },
         {
@@ -2142,7 +2142,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Cereja 🍒",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6sfduFY.png"
         },
         {
@@ -2387,7 +2387,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 7cm de comprimento",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WLjfnly.png"
         },
         {
@@ -2396,7 +2396,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 5,5cm x 5mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Icb6XfH.png"
         },
         {
@@ -3647,8 +3647,8 @@
         },
         {
             "code": "78908901",
-            "label": "Coca-cola Mini Pet 250ml (GELADA)",
-            "description": "BEBIDA GELADA - Refrigerante Coca-cola em Garrafa Mini Pet de 250ml",
+            "label": "Coca-cola Mini Pet 200ml (GELADA)",
+            "description": "BEBIDA GELADA - Refrigerante Coca-cola em Garrafa Mini Pet de 200ml",
             "price": 300,
             "is_highlight": false,
             "in_stock": true,
