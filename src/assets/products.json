@@ -1603,7 +1603,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com menta extra",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/0pPhl6B.png"
         },
         {
@@ -1621,7 +1621,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com cereja",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/OH94QKl.png"
         },
         {
@@ -1630,7 +1630,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com um intenso sabor de menta",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/gFb8TIP.png"
         }
     ],
@@ -1933,7 +1933,7 @@
             "description": "Maçarico da Zengaz com coloração Preta",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/xVQVwIf.png"
         },
         {
@@ -2387,7 +2387,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 7cm de comprimento",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/WLjfnly.png"
         },
         {
@@ -2621,7 +2621,7 @@
             "description": "Bong Acrílico de 15cm, transparente",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/o9FT7jt.png"
         },
         {
@@ -2794,7 +2794,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/qxe1dVM.png"
         },
         {
@@ -2821,7 +2821,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/0FCLjDU.png"
         },
         {
@@ -2920,7 +2920,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/iQs3J5a.png"
         },
         {
@@ -3109,7 +3109,7 @@
             "description": "Unidade de Prato de coroa pequeno de 16cm da Zion Hookah",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/NJaPUjR.png"
         },
         {
@@ -3496,7 +3496,7 @@
             "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Dourada",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/csWO3Of.png"
         },
         {
