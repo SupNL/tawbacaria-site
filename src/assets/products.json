@@ -1544,6 +1544,15 @@
     ],
     "Ervas para Tereré": [
         {
+            "code": "0619205423554",
+            "label": "Chacal Erva-Mate Limão Rosa",
+            "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão rosa",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/YVDvspB.png"
+        },
+        {
             "code": "0602883951099",
             "label": "Chacal Erva-Mate Fit Hibisco",
             "description": "500g de Erva-Mate para Tereré, sabor for de hibisco bem tropical",
@@ -1953,6 +1962,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Jqoo3Uc.png"
+        },
+        {
+            "code": "7898956381426",
+            "label": "Tabaco/Fumo Tabaquin 20g",
+            "description": "Descubra a excelência do Tabaco Tabaquin Hi Tobacco, uma escolha perfeita para os apreciadores de tabaco de qualidade superior. Com suas qualidades distintas, esse tabaco oferece uma experiência única, proporcionando uma fumaça suave e aromática.",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/uRsOoCm.png"
         }
     ],
     "Juices e Nic Salts": [
@@ -3634,7 +3652,7 @@
             "price": 600,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/lthrdvG.png"
+            "image_url": null
         },
         {
             "code": "7891991014762",
@@ -3646,6 +3664,15 @@
             "image_url": "https://i.imgur.com/lthrdvG.png"
         },
         {
+            "code": "7897395060138",
+            "label": "Crystal Lata 350ml (GELADA)",
+            "description": "BEBIDA GELADA - Cerveja Crystal em Lata de 350ml, com Graduação Alcoólica 5,0%. Beba com moderação!",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/B3MbRs3.png"
+        },
+        {
             "code": "78908901",
             "label": "Coca-cola Mini Pet 200ml (GELADA)",
             "description": "BEBIDA GELADA - Refrigerante Coca-cola em Garrafa Mini Pet de 200ml",
@@ -3653,6 +3680,24 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/txckGgo.png"
+        },
+        {
+            "code": "78936478",
+            "label": "Fanta Mini Pet 200ml (GELADA)",
+            "description": "BEBIDA GELADA - Refrigerante Fanta de Laranja em Garrafa Mini Pet de 200ml",
+            "price": 300,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/pRVLj7Q.png"
+        },
+        {
+            "code": "suco-shefa-laranja",
+            "label": "Suco Shefa Laranja 200ml (GELADA)",
+            "description": "BEBIDA GELADA - Suco de Laranja Shefa em Caixinha de 200ml",
+            "price": 300,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/X8HIZEz.png"
         }
     ]
 }
