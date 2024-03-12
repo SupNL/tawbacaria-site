@@ -2522,7 +2522,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de mel, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/5lPiF6U.png"
         },
         {
@@ -2540,7 +2540,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de uva, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6I8Tmw9.png"
         },
         {
@@ -2549,7 +2549,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de morango, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/gAPCQMU.png"
         },
         {
@@ -2558,7 +2558,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de melancia, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/RbL9qsw.png"
         },
         {
