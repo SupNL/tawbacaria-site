@@ -2360,7 +2360,7 @@
             "description": "Unidade de pacote com 32 Piteiras Bem Bolado Extra Large tamanho 6cm x 3,3cm, papel branco",
             "price": 400,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/LDwaM8g.png"
         },
         {
