@@ -558,6 +558,22 @@
     ],
     "Essências Onix": [
         {
+            "code": "9MQCWTFCS",
+            "label": "Onix High Cherry (Cereja) 🍒",
+            "description": "50g de Essência Onix Experience para Narguile, sabor Cereja 🍒",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/fJqVa4y.png",
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
+                }
+            }
+        },
+        {
             "code": "7898967524027",
             "label": "Onix Pear (Pêra) 🍐",
             "description": "50g de Essência Onix Experience para Narguile, sabor Pêra 🍐",
@@ -2301,6 +2317,24 @@
             "image_url": "https://i.imgur.com/HLSXqeE.png"
         },
         {
+            "code": "seda-papelito-tradicional-ks",
+            "label": "Seda Papelito Tradicional King Size",
+            "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Tradicional King Size",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/iMPZZVy.png"
+        },
+        {
+            "code": "seda-papelito-brown-ks",
+            "label": "Seda Papelito Brown King Size",
+            "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Brown King Size",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/VXqxJeo.png"
+        },
+        {
             "code": "7898950283323",
             "label": "Seda Papelito Tropical Slim King Size",
             "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Tropical Slim",
@@ -2330,11 +2364,20 @@
         {
             "code": "cuia-silicone-naboa",
             "label": "Cuia de Silicone Na Boa",
-            "description": "Unidade de Cuia de Silicone, disponível em várias cores",
+            "description": "Unidade de Cuia de Silicone da Na Boa, disponível em várias cores",
             "price": 2000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/1C9ZH47.png"
+        },
+        {
+            "code": "cuia-silicone-monkey-kush",
+            "label": "Cuia de Silicone Monkey Kush",
+            "description": "Feito de silicone alimentício, maleável, não gruda, possui 3cm de altura e 6,7cm de diâmetro. Quando feito o pedido, mandaremos foto dos modelos disponíveis para a escolha.",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/ka9FM4A.png"
         },
         {
             "code": "02010302",
@@ -2426,6 +2469,7 @@
             "in_stock": true,
             "image_url": "https://i.imgur.com/RAtPbLU.png"
         },
+
         {
             "code": "dichavador-kings-azul",
             "label": "Dichavador Kings Azul",
@@ -2461,6 +2505,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/UB5snmS.png"
+        },
+        {
+            "code": "dichavador-acrilico-preto",
+            "label": "Dichavador Acrílico Preto",
+            "description": "Dichavador de Acrílico Preto, com 5,5cm de diâmetro e 2,5cm de altura. Possui três compartimentos.",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/IOBvadS.png"
         },
         {
             "code": "6920180123402",
@@ -2506,6 +2559,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/QLua3qK.png"
+        },
+        {
+            "code": "7898960207446",
+            "label": "King Blunt Maçã Verde",
+            "description": "Unidade de pacote com 5 folhas para blunt com um aroma de maçã verde, tamanho 110mm x 44mm",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/mrT6crn.png"
         },
         {
             "code": "7898960207019",
@@ -2569,6 +2631,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/eeWo9jY.png"
+        },
+        {
+            "code": "slick-rok-neon",
+            "label": "Slick Rok Neon 10ml (várias cores)",
+            "description": "É um produto orgânico, feito de silicone, suas dimensões são 4,5cm de diâmetro por 2cm de altura. Escolha uma das cores da foto",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/MbRXzlz.png"
         },
         {
             "code": "bandeja-metal-astro-world",
