@@ -2104,7 +2104,7 @@
             "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Mango 🥭",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Hu2tFR6.png"
         },
         {
@@ -2469,7 +2469,6 @@
             "in_stock": true,
             "image_url": "https://i.imgur.com/RAtPbLU.png"
         },
-
         {
             "code": "dichavador-kings-azul",
             "label": "Dichavador Kings Azul",
