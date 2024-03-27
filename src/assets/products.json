@@ -1679,13 +1679,13 @@
             "image_url": "https://i.imgur.com/SBSMUgG.png"
         },
         {
-            "code": "carvao-zomo-caixa-1kg",
+            "code": "carvao-zomo-caixa-500g",
             "label": "Caixa 500g Carvão Hexagonal Zomo",
             "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
-            "price": 4000,
+            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/7qzN2L8.png"
+            "image_url": "https://i.imgur.com/rAQImr6.png"
         },
         {
             "code": "carvao-zomo-caixa-1kg",
@@ -1722,6 +1722,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/OAYGvxG.png"
+        },
+        {
+            "code": "carvao-dcoco-caixa-1kg",
+            "label": "Caixa 1kg Carvão Hexagonal D'Coco",
+            "description": "Caixa com 1kg de Carvão D'coco Hexagonal",
+            "price": 4000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/QArp0rR.png"
         }
     ],
     "Papel Alumínio": [
@@ -2432,6 +2441,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/7iPI83K.png"
+        },
+        {
+            "code": "filtro-papelito-tradicional",
+            "label": "Filtros Papelito Tradicional",
+            "description": "Unidade de pacote com 120 filtros de 6mm x 15mm",
+            "price": 800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/0M8jfzV.png"
         },
         {
             "code": "7898659810131",
