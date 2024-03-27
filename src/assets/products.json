@@ -675,7 +675,7 @@
             "description": "50g de Essência Onix Experience para Narguile, sabor Chiclete com Canela",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/HpJal6V.png",
             "discount": {
                 "discount": 150,
@@ -1297,7 +1297,7 @@
             "description": "50g de Essência Chacal, sabor Uva 🍇",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/JiIKwDe.png"
         },
         {
@@ -1315,7 +1315,7 @@
             "description": "50g de Essência Chacal, sabor Morango 🍓",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/B0zMFm2.png"
         }
     ],
@@ -1574,7 +1574,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor for de hibisco bem tropical",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6oDjv0Y.png"
         },
         {
@@ -1646,7 +1646,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com cereja",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/OH94QKl.png"
         },
         {
@@ -1677,6 +1677,15 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/SBSMUgG.png"
+        },
+        {
+            "code": "carvao-zomo-caixa-1kg",
+            "label": "Caixa 500g Carvão Hexagonal Zomo",
+            "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
+            "price": 4000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/7qzN2L8.png"
         },
         {
             "code": "carvao-zomo-caixa-1kg",
@@ -2700,7 +2709,7 @@
             "description": "Bong Acrílico de 15cm colorido com azul",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/tR2hhkq.png"
         },
         {
