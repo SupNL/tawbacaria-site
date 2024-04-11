@@ -1592,7 +1592,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate e burrito",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ILcBLcw.png"
         },
         {
@@ -1619,7 +1619,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com menta",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Jt7cQI7.png"
         },
         {
@@ -1767,7 +1767,7 @@
             "description": "Caixa com 50 unidades de folha de papel alumínio Brazilian Hookah",
             "price": 1300,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/NNRN4ZY.png"
         },
         {
@@ -1994,7 +1994,7 @@
             "description": "Maçarico da Zengaz com coloração Amarela",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Jqoo3Uc.png"
         },
         {
@@ -2421,7 +2421,7 @@
             "description": "Unidade de pacote com 32 Piteiras Bem Bolado Extra Large tamanho 6cm x 3,3cm, papel branco",
             "price": 400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/LDwaM8g.png"
         },
         {
@@ -2855,7 +2855,7 @@
             "description": "Unidade de Rosh de Barro da Econo",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/pye71pN.png"
         },
         {
@@ -3008,7 +3008,7 @@
             "description": "Unidade de Rosh de cerâmica da Fluxo Bowl",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/hAeh9ts.png"
         },
         {
@@ -3377,7 +3377,7 @@
             "description": "Unidade de Furador com Chaveiro da Amazon Future",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/G9lkiVA.png"
         },
         {
@@ -3458,7 +3458,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração preto fumê",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Ovdzd12.png"
         },
         {
@@ -3476,7 +3476,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração branca",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/JU8AAHX.png"
         },
         {
@@ -3521,7 +3521,7 @@
             "description": "Borracha Vedação para Rosh",
             "price": 400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/caaYIM7.png"
         },
         {
