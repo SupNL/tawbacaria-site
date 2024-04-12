@@ -994,6 +994,24 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/JZFsSrW.png"
+        },
+        {
+            "code": "8681511368303",
+            "label": "Adalya Exagelado",
+            "description": "50g de Essência Adalya para Narguile, sabor Framboesa, Limão e Menta 🍋🌿",
+            "price": 1400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Oa0j74o.png"
+        },
+        {
+            "code": "8681511794853",
+            "label": "Adalya Mango & Tango 🥭",
+            "description": "50g de Essência Adalya para Narguile, sabor Manga 🥭",
+            "price": 1400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/DwOrdRa.png"
         }
     ],
     "Essências Magic": [
@@ -1018,7 +1036,7 @@
         {
             "code": "7908479402093",
             "label": "Magic Space Lemon Mint 🍋 (Limão e Menta)",
-            "description": "50g de Essência Magic para Narguile, sabor Pêssego com Framboesa 🍋🌿",
+            "description": "50g de Essência Magic para Narguile, sabor Limão com Menta 🍋🌿",
             "price": 1000,
             "is_highlight": false,
             "in_stock": true,
@@ -1560,6 +1578,15 @@
     ],
     "Ervas para Tereré": [
         {
+            "code": "0619205423567",
+            "label": "Chacal Erva-Mate Hortelã Ice",
+            "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com hortelã refrescante",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/U9pdeJf.png"
+        },
+        {
             "code": "0619205423554",
             "label": "Chacal Erva-Mate Limão Rosa",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão rosa",
@@ -1794,7 +1821,7 @@
             "code": "0742832996259",
             "label": "Palheiro Santropez Uva 20 unidades 🍇",
             "description": "Caixa com 20 unidades de palheiro Santropez, sabor Uva 🍇",
-            "price": 1800,
+            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/JzdZTC4.png"
@@ -1803,7 +1830,7 @@
             "code": "0602883773530",
             "label": "Palheiro Santropez Love 66 20 unidades 💕",
             "description": "Caixa com 20 unidades de palheiro Santropez, sabor Melão, Melancia e Menta 🍈🍉🌿",
-            "price": 1800,
+            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/wWquuKY.png"
@@ -1812,7 +1839,7 @@
             "code": "0742832903837",
             "label": "Palheiro Santropez Tradicional Premium 20 unidades",
             "description": "Caixa com 20 unidades de palheiro Santropez",
-            "price": 1800,
+            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/6VYHgn9.png"
@@ -1821,7 +1848,7 @@
             "code": "0742832175562",
             "label": "Palheiro Santropez Café Premium 20 unidades ☕️",
             "description": "Caixa com 20 unidades de palheiro Santropez, sabor Café ☕️",
-            "price": 1800,
+            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/mqV0QhX.png"
@@ -2271,6 +2298,15 @@
         }
     ],
     "Headshop": [
+        {
+            "code": "78420553",
+            "label": "Seda Bem Bolado Slim King Size",
+            "description": "Unidade de pacote com 35 folhas de Papel de Seda Bem Bolado",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/byFvn28.png"
+        },
         {
             "code": "78420267",
             "label": "Seda Zomo Perfect Black",
