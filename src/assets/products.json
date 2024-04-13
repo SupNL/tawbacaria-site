@@ -166,7 +166,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Tangerina 🍊",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/krCad56.png",
             "discount": {
                 "discount": 200,
@@ -358,7 +358,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Goiaba Branca com Goiaba Vermelha",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/BIMLLcn.png",
             "discount": {
                 "discount": 200,
@@ -2077,7 +2077,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/eL07U12.png"
         },
         {
