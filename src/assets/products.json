@@ -2340,7 +2340,7 @@
             "description": "Unidade de pacote com 33 folhas de Papel de Seda Zomo Slim Alfafa na cor verde",
             "price": 400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/fQk1RyS.png"
         },
         {
@@ -2493,7 +2493,7 @@
             "description": "Unidade de pacote com 50 Piteiras Chillin pré-enroladas, tamanho 5mm x 20mm",
             "price": 500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/QNGTc1a.png"
         },
         {
@@ -3820,7 +3820,7 @@
             "description": "BEBIDA GELADA - Refrigerante Fanta de Laranja em Garrafa Mini Pet de 200ml",
             "price": 300,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/pRVLj7Q.png"
         },
         {
