@@ -399,6 +399,22 @@
                     "end": "2023-11-28T00:00:00"
                 }
             }
+        },
+        {
+            "code": "7908479402338",
+            "label": "Ziggy Mix Frutas Roxas",
+            "description": "50g de Essência Ziggy para Narguile, sabor Uva, Açaí, Amora, Framboesa e Mirtilo",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/MicXMm1.png",
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
+                }
+            }
         }
     ],
     "Essências Zomo": [
@@ -805,6 +821,22 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/TAp0pEz.png",
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
+                }
+            }
+        },
+        {
+            "code": "06131430044359",
+            "label": "Onix High Tutti",
+            "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Tutti-Frutti",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/GdvosLc.png",
             "discount": {
                 "discount": 150,
                 "period": {
@@ -1924,6 +1956,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/QMrSy98.png"
+        },
+        {
+            "code": "78944640",
+            "label": "Tabaco/Fumo To Na Bê 25g",
+            "description": "O Tabaco To Na Bê é um tabaco do tipo Virgínia Gold, 100% artesanal e extra suave. Qualidade premium!",
+            "price": 1600,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/O4vV4io.png"
         },
         {
             "code": "7898994462040",
