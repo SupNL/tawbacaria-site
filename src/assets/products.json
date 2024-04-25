@@ -358,7 +358,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Goiaba Branca com Goiaba Vermelha",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/BIMLLcn.png",
             "discount": {
                 "discount": 200,
@@ -988,7 +988,7 @@
             "description": "50g de Essência Adalya para Narguile, sabor Melão, Pêssego, Laranja e Limão Siciliano 🍈🍑🍊🍋",
             "price": 1400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/wd0Fvf0.png"
         },
         {
@@ -1624,7 +1624,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão rosa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/YVDvspB.png"
         },
         {
@@ -2109,7 +2109,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Uva com Creme 🍇🍦",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/u6L7l0U.png"
         },
         {
@@ -2127,7 +2127,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melão, Melancia e Menta 🍈🍉🌿",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Ok7wYxd.png"
         },
         {
@@ -2136,7 +2136,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/vczPr7Y.png"
         },
         {
