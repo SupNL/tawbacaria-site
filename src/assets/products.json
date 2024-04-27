@@ -2381,7 +2381,7 @@
             "description": "Unidade de pacote com 33 folhas de Papel de Seda Zomo Slim Alfafa na cor verde",
             "price": 400,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/fQk1RyS.png"
         },
         {
@@ -2498,7 +2498,7 @@
             "description": "Unidade de pacote com 32 Piteiras Bem Bolado Extra Large tamanho 6cm x 3,3cm, papel branco",
             "price": 400,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/LDwaM8g.png"
         },
         {
@@ -2831,7 +2831,7 @@
             "description": "Dichavador de Metal e Dourado, com 5cm de diâmetro. Possui 3 compartimentos",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/pqRMyLM.png"
         },
         {
