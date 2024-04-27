@@ -2275,6 +2275,15 @@
             "image_url": "https://i.imgur.com/NkhOxWb.png"
         },
         {
+            "code": "TRY3010",
+            "label": "Juice 60ml/3mg Trydents Strawberry 🍓",
+            "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Morango 🍓",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/yVAh82Y.png"
+        },
+        {
             "code": "NCCRZ001",
             "label": "NicSalt 30ml/35mg Crazy Clouds Cane Mint 🌿",
             "description": "30ml de NicSalt Crazy Clouds para pod (com 35mg de nicotina), sabor Menta 🌿",
@@ -2829,7 +2838,7 @@
             "code": "dichavador-grande-metal-dourado",
             "label": "Dichavador Metal Grande - Dourado",
             "description": "Dichavador de Metal e Dourado, com 5cm de diâmetro. Possui 3 compartimentos",
-            "price": 4500,
+            "price": 5000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/pqRMyLM.png"
@@ -2863,8 +2872,8 @@
         },
         {
             "code": "seda-smoking-king",
-            "label": "Seda Smoking King (33 papéis)",
-            "description": "Seda da Smoking King, contém 33 papéis",
+            "label": "Seda Smoking Deluxe King Size Branca (33 papéis)",
+            "description": "Seda da Smoking Deluxe King Size, contém 33 papéis brancos",
             "price": 600,
             "is_highlight": false,
             "in_stock": true,
