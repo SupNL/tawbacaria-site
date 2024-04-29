@@ -2100,7 +2100,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Kiwi 🥝",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/mMbFHZh.png"
         },
         {
@@ -2109,7 +2109,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Uva com Creme 🍇🍦",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/u6L7l0U.png"
         },
         {
@@ -2118,7 +2118,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/eL07U12.png"
         },
         {
@@ -2127,7 +2127,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melão, Melancia e Menta 🍈🍉🌿",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Ok7wYxd.png"
         },
         {
@@ -2136,7 +2136,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/vczPr7Y.png"
         },
         {
@@ -2181,7 +2181,7 @@
             "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Cereja 🍒",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/jXgw9g2.png"
         },
         {
@@ -2208,7 +2208,7 @@
             "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Uva 🍇",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Bm3r19b.png"
         },
         {
