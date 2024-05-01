@@ -2882,6 +2882,24 @@
     ],
     "Acessórios": [
         {
+            "code": "vidro-tubo-vaporesso-sky-solo",
+            "label": "Vidro Tubo Vaporesso Sky Solo",
+            "description": "Unidade de Vidro Tubo Vaporesso Sky Solo com 3,5ml de volume",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/yXKzeoa.png"
+        },
+        {
+            "code": "vidro-tubo-vaporesso-sky-solo-plus",
+            "label": "Vidro Tubo Vaporesso Skrr e Sky Solo Plus",
+            "description": "Unidade de Vidro Tubo Vaporesso Skrr e Sky Solo Plus com 8ml de volume",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/bzb9NkI.png"
+        },
+        {
             "code": "rosh-bking-manchester",
             "label": "Rosh Bking Manchester United",
             "description": "Unidade de Rosh de Cerâmica da Bking",
