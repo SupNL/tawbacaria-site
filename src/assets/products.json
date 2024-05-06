@@ -22,7 +22,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Banana 🍌",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/VxKOQR5.png",
             "discount": {
                 "discount": 200,
@@ -1752,7 +1752,7 @@
             "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/7qzN2L8.png"
         },
         {
@@ -2651,7 +2651,7 @@
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/G8ZQvIw.png"
         },
         {
@@ -2687,7 +2687,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de maçã verde, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/mrT6crn.png"
         },
         {
@@ -3166,7 +3166,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/omLyB9L.png"
         },
         {
@@ -3175,7 +3175,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/wWSjLv5.png"
         },
         {
@@ -3238,7 +3238,7 @@
             "description": "Unidade de Pegador de Carvão de 25cm da Amazon Hookah",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/sh9hwAE.png"
         },
         {
@@ -3256,7 +3256,7 @@
             "description": "Unidade de Piteira de 40cm da ZH",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/EeHaxxh.png"
         },
         {
@@ -3265,7 +3265,7 @@
             "description": "Unidade de Piteira de 40cm da ZH",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/suYaCYs.png"
         },
         {
@@ -3427,7 +3427,7 @@
             "description": "Unidade de Fogareiro Grande para 220w",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/hEzXVlq.png"
         },
         {
@@ -3445,7 +3445,7 @@
             "description": "Unidade de Garfo com Furador da ZORD",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/2R8uFoi.png"
         },
         {
@@ -3706,7 +3706,7 @@
             "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Rosa",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/I4bUfKJ.png"
         },
         {
@@ -3906,7 +3906,7 @@
             "description": "BEBIDA GELADA - Refrigerante Fanta de Laranja em Garrafa Mini Pet de 200ml",
             "price": 300,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/pRVLj7Q.png"
         },
         {
