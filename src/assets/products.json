@@ -1048,6 +1048,15 @@
     ],
     "Essências Magic": [
         {
+            "code": "magic-essencia-space-pineapple-red-fruit",
+            "label": "Magic Space Pineapple Red Fruit 🍍🍓",
+            "description": "50g de Essência Magic para Narguile, sabor Abacaxi e Morango",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/5fSHz7A.png"
+        },
+        {
             "code": "7908479400105",
             "label": "Magic Space Guava (Goiaba)",
             "description": "50g de Essência Magic para Narguile, sabor Goiaba",
@@ -2394,6 +2403,33 @@
             "image_url": "https://i.imgur.com/fQk1RyS.png"
         },
         {
+            "code": "zomo-seda-perfect-hemp",
+            "label": "Seda Zomo Perfect Hemp",
+            "description": "Unidade com 33 de folhas de Papel de Seda Zomo Perfect Hemp feita em Goma Arábica Natural. Papel de fibra de cânhamo, 100% orgânico, livre de psicoativos, sem químicas e aditivos. O papel de cânhamo é mais resistente do que o papel normal, sete vezes mais reciclável e não contém toxinas.",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/V4bzEE1.png"
+        },
+        {
+            "code": "zomo-seda-timao",
+            "label": "Seda Zomo Timão",
+            "description": "Unidade de pacote com 33 folhas de Papel de Seda Zomo Timão feita em Goma Arábica Natural. Se você faz parte da torcida mais fiel do Brasil, chegou a hora de bolar seus cigarros ao melhor estilo.",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/bLcaWZG.png"
+        },
+        {
+            "code": "zomo-seda-monster",
+            "label": "Seda Zomo Monster",
+            "description": "Seguindo os padrões de fábrica vocês já sabem da qualidade da Seda Zomo! A diferença da Seda Zomo Monster é o seu tamanho 108mm x 53mm para quem prefere aquela seda maior!",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/FUBvUdb.png"
+        },
+        {
             "code": "8414775013547",
             "label": "Seda Smoking Brown",
             "description": "Unidade de pacote com 33 folhas de Papel de Seda Smoking Brown Alfafa, na cor marrom",
@@ -3155,7 +3191,7 @@
             "code": "pegador-soberano-azul-claro",
             "label": "Pegador Soberano 18cm - Azul Claro",
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
-            "price": 2000,
+            "price": 1800,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/iQs3J5a.png"
@@ -3164,7 +3200,7 @@
             "code": "pegador-soberano-rosa",
             "label": "Pegador Soberano 18cm - Rosa",
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
-            "price": 2000,
+            "price": 1800,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/omLyB9L.png"
@@ -3173,10 +3209,19 @@
             "code": "pegador-soberano-dourado",
             "label": "Pegador Soberano 18cm - Dourado",
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
-            "price": 2000,
+            "price": 1800,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/wWSjLv5.png"
+        },
+        {
+            "code": "pegador-soberano-preto",
+            "label": "Pegador Soberano 18cm - Preto",
+            "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
+            "price": 1800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/hax7Xy6.png"
         },
         {
             "code": "pegador-avhookah-verde-agua",
@@ -3249,6 +3294,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/L6bYDLd.png"
+        },
+        {
+            "code": "pegador-invictus-preto-fosco",
+            "label": "Pegador Invictus 24cm - Preto Fosco",
+            "description": "Unidade de Pegador de Carvão de 25cm da Invictus",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/pEbnkb8.png"
         },
         {
             "code": "piteira-zh-rose",
