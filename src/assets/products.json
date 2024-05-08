@@ -3157,7 +3157,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/iQs3J5a.png"
         },
         {
@@ -3166,7 +3166,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/omLyB9L.png"
         },
         {
