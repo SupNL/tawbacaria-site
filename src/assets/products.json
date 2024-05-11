@@ -1,4 +1,285 @@
 {
+    "Papelito": [
+        {
+            "code": "seda-papelito-tradicional-ks",
+            "label": "Seda Papelito Tradicional King Size",
+            "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Tradicional King Size",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/iMPZZVy.png"
+        },
+        {
+            "code": "seda-papelito-brown-ks",
+            "label": "Seda Papelito Brown King Size",
+            "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Brown King Size",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/VXqxJeo.png"
+        },
+        {
+            "code": "7898950283323",
+            "label": "Seda Papelito Tropical Slim King Size",
+            "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Tropical Slim",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/NRbIPAk.png"
+        },
+        {
+            "code": "7898950283542",
+            "label": "Piteira Mega Longa Papelito (72 piteiras)",
+            "description": "Piteira Mega Longa do Papelito, contém 30 blocos com 72 piteiras, tamanho 5,5x4cm",
+            "price": 600,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/SU9Swjv.jpg"
+        },
+        {
+            "code": "7898950283481",
+            "label": "Piteira Longa Papelito (72 piteiras)",
+            "description": "Piteira Longa do Papelito, contém 30 blocos com 72 piteiras, tamanho 4x4cm",
+            "price": 500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/4PbSrHk.jpg"
+        },
+        {
+            "code": "7898950283467",
+            "label": "Seda com Bandeja Dobrável Papelito (36 piteiras)",
+            "description": "Seda com Bandeja Dobrável do Papelito, papel branco, ultrafino, contém 36 piteiras e 36 papéis",
+            "price": 800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/n4j9KR2.jpg"
+        },
+        {
+            "code": "filtro-papelito-tradicional",
+            "label": "Filtros Papelito Tradicional",
+            "description": "Unidade de pacote com 120 filtros de 6mm x 15mm",
+            "price": 800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/0M8jfzV.png"
+        },
+        {
+            "code": "dichavador-papelito-neon",
+            "label": "Dichavador Papelito Neon",
+            "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": false,
+            "image_url": "https://i.imgur.com/G8ZQvIw.png"
+        },
+        {
+            "code": "dichavador-papelito-colors",
+            "label": "Dichavador Papelito Colors",
+            "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/fz9g8Qd.png"
+        },
+        {
+            "code": "dichavador-papelito-brilho",
+            "label": "Dichavador Papelito Brilho",
+            "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/QLua3qK.png"
+        },
+        {
+            "code": "dichavador-papelito-tradicional",
+            "label": "Dichavador Papelito Tradicional",
+            "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/CaKgzrl.png"
+        },
+        {
+            "code": "papelito-piteira-tradicional",
+            "label": "Piteira Papeplito Tradicional",
+            "description": "Feitas em papel maleável, perfurado e biodegradável, nossas piteiras ajudam a resfriar a fumaça e reduzir danos. Cada livreto contém 36 piteiras. Dimensões: 55 mm x 25 mm",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/8yhCJKN.png"
+        },
+        {
+            "code": "papelito-piteira-slim",
+            "label": "Piteira Papelito Slim",
+            "description": "Feitas em papel maleável, perfurado e biodegradável, nossas piteiras ajudam a resfriar a fumaça e reduzir danos. Cada livreto contém 36 piteiras. Dimensões: 55 mm x 20 mm",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/2THRXE3.png"
+        },
+        {
+            "code": "papelito-piteira-large",
+            "label": "Piteira Papelito Large",
+            "description": "Feitas em papel maleável, perfurado e biodegradável, nossas piteiras ajudam a resfriar a fumaça e reduzir danos. Cada livreto contém 36 piteiras. Dimensões: 55 mm x 40 mm",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/7mHHhOH.png"
+        },
+        {
+            "code": "papelito-seda-tradicional-mini-size",
+            "label": "Seda Papelito Tradicional MINI SIZE",
+            "description": "Os papéis para enrolar, ou sedas, da Papelito têm marca d’água exclusiva e são de baixa gramatura, com queima lenta e goma arábica natural. O usuário tem a garantia de redução de danos , com menos fumaça e sem gosto residual. Todas as linhas vêm com o selo FSC, que comprova matéria prima de qualidade. Cada livreto contém 50 folhas. Dimensões: 78 x 44 mm",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/6qoMCBB.png"
+        },
+        {
+            "code": "papelito-seda-slim-mini-size",
+            "label": "Seda Papelito Slim MINI SIZE",
+            "description": "Os papéis para enrolar, ou sedas, da Papelito têm marca d’água exclusiva e são de baixa gramatura, com queima lenta e goma arábica natural. O usuário tem a garantia de redução de danos , com menos fumaça e sem gosto residual. Todas as linhas vêm com o selo FSC, que comprova matéria prima de qualidade. Cada livreto contém 50 folhas. Dimensões: 78 x 36 mm",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/GtBBr1K.png"
+        },
+        {
+            "code": "papelito-seda-brown-mini-size",
+            "label": "Seda Papelito Brown MINI SIZE",
+            "description": "Os papéis para enrolar, ou sedas, da Papelito têm marca d’água exclusiva e são de baixa gramatura, com queima lenta e goma arábica natural. O usuário tem a garantia de redução de danos , com menos fumaça e sem gosto residual. Todas as linhas vêm com o selo FSC, que comprova matéria prima de qualidade. Cada livreto contém 50 folhas. Dimensões: 78 x 44 mm",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/3SGhnWT.png"
+        },
+        {
+            "code": "papelito-seda-slim",
+            "label": "Seda Papelito Slim",
+            "description": "Os papéis para enrolar, ou sedas, da Papelito têm marca d’água exclusiva e são de baixa gramatura, com queima lenta e goma arábica natural. O usuário tem a garantia de redução de danos , com menos fumaça e sem gosto residual. Todas as linhas vêm com o selo FSC, que comprova matéria prima de qualidade. Cada livreto contém 36 folhas. Dimensões: 108 x 36 mm",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/naV84c5.png"
+        },
+        {
+            "code": "papelito-seda-brown-slim",
+            "label": "Seda Papelito Brown Slim",
+            "description": " Os papéis para enrolar, ou sedas, da Papelito têm marca d’água exclusiva e são de baixa gramatura, com queima lenta e goma arábica natural. O usuário tem a garantia de redução de danos , com menos fumaça e sem gosto residual. Todas as linhas vêm com o selo FSC, que comprova matéria prima de qualidade. Cada livreto contém 36 folhas. Dimensões: 108 x 36 mm",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/bSa6Df5.png"
+        },
+        {
+            "code": "papelito-seda-extra-large",
+            "label": "Seda Papelito Extra Large",
+            "description": "Os papéis para enrolar, ou sedas, da Papelito têm marca d’água exclusiva e são de baixa gramatura, com queima lenta e goma arábica natural. O usuário tem a garantia de redução de danos , com menos fumaça e sem gosto residual. Todas as linhas vêm com o selo FSC, que comprova matéria prima de qualidade. Cada livreto contém 36 folhas). Dimensões: 108 x 54 mm",
+            "price": 500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/7cvtzPL.png"
+        },
+        {
+            "code": "papelito-seda-hemp",
+            "label": "Seda Papelito Hemp",
+            "description": "Feita do que há de melhor. 100% cânhamo. Esse papel é uma verdadeira experiência. Feito a partir de fibras de cânhamo, tem baixa gramatura e possui uma cor única.) Cada livreto contém 36 folhas. Dimensões: 108 x 44 mm",
+            "price": 400,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/cwwwMcj.png"
+        },
+        {
+            "code": "papelito-seda-brown-bandeja-dropavel",
+            "label": "Seda com Bandeja Dobrável do Papelito Brown ",
+            "description": "Seda com Bandeja Dobrável do Papelito Brown, papel branco, ultrafino, contém 36 piteiras e 36 papéis",
+            "price": 800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/CEheX2W.png"
+        },
+        {
+            "code": "papelito-dichavador-cristal",
+            "label": "Dichavador Papelito Cristal",
+            "description": "Triturador com container, feita de Policarbonato. Atóxico, ultra resistente e de design exclusivo",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/9pR4SHY.png"
+        },
+        {
+            "code": "papelito-tubelitos",
+            "label": "Tubelitos Papelito",
+            "description": "ESCOLHER DAS 3 OPÇÕES DE COR (Amarelo, verde escuro e preto). Resistente a altas temperaturas. À prova d’água. Vedação completa",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/jS4XXfo.png"
+        },
+        {
+            "code": "papelito-bandeja-metal-brasilia-amarela",
+            "label": "Bandeja de Metal Papelito - Brasília Amarela",
+            "description": "Bandeja de metal da Papelito, dimensões 18cm x 14cm",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/EciZOQX.png"
+        },
+        {
+            "code": "papelito-bandeja-metal-quatro-elementos",
+            "label": "Bandeja de Metal Papelito - Quatro Elementos",
+            "description": "Bandeja de metal da Papelito, dimensões 18cm x 14cm",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/VPmj6gn.png"
+        },
+        {
+            "code": "papelito-bandeja-metal-universo-dimensoes",
+            "label": "Bandeja de Metal Papelito - Universo Dimensões",
+            "description": "Bandeja de metal da Papelito, dimensões 18cm x 14cm",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/mFkGcc4.png"
+        },
+        {
+            "code": "papelito-cinzeiro-mae-natureza",
+            "label": "Cinzeiro Papelito - Mãe Natureza",
+            "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/3KgTQMq.png"
+        },
+        {
+            "code": "papelito-cinzeiro-guru",
+            "label": "Cinzeiro Papelito - Guru",
+            "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/UpmAqxg.png"
+        },
+        {
+            "code": "papelito-cinzeiro-fauna-flora",
+            "label": "Cinzeiro Papelito - Fauna e Flora",
+            "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/aM0kGyt.png"
+        },
+        {
+            "code": "papelito-cinzeiro-onca",
+            "label": "Cinzeiro Papelito - Onça",
+            "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/IUP6Ns1.png"
+        }
+    ],
     "Essências Ziggy": [
         {
             "code": "7908479402079",
@@ -2457,33 +2738,6 @@
             "image_url": "https://i.imgur.com/HLSXqeE.png"
         },
         {
-            "code": "seda-papelito-tradicional-ks",
-            "label": "Seda Papelito Tradicional King Size",
-            "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Tradicional King Size",
-            "price": 400,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/iMPZZVy.png"
-        },
-        {
-            "code": "seda-papelito-brown-ks",
-            "label": "Seda Papelito Brown King Size",
-            "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Brown King Size",
-            "price": 400,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/VXqxJeo.png"
-        },
-        {
-            "code": "7898950283323",
-            "label": "Seda Papelito Tropical Slim King Size",
-            "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Tropical Slim",
-            "price": 400,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/NRbIPAk.png"
-        },
-        {
             "code": "seda-vidro",
             "label": "Seda de Vidro 8cm",
             "description": "Unidade de seda de vidro, com 8cm de comprimento e 10mm de largura",
@@ -2563,15 +2817,6 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/7iPI83K.png"
-        },
-        {
-            "code": "filtro-papelito-tradicional",
-            "label": "Filtros Papelito Tradicional",
-            "description": "Unidade de pacote com 120 filtros de 6mm x 15mm",
-            "price": 800,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/0M8jfzV.png"
         },
         {
             "code": "7898659810131",
@@ -2680,42 +2925,6 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/d8Ibbzq.png"
-        },
-        {
-            "code": "dichavador-papelito-neon",
-            "label": "Dichavador Papelito Neon",
-            "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
-            "price": 2000,
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/G8ZQvIw.png"
-        },
-        {
-            "code": "dichavador-papelito-colors",
-            "label": "Dichavador Papelito Colors",
-            "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
-            "price": 2000,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/fz9g8Qd.png"
-        },
-        {
-            "code": "dichavador-papelito-brilho",
-            "label": "Dichavador Papelito Brilho",
-            "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
-            "price": 2000,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/QLua3qK.png"
-        },
-        {
-            "code": "dichavador-papelito-tradicional",
-            "label": "Dichavador Papelito Tradicional",
-            "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
-            "price": 2000,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/CaKgzrl.png"
         },
         {
             "code": "7898960207446",
@@ -2878,33 +3087,6 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/pqRMyLM.png"
-        },
-        {
-            "code": "7898950283542",
-            "label": "Piteira Mega Longa Papelito (72 piteiras)",
-            "description": "Piteira Mega Longa do Papelito, contém 30 blocos com 72 piteiras, tamanho 5,5x4cm",
-            "price": 600,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/SU9Swjv.jpg"
-        },
-        {
-            "code": "7898950283481",
-            "label": "Piteira Longa Papelito (72 piteiras)",
-            "description": "Piteira Longa do Papelito, contém 30 blocos com 72 piteiras, tamanho 4x4cm",
-            "price": 500,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/4PbSrHk.jpg"
-        },
-        {
-            "code": "7898950283467",
-            "label": "Seda com Bandeja Dobrável Papelito (36 piteiras)",
-            "description": "Seda com Bandeja Dobrável do Papelito, papel branco, ultrafino, contém 36 piteiras e 36 papéis",
-            "price": 800,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/n4j9KR2.jpg"
         },
         {
             "code": "seda-smoking-king",
