@@ -1905,7 +1905,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com hortelã refrescante",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/U9pdeJf.png"
         },
         {
@@ -2534,7 +2534,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Menta Refrescante 🌿",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ruPwZMk.png"
         },
         {
@@ -2570,7 +2570,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/yVAh82Y.png"
         },
         {
