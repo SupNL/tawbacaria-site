@@ -127,6 +127,15 @@
             "image_url": "https://i.imgur.com/7mHHhOH.png"
         },
         {
+            "code": "papelito-ultra-longa-piteira",
+            "label": "Piteira Ultra Longa Papelito",
+            "description": "Contém 30 blocos com 72 piteiras, tamanho 4,5x4cm",
+            "price": 500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/SSFRAck.png"
+        },
+        {
             "code": "papelito-seda-tradicional-mini-size",
             "label": "Seda Papelito Tradicional MINI SIZE",
             "description": "Os papéis para enrolar, ou sedas, da Papelito têm marca d’água exclusiva e são de baixa gramatura, com queima lenta e goma arábica natural. O usuário tem a garantia de redução de danos , com menos fumaça e sem gosto residual. Todas as linhas vêm com o selo FSC, que comprova matéria prima de qualidade. Cada livreto contém 50 folhas. Dimensões: 78 x 44 mm",
@@ -191,7 +200,7 @@
         },
         {
             "code": "papelito-seda-brown-bandeja-dropavel",
-            "label": "Seda com Bandeja Dobrável do Papelito Brown ",
+            "label": "Seda com Bandeja Dobrável do Papelito Brown",
             "description": "Seda com Bandeja Dobrável do Papelito Brown, papel branco, ultrafino, contém 36 piteiras e 36 papéis",
             "price": 800,
             "is_highlight": false,
@@ -1610,6 +1619,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/8YajecH.png"
+        },
+        {
+            "code": "0619205823521",
+            "label": "Nay Vanilla 🍦 (Baunilha)",
+            "description": "50g de Essência Nay, sabor Baunilha 🍦",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/YzqjLzM.png"
         }
     ],
     "Essências Chacal": [
@@ -2916,6 +2934,15 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/hdhfqT1.png"
+        },
+        {
+            "code": "dichavador-acrilico-bob-marley-grande",
+            "label": "Dichavador Acrílico Grande Bob Marley",
+            "description": "Dichavador de Acrílico Bob Marley, com 5,5cm, 3 partes, com imã. Disponível em várias cores: Preto, vermelho, verde, verde neon, azul e transparente",
+            "price": 1500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/9PWiNFT.png"
         },
         {
             "code": "dichavador-grande-metal-caveira",
