@@ -2051,7 +2051,7 @@
             "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/rAQImr6.png"
         },
         {
@@ -2552,7 +2552,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Menta Refrescante 🌿",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/ruPwZMk.png"
         },
         {
@@ -2561,7 +2561,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Tutti-Frutti 🍬",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Czenl48.png"
         },
         {
@@ -2570,7 +2570,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Cereja 🍒",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6sfduFY.png"
         },
         {
@@ -2588,7 +2588,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/yVAh82Y.png"
         },
         {
@@ -2896,7 +2896,7 @@
             "description": "Dichavador de Policarbonato Bem Bolado, com 4cm de diâmetro. Possui três compartimentos",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Kb7Liy0.png"
         },
         {
@@ -2968,7 +2968,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de chocolate, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/yJx9kx5.png"
         },
         {
@@ -3321,7 +3321,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Ol2IRbT.png"
         },
         {
@@ -3537,7 +3537,7 @@
             "description": "Unidade de Piteira de 40cm da ZH",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/sQ0IZ1S.png"
         },
         {
@@ -3546,7 +3546,7 @@
             "description": "Unidade de Piteira de 40cm da ZH",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/AvbXhwz.png"
         },
         {
@@ -3564,7 +3564,7 @@
             "description": "Unidade de Prato pequeno de 18cm da Zion Hookah",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/q3IXeDY.png"
         },
         {
@@ -3708,7 +3708,7 @@
             "description": "Unidade de Garfo com Furador da ZORD",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/2R8uFoi.png"
         },
         {
@@ -3906,7 +3906,7 @@
             "description": "Borracha Vedação para Rosh",
             "price": 400,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/caaYIM7.png"
         },
         {
