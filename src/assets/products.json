@@ -1206,7 +1206,7 @@
             "description": "50g de Essência Adalya para Narguile, sabor Melão, Melancia e muuuito mais Menta 🍈🍉🌿",
             "price": 1400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Ld9YwZd.png"
         },
         {
@@ -1968,7 +1968,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com boldo combinado com menta",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WtdLkmO.png"
         },
         {
@@ -3058,7 +3058,7 @@
             "description": "Bong de acrílico de 20cm. Disponíveis na cor amarela e verde",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/VwuphrG.png"
         },
         {
