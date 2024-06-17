@@ -1901,7 +1901,7 @@
             "description": "50g de Essência Sense, sabor Melancia e Framboesa",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6QKidkR.png"
         },
         {
