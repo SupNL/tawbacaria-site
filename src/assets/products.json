@@ -3359,6 +3359,15 @@
             "image_url": "https://i.imgur.com/0m4UBnN.png"
         },
         {
+            "code": "rosh-seven-hookah-tradicional-azul-bebe",
+            "label": "Rosh Seven Hookah Tradicional Azul Bebê",
+            "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
+            "price": 5500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/84YOrIS.png"
+        },
+        {
             "code": "rosh-seven-hookah-tradicional-preto",
             "label": "Rosh Seven Hookah Tradicional Preto",
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
@@ -3501,6 +3510,15 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/iiRVdLF.png"
+        },
+        {
+            "code": "pegador-soberano-roxo",
+            "label": "Pegador Soberano 18cm - Roxo",
+            "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
+            "price": 1800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/2F3oe7u.png"
         },
         {
             "code": "pegador-soberano-azul-claro",
