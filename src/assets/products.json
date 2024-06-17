@@ -240,7 +240,7 @@
             "description": "Bandeja de metal da Papelito, dimensões 18cm x 14cm",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/VPmj6gn.png"
         },
         {
@@ -258,7 +258,7 @@
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/3KgTQMq.png"
         },
         {
@@ -714,7 +714,7 @@
             "description": "50g de Essência Zomo para Narguile, sabor Menta 🌿",
             "price": 900,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Togowzv.png"
         },
         {
@@ -813,7 +813,7 @@
             "description": "50g de Essência Zomo para Narguile, sabor Blueberry (Mirtilo) com Menta 🫐🌿",
             "price": 900,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Gb8aJhf.png"
         },
         {
@@ -1491,7 +1491,7 @@
             "description": "50g de Essência Nay, sabor Frutas Vermelhas",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/pVFC5Ky.png"
         },
         {
@@ -1536,7 +1536,7 @@
             "description": "50g de Essência Nay, sabor Goma de Abacaxi 🍍",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/PnIepYo.png"
         },
         {
@@ -1554,7 +1554,7 @@
             "description": "50g de Essência Nay, sabor Tangerina 🍊",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/eZzs4Pu.png"
         },
         {
@@ -2950,7 +2950,7 @@
             "description": "Dichavador de Metal com estampa de caveira, com 5cm de diâmetro e 2,5cm de altura. Disponível em várias estampas",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/d8Ibbzq.png"
         },
         {
@@ -3076,7 +3076,7 @@
             "description": "Pipe de Metal com estampa Peace",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/C8ZhEnv.png"
         },
         {
@@ -3195,7 +3195,7 @@
             "description": "Unidade de Rosh de Barro da Econo",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/X3UMs7I.png"
         },
         {
@@ -3735,7 +3735,7 @@
             "description": "Unidade de Garfo com Furador da ZORD",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/xlfKxhj.png"
         },
         {
@@ -3960,7 +3960,7 @@
             "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Azul Claro",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/09XbM62.png"
         },
         {
@@ -3978,7 +3978,7 @@
             "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Lilás",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Noigw3Q.png"
         },
         {
@@ -4079,7 +4079,7 @@
             "description": "BEBIDA GELADA - Vodka Nacional com Graduação Alcoólica 37%. Contém 900 ml. Beba com moderação!",
             "price": 1900,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/UzuuYxg.png"
         },
         {
@@ -4115,7 +4115,7 @@
             "description": "BEBIDA GELADA - Cerveja Heineken em Garrafa Long Neck de 330ml, com Graduação Alcoólica 5,0%. Beba com moderação!",
             "price": 900,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/W7bdhl6.png"
         },
         {
@@ -4142,7 +4142,7 @@
             "description": "BEBIDA GELADA - Cerveja Heineken em Garrafa Long Neck de 330ml, com Graduação Alcoólica 5,0%. Beba com moderação!",
             "price": 900,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/lthrdvG.png"
         },
         {
@@ -4178,7 +4178,7 @@
             "description": "BEBIDA GELADA - Suco de Laranja Shefa em Caixinha de 200ml",
             "price": 300,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/X8HIZEz.png"
         }
     ]
