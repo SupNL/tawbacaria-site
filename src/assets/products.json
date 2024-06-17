@@ -864,6 +864,22 @@
     ],
     "Essências Onix": [
         {
+            "code": "onix-essencia-high-mint",
+            "label": "Onix High Mint 🥶",
+            "description": "50g de Essência Onix Experience para Narguile, sabor Hortelã 🥶",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/FQbNqDs.jpeg",
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
+                }
+            }
+        },
+        {
             "code": "9MQCWTFCS",
             "label": "Onix High Cherry (Cereja) 🍒",
             "description": "50g de Essência Onix Experience para Narguile, sabor Cereja 🍒",
@@ -1337,6 +1353,15 @@
         }
     ],
     "Essências Magic": [
+        {
+            "code": "magic-essencia-space-strawnilla",
+            "label": "Magic Space Strawnilla 🍓🍦",
+            "description": "50g de Essência Magic para Narguile, sabor Morango com Baunilha",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/WsKOyXo.jpeg"
+        },
         {
             "code": "magic-essencia-space-pineapple-red-fruit",
             "label": "Magic Space Pineapple Red Fruit 🍍🍓",
@@ -2028,13 +2053,13 @@
     ],
     "Carvão": [
         {
-            "code": "carvao-zomo-unidade",
-            "label": "Carvão Hexagonal Zomo - UNIDADE",
-            "description": "Uma unidade de Carvão Zomo Hexagonal",
+            "code": "carvao-dcodo-unidade",
+            "label": "Carvão Hexagonal D'coco - UNIDADE",
+            "description": "Uma unidade de Carvão D'coco Hexagonal",
             "price": 100,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/Sq2LlGF.png"
+            "image_url": "https://i.imgur.com/AsaYroz.png"
         },
         {
             "code": "carvao-chacal-unidade",
@@ -2085,10 +2110,19 @@
             "code": "carvao-dcoco-caixa-250g",
             "label": "Caixa 250g Carvão Hexagonal D'Coco",
             "description": "Caixa com 250g de Carvão D'coco Hexagonal",
-            "price": 1200,
+            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/OAYGvxG.png"
+        },
+        {
+            "code": "carvao-dcoco-caixa-500g",
+            "label": "Caixa 500g Carvão Hexagonal D'Coco",
+            "description": "Caixa com 500g de Carvão D'coco Hexagonal",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/bmJc50H.jpeg"
         },
         {
             "code": "carvao-dcoco-caixa-1kg",
@@ -2157,6 +2191,42 @@
         }
     ],
     "Fumos e Isqueiros": [
+        {
+            "code": "caixa-palheiro-jack-paiol-blue-ice",
+            "label": "Caixa Palheiro Jack Paiol's Blue Ice (10 unidades)",
+            "description": "Caixa com 10 unidades de palheiro Jack Paiol, sabor Blue Ice",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/KtKkKlr.jpeg"
+        },
+        {
+            "code": "caixa-palheiro-jack-paiol-maracuja",
+            "label": "Caixa Palheiro Jack Paiol's Maracujá (10 unidades)",
+            "description": "Caixa com 10 unidades de palheiro Jack Paiol's, sabor Maracujá",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/xo1KOOC.jpeg"
+        },
+        {
+            "code": "caixa-palheiro-jack-paiol-love66-20",
+            "label": "Caixa Palheiro Jack Paiol's Love 66 (20 unidades)",
+            "description": "Caixa com 10 unidades de palheiro Jack Paiol's, sabor Love 66",
+            "price": 1800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/qrwkB1C.jpeg"
+        },
+        {
+            "code": "caixa-palheiro-jack-paiol-menta-20",
+            "label": "Caixa Palheiro Jack Paiol's Menta (20 unidades)",
+            "description": "Caixa com 10 unidades de palheiro Jack Paiol's, sabor Menta",
+            "price": 1800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/33PoB3z.jpeg"
+        },
         {
             "code": "0742832996259",
             "label": "Palheiro Santropez Uva 20 unidades 🍇",
@@ -2384,6 +2454,42 @@
         }
     ],
     "Juices e Nic Salts": [
+        {
+            "code": "juice-xerife-mint-semnicotina",
+            "label": "Juice Xerife 15ml/0mg Prime Mint 🥶",
+            "description": "15ml de Juice Xerife para vaper (sem nicotina), sabor Hortelã",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/fCSqYiH.jpeg"
+        },
+        {
+            "code": "juice-xerife-tuttifrutti-semnicotina",
+            "label": "Juice Xerife 15ml/0mg Tutti Frutti 🍭",
+            "description": "15ml de Juice Xerife para vaper (sem nicotina), sabor Tutti Frutti 🍭",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/yHiPDjD.jpeg"
+        },
+        {
+            "code": "juice-xerife-macaverde-melancia-semnicotina",
+            "label": "Juice Xerife 15ml/0mg Maçã verde e Melancia 🍏🍉",
+            "description": "15ml de Juice Xerife para vaper (sem nicotina), sabor Maçã verde e Melancia 🍏🍉",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/L5gz7qu.jpeg"
+        },
+        {
+            "code": "juice-xerife-morango-kiwi-semnicotina",
+            "label": "Juice Xerife 15ml/0mg Morango com Kiwi 🍓🥝",
+            "description": "15ml de Juice Xerife para vaper (sem nicotina), sabor Morango com Kiwi 🍓🥝",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/rRSxR2V.jpeg"
+        },
         {
             "code": "JCCRZ011-semnicotina",
             "label": "Juice 30ml/0mg Crazy Clouds Kiwi 🥝",
@@ -3514,45 +3620,63 @@
             "image_url": "https://i.imgur.com/pEbnkb8.png"
         },
         {
-            "code": "piteira-zh-rose",
-            "label": "Piteira ZH Turbo 40cm - Rosê",
-            "description": "Unidade de Piteira de 40cm da ZH",
+            "code": "piteira-generica-azul",
+            "label": "Piteira de Alumínio 40cm - Azul",
+            "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": false,
+            "image_url": "https://i.imgur.com/AMdQdmn.jpeg"
+        },
+        {
+            "code": "piteira-generica-rose",
+            "label": "Piteira de Alumínio 40cm - Rosê",
+            "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/EeHaxxh.png"
         },
         {
-            "code": "piteira-zh-roxo",
-            "label": "Piteira ZH Turbo 40cm - Roxo",
-            "description": "Unidade de Piteira de 40cm da ZH",
+            "code": "piteira-generica-roxo",
+            "label": "Piteira de Alumínio 40cm - Roxo",
+            "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/suYaCYs.png"
         },
         {
-            "code": "piteira-zh-preto",
-            "label": "Piteira ZH Turbo 40cm - Preto",
-            "description": "Unidade de Piteira de 40cm da ZH",
+            "code": "piteira-generica-preto",
+            "label": "Piteira de Alumínio 40cm - Preto",
+            "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/sQ0IZ1S.png"
         },
         {
-            "code": "piteira-zh-dourado",
-            "label": "Piteira ZH Turbo 40cm - Dourado",
-            "description": "Unidade de Piteira de 40cm da ZH",
+            "code": "piteira-generica-dourado",
+            "label": "Piteira de Alumínio 40cm - Dourado",
+            "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/AvbXhwz.png"
         },
         {
-            "code": "piteira-zh-rosa",
-            "label": "Piteira ZH Turbo 40cm - Rosa",
-            "description": "Unidade de Piteira de 40cm da ZH",
+            "code": "piteira-generica-prata",
+            "label": "Piteira de Alumínio 40cm - Prata",
+            "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": false,
+            "image_url": "https://i.imgur.com/5jrBPmW.jpeg"
+        },
+        {
+            "code": "piteira-generica-rosa",
+            "label": "Piteira de Alumínio 40cm - Rosa",
+            "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
             "in_stock": true,
