@@ -1943,6 +1943,15 @@
     ],
     "Ervas para Tereré": [
         {
+            "code": "chacal-erva-limao",
+            "label": "Chacal Erva-Mate Limão",
+            "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/TCQWUSR.png"
+        },
+        {
             "code": "0619205423567",
             "label": "Chacal Erva-Mate Hortelã Ice",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com hortelã refrescante",
@@ -2029,7 +2038,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão e menta",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WjlTPjR.png"
         },
         {
@@ -2212,7 +2221,7 @@
         {
             "code": "caixa-palheiro-jack-paiol-love66-20",
             "label": "Caixa Palheiro Jack Paiol's Love 66 (20 unidades)",
-            "description": "Caixa com 10 unidades de palheiro Jack Paiol's, sabor Love 66",
+            "description": "Caixa com 20 unidades de palheiro Jack Paiol's, sabor Love 66",
             "price": 1800,
             "is_highlight": false,
             "in_stock": true,
@@ -2220,8 +2229,8 @@
         },
         {
             "code": "caixa-palheiro-jack-paiol-menta-20",
-            "label": "Caixa Palheiro Jack Paiol's Menta (20 unidades)",
-            "description": "Caixa com 10 unidades de palheiro Jack Paiol's, sabor Menta",
+            "label": "Caixa Palheiro Jack Paiol's Menta (20 unidades), com Piteira",
+            "description": "Caixa com 20 unidades de palheiro Jack Paiol's, sabor Menta, inclui piteira",
             "price": 1800,
             "is_highlight": false,
             "in_stock": true,
@@ -2266,7 +2275,7 @@
         {
             "code": "7898963784180",
             "label": "Palheiro JC Menta 10 unidades 🌿",
-            "description": "Caixa com 20 unidades de palheiro JC, sabor Menta 🌿",
+            "description": "Caixa com 10 unidades de palheiro JC, sabor Menta 🌿",
             "price": 1000,
             "is_highlight": false,
             "in_stock": true,
@@ -2275,7 +2284,7 @@
         {
             "code": "7898963784227",
             "label": "Palheiro JC Uva 10 unidades 🍇",
-            "description": "Caixa com 20 unidades de palheiro JC, sabor Uva 🍇",
+            "description": "Caixa com 10 unidades de palheiro JC, sabor Uva 🍇",
             "price": 1000,
             "is_highlight": false,
             "in_stock": true,
@@ -4183,7 +4192,7 @@
             "description": "Abafador de alumínio, coloração Preta",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/XFLhc3J.png"
         },
         {
