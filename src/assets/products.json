@@ -2903,7 +2903,7 @@
             "description": "Feito de silicone alimentício, maleável, não gruda, possui 3cm de altura e 6,7cm de diâmetro. Quando feito o pedido, mandaremos foto dos modelos disponíveis para a escolha.",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ka9FM4A.png"
         },
         {
@@ -3841,7 +3841,7 @@
             "description": "Unidade de Fogareiro Grande para 220w",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/hEzXVlq.png"
         },
         {
