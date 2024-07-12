@@ -69,7 +69,7 @@
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/G8ZQvIw.png"
         },
         {
@@ -267,7 +267,7 @@
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/UpmAqxg.png"
         },
         {
@@ -285,7 +285,7 @@
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/IUP6Ns1.png"
         }
     ],
@@ -2984,7 +2984,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 5,5cm x 5mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Icb6XfH.png"
         },
         {
@@ -3128,7 +3128,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de melancia, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/RbL9qsw.png"
         },
         {
@@ -3227,7 +3227,7 @@
             "description": "Dichavador de Metal e Dourado, com 5cm de diâmetro. Possui 3 compartimentos",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/pqRMyLM.png"
         },
         {
@@ -3292,7 +3292,7 @@
             "description": "Unidade de Rosh de Cerâmica da Bking",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/JgnyIJ4.png"
         },
         {
@@ -4174,7 +4174,7 @@
             "description": "Suporte para Narguilé Pequeno, feito de MDF",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/KRj3nLR.png"
         },
         {
