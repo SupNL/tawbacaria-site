@@ -2766,7 +2766,7 @@
             "description": "15ml de NicSalt Caravela para pod (com 35mg de nicotina), sabor Uva 🍇",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/8dikvSO.png"
         }
     ],
