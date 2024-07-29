@@ -40,7 +40,7 @@
             "code": "7898950283481",
             "label": "Piteira Longa Papelito (72 piteiras)",
             "description": "Piteira Longa do Papelito, contém 30 blocos com 72 piteiras, tamanho 4x4cm",
-            "price": 500,
+            "price": 600,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/4PbSrHk.jpg"
@@ -128,9 +128,9 @@
         },
         {
             "code": "papelito-ultra-longa-piteira",
-            "label": "Piteira Ultra Longa Papelito",
+            "label": "Piteira Papelito Ultra Longa",
             "description": "Contém 30 blocos com 72 piteiras, tamanho 4,5x4cm",
-            "price": 500,
+            "price": 600,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/SSFRAck.png"
@@ -630,7 +630,7 @@
             "code": "7898962227213",
             "label": "Ziggy Burley Mint 🌿",
             "description": "50g de Essência Ziggy para Narguile, sabor tabaco Burley com Menta 🌿",
-            "price": 1000,
+            "price": 1100,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Kx7OT8T.png",
@@ -860,6 +860,33 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/wRbgure.png"
+        },
+        {
+            "code": "zomo-strong-drops-menthol",
+            "label": "Zomo Menthol - Linha Strong Drops",
+            "description": "50g de Essência Zomo para Narguile. Strong Drops Menthol é para quem curte uma experiência intensa e refrescante, essa essência é uma explosão de frescor a qualquer momento do dia. Uma combinação desenvolvida com o máximo do menthol e que deixa qualquer esquentadinho numa fria.",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Rd8jXMq.png"
+        },
+        {
+            "code": "zomo-strong-drops-uva",
+            "label": "Zomo Uva 🍇 -  Linha Strong Drops",
+            "description": "50g de Essência Zomo para Narguile. Strong Drops Uva é uma explosão de sabor frutado e refrescância! Feito para quem quer ter uma experiência intensa, mas com aquele docinho azedo que só a Zomo entrega em suas essências.",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/2d3BAPM.png"
+        },
+        {
+            "code": "zomo-strong-drops-cereja",
+            "label": "Zomo Cereja 🍒 - Linha Strong Drops",
+            "description": "50g de Essência Zomo para Narguile. Strong Drops Cereja é a solução para você que coloca aquela balinha no arguile. Essa essência tem aquele sabor que você já conhece muito bem, só que com refrescância e ousadia Zomo!",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/enfP4lW.png"
         }
     ],
     "Essências Onix": [
@@ -1584,7 +1611,7 @@
         },
         {
             "code": "0618341023581",
-            "label": "Nay Prime Mint 🌿",
+            "label": "Nay Mint 🌿",
             "description": "50g de Essência Nay, sabor Menta 🌿",
             "price": 1000,
             "is_highlight": false,
@@ -1934,11 +1961,85 @@
         {
             "code": "0618231813476",
             "label": "Sense Mangonana 🥭🍌",
-            "description": "50g de Essência Sense, sabor Manga com Banana 🥭 🍌",
+            "description": "50g de Essência Sense, sabor Manga com Banana 🥭🍌",
             "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/oVYLN6l.png"
+        },
+        {
+            "code": "0631430014703",
+            "label": "Sense Pera Ice 🍐🧊",
+            "description": "50g de Essência Sense, sabor Pera refrescante 🍐🧊",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/vOiZRUC.png"
+        }
+    ],
+    "Essências Smyrna": [
+        {
+            "code": "essenciasmyrna-greenmint",
+            "label": "Smyrna Green Mint 🌿",
+            "description": "50g de Essência Smyrna, sabor Hortelã",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/cwV3SyF.png"
+        },
+        {
+            "code": "essenciasmyrna-peraice",
+            "label": "Smyrna Pera Ice 🍐🧊",
+            "description": "50g de Essência Smyrna, sabor Pera refrescante",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/yznPeYD.png"
+        },
+        {
+            "code": "essenciasmyrna-mangamorango",
+            "label": "Smyrna Manga Morango 🥭🍓",
+            "description": "50g de Essência Smyrna, sabor Manga com Morango",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/WDaG7Jy.png"
+        },
+        {
+            "code": "essenciasmyrna-hefesto",
+            "label": "Smyrna Hefesto - Linha dos Deuses",
+            "description": "50g de Essência Smyrna, a Smyrna Hefesto traz o puro sabor do Maracujá. Um sabor cítrico digno dos deuses que tomará conta da sua sessão",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/z0EUCZi.png"
+        },
+        {
+            "code": "essenciasmyrna-poseidon",
+            "label": "Smyrna Poseidon - Linha dos Deuses",
+            "description": "50g de Essência Smyrna, a Essência Smyrna Poseidon tem sabor do mix de Melão e Maracujá. Uma essência adocicada e cítrica com alta intensidade de sabor",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/FxXjQCS.png"
+        },
+        {
+            "code": "essenciasmyrna-zeus",
+            "label": "Smyrna Zeus - Linha dos Deuses 🥶",
+            "description": "50g de Essência Smyrna, a essência Zeus da linha Era dos Deuses da Smyrna apresenta um sabor incrível de menta gelada. Essa foi feita para você que é amante de menta",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/tgnYBzI.png"
+        },
+        {
+            "code": "essenciasmyrna-ruby",
+            "label": "Smyrna Ruby 🍓🥝",
+            "description": "50g de Essência Smyrna. Com um sabor muito mais precioso do que joias, a essência Ruby traz o poder do puro sabor do morango combinado com a refrescância do kiwi ice. Esse mix de sabores garante uma sessão deliciosa do início ao fim",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/IKdSEDI.png"
         }
     ],
     "Ervas para Tereré": [
@@ -2197,6 +2298,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/ujwZ2gj.png"
+        },
+        {
+            "code": "papel-aluminio-foil-supreme",
+            "label": "Papel Alumínio Foil Supreme 50 Folhas (Alto Relevo)",
+            "description": "Caixa com 50 unidades de folhas de alto relevo de papel alumínio Foil Supreme",
+            "price": 1500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/QlIj8ix.png"
         }
     ],
     "Fumos e Isqueiros": [
@@ -2372,6 +2482,24 @@
             "image_url": "https://i.imgur.com/LTJIggw.png"
         },
         {
+            "code": "7898956381426",
+            "label": "Tabaco/Fumo Tabaquin 20g",
+            "description": "Descubra a excelência do Tabaco Tabaquin Hi Tobacco, uma escolha perfeita para os apreciadores de tabaco de qualidade superior. Com suas qualidades distintas, esse tabaco oferece uma experiência única, proporcionando uma fumaça suave e aromática.",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/uRsOoCm.png"
+        },
+        {
+            "code": "tabaco-dublin-ice-mint",
+            "label": "Tabaco/Fumo Dublin Ice Mint 🌿 25g",
+            "description": "O Tabaco Dublin traz toda o frescor do Hortelã para seu cigarro de enrolar. Para quem gosta de refrescância, com certeza vai adorar a experiência do Tabaco Dublin ice mint.",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Iitgfuc.png"
+        },
+        {
             "code": "7898911411144",
             "label": "Charuto Talvis Corona Tradicional 2 unidades",
             "description": "Fabricado com folhas de tabaco da região do Recônvaco Baiano; Tamanho de 157mm x 15mm. Embalados indivdualmente preservando seu frescor e qualidade de sabor suave.",
@@ -2451,15 +2579,6 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/Jqoo3Uc.png"
-        },
-        {
-            "code": "7898956381426",
-            "label": "Tabaco/Fumo Tabaquin 20g",
-            "description": "Descubra a excelência do Tabaco Tabaquin Hi Tobacco, uma escolha perfeita para os apreciadores de tabaco de qualidade superior. Com suas qualidades distintas, esse tabaco oferece uma experiência única, proporcionando uma fumaça suave e aromática.",
-            "price": 1200,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/uRsOoCm.png"
         }
     ],
     "Juices e Nic Salts": [
@@ -3060,6 +3179,15 @@
             "image_url": "https://i.imgur.com/9PWiNFT.png"
         },
         {
+            "code": "dichavador-grande-metal-dourado",
+            "label": "Dichavador Metal Grande - Dourado",
+            "description": "Dichavador de Metal e Dourado, com 5cm de diâmetro. Possui 3 compartimentos",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": false,
+            "image_url": "https://i.imgur.com/pqRMyLM.png"
+        },
+        {
             "code": "dichavador-grande-metal-caveira",
             "label": "Dichavador Metal Grande Caveira",
             "description": "Dichavador de Metal com estampa de caveira, com 5cm de diâmetro e 2,5cm de altura. Disponível em várias estampas",
@@ -3067,6 +3195,78 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/d8Ibbzq.png"
+        },
+        {
+            "code": "dichavador-oreo",
+            "label": "Dichavador Oreo",
+            "description": "Disponível nas cores branco e verde. MEDIDAS 5x3cm",
+            "price": 4000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Xa7Pm5C.png"
+        },
+        {
+            "code": "dichavador-granada",
+            "label": "Dichavador Granada",
+            "description": "Feito de metal, 3 partes, com imã medindo 8x3cm",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/eJ4HTjV.png"
+        },
+        {
+            "code": "dichavador-metal-grande-amsterdam",
+            "label": "Dichavador Metal Grande Amsterdam",
+            "description": "Possui 3 compartimentos, com imã, medindo 5x2,5cm",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/3p03IUh.png"
+        },
+        {
+            "code": "dichavador-metal-poker",
+            "label": "Dichavador Metal Poker",
+            "description": "Possui 3 compartimentos, com imã, medindo 4x2,75cm",
+            "price": 4500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/65DthHY.png"
+        },
+        {
+            "code": "dichavador-cremaria-grande",
+            "label": "Dichavador Cremaria Grande",
+            "description": "Possui 3 partes, material acrílico, medindo 6x2,5cm",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/J22RvG0.png"
+        },
+        {
+            "code": "dichavador-amsterdam-spectrum-hemp",
+            "label": "Dichavador Metal Amsterdam Spectrum Hemp 4 partes",
+            "description": "Dichavador de metal feito de altíssima qualidade. Possui 4 partes, com compartimento para armazenagem e fechamento com imã de neodímio. MEDIDAS: 4x3cm",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/zQIcaRh.png"
+        },
+        {
+            "code": "dichavador-metal-preto-folha",
+            "label": "Dichavador Metal Preto Folha",
+            "description": "Possui 3 partes, com imã, medindo 4x2,5cm",
+            "price": 4500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/tMszsHY.png"
+        },
+        {
+            "code": "dichavador-amsterdam-abacaxi",
+            "label": "Dichavador Metal Amsterdam Abacaxi",
+            "description": "Possui 3 partes, com imã, medindo 4x3cm",
+            "price": 4500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/ukxr5Kv.png"
         },
         {
             "code": "7898960207446",
@@ -3168,15 +3368,6 @@
             "image_url": "https://i.imgur.com/6brwpuF.png"
         },
         {
-            "code": "bong-acrilico",
-            "label": "Bong Acrílico 20cm",
-            "description": "Bong de acrílico de 20cm. Disponíveis na cor amarela e verde",
-            "price": 4000,
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/VwuphrG.png"
-        },
-        {
             "code": "pipe-metal-bob-marley",
             "label": "Pipe de Metal - Bob Marley",
             "description": "Pipe de Metal com estampa Bob Marley",
@@ -3193,6 +3384,15 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/C8ZhEnv.png"
+        },
+        {
+            "code": "bong-acrilico",
+            "label": "Bong Acrílico 20cm",
+            "description": "Bong de acrílico de 20cm. Disponíveis na cor amarela e verde",
+            "price": 4000,
+            "is_highlight": false,
+            "in_stock": false,
+            "image_url": "https://i.imgur.com/VwuphrG.png"
         },
         {
             "code": "bong-acrilico-colorido",
@@ -3213,6 +3413,15 @@
             "image_url": "https://i.imgur.com/tR2hhkq.png"
         },
         {
+            "code": "bong-acrilico-caveira-rosa",
+            "label": "Bong Acrílico Caveira Rosa",
+            "description": "Material: Acrílico - Medidas: 15x5,5cm",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/quMpGH8.png"
+        },
+        {
             "code": "bong-acrilico-transparente",
             "label": "Bong Acrílico 15cm - Transparente",
             "description": "Bong Acrílico de 15cm, transparente",
@@ -3220,15 +3429,6 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/o9FT7jt.png"
-        },
-        {
-            "code": "dichavador-grande-metal-dourado",
-            "label": "Dichavador Metal Grande - Dourado",
-            "description": "Dichavador de Metal e Dourado, com 5cm de diâmetro. Possui 3 compartimentos",
-            "price": 5000,
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/pqRMyLM.png"
         },
         {
             "code": "seda-smoking-king",
@@ -3303,6 +3503,33 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/9Zu0ceA.png"
+        },
+        {
+            "code": "rosh-bking-azulbebe-perolado",
+            "label": "Rosh Bking Azul Bebê Perolado",
+            "description": "Unidade de Rosh de Cerâmica da Bking",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Tq4OIFI.png"
+        },
+        {
+            "code": "rosh-bking-michael-jordan",
+            "label": "Rosh Bking Michael Jordan",
+            "description": "Unidade de Rosh de Cerâmica da Bking",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/VSlGLXO.png"
+        },
+        {
+            "code": "rosh-bking-thor",
+            "label": "Rosh Bking Thor",
+            "description": "Unidade de Rosh de Cerâmica da Bking",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/gw3HNQU.png"
         },
         {
             "code": "rosh-econo-marrom",
@@ -3476,6 +3703,24 @@
             "image_url": "https://i.imgur.com/8JQtKtL.png"
         },
         {
+            "code": "rosh-pro-hookah-mini-rosa",
+            "label": "Rosh Pro Mini Rosa",
+            "description": "Unidade de Rosh Mini de Cerâmica da Pro Hookah",
+            "price": 4000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/LOIMlWm.png"
+        },
+        {
+            "code": "rosh-pro-hookah-mini-preto-vermelho",
+            "label": "Rosh Pro Mini Preto com Vermelho",
+            "description": "Unidade de Rosh Mini de Cerâmica da Pro Hookah",
+            "price": 4000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/AjV3QAx.png"
+        },
+        {
             "code": "rosh-pro-hookah-relevo-gold-azul-bebe",
             "label": "Rosh Pro Hookah Relevo Gold Azul Bebê",
             "description": "Unidade de Rosh de Cerâmica da Pro Hookah",
@@ -3492,6 +3737,33 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/b6uNxNY.png"
+        },
+        {
+            "code": "rosh-pro-hookah-gold-branco",
+            "label": "Rosh Pro Gold Branco",
+            "description": "Unidade de Rosh de Cerâmica da Pro Hookah",
+            "price": 6000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/IYjsDge.png"
+        },
+        {
+            "code": "rosh-yes-preto",
+            "label": "Rosh Yes Preto",
+            "description": "Material: Cerâmica com pintura esmaltada. Tamanho: Altura: 10cm Largura: 7cm. Cuba: 1,5 cm",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/ljKOXWZ.png"
+        },
+        {
+            "code": "rosh-yes-branco",
+            "label": "Rosh Yes branco",
+            "description": "Material: Cerâmica com pintura esmaltada. Tamanho: Altura: 10cm Largura: 7cm. Cuba: 1,5 cm",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/4dEdQWR.png"
         },
         {
             "code": "rosh-simples-branco-fluxo-bowl",
@@ -4151,6 +4423,24 @@
             "image_url": "https://i.imgur.com/csWO3Of.png"
         },
         {
+            "code": "mangueira-silicone-branca",
+            "label": "Mangueira de Silicone 1,5m - Branca",
+            "description": "Mangueira de silicone, com 1,5 metros de comprimento, em coloração Branca",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/kmpWwBW.png"
+        },
+        {
+            "code": "mangueira-silicone-roxa",
+            "label": "Mangueira de Silicone 1,5m - Roxa",
+            "description": "Mangueira de silicone, com 1,5 metros de comprimento, em coloração Roxa",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/rseR5ca.png"
+        },
+        {
             "code": "contra-piteira-silicone-preta",
             "label": "Contra Piteira de Silicone Preta",
             "description": "Contra Piteira de Silicone, cor Preta",
@@ -4221,6 +4511,87 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Fk6GQBb.png"
+        },
+        {
+            "code": "slick-lego-34",
+            "label": "Slick Lego Grande 34ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS - Container de silicone Lego com 7 divisórias, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não deixa passar odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua crema, capacidade de armazenamento de 34ml. MEDIDAS: 10x2,5cm",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/p4qzc92.png"
+        },
+        {
+            "code": "slick-lego-11",
+            "label": "Slick Lego Grande 11ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS - Container de silicone lego, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 11ml MEDIDAS: 3x3cm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/3lemeae.png"
+        },
+        {
+            "code": "slick-redondo-10",
+            "label": "Slick Redondo 10ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 10ml MEDIDAS: 4x2cm",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/7rcV0Lj.png"
+        },
+        {
+            "code": "slick-redondo-7",
+            "label": "Slick Redondo 7ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 7ml MEDIDAS: 3,5x2cm",
+            "price": 1500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/jMpH06P.png"
+        },
+        {
+            "code": "slick-redondo-5",
+            "label": "Slick Redondo 5ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 5ml MEDIDAS: 3x2cm",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/mXvocJr.png"
+        },
+        {
+            "code": "slick-redondo-2",
+            "label": "Slick Redondo 2ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 2ml MEDIDAS: 2x1,5cm",
+            "price": 500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/pth3niD.png"
+        },
+        {
+            "code": "cuia-silicone-grande",
+            "label": "Cuia de Silicone Grande",
+            "description": "CONSULTAR CORES DISPONÍVEIS - MEDIDAS 6,5x3,5cm",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/OVSzKAc.png"
+        },
+        {
+            "code": "cinzeiro-silicone-quadrado",
+            "label": "Cinzeiro Silicone Quadrado",
+            "description": "CONSULTAR CORES DISPONÍVEIS -  Este ótimo produto é formulado a partir de silicone especial, para que o cinzeiro seja resistente à queima e fusão. Você pode apertá-lo, dobrá-lo e rebatê-lo fora de sua parede, este cinzeiro não vai quebrar. Muito melhor do que os de vidro a que estamos acostumados. Resistente a altas temperaturas; até 230 graus centígrados. MEDIDAS: 8x2cm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/FLzKXkr.png"
+        },
+        {
+            "code": "cinzeiro-silicone-redondo",
+            "label": "Cinzeiro Silicone Redondo",
+            "description": "DESCRIÇÃO: CONSULTAR CORES DISPONÍVEIS -  Este ótimo produto é formulado a partir de silicone especial, para que o cinzeiro seja resistente à queima e fusão. Você pode apertá-lo, dobrá-lo e rebatê-lo fora de sua parede, este cinzeiro não vai quebrar. Muito melhor do que os de vidro a que estamos acostumados. Resistente a altas temperaturas; até 230 graus centígrados. MEDIDAS: 8x2cm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/8zUroxg.png"
         }
     ],
     "Bebidas": [
@@ -4313,6 +4684,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/txckGgo.png"
+        },
+        {
+            "code": "coca-cola-zero-lata-350",
+            "label": "Coca-Cola ZERO Lata 350ml (GELADA)",
+            "description": "BEBIDA GELADA - Refrigerante Coca-cola em Lata de 350ml",
+            "price": 300,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/N4eWtE7.png"
         },
         {
             "code": "78936478",
