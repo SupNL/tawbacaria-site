@@ -1892,7 +1892,7 @@
             "description": "50g de Essência Sense, sabor Doce de Lichia",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/3VC0E8t.png"
         },
         {
@@ -1901,7 +1901,7 @@
             "description": "50g de Essência Sense, sabor Melancia e Framboesa",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6QKidkR.png"
         },
         {
@@ -1937,7 +1937,7 @@
             "description": "50g de Essência Sense, sabor Manga com Banana 🥭 🍌",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/oVYLN6l.png"
         }
     ],
@@ -3337,7 +3337,7 @@
             "description": "Unidade de Rosh de Barro da Econo",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/pye71pN.png"
         },
         {
