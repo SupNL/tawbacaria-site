@@ -312,7 +312,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Banana 🍌",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/VxKOQR5.png",
             "discount": {
                 "discount": 200,
@@ -568,7 +568,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Coco 🥥",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/LfnyLhV.png",
             "discount": {
                 "discount": 200,
@@ -858,7 +858,7 @@
             "description": "50g de Essência Zomo para Narguile, sabor Bala de Morango 🍓🍬",
             "price": 900,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/wRbgure.png"
         }
     ],
@@ -1159,7 +1159,7 @@
             "description": "50g de Essência Adalya para Narguile, sabor Melão, Melancia e Menta 🍈🍉🌿",
             "price": 1400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/PUqqyK8.png"
         },
         {
@@ -1359,7 +1359,7 @@
             "description": "50g de Essência Magic para Narguile, sabor Morango com Baunilha",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WsKOyXo.jpeg"
         },
         {
@@ -1487,7 +1487,7 @@
             "description": "50g de Essência Haze Tobacco, sabor Hortelã 🌿",
             "price": 1700,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6H8Fj2Z.png"
         },
         {
@@ -1615,7 +1615,7 @@
             "description": "50g de Essência Nay, sabor Cereja 🍒",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/QhFp0Ny.png"
         },
         {
@@ -1858,7 +1858,7 @@
             "description": "50g de Essência Pimp, sabor Cereja Refrescante 🍒🧊",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/O5ptokQ.png",
             "discount": {
                 "discount": 300,
@@ -1957,7 +1957,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com hortelã refrescante",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/U9pdeJf.png"
         },
         {
@@ -1966,7 +1966,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão rosa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/YVDvspB.png"
         },
         {
@@ -2011,7 +2011,7 @@
             "description": "500g de Erva-Mate para Tereré, inspiradas nos energéticos",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/1osV5PY.png"
         },
         {
@@ -2020,7 +2020,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com menta",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Jt7cQI7.png"
         },
         {
@@ -2038,7 +2038,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão e menta",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/WjlTPjR.png"
         },
         {
@@ -2047,7 +2047,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com cereja",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/OH94QKl.png"
         },
         {
@@ -2139,7 +2139,7 @@
             "description": "Caixa com 1kg de Carvão D'coco Hexagonal",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/QArp0rR.png"
         }
     ],
@@ -2159,7 +2159,7 @@
             "description": "Caixa com 50 unidades de folha de alto relevo de papel alumínio Stan Special Foil",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/INy6GHj.png"
         },
         {
@@ -2251,7 +2251,7 @@
             "description": "Caixa com 20 unidades de palheiro Santropez, sabor Melão, Melancia e Menta 🍈🍉🌿",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/wWquuKY.png"
         },
         {
@@ -2296,7 +2296,7 @@
             "description": "Caixa com 20 unidades de palheiro Porto Faria, incluindo Piteira e Bolinha de sabor de Menta 🌿",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/GPywAEs.png"
         },
         {
@@ -2350,7 +2350,7 @@
             "description": "O Tabaco To Na Bê é um tabaco do tipo Virgínia Gold, 100% artesanal e extra suave. Qualidade premium!",
             "price": 1600,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/O4vV4io.png"
         },
         {
@@ -2478,7 +2478,7 @@
             "description": "15ml de Juice Xerife para vaper (sem nicotina), sabor Tutti Frutti 🍭",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/yHiPDjD.jpeg"
         },
         {
@@ -2532,7 +2532,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Uva com Creme 🍇🍦",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/u6L7l0U.png"
         },
         {
@@ -2631,7 +2631,7 @@
             "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Uva 🍇",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Bm3r19b.png"
         },
         {
@@ -2658,7 +2658,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Uva 🍇",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/g1zKxcM.png"
         },
         {
@@ -2876,7 +2876,7 @@
             "description": "Unidade de seda de vidro, com 8cm de comprimento e 10mm de largura",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/8LdioFh.png"
         },
         {
@@ -3038,7 +3038,7 @@
             "description": "Dichavador de Acrílico Preto, com 5,5cm de diâmetro e 2,5cm de altura. Possui três compartimentos.",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/IOBvadS.png"
         },
         {
@@ -3074,7 +3074,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de maçã verde, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/mrT6crn.png"
         },
         {
@@ -3083,7 +3083,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de chocolate, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/yJx9kx5.png"
         },
         {
@@ -3128,7 +3128,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de melancia, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/RbL9qsw.png"
         },
         {
@@ -3382,7 +3382,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/2YMxjx2.png"
         },
         {
@@ -3526,7 +3526,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/2F3oe7u.png"
         },
         {
@@ -3544,7 +3544,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/omLyB9L.png"
         },
         {
@@ -3562,7 +3562,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/hax7Xy6.png"
         },
         {
@@ -3688,7 +3688,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/AvbXhwz.png"
         },
         {
@@ -3877,7 +3877,7 @@
             "description": "Unidade de Garfo com Furador da ZORD",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/DV2WHBB.png"
         },
         {
@@ -4003,7 +4003,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração preto fosco",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/MR1yeQt.png"
         },
         {
@@ -4120,7 +4120,7 @@
             "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Rosa",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/I4bUfKJ.png"
         },
         {
@@ -4147,7 +4147,7 @@
             "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Dourada",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/csWO3Of.png"
         },
         {
