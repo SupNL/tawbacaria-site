@@ -3026,6 +3026,87 @@
             "image_url": "https://i.imgur.com/ka9FM4A.png"
         },
         {
+            "code": "slick-lego-34",
+            "label": "Slick Lego Grande 34ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS - Container de silicone Lego com 7 divisórias, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não deixa passar odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua crema, capacidade de armazenamento de 34ml. MEDIDAS: 10x2,5cm",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/p4qzc92.png"
+        },
+        {
+            "code": "slick-lego-11",
+            "label": "Slick Lego Grande 11ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS - Container de silicone lego, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 11ml MEDIDAS: 3x3cm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/3lemeae.png"
+        },
+        {
+            "code": "slick-redondo-10",
+            "label": "Slick Redondo 10ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 10ml MEDIDAS: 4x2cm",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/7rcV0Lj.png"
+        },
+        {
+            "code": "slick-redondo-7",
+            "label": "Slick Redondo 7ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 7ml MEDIDAS: 3,5x2cm",
+            "price": 1500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/jMpH06P.png"
+        },
+        {
+            "code": "slick-redondo-5",
+            "label": "Slick Redondo 5ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 5ml MEDIDAS: 3x2cm",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/mXvocJr.png"
+        },
+        {
+            "code": "slick-redondo-2",
+            "label": "Slick Redondo 2ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 2ml MEDIDAS: 2x1,5cm",
+            "price": 500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/pth3niD.png"
+        },
+        {
+            "code": "cuia-silicone-grande",
+            "label": "Cuia de Silicone Grande",
+            "description": "CONSULTAR CORES DISPONÍVEIS - MEDIDAS 6,5x3,5cm",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/OVSzKAc.png"
+        },
+        {
+            "code": "cinzeiro-silicone-quadrado",
+            "label": "Cinzeiro Silicone Quadrado",
+            "description": "CONSULTAR CORES DISPONÍVEIS -  Este ótimo produto é formulado a partir de silicone especial, para que o cinzeiro seja resistente à queima e fusão. Você pode apertá-lo, dobrá-lo e rebatê-lo fora de sua parede, este cinzeiro não vai quebrar. Muito melhor do que os de vidro a que estamos acostumados. Resistente a altas temperaturas; até 230 graus centígrados. MEDIDAS: 8x2cm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/FLzKXkr.png"
+        },
+        {
+            "code": "cinzeiro-silicone-redondo",
+            "label": "Cinzeiro Silicone Redondo",
+            "description": "DESCRIÇÃO: CONSULTAR CORES DISPONÍVEIS -  Este ótimo produto é formulado a partir de silicone especial, para que o cinzeiro seja resistente à queima e fusão. Você pode apertá-lo, dobrá-lo e rebatê-lo fora de sua parede, este cinzeiro não vai quebrar. Muito melhor do que os de vidro a que estamos acostumados. Resistente a altas temperaturas; até 230 graus centígrados. MEDIDAS: 8x2cm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/8zUroxg.png"
+        },
+        {
             "code": "02010302",
             "label": "Piteira Bem Bolado Brown Large",
             "description": "Unidade de pacote com 32 Piteiras Bem Bolado Brown Large, tamanho 6cm x 2,5cm, fabricado de forma mais natural, sem clareamento e livre de componentes químicos",
@@ -4511,87 +4592,6 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Fk6GQBb.png"
-        },
-        {
-            "code": "slick-lego-34",
-            "label": "Slick Lego Grande 34ml",
-            "description": "CONSULTAR CORES DISPONÍVEIS - Container de silicone Lego com 7 divisórias, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não deixa passar odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua crema, capacidade de armazenamento de 34ml. MEDIDAS: 10x2,5cm",
-            "price": 5000,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/p4qzc92.png"
-        },
-        {
-            "code": "slick-lego-11",
-            "label": "Slick Lego Grande 11ml",
-            "description": "CONSULTAR CORES DISPONÍVEIS - Container de silicone lego, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 11ml MEDIDAS: 3x3cm",
-            "price": 2500,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/3lemeae.png"
-        },
-        {
-            "code": "slick-redondo-10",
-            "label": "Slick Redondo 10ml",
-            "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 10ml MEDIDAS: 4x2cm",
-            "price": 2000,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/7rcV0Lj.png"
-        },
-        {
-            "code": "slick-redondo-7",
-            "label": "Slick Redondo 7ml",
-            "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 7ml MEDIDAS: 3,5x2cm",
-            "price": 1500,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/jMpH06P.png"
-        },
-        {
-            "code": "slick-redondo-5",
-            "label": "Slick Redondo 5ml",
-            "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 5ml MEDIDAS: 3x2cm",
-            "price": 1200,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/mXvocJr.png"
-        },
-        {
-            "code": "slick-redondo-2",
-            "label": "Slick Redondo 2ml",
-            "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 2ml MEDIDAS: 2x1,5cm",
-            "price": 500,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/pth3niD.png"
-        },
-        {
-            "code": "cuia-silicone-grande",
-            "label": "Cuia de Silicone Grande",
-            "description": "CONSULTAR CORES DISPONÍVEIS - MEDIDAS 6,5x3,5cm",
-            "price": 2000,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/OVSzKAc.png"
-        },
-        {
-            "code": "cinzeiro-silicone-quadrado",
-            "label": "Cinzeiro Silicone Quadrado",
-            "description": "CONSULTAR CORES DISPONÍVEIS -  Este ótimo produto é formulado a partir de silicone especial, para que o cinzeiro seja resistente à queima e fusão. Você pode apertá-lo, dobrá-lo e rebatê-lo fora de sua parede, este cinzeiro não vai quebrar. Muito melhor do que os de vidro a que estamos acostumados. Resistente a altas temperaturas; até 230 graus centígrados. MEDIDAS: 8x2cm",
-            "price": 2500,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/FLzKXkr.png"
-        },
-        {
-            "code": "cinzeiro-silicone-redondo",
-            "label": "Cinzeiro Silicone Redondo",
-            "description": "DESCRIÇÃO: CONSULTAR CORES DISPONÍVEIS -  Este ótimo produto é formulado a partir de silicone especial, para que o cinzeiro seja resistente à queima e fusão. Você pode apertá-lo, dobrá-lo e rebatê-lo fora de sua parede, este cinzeiro não vai quebrar. Muito melhor do que os de vidro a que estamos acostumados. Resistente a altas temperaturas; até 230 graus centígrados. MEDIDAS: 8x2cm",
-            "price": 2500,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/8zUroxg.png"
         }
     ],
     "Bebidas": [
