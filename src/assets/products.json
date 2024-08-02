@@ -1386,7 +1386,7 @@
             "description": "50g de Essência Magic para Narguile, sabor Morango com Baunilha",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/WsKOyXo.jpeg"
         },
         {
@@ -2240,7 +2240,7 @@
             "description": "Caixa com 1kg de Carvão D'coco Hexagonal",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/QArp0rR.png"
         }
     ],
@@ -2651,7 +2651,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Uva com Creme 🍇🍦",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/u6L7l0U.png"
         },
         {
