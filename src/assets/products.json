@@ -1615,7 +1615,7 @@
             "description": "50g de Essência Nay, sabor Menta 🌿",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/7yFHeAW.png"
         },
         {
@@ -2487,7 +2487,7 @@
             "description": "Descubra a excelência do Tabaco Tabaquin Hi Tobacco, uma escolha perfeita para os apreciadores de tabaco de qualidade superior. Com suas qualidades distintas, esse tabaco oferece uma experiência única, proporcionando uma fumaça suave e aromática.",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/uRsOoCm.png"
         },
         {
