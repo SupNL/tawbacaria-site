@@ -1529,6 +1529,33 @@
     ],
     "Essências Nay": [
         {
+            "code": "nay-maracuja-goiaba",
+            "label": "Nay Maracujá Goiaba",
+            "description": "50g de Essência Nay, experimente a combinação do cítrico do maracujá com o doce sabor da goiaba, unidos em um só blend",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/C3CE31D.png"
+        },
+        {
+            "code": "nay-limao-goiaba",
+            "label": "Nay Limão Goiaba",
+            "description": "50g de Essência Nay, delicie-se com a combinação vibrante do sabor cítrico do limão com o toque suave e doce da goiaba. Uma experiência de sabor totalmente única!",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/YIqobHu.png"
+        },
+        {
+            "code": "nay-blueberry-grape",
+            "label": "Nay Limão Goiaba",
+            "description": "50g de Essência Nay, descubra a união perfeita entre o sabor intenso do blueberry e a suavidade da uva. Uma combinação única que proporciona o melhor dos dois mundos em cada sessão",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/lMHFYCq.png"
+        },
+        {
             "code": "78420557",
             "label": "Nay Bubble Blend (Bubbaloo) 🍬",
             "description": "50g de Essência Nay, sabor Bubbaloo Tutti-Frutti 🍬",
@@ -2498,6 +2525,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Iitgfuc.png"
+        },
+        {
+            "code": "tabaco-amsterdam",
+            "label": "Tabaco/Fumo Amsterdam 25g",
+            "description": "Tabaco nacional desenvolvido pela Amsterdam Tabaco, com fumo Natural 100% Livre de Aditivos. Embalagem reciclável, não agride o meio ambiente. Contém 25g",
+            "price": 1800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/sMnpZgN.png"
         },
         {
             "code": "7898911411144",
