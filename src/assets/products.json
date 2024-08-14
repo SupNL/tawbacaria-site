@@ -291,6 +291,22 @@
     ],
     "Essências Ziggy": [
         {
+            "code": "ziggy-sorvete-pistache",
+            "label": "Ziggy Sorvete de Pistache 🍦💚",
+            "description": "50g de Essência Ziggy para Narguile, sabor Sorvete de Pistache 🍦💚",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/rpKvvZx.png",
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
+                }
+            }
+        },
+        {
             "code": "7908479402079",
             "label": "Ziggy Abacaxi Tropical 🍍🌴",
             "description": "50g de Essência Ziggy para Narguile, sabor Abacaxi com Hortelã 🍍🌴",
