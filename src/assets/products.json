@@ -2649,7 +2649,7 @@
             "description": "15ml de Juice Xerife para vaper (sem nicotina), sabor Tutti Frutti 🍭",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/yHiPDjD.jpeg"
         },
         {
@@ -2712,7 +2712,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/eL07U12.png"
         },
         {
