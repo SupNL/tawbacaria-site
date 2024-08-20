@@ -2238,7 +2238,7 @@
             "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/7qzN2L8.png"
         },
         {
@@ -2256,7 +2256,7 @@
             "description": "Caixa com 250g de Carvão Chacal Hexagonal",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/z9cmW8q.png"
         },
         {
@@ -2283,7 +2283,7 @@
             "description": "Caixa com 1kg de Carvão D'coco Hexagonal",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/QArp0rR.png"
         }
     ],
@@ -2321,7 +2321,7 @@
             "description": "Caixa com 50 unidades de folha de papel alumínio Brazilian Hookah",
             "price": 1300,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/NNRN4ZY.png"
         },
         {
@@ -2359,7 +2359,7 @@
             "description": "Caixa com 10 unidades de palheiro Jack Paiol, sabor Blue Ice",
             "price": 900,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/KtKkKlr.jpeg"
         },
         {
@@ -2368,7 +2368,7 @@
             "description": "Caixa com 10 unidades de palheiro Jack Paiol's, sabor Maracujá",
             "price": 900,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/xo1KOOC.jpeg"
         },
         {
@@ -2530,7 +2530,7 @@
             "description": "Descubra a excelência do Tabaco Tabaquin Hi Tobacco, uma escolha perfeita para os apreciadores de tabaco de qualidade superior. Com suas qualidades distintas, esse tabaco oferece uma experiência única, proporcionando uma fumaça suave e aromática.",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/uRsOoCm.png"
         },
         {
@@ -2730,7 +2730,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/vczPr7Y.png"
         },
         {
@@ -3218,7 +3218,7 @@
             "description": "Unidade de Piteira de Vidro Chillin, tamanho 6mm x 40mm",
             "price": 800,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6Zo6ONX.png"
         },
         {
@@ -3245,7 +3245,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 4cm x 5mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/RAtPbLU.png"
         },
         {
@@ -4219,7 +4219,7 @@
             "description": "Unidade de Fogareiro da MD",
             "price": 15000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Rf7w24z.png"
         },
         {
@@ -4282,7 +4282,7 @@
             "description": "Unidade de Garfo com Furador da ZORD",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/DV2WHBB.png"
         },
         {
@@ -4507,7 +4507,7 @@
             "description": "Suporte para Mangueira de Narguile, cor Preta",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/5MjdKsn.png"
         },
         {
