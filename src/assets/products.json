@@ -907,6 +907,22 @@
     ],
     "Essências Onix": [
         {
+            "code": "onix-essencia-high-fusion",
+            "label": "Onix High Fusion 🧡",
+            "description": "50g de Essência Onix Experience para Narguile, sabor mix de frutas: banana, maracujá, laranja, melão e manga 🧡",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Wt23FqL.png",
+            "discount": {
+                "discount": 150,
+                "period": {
+                    "start": "2023-11-25T00:00:00",
+                    "end": "2023-11-28T00:00:00"
+                }
+            }
+        },
+        {
             "code": "onix-essencia-high-mint",
             "label": "Onix High Mint 🥶",
             "description": "50g de Essência Onix Experience para Narguile, sabor Hortelã 🥶",
@@ -3216,7 +3232,7 @@
             "code": "89989898131685",
             "label": "Piteira Chillin de Vidro",
             "description": "Unidade de Piteira de Vidro Chillin, tamanho 6mm x 40mm",
-            "price": 800,
+            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/6Zo6ONX.png"
