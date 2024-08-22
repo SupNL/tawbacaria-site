@@ -3059,11 +3059,11 @@
         },
         {
             "code": "seda-vidro",
-            "label": "Seda de Vidro 8cm",
+            "label": "Seda de Vidro 12cm",
             "description": "Unidade de seda de vidro, com 8cm de comprimento e 10mm de largura",
-            "price": 1000,
+            "price": 1500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/8LdioFh.png"
         },
         {
