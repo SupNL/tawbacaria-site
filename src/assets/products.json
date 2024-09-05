@@ -1389,7 +1389,7 @@
             "description": "50g de Essência Adalya para Narguile, sabor Chiclete com Refrescância",
             "price": 1400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/JZFsSrW.png"
         },
         {
@@ -1757,7 +1757,7 @@
             "description": "50g de Essência Chacal, sabor Hortelã 🌿",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/fkcQBL3.png"
         },
         {
@@ -2483,7 +2483,7 @@
             "description": "Unidade de Isqueiro Clipper, da coleção Color Neons. Escolher uma das cores da foto",
             "price": 800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/7ZRIG5L.png"
         },
         {
