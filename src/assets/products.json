@@ -42,7 +42,7 @@
             "description": "Piteira Longa do Papelito, contém 30 blocos com 72 piteiras, tamanho 4x4cm",
             "price": 600,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/4PbSrHk.jpg"
         },
         {
@@ -240,7 +240,7 @@
             "description": "Bandeja de metal da Papelito, dimensões 18cm x 14cm",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/VPmj6gn.png"
         },
         {
@@ -1960,7 +1960,7 @@
             "description": "50g de Essência Pimp, sabor Maçã Verde 🍏",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/r7l6YM2.png",
             "discount": {
                 "discount": 300,
@@ -1987,7 +1987,7 @@
             "description": "50g de Essência Sense, sabor Melancia e Framboesa",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6QKidkR.png"
         },
         {
@@ -2263,7 +2263,7 @@
             "description": "Caixa com 1kg de Carvão Chacal Hexagonal",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/s3Em5lU.png"
         },
         {
@@ -2537,7 +2537,7 @@
             "description": "O Rainbow Silver Bright agrada qualquer sommelier, além é claro de ser 100% natural. Bag de 25g com zipper \"abre e fecha\" para facilitar o manuseio e manter as propriedades do seu tabaco natural.",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/LTJIggw.png"
         },
         {
@@ -2555,7 +2555,7 @@
             "description": "O Tabaco Dublin traz toda o frescor do Hortelã para seu cigarro de enrolar. Para quem gosta de refrescância, com certeza vai adorar a experiência do Tabaco Dublin ice mint.",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Iitgfuc.png"
         },
         {
@@ -2674,7 +2674,7 @@
             "description": "15ml de Juice Xerife para vaper (sem nicotina), sabor Maçã verde e Melancia 🍏🍉",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/L5gz7qu.jpeg"
         },
         {
@@ -2683,7 +2683,7 @@
             "description": "15ml de Juice Xerife para vaper (sem nicotina), sabor Morango com Kiwi 🍓🥝",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/rRSxR2V.jpeg"
         },
         {
@@ -2791,7 +2791,7 @@
             "description": "60ml de Juice Fantasi para vaper (com 3mg de nicotina), sabor Cereja 🍒",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/jXgw9g2.png"
         },
         {
@@ -2845,7 +2845,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Uva 🍇",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/g1zKxcM.png"
         },
         {
@@ -2854,7 +2854,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Menta Refrescante 🌿",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ruPwZMk.png"
         },
         {
@@ -2863,7 +2863,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Tutti-Frutti 🍬",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Czenl48.png"
         },
         {
@@ -2881,7 +2881,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/NkhOxWb.png"
         },
         {
@@ -3207,7 +3207,7 @@
             "description": "Unidade de pacote com 50 Piteiras Bem Bolado Super Large 6cm x 4cm, papel branco",
             "price": 500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Njv0pNU.png"
         },
         {
@@ -3243,7 +3243,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 7cm de comprimento",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/WLjfnly.png"
         },
         {
@@ -3387,7 +3387,7 @@
             "description": "Possui 3 partes, material acrílico, medindo 6x2,5cm",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/J22RvG0.png"
         },
         {
@@ -3396,7 +3396,7 @@
             "description": "Dichavador de metal feito de altíssima qualidade. Possui 4 partes, com compartimento para armazenagem e fechamento com imã de neodímio. MEDIDAS: 4x3cm",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/zQIcaRh.png"
         },
         {
@@ -3423,7 +3423,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de maçã verde, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/mrT6crn.png"
         },
         {
@@ -4298,7 +4298,7 @@
             "description": "Unidade de Garfo com Furador da ZORD",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/DV2WHBB.png"
         },
         {
@@ -4487,7 +4487,7 @@
             "description": "Borracha Vedação para Mangueira de Narguile",
             "price": 400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Jb6T3CB.png"
         },
         {
