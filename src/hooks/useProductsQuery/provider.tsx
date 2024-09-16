@@ -110,7 +110,7 @@ const ProductsQueryProvider: React.FC<React.PropsWithChildren> = ({
             );
 
         if (query?.searchQuery) {
-            const search = query.searchQuery.toLowerCase();
+            const search = normalizeString(query.searchQuery.toLowerCase());
             filteredProducts = filteredProducts.filter((item) => {
                 if (normalizeString(item.label).includes(search)) return true;
                 if (normalizeString(item.category).includes(search))
