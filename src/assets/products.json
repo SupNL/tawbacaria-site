@@ -280,13 +280,22 @@
             "image_url": "https://i.imgur.com/UpmAqxg.png"
         },
         {
-            "code": "papelito-cinzeiro-fauna-flora",
+            "code": "papelito-cinzeiro-fauna-flora-laranja",
             "label": "Cinzeiro Papelito - Fauna e Flora Laranja",
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
             "price": 3000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/aM0kGyt.png"
+        },
+        {
+            "code": "papelito-cinzeiro-fauna-flora-verde",
+            "label": "Cinzeiro Papelito - Fauna e Flora Verde",
+            "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/hi4j2Lx.png"
         },
         {
             "code": "papelito-cinzeiro-onca",
