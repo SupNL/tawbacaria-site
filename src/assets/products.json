@@ -1,6 +1,15 @@
 {
     "Papelito": [
         {
+            "code": "filtro-papelito-mentolados",
+            "label": "Filtros Papelito Mentolados",
+            "description": "Unidade de pacote com 120 filtros de 6mm x 15mm, mentolados com sabor refrescante",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/VstNZRi.png"
+        },
+        {
             "code": "seda-papelito-tradicional-ks",
             "label": "Seda Papelito Tradicional King Size",
             "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Tradicional King Size",
@@ -121,7 +130,7 @@
             "code": "papelito-piteira-large",
             "label": "Piteira Papelito Large",
             "description": "Feitas em papel maleável, perfurado e biodegradável, nossas piteiras ajudam a resfriar a fumaça e reduzir danos. Cada livreto contém 36 piteiras. Dimensões: 55 mm x 40 mm",
-            "price": 400,
+            "price": 500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/7mHHhOH.png"
@@ -229,7 +238,7 @@
             "code": "papelito-bandeja-metal-brasilia-amarela",
             "label": "Bandeja de Metal Papelito - Brasília Amarela",
             "description": "Bandeja de metal da Papelito, dimensões 18cm x 14cm",
-            "price": 3500,
+            "price": 4000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/EciZOQX.png"
@@ -238,7 +247,7 @@
             "code": "papelito-bandeja-metal-quatro-elementos",
             "label": "Bandeja de Metal Papelito - Quatro Elementos",
             "description": "Bandeja de metal da Papelito, dimensões 18cm x 14cm",
-            "price": 3500,
+            "price": 4000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/VPmj6gn.png"
@@ -247,7 +256,7 @@
             "code": "papelito-bandeja-metal-universo-dimensoes",
             "label": "Bandeja de Metal Papelito - Universo Dimensões",
             "description": "Bandeja de metal da Papelito, dimensões 18cm x 14cm",
-            "price": 3500,
+            "price": 4000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/mFkGcc4.png"
@@ -256,7 +265,7 @@
             "code": "papelito-cinzeiro-mae-natureza",
             "label": "Cinzeiro Papelito - Mãe Natureza",
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
-            "price": 2500,
+            "price": 3000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/3KgTQMq.png"
@@ -265,16 +274,16 @@
             "code": "papelito-cinzeiro-guru",
             "label": "Cinzeiro Papelito - Guru",
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
-            "price": 2500,
+            "price": 3000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/UpmAqxg.png"
         },
         {
             "code": "papelito-cinzeiro-fauna-flora",
-            "label": "Cinzeiro Papelito - Fauna e Flora",
+            "label": "Cinzeiro Papelito - Fauna e Flora Laranja",
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
-            "price": 2500,
+            "price": 3000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/aM0kGyt.png"
@@ -283,7 +292,7 @@
             "code": "papelito-cinzeiro-onca",
             "label": "Cinzeiro Papelito - Onça",
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
-            "price": 2500,
+            "price": 3000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/IUP6Ns1.png"
@@ -1973,6 +1982,15 @@
     ],
     "Essências Sense": [
         {
+            "code": "sense-essencia-banana",
+            "label": "Sense Lychee Banana 🍌",
+            "description": "50g de Essência Sense, sabor Banana 🍌",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/mmrbdqs.png"
+        },
+        {
             "code": "0618231813452",
             "label": "Sense Lychee Candy (Du Macário)",
             "description": "50g de Essência Sense, sabor Doce de Lichia",
@@ -2370,6 +2388,15 @@
     ],
     "Fumos e Isqueiros": [
         {
+            "code": "isqueiro-macarico-firestar2",
+            "label": "Isqueiro Maçarico Firestar 2 chamas",
+            "description": "CONFERIR CORES DISPONÍVEIS - Unidade de Isqueiro Maçarico Firestar -  Possui 2 chamas e são recarregáveis com gás butano, assim você pode usar seu isqueiro por bastante tempo. 7cm de altura",
+            "price": 4000,
+            "is_highlight": true,
+            "in_stock": false,
+            "image_url": "https://i.imgur.com/Zohyt2I.png"
+        },
+        {
             "code": "caixa-palheiro-jack-paiol-blue-ice",
             "label": "Caixa Palheiro Jack Paiol's Blue Ice (10 unidades)",
             "description": "Caixa com 10 unidades de palheiro Jack Paiol, sabor Blue Ice",
@@ -2458,6 +2485,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/3wEJD4F.png"
+        },
+        {
+            "code": "palheiro-jc-tradicional",
+            "label": "Palheiro JC Tradicional 10 unidades",
+            "description": "Caixa com 10 unidades de palheiro JC tradicional",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/2jli1Df.png"
         },
         {
             "code": "7842356",
@@ -2959,6 +2995,24 @@
     ],
     "Headshop": [
         {
+            "code": "case-tonabe-zombie",
+            "label": "Case To na Bê - Modelo Grafite Zombie",
+            "description": "Case para transportar seu kit para todos os rolês, viagens, festas, isso de maneira discreta, pois a case é slim e portátil. - Dimensões: 15x 9,5cm",
+            "price": 6000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/cVssiul.png"
+        },
+        {
+            "code": "case-tonabe-anatomiabud",
+            "label": "Case To na Bê - Modelo Anatomina do Bud",
+            "description": "Case para transportar seu kit para todos os rolês, viagens, festas, isso de maneira discreta, pois a case é slim e portátil. - Dimensões: 15x 9,5cm",
+            "price": 6000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Pk56H2s.png"
+        },
+        {
             "code": "78420553",
             "label": "Seda Bem Bolado Slim King Size",
             "description": "Unidade de pacote com 35 folhas de Papel de Seda Bem Bolado",
@@ -2998,7 +3052,7 @@
             "code": "78425590",
             "label": "Seda Zomo Slim Alfafa",
             "description": "Unidade de pacote com 33 folhas de Papel de Seda Zomo Slim Alfafa na cor verde",
-            "price": 400,
+            "price": 500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/fQk1RyS.png"
@@ -3033,7 +3087,7 @@
         {
             "code": "8414775013547",
             "label": "Seda Smoking Brown",
-            "description": "Unidade de pacote com 33 folhas de Papel de Seda Smoking Brown Alfafa, na cor marrom",
+            "description": "Unidade de pacote com 33 folhas de Papel de Seda Smoking Brown, na cor marrom",
             "price": 600,
             "is_highlight": false,
             "in_stock": true,
@@ -3205,7 +3259,7 @@
             "code": "0742832179485",
             "label": "Piteira Bem Bolado Girls in + Green Super Large",
             "description": "Unidade de pacote com 50 Piteiras Bem Bolado Super Large 6cm x 4cm, papel branco",
-            "price": 500,
+            "price": 600,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Njv0pNU.png"
@@ -3241,7 +3295,7 @@
             "code": "piteira-vidro-longa-70",
             "label": "Piteira de Vidro Longa",
             "description": "Unidade de Piteira de Vidro Longa, 7cm de comprimento",
-            "price": 1000,
+            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/WLjfnly.png"
@@ -3263,6 +3317,15 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/RAtPbLU.png"
+        },
+        {
+            "code": "dichavador-fibra-coco-grande",
+            "label": "Dichavador Fibra de Coco Grande",
+            "description": "Unidade de Dichavador de Fibra de Coco - Dimensões 2,5x5,5cm",
+            "price": 600,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Er81VnS.png"
         },
         {
             "code": "dichavador-kings-azul",
@@ -4309,6 +4372,15 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/xlfKxhj.png"
+        },
+        {
+            "code": "garfo-furador-zord-azul",
+            "label": "Garfo com furador ZORD - Azul",
+            "description": "Unidade de Garfo com Furador da ZORD",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/X7X8OE7.png"
         },
         {
             "code": "garfo-furador-ebs-dourado",
