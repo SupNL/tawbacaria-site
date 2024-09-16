@@ -213,7 +213,7 @@
             "description": "Triturador com container, feita de Policarbonato. Atóxico, ultra resistente e de design exclusivo",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/9pR4SHY.png"
         },
         {
@@ -222,7 +222,7 @@
             "description": "ESCOLHER DAS 3 OPÇÕES DE COR (Amarelo, verde escuro e preto). Resistente a altas temperaturas. À prova d’água. Vedação completa",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/jS4XXfo.png"
         },
         {
