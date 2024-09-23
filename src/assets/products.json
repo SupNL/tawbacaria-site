@@ -664,7 +664,7 @@
             "code": "7898962227213",
             "label": "Ziggy Burley Mint 🌿",
             "description": "50g de Essência Ziggy para Narguile, sabor tabaco Burley com Menta 🌿",
-            "price": 1100,
+            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Kx7OT8T.png",
@@ -2267,9 +2267,18 @@
             "image_url": "https://i.imgur.com/SBSMUgG.png"
         },
         {
+            "code": "carvao-zomo-caixa-250g",
+            "label": "Caixa 250g Carvão Hexagonal Zomo",
+            "description": "Caixa com 250g de Carvão Zomo Hexagonal",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/4QGHj4d.png"
+        },
+        {
             "code": "carvao-zomo-caixa-500g",
             "label": "Caixa 500g Carvão Hexagonal Zomo",
-            "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
+            "description": "Caixa com 500g de Carvão Zomo Hexagonal",
             "price": 2000,
             "is_highlight": false,
             "in_stock": false,
