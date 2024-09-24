@@ -314,7 +314,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Sorvete de Pistache 🍦💚",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/rpKvvZx.png",
             "discount": {
                 "discount": 200,
@@ -3567,7 +3567,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de uva, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6I8Tmw9.png"
         },
         {
@@ -3576,7 +3576,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de morango, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/gAPCQMU.png"
         },
         {
