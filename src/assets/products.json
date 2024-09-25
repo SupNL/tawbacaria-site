@@ -231,7 +231,7 @@
             "description": "ESCOLHER DAS 3 OPÇÕES DE COR (Amarelo, verde escuro e preto). Resistente a altas temperaturas. À prova d’água. Vedação completa",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/jS4XXfo.png"
         },
         {
@@ -2618,7 +2618,7 @@
             "description": "O Rainbow Silver Bright agrada qualquer sommelier, além é claro de ser 100% natural. Bag de 25g com zipper \"abre e fecha\" para facilitar o manuseio e manter as propriedades do seu tabaco natural.",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/LTJIggw.png"
         },
         {
