@@ -1234,9 +1234,9 @@
             "code": "8681511386771",
             "label": "Adalya Love 66 💕",
             "description": "50g de Essência Adalya para Narguile, sabor Melão, Melancia e Menta 🍈🍉🌿",
-            "price": 1400,
+            "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/PUqqyK8.png"
         },
         {
@@ -1431,6 +1431,15 @@
     ],
     "Essências Magic": [
         {
+            "code": "7908479402390",
+            "label": "Magic Space Mint 🌿",
+            "description": "50g de Essência Magic para Narguile, sabor Hortelã 🌿",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/hX6yRSK.png"
+        },
+        {
             "code": "magic-essencia-space-strawnilla",
             "label": "Magic Space Strawnilla 🍓🍦",
             "description": "50g de Essência Magic para Narguile, sabor Morango com Baunilha",
@@ -1578,6 +1587,15 @@
         }
     ],
     "Essências Nay": [
+        {
+            "code": "0619205823781",
+            "label": "Nay Mango Melon 🥭🍈",
+            "description": "50g de Essência Nay, sabor manga com melão",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/dJOXsE4.png"
+        },
         {
             "code": "nay-maracuja-goiaba",
             "label": "Nay Maracujá Goiaba",
@@ -1775,7 +1793,7 @@
             "description": "50g de Essência Chacal, sabor Hortelã 🌿",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/fkcQBL3.png"
         },
         {
@@ -2454,7 +2472,7 @@
             "code": "0742832996259",
             "label": "Palheiro Santropez Uva 20 unidades 🍇",
             "description": "Caixa com 20 unidades de palheiro Santropez, sabor Uva 🍇",
-            "price": 2000,
+            "price": 2200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/JzdZTC4.png"
@@ -2463,16 +2481,16 @@
             "code": "0602883773530",
             "label": "Palheiro Santropez Love 66 20 unidades 💕",
             "description": "Caixa com 20 unidades de palheiro Santropez, sabor Melão, Melancia e Menta 🍈🍉🌿",
-            "price": 2000,
+            "price": 2200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/wWquuKY.png"
         },
         {
             "code": "0742832903837",
             "label": "Palheiro Santropez Tradicional Premium 20 unidades",
             "description": "Caixa com 20 unidades de palheiro Santropez",
-            "price": 2000,
+            "price": 2200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/6VYHgn9.png"
@@ -2481,7 +2499,7 @@
             "code": "0742832175562",
             "label": "Palheiro Santropez Café Premium 20 unidades ☕️",
             "description": "Caixa com 20 unidades de palheiro Santropez, sabor Café ☕️",
-            "price": 2000,
+            "price": 2200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/mqV0QhX.png"
@@ -2600,7 +2618,7 @@
             "description": "O Tabaco To Na Bê é um tabaco do tipo Virgínia Gold, 100% artesanal e extra suave. Qualidade premium!",
             "price": 1600,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/O4vV4io.png"
         },
         {
@@ -2665,6 +2683,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/ABxXf7V.png"
+        },
+        {
+            "code": "78937680",
+            "label": "Cigarro Chesterfield Original Blue (sem sabor)",
+            "description": "Maço com 20 unidades de cigarro",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/NKyszRt.png"
         },
         {
             "code": "78938380",
@@ -3531,7 +3558,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de maçã verde, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/mrT6crn.png"
         },
         {
@@ -3567,7 +3594,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de uva, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6I8Tmw9.png"
         },
         {
@@ -3576,7 +3603,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de morango, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/gAPCQMU.png"
         },
         {
@@ -4446,6 +4473,24 @@
             "image_url": "https://i.imgur.com/0s22D0H.png"
         },
         {
+            "code": "garfo-furador-ziggy",
+            "label": "Garfo com Furador Metal Ziggy",
+            "description": "Unidade de Garfo com Furador da Ziggy",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/5OdziMf.png"
+        },
+        {
+            "code": "garfo-furador-metal",
+            "label": "Garfo com Furador Metal",
+            "description": "Unidade de Garfo com Furador",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/xnR8Iak.png"
+        },
+        {
             "code": "furador-chaveiro-amazon-future-branco",
             "label": "Furador/Chaveiro Amazon Future - Branco",
             "description": "Unidade de Furador com Chaveiro da Amazon Future",
@@ -4532,7 +4577,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração preto fumê",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Ovdzd12.png"
         },
         {
