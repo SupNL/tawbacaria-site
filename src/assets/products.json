@@ -1517,7 +1517,7 @@
             "description": "50g de Essência Magic para Narguile, sabor Milho Verde 🌽",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/DkDCnfY.png"
         },
         {
@@ -2077,7 +2077,7 @@
             "description": "50g de Essência Sense, sabor Pera refrescante 🍐🧊",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/vOiZRUC.png"
         }
     ],
@@ -2162,7 +2162,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com hortelã refrescante",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/U9pdeJf.png"
         },
         {
@@ -2216,7 +2216,7 @@
             "description": "500g de Erva-Mate para Tereré, inspiradas nos energéticos",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/1osV5PY.png"
         },
         {
@@ -2335,7 +2335,7 @@
             "description": "Caixa com 250g de Carvão D'coco Hexagonal",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/OAYGvxG.png"
         },
         {
@@ -2353,7 +2353,7 @@
             "description": "Caixa com 1kg de Carvão D'coco Hexagonal",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/QArp0rR.png"
         }
     ],
@@ -4010,7 +4010,7 @@
             "description": "Unidade de Rosh de Cerâmica da Pro Hookah",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/acW2LhR.png"
         },
         {
@@ -4037,7 +4037,7 @@
             "description": "Material: Cerâmica com pintura esmaltada. Tamanho: Altura: 10cm Largura: 7cm. Cuba: 1,5 cm",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ljKOXWZ.png"
         },
         {
@@ -4082,7 +4082,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/2F3oe7u.png"
         },
         {
@@ -4100,7 +4100,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/omLyB9L.png"
         },
         {
@@ -4109,7 +4109,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/wWSjLv5.png"
         },
         {
@@ -4118,7 +4118,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/hax7Xy6.png"
         },
         {
@@ -4235,7 +4235,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/sQ0IZ1S.png"
         },
         {
@@ -4397,7 +4397,7 @@
             "description": "Unidade de Fogareiro Grande para 220w",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/hEzXVlq.png"
         },
         {
