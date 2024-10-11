@@ -729,7 +729,7 @@
             "code": "7898962227213",
             "label": "Ziggy Burley Mint 🌿",
             "description": "50g de Essência Ziggy para Narguile, sabor tabaco Burley com Menta 🌿",
-            "price": 1200,
+            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Kx7OT8T.png",
@@ -2416,7 +2416,7 @@
             "code": "carvao-dcoco-caixa-500g",
             "label": "Caixa 500g Carvão Hexagonal D'Coco",
             "description": "Caixa com 500g de Carvão D'coco Hexagonal",
-            "price": 2000,
+            "price": 2250,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/bmJc50H.jpeg"
@@ -2425,7 +2425,7 @@
             "code": "carvao-dcoco-caixa-1kg",
             "label": "Caixa 1kg Carvão Hexagonal D'Coco",
             "description": "Caixa com 1kg de Carvão D'coco Hexagonal",
-            "price": 4000,
+            "price": 4500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/QArp0rR.png"
