@@ -307,6 +307,71 @@
             "image_url": "https://i.imgur.com/IUP6Ns1.png"
         }
     ],
+    "Essências Luky": [
+        {
+            "code": "essencia-luky-melon",
+            "label": "Luky Melon Gaul 🍈",
+            "description": "55g de essência Luky, feito com tabaco premium, sabor melão espanhol",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/4UbKzdM.png"
+        },
+        {
+            "code": "essencia-luky-icemint",
+            "label": "Luky Ice Mint 🥶",
+            "description": "55g de essência Luky, feito com tabaco premium, sabor menta e hortelã",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/RfxzfPA.png"
+        },
+        {
+            "code": "essencia-luky-uva",
+            "label": "Luky Grape King 🍇",
+            "description": "55g de essência Luky, feito com tabaco premium, sabor uva",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/MWV6RBQ.png"
+        },
+        {
+            "code": "essencia-luky-lemon",
+            "label": "Luky Lemon 🍋",
+            "description": "55g de essência Luky, feito com tabaco premium, sabor limão",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/OC2V1YW.png"
+        },
+        {
+            "code": "essencia-luky-redfruits",
+            "label": "Luky Red Fruits 🍓",
+            "description": "55g de essência Luky, feito com tabaco premium, sabor framboesa, morango e amora",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/6w4FZ18.png"
+        },
+        {
+            "code": "essencia-luky-bluefruits",
+            "label": "Luky Blue Fruits 🫐",
+            "description": "55g de essência Luky, feito com tabaco premium, sabor amora, blueberry e jabuticaba",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/7tXA7rK.png"
+        },
+        {
+            "code": "essencia-luky-nectar",
+            "label": "Luky Nectar of the Gods",
+            "description": "55g de essência Luky, feito com tabaco premium, sabor pêssego e ameixa",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/io1Kd2A.png"
+        }
+    ],
     "Essências Ziggy": [
         {
             "code": "ziggy-sorvete-pistache",
@@ -2312,6 +2377,15 @@
             "image_url": "https://i.imgur.com/7qzN2L8.png"
         },
         {
+            "code": "carvao-zomo-caixa-2kg",
+            "label": "Caixa 2kg Carvão Hexagonal Zomo",
+            "description": "Caixa com 2kg de Carvão Zomo Hexagonal",
+            "price": 7500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Zc2WBjS.png"
+        },
+        {
             "code": "carvao-chacal-caixa-1kg",
             "label": "Caixa 1kg Carvão Hexagonal Chacal",
             "description": "Caixa com 1kg de Carvão Chacal Hexagonal",
@@ -3066,6 +3140,15 @@
         }
     ],
     "Headshop": [
+        {
+            "code": "case-tonabe-olhos",
+            "label": "Case To na Bê - Modelo Olhos",
+            "description": "Case para transportar seu kit para todos os rolês, viagens, festas, isso de maneira discreta, pois a case é slim e portátil. - Dimensões: 15x 9,5cm",
+            "price": 6000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/tdVXzFO.png"
+        },
         {
             "code": "case-tonabe-zombie",
             "label": "Case To na Bê - Modelo Grafite Zombie",
