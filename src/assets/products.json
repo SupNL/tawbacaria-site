@@ -4129,7 +4129,7 @@
             "description": "Material: Cerâmica com pintura esmaltada. Tamanho: Altura: 10cm Largura: 7cm. Cuba: 1,5 cm",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/4dEdQWR.png"
         },
         {
@@ -4147,7 +4147,7 @@
             "description": "Unidade de Rosh de cerâmica da Fluxo Bowl",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/xlONyOA.png"
         },
         {
