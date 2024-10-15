@@ -4003,7 +4003,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 7000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/VdS7RJt.png"
         },
         {
@@ -4030,7 +4030,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6UyDbfk.png"
         },
         {
@@ -4039,7 +4039,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Ol2IRbT.png"
         },
         {
@@ -4480,7 +4480,7 @@
             "description": "Unidade de Fogareiro Grande para 220w",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/hEzXVlq.png"
         },
         {
@@ -4498,7 +4498,7 @@
             "description": "Unidade de Garfo com Furador da ZORD",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/2R8uFoi.png"
         },
         {
@@ -4534,7 +4534,7 @@
             "description": "Unidade de Garfo com Furador da ZORD",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/X7X8OE7.png"
         },
         {
@@ -4624,7 +4624,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro, sem coloração",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/gWwjDhj.png"
         },
         {
