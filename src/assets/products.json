@@ -229,7 +229,7 @@
             "code": "papelito-tubelitos",
             "label": "Tubelitos Papelito",
             "description": "ESCOLHER DAS 3 OPÇÕES DE COR (Amarelo, verde escuro e preto). Resistente a altas temperaturas. À prova d’água. Vedação completa",
-            "price": 1200,
+            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/jS4XXfo.png"
@@ -3474,6 +3474,15 @@
             "image_url": "https://i.imgur.com/RAtPbLU.png"
         },
         {
+            "code": "dichavador-metal-tambor",
+            "label": "Dichavador de Metal Tambor",
+            "description": "Unidade de Dichavador de Metal Tambor",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/hHTuxct.png"
+        },
+        {
             "code": "dichavador-fibra-coco-grande",
             "label": "Dichavador Fibra de Coco Grande",
             "description": "Unidade de Dichavador de Fibra de Coco - Dimensões 2,5x5,5cm",
@@ -3762,6 +3771,15 @@
             "image_url": "https://i.imgur.com/VwuphrG.png"
         },
         {
+            "code": "bong-vidro-vermelhoazul",
+            "label": "Bong de Vidro Vermelho e Azul",
+            "description": "Bong de Vidro na cor vermelho e azul, medindo 12cm de comprimento, 5cm de largura e 2,5cm tamanho no bocal",
+            "price": 4500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/oOXwlB9.png"
+        },
+        {
             "code": "bong-acrilico-colorido",
             "label": "Bong Acrílico 15cm - Colorido",
             "description": "Bong Acrílico de 15cm colorido com vermelho, amarelo e verde",
@@ -4004,7 +4022,7 @@
             "price": 7000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/VdS7RJt.png"
+            "image_url": "https://i.imgur.com/GJU3Twp.png"
         },
         {
             "code": "rosh-seven-hookah-gold-rosa",
@@ -4041,6 +4059,33 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Ol2IRbT.png"
+        },
+        {
+            "code": "rosh-predator-amarelo",
+            "label": "Rosh Predator Siberian Cor Amarelo",
+            "description": "Este modelo Siberian, com 9,5cm de altura e um diâmetro de cuba de 6,5cm, é fabricado em cerâmica de primeira linha, garantindo eficácia na retenção e distribuição de calor. O design é inspirado na robustez e no ambiente inóspito da Sibéria.",
+            "price": 4500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/ThbSvbI.png"
+        },
+        {
+            "code": "rosh-predator-ocro",
+            "label": "Rosh Predator Siberian Cor Ocre",
+            "description": "Este modelo Siberian, com 9,5cm de altura e um diâmetro de cuba de 6,5cm, é fabricado em cerâmica de primeira linha, garantindo eficácia na retenção e distribuição de calor. O design é inspirado na robustez e no ambiente inóspito da Sibéria.",
+            "price": 4500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/TaLqOGB.png"
+        },
+        {
+            "code": "rosh-predator-verde",
+            "label": "Rosh Predator Siberian Cor Verde",
+            "description": "Este modelo Siberian, com 9,5cm de altura e um diâmetro de cuba de 6,5cm, é fabricado em cerâmica de primeira linha, garantindo eficácia na retenção e distribuição de calor. O design é inspirado na robustez e no ambiente inóspito da Sibéria.",
+            "price": 4500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/6tUn4PP.png"
         },
         {
             "code": "rosh-pro-hookah-mini-azul-claro",
@@ -4439,6 +4484,15 @@
             "image_url": "https://i.imgur.com/Jt6RSdt.png"
         },
         {
+            "code": "fogareiro-md-gas-amarelo",
+            "label": "Fogareiro a Gás MD - Amarelo",
+            "description": "Unidade de Fogareiro da MD",
+            "price": 15000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/TFeXNJU.png"
+        },
+        {
             "code": "fogareiro-portatil-md-azul",
             "label": "Fogareiro MD Portátil - Azul",
             "description": "Unidade de Fogareiro da MD",
@@ -4481,7 +4535,7 @@
             "price": 4500,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/hEzXVlq.png"
+            "image_url": "https://i.imgur.com/XpKP6ba.png"
         },
         {
             "code": "fogareiro-pequeno-eletrico",
@@ -4590,6 +4644,33 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/pSAP25E.png"
+        },
+        {
+            "code": "furador-seven-preto",
+            "label": "Chaveiro e Furador Seven - Preto",
+            "description": "Unidade de Chaveiro e Furador Seven na cor preto",
+            "price": 1500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/MdsTgtB.png"
+        },
+        {
+            "code": "furador-seven-rosa",
+            "label": "Chaveiro e Furador Seven - Rosa",
+            "description": "Unidade de Chaveiro e Furador Seven na cor rosa",
+            "price": 1500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/NHdMomS.png"
+        },
+        {
+            "code": "furador-seven-azulescuro",
+            "label": "Chaveiro e Furador Seven - Azul Escuro",
+            "description": "Unidade de Chaveiro e Furador Seven na cor azul escuro",
+            "price": 1500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/uZGcAeZ.png"
         },
         {
             "code": "tapete-narguile-ivy-bowl-dourado-branco",
