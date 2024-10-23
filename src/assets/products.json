@@ -379,7 +379,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Sorvete de Pistache 🍦💚",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/rpKvvZx.png",
             "discount": {
                 "discount": 200,
@@ -1328,7 +1328,7 @@
             "description": "50g de Essência Adalya para Narguile, sabor Creme de Banana 🍌",
             "price": 1400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/JO4gHXo.png"
         },
         {
@@ -1730,7 +1730,7 @@
             "description": "50g de Essência Nay, sabor Floresta Negra (Chocoloate, Chantili e Cereja) 🎂🍒",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/z45tpBh.png"
         },
         {
@@ -1775,7 +1775,7 @@
             "description": "50g de Essência Nay, sabor Menta 🌿",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/7yFHeAW.png"
         },
         {
@@ -1981,7 +1981,7 @@
             "description": "50g de Essência Pimp, sabor Chocolate com Morango 🍓🍫",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/8XVfLU5.png",
             "discount": {
                 "discount": 300,
@@ -1997,7 +1997,7 @@
             "description": "50g de Essência Pimp, sabor mix de Frutas Cítricas",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/vaaWZMx.png",
             "discount": {
                 "discount": 300,
@@ -2013,7 +2013,7 @@
             "description": "50g de Essência Pimp, sabor Manga e Laranja 🍊🥭",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/mUqYwL7.png",
             "discount": {
                 "discount": 300,
@@ -2029,7 +2029,7 @@
             "description": "50g de Essência Pimp, sabor Banana com Mamão",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Uw465hS.png",
             "discount": {
                 "discount": 300,
@@ -2254,7 +2254,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor autêntico das folhas do mate",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/n7P7aOk.png"
         },
         {
@@ -2317,7 +2317,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com cereja",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/OH94QKl.png"
         },
         {
@@ -2373,7 +2373,7 @@
             "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/7qzN2L8.png"
         },
         {
@@ -2602,7 +2602,7 @@
             "description": "Caixa com 10 unidades de palheiro JC, sabor Menta 🌿",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/YLarUJx.png"
         },
         {
@@ -2818,7 +2818,7 @@
             "description": "Maçarico da Zengaz com coloração Vinho",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/IwQTAer.png"
         },
         {
@@ -2901,7 +2901,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Uva com Creme 🍇🍦",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/u6L7l0U.png"
         },
         {
@@ -2937,7 +2937,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Menta 🌿",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/uZQ7zz0.png"
         },
         {
@@ -3164,7 +3164,7 @@
             "description": "Case para transportar seu kit para todos os rolês, viagens, festas, isso de maneira discreta, pois a case é slim e portátil. - Dimensões: 15x 9,5cm",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Pk56H2s.png"
         },
         {
@@ -3425,7 +3425,7 @@
             "description": "Unidade de pacote com 120 filtros de 6mm x 15mm",
             "price": 800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/7iPI83K.png"
         },
         {
@@ -3605,7 +3605,7 @@
             "description": "Possui 3 compartimentos, com imã, medindo 4x2,75cm",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/65DthHY.png"
         },
         {
@@ -3641,7 +3641,7 @@
             "description": "Possui 3 partes, com imã, medindo 4x3cm",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ukxr5Kv.png"
         },
         {
@@ -3713,7 +3713,7 @@
             "description": "Unidade de porta cigarro feito de polipropileno, com 11,5cm de comprimento. Disponíveis nas cores verde, rosa, amarelo e azul",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/eeWo9jY.png"
         },
         {
