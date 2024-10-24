@@ -2317,7 +2317,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com cereja",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/OH94QKl.png"
         },
         {
@@ -2539,7 +2539,7 @@
             "description": "Caixa com 20 unidades de palheiro Jack Paiol's, sabor Menta, inclui piteira",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/33PoB3z.jpeg"
         },
         {
@@ -4624,7 +4624,7 @@
             "description": "Unidade de Garfo com Furador da Ziggy",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/5OdziMf.png"
         },
         {
