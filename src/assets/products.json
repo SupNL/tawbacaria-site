@@ -222,7 +222,7 @@
             "description": "Triturador com container, feita de Policarbonato. Atóxico, ultra resistente e de design exclusivo",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/9pR4SHY.png"
         },
         {
@@ -2218,7 +2218,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/TCQWUSR.png"
         },
         {
@@ -2447,7 +2447,7 @@
             "description": "Caixa com 50 unidades de folha de alto relevo de papel alumínio Stan Special Foil",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/INy6GHj.png"
         },
         {
@@ -2856,7 +2856,7 @@
             "description": "15ml de Juice Xerife para vaper (sem nicotina), sabor Tutti Frutti 🍭",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/yHiPDjD.jpeg"
         },
         {
@@ -2910,7 +2910,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Uva com Creme 🍇🍦",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/u6L7l0U.png"
         },
         {
@@ -2919,7 +2919,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/eL07U12.png"
         },
         {
@@ -2937,7 +2937,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/vczPr7Y.png"
         },
         {
@@ -2946,7 +2946,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Menta 🌿",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/uZQ7zz0.png"
         },
         {
@@ -3461,7 +3461,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 7cm de comprimento",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WLjfnly.png"
         },
         {
@@ -3488,7 +3488,7 @@
             "description": "Unidade de Dichavador de Metal Tambor",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/hHTuxct.png"
         },
         {
@@ -3605,7 +3605,7 @@
             "description": "Possui 3 compartimentos, com imã, medindo 5x2,5cm",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/3p03IUh.png"
         },
         {
@@ -3659,7 +3659,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de maçã verde, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/mrT6crn.png"
         },
         {
@@ -3794,7 +3794,7 @@
             "description": "Bong Acrílico de 15cm colorido com vermelho, amarelo e verde",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/S5lhtqc.png"
         },
         {
@@ -4372,7 +4372,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/sQ0IZ1S.png"
         },
         {
@@ -4714,7 +4714,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro, sem coloração",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/gWwjDhj.png"
         },
         {
@@ -4759,7 +4759,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração preto fosco",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/MR1yeQt.png"
         },
         {
@@ -4768,7 +4768,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração branca",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/JU8AAHX.png"
         },
         {
@@ -5031,7 +5031,7 @@
             "description": "BEBIDA GELADA - Cerveja Skol Pilsen em Lata de 350ml, com Graduação Alcoólica 4,7%. Beba com moderação!",
             "price": 500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/X5e7XyK.png"
         },
         {
