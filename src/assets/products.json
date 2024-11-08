@@ -2404,6 +2404,15 @@
             "image_url": "https://i.imgur.com/z9cmW8q.png"
         },
         {
+            "code": "carvao-rainbow-pacote",
+            "label": "Pacote Carvão Rainbow Hexagonal 9 Unidades",
+            "description": "1 Pacote com 9 unidades de Carvão Rainbow Hexagonal",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/RhB0aWG.png"
+        },
+        {
             "code": "carvao-dcoco-caixa-250g",
             "label": "Caixa 250g Carvão Hexagonal D'Coco",
             "description": "Caixa com 250g de Carvão D'coco Hexagonal",
@@ -3150,31 +3159,13 @@
     ],
     "Headshop": [
         {
-            "code": "case-tonabe-olhos",
-            "label": "Case To na Bê - Modelo Olhos",
+            "code": "case-tonabe",
+            "label": "(CONFERIR MODELOS) Case To na Bê",
             "description": "Case para transportar seu kit para todos os rolês, viagens, festas, isso de maneira discreta, pois a case é slim e portátil. - Dimensões: 15x 9,5cm",
             "price": 6000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/tdVXzFO.png"
-        },
-        {
-            "code": "case-tonabe-zombie",
-            "label": "Case To na Bê - Modelo Grafite Zombie",
-            "description": "Case para transportar seu kit para todos os rolês, viagens, festas, isso de maneira discreta, pois a case é slim e portátil. - Dimensões: 15x 9,5cm",
-            "price": 6000,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/cVssiul.png"
-        },
-        {
-            "code": "case-tonabe-anatomiabud",
-            "label": "Case To na Bê - Modelo Anatomina do Bud",
-            "description": "Case para transportar seu kit para todos os rolês, viagens, festas, isso de maneira discreta, pois a case é slim e portátil. - Dimensões: 15x 9,5cm",
-            "price": 6000,
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/Pk56H2s.png"
         },
         {
             "code": "78420553",
@@ -3481,6 +3472,24 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/RAtPbLU.png"
+        },
+        {
+            "code": "dichavador-metal-cifrao",
+            "label": "Dichavador Metal Cifrão",
+            "description": "Dichavador de Metal Grande Cifrão, 3 partes, medindo 5cm de comprimento e 3cm de altura",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/2eEg358.png"
+        },
+        {
+            "code": "dichavador-metal-poker-vermelho",
+            "label": "Dichavador Metal Poker Vermelho",
+            "description": "Dichavador Metal Poker Vermelho, 3 partes, medindo 4cm de comprimento e 2,5cm de altura",
+            "price": 4500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/TLUXPq3.png"
         },
         {
             "code": "dichavador-metal-tambor",
