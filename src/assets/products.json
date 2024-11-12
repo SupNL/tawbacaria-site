@@ -4579,7 +4579,7 @@
             "description": "Unidade de Garfo com Furador da ZORD",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/zQWHtDV.png"
         },
         {
