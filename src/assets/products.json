@@ -395,7 +395,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Abacaxi com Hortelã 🍍🌴",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/1c3faw2.jpg",
             "discount": {
                 "discount": 200,
@@ -1914,7 +1914,7 @@
             "description": "50g de Essência Blue Horse, sabor Salada de Frutas com Menta 🌿",
             "price": 1400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/1xfauuE.png"
         }
     ],
@@ -3045,7 +3045,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Uva 🍇",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/g1zKxcM.png"
         },
         {
@@ -3479,7 +3479,7 @@
             "description": "Dichavador de Metal Grande Cifrão, 3 partes, medindo 5cm de comprimento e 3cm de altura",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/2eEg358.png"
         },
         {
@@ -3605,7 +3605,7 @@
             "description": "Feito de metal, 3 partes, com imã medindo 8x3cm",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/eJ4HTjV.png"
         },
         {
@@ -3704,7 +3704,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de uva, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6I8Tmw9.png"
         },
         {
@@ -3794,7 +3794,7 @@
             "description": "Bong de Vidro na cor vermelho e azul, medindo 12cm de comprimento, 5cm de largura e 2,5cm tamanho no bocal",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/oOXwlB9.png"
         },
         {
@@ -3803,7 +3803,7 @@
             "description": "Bong Acrílico de 15cm colorido com vermelho, amarelo e verde",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/S5lhtqc.png"
         },
         {
@@ -3821,7 +3821,7 @@
             "description": "Material: Acrílico - Medidas: 15x5,5cm",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/quMpGH8.png"
         },
         {
@@ -5002,7 +5002,7 @@
             "description": "Compatível com os seguintes vapers: Sky Solo; Sky Solo Plus, Luxe 2, Gen S",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Fk6GQBb.png"
         }
     ],
