@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import CurrentTimeContext from './context';
+import { AbsoluteCenter, Box, Flex, Spinner } from '@chakra-ui/react';
 
 const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
     children,
@@ -9,11 +10,11 @@ const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
 
     async function getCurrentDate() {
         const res = await fetch(
-            'https://worldtimeapi.org/api/timezone/America/Sao_Paulo'
+            'https://timeapi.io/api/time/current/zone?timeZone=America%2FSao_Paulo'
         );
         if (!res.ok) throw 'Erro ao consultar horário';
         const data = await res.json();
-        const date = new Date(data.utc_datetime);
+        const date = new Date(data.dateTime);
         return date;
     }
 
@@ -30,7 +31,16 @@ const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
     }, []);
 
     if (error) return <>{error}</>;
-    if (!date) return <></>;
+    if (!date) return (
+        <Box h='100vh'>
+            <AbsoluteCenter axis='both'>
+                <Flex gap='8px'>
+                    <Spinner />
+                    <h1>Carregando, aguarde!</h1>
+                </Flex>
+            </AbsoluteCenter>
+        </Box>
+    );
 
     return (
         <CurrentTimeContext.Provider
