@@ -30,17 +30,28 @@ const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
             });
     }, []);
 
-    if (error) return <>{error}</>;
-    if (!date) return (
-        <Box h='100vh'>
-            <AbsoluteCenter axis='both'>
-                <Flex gap='8px'>
-                    <Spinner />
-                    <h1>Carregando, aguarde!</h1>
-                </Flex>
-            </AbsoluteCenter>
-        </Box>
-    );
+    if (error)
+        return (
+            <Box h='100vh'>
+                <AbsoluteCenter axis='both'>
+                    <Flex direction='column'>
+                        <span>Erro ao carregar o site</span>
+                        <span>timeapi.io: {error}</span>
+                    </Flex>
+                </AbsoluteCenter>
+            </Box>
+        );
+    if (!date)
+        return (
+            <Box h='100vh'>
+                <AbsoluteCenter axis='both'>
+                    <Flex gap='8px'>
+                        <Spinner />
+                        <h1>Carregando, aguarde!</h1>
+                    </Flex>
+                </AbsoluteCenter>
+            </Box>
+        );
 
     return (
         <CurrentTimeContext.Provider
