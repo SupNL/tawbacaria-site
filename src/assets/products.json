@@ -3081,7 +3081,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/NkhOxWb.png"
         },
         {
@@ -3090,7 +3090,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/yVAh82Y.png"
         },
         {
