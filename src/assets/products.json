@@ -3497,7 +3497,7 @@
             "description": "Unidade de Dichavador de Metal Tambor",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/hHTuxct.png"
         },
         {
@@ -4183,7 +4183,7 @@
             "description": "Material: Cerâmica com pintura esmaltada. Tamanho: Altura: 10cm Largura: 7cm. Cuba: 1,5 cm",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/ljKOXWZ.png"
         },
         {
@@ -4192,7 +4192,7 @@
             "description": "Material: Cerâmica com pintura esmaltada. Tamanho: Altura: 10cm Largura: 7cm. Cuba: 1,5 cm",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/4dEdQWR.png"
         },
         {
@@ -4345,7 +4345,7 @@
             "description": "Unidade de Pegador de Carvão de 25cm da Invictus",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/pEbnkb8.png"
         },
         {
@@ -4489,7 +4489,7 @@
             "description": "Unidade de Prato simples pequeno de 18cm",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/HCB6oh3.png"
         },
         {
@@ -5002,7 +5002,7 @@
             "description": "Compatível com os seguintes vapers: Sky Solo; Sky Solo Plus, Luxe 2, Gen S",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Fk6GQBb.png"
         }
     ],
