@@ -69,7 +69,7 @@
             "description": "Unidade de pacote com 120 filtros de 6mm x 15mm",
             "price": 800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/0M8jfzV.png"
         },
         {
@@ -395,7 +395,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Abacaxi com Hortelã 🍍🌴",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/1c3faw2.jpg",
             "discount": {
                 "discount": 200,
@@ -411,7 +411,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Banana 🍌",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/VxKOQR5.png",
             "discount": {
                 "discount": 200,
@@ -539,7 +539,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor de mix de frutas tropical: Limão, Abacaxi, Maracujá e Mamão 🌴",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/K8lnkaq.png",
             "discount": {
                 "discount": 200,
@@ -1155,7 +1155,7 @@
             "description": "50g de Essência Onix Experience para Narguile, sabor Manga 🥭",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/9iKT9lR.png",
             "discount": {
                 "discount": 150,
@@ -1251,7 +1251,7 @@
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Morango e Melancia 🍓🍉",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/aV8Dzww.png",
             "discount": {
                 "discount": 150,
@@ -1519,7 +1519,7 @@
             "description": "50g de Essência Magic para Narguile, sabor Abacaxi e Morango",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/5fSHz7A.png"
         },
         {
@@ -1564,7 +1564,7 @@
             "description": "50g de Essência Magic para Narguile, sabor Maracujá",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6wexqrM.png"
         },
         {
@@ -2124,7 +2124,7 @@
             "description": "50g de Essência Sense, sabor Morango Refrescante 🍓🧊",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/I9G79mJ.png"
         },
         {
@@ -2218,7 +2218,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/TCQWUSR.png"
         },
         {
@@ -2227,7 +2227,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com hortelã refrescante",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/U9pdeJf.png"
         },
         {
@@ -2281,7 +2281,7 @@
             "description": "500g de Erva-Mate para Tereré, inspiradas nos energéticos",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/1osV5PY.png"
         },
         {
@@ -2539,7 +2539,7 @@
             "description": "Caixa com 20 unidades de palheiro Jack Paiol's, sabor Love 66",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/qrwkB1C.jpeg"
         },
         {
@@ -2620,7 +2620,7 @@
             "description": "Caixa com 10 unidades de palheiro JC, sabor Menta 🌿",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/YLarUJx.png"
         },
         {
@@ -3072,7 +3072,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Cereja 🍒",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6sfduFY.png"
         },
         {
@@ -3081,7 +3081,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/NkhOxWb.png"
         },
         {
@@ -3099,7 +3099,7 @@
             "description": "30ml de NicSalt Crazy Clouds para pod (com 35mg de nicotina), sabor Menta 🌿",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/XtM9tlG.png"
         },
         {
@@ -3749,7 +3749,7 @@
             "description": "Unidade de bandeja de metal Astro World, tamanho 14cm x 18cm",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/piD34Yr.png"
         },
         {
