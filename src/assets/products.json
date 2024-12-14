@@ -87,7 +87,7 @@
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/fz9g8Qd.png"
         },
         {
@@ -3443,7 +3443,7 @@
             "description": "Unidade de Piteira de Vidro Chillin, tamanho 6mm x 40mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6Zo6ONX.png"
         },
         {
@@ -3452,7 +3452,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 7cm de comprimento",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/WLjfnly.png"
         },
         {
@@ -3470,7 +3470,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 4cm x 5mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/RAtPbLU.png"
         },
         {
@@ -3668,7 +3668,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de maçã verde, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/mrT6crn.png"
         },
         {
@@ -3704,7 +3704,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de uva, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6I8Tmw9.png"
         },
         {
@@ -4345,7 +4345,7 @@
             "description": "Unidade de Pegador de Carvão de 25cm da Invictus",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/pEbnkb8.png"
         },
         {
@@ -4390,7 +4390,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/AvbXhwz.png"
         },
         {
@@ -4633,7 +4633,7 @@
             "description": "Unidade de Garfo com Furador da Ziggy",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/5OdziMf.png"
         },
         {
