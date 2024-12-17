@@ -1844,6 +1844,24 @@
     ],
     "Essências Chacal": [
         {
+            "code": "0618231624423",
+            "label": "Chacal Erva-Mate Menta Limão Rosa",
+            "description": "50g de Essência Chacal Erva-Mate Menta Limão Rosa",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/YhWQ4Ku.png"
+        },
+        {
+            "code": "0618231624560",
+            "label": "Chacal Erva-Mate Tangerina da Roça",
+            "description": "50g de Essência Chacal Erva-Mate Tangerina da Roça",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/KT9bOoF.png"
+        },
+        {
             "code": "619205423691",
             "label": "Chacal Ice 🧊",
             "description": "50g de Essência Chacal Refrescante 🧊",
@@ -3571,6 +3589,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/9PWiNFT.png"
+        },
+        {
+            "code": "dichavador-bob-marley-metal",
+            "label": "Dichavador Bob Marley Metal",
+            "description": "Dichavador de Bob Marley de metal, contém 3 partes, medindo 5x3cm",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/9ZzhqQU.png"
         },
         {
             "code": "dichavador-grande-metal-dourado",
