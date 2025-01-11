@@ -71,8 +71,8 @@ ${Object.values(shoppingCart).map(
     (item) =>
         `${item.label} x${item.count}, total R$ ${formatToCurrency(
             (item.price * item.count) / 100
-        )}\n`
-)}-----------------------------
+        )}`
+).join('\n')}\n-----------------------------
 TOTAL DO PEDIDO: R$ *${formatToCurrency(totalPrice / 100)}*${
         changeValue
             ? `\n\nTroco para R$ ${formatToCurrency(
@@ -80,7 +80,7 @@ TOTAL DO PEDIDO: R$ *${formatToCurrency(totalPrice / 100)}*${
               )} (R$ ${formatToCurrency((changeValue - totalPrice) / 100)})`
             : ''
     }`;
-    const encodedMessage = encodeURI(message);
+    const encodedMessage = encodeURIComponent(message);
     return encodedMessage;
 }
 

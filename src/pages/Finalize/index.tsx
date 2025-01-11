@@ -6,7 +6,7 @@ import { Link, useSearchParams } from 'react-router-dom';
 export default function Finalize() {
     const [searchParams] = useSearchParams();
     const baseUri = `https://wa.me/5518996946870/?text=`;
-    const wappMessage = decodeURI(Base64.decode(searchParams.get('wappmessage') ?? ''));
+    const wappMessage = decodeURIComponent(Base64.decode(searchParams.get('wappmessage') ?? ''));
     
     if (!wappMessage.startsWith('*Pedido'))
         return (
@@ -30,7 +30,7 @@ export default function Finalize() {
                 </Flex>
             </Container>
         );
-    const uri = baseUri + encodeURI(wappMessage);
+    const uri = baseUri + encodeURIComponent(wappMessage);
 
     return (
         <Container maxW={'5xl'}>
