@@ -2169,7 +2169,7 @@
             "code": "essenciasmyrna-greenmint",
             "label": "Smyrna Green Mint 🌿",
             "description": "50g de Essência Smyrna, sabor Hortelã",
-            "price": 1000,
+            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/cwV3SyF.png"
@@ -2178,7 +2178,7 @@
             "code": "essenciasmyrna-peraice",
             "label": "Smyrna Pera Ice 🍐🧊",
             "description": "50g de Essência Smyrna, sabor Pera refrescante",
-            "price": 1000,
+            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/yznPeYD.png"
@@ -2187,7 +2187,7 @@
             "code": "essenciasmyrna-mangamorango",
             "label": "Smyrna Manga Morango 🥭🍓",
             "description": "50g de Essência Smyrna, sabor Manga com Morango",
-            "price": 1000,
+            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/WDaG7Jy.png"
@@ -2196,7 +2196,7 @@
             "code": "essenciasmyrna-hefesto",
             "label": "Smyrna Hefesto - Linha dos Deuses",
             "description": "50g de Essência Smyrna, a Smyrna Hefesto traz o puro sabor do Maracujá. Um sabor cítrico digno dos deuses que tomará conta da sua sessão",
-            "price": 1000,
+            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/z0EUCZi.png"
@@ -2205,7 +2205,7 @@
             "code": "essenciasmyrna-poseidon",
             "label": "Smyrna Poseidon - Linha dos Deuses",
             "description": "50g de Essência Smyrna, a Essência Smyrna Poseidon tem sabor do mix de Melão e Maracujá. Uma essência adocicada e cítrica com alta intensidade de sabor",
-            "price": 1000,
+            "price": 1200,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/FxXjQCS.png"
@@ -2214,7 +2214,7 @@
             "code": "essenciasmyrna-zeus",
             "label": "Smyrna Zeus - Linha dos Deuses 🥶",
             "description": "50g de Essência Smyrna, a essência Zeus da linha Era dos Deuses da Smyrna apresenta um sabor incrível de menta gelada. Essa foi feita para você que é amante de menta",
-            "price": 1000,
+            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/tgnYBzI.png"
@@ -2223,7 +2223,7 @@
             "code": "essenciasmyrna-ruby",
             "label": "Smyrna Ruby 🍓🥝",
             "description": "50g de Essência Smyrna. Com um sabor muito mais precioso do que joias, a essência Ruby traz o poder do puro sabor do morango combinado com a refrescância do kiwi ice. Esse mix de sabores garante uma sessão deliciosa do início ao fim",
-            "price": 1000,
+            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/IKdSEDI.png"
@@ -2389,7 +2389,7 @@
             "code": "carvao-zomo-caixa-1kg",
             "label": "Caixa 1kg Carvão Hexagonal Zomo",
             "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
-            "price": 4000,
+            "price": 4500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/7qzN2L8.png"
@@ -2798,7 +2798,7 @@
             "code": "78937680",
             "label": "Cigarro Chesterfield Original Blue (sem sabor)",
             "description": "Maço com 20 unidades de cigarro",
-            "price": 900,
+            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/NKyszRt.png"
@@ -2807,7 +2807,7 @@
             "code": "78938380",
             "label": "Cigarro Chesterfield Remix Wild",
             "description": "Maço com 20 unidades de cigarro, sabor Uva",
-            "price": 900,
+            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/9hajKrs.png"
@@ -2816,7 +2816,7 @@
             "code": "78942660",
             "label": "Cigarro Chesterfield Remix Beats",
             "description": "Maço com 20 unidades de cigarro, sabor Melancia",
-            "price": 900,
+            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/9iHD6Lp.png"
@@ -2825,7 +2825,7 @@
             "code": "78945555",
             "label": "Cigarro Chesterfield Remix Blossom",
             "description": "Maço com 20 unidades de cigarro, sabor Chiclete",
-            "price": 900,
+            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/s8k9B3J.png"
@@ -5074,7 +5074,7 @@
             "code": "7836683",
             "label": "Heineken Long Neck 330ml (GELADA)",
             "description": "BEBIDA GELADA - Cerveja Heineken em Garrafa Long Neck de 330ml, com Graduação Alcoólica 5,0%. Beba com moderação!",
-            "price": 900,
+            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/W7bdhl6.png"
@@ -5101,7 +5101,7 @@
             "code": "7891991014762",
             "label": "Budweiser Long Neck 330ml (GELADA)",
             "description": "BEBIDA GELADA - Cerveja Heineken em Garrafa Long Neck de 330ml, com Graduação Alcoólica 5,0%. Beba com moderação!",
-            "price": 900,
+            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/lthrdvG.png"
