@@ -10,6 +10,15 @@
             "image_url": "https://i.imgur.com/VstNZRi.png"
         },
         {
+            "code": "filtro-papelito-ultralongo",
+            "label": "Filtros Papelito Ultra Longos Tradicionais",
+            "description": "Unidade de pacote com 120 filtros de 30mm x 6mm. Filtro Papelito Tradicional Ultra Longo é uma escolha excelente para consumidores que buscam uma solução prática e eficaz para consumir de forma mais consciente e segura, oferecendo proteção superior e uma redução significativa de danos à saúde.",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/xf9qvBq.png"
+        },
+        {
             "code": "seda-papelito-tradicional-ks",
             "label": "Seda Papelito Tradicional King Size",
             "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Tradicional King Size",
@@ -2165,6 +2174,69 @@
         }
     ],
     "Essências Smyrna": [
+        {
+            "code": "essenciasmyrna-greenfruits",
+            "label": "Smyrna Green Fruits Feat Du Macário",
+            "description": "50g de Essência Smyrna, sabor frutas verdes",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://imgur.com/n6AwJFB"
+        },
+        {
+            "code": "essenciasmyrna-odin",
+            "label": "Smyrna Odyn",
+            "description": "50g de Essência Smyrna, sabor doce de jabuticaba",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://imgur.com/HIXJeBU"
+        },
+        {
+            "code": "essenciasmyrna-bluemint",
+            "label": "Smyrna Blue Mint",
+            "description": "50g de Essência Smyrna, sabor hortelã, semelhante ao de balas mentos ou trident azul",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://imgur.com/afDTa9X"
+        },
+        {
+            "code": "essenciasmyrna-colalemon",
+            "label": "Smyrna Cola Lemon Feat Du Macário 🥤🍋",
+            "description": "50g de Essência Smyrna, sabor Coca-Cola com Limão",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://imgur.com/vBeC6l4"
+        },
+        {
+            "code": "essenciasmyrna-evassin",
+            "label": "Smyrna Eva's Sin 🍏",
+            "description": "50g de Essência Smyrna, sabor Maçã-verde",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://imgur.com/QIYgBFn"
+        },
+        {
+            "code": "essenciasmyrna-danon",
+            "label": "Smyrna Danon 🍓",
+            "description": "50g de Essência Smyrna, sabor Danone de Morango",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://imgur.com/IiyaVRp"
+        },
+        {
+            "code": "essenciasmyrna-blueberrymuffin",
+            "label": "Smyrna Blueberry Muffin Vovó Disse... 🫐🧁",
+            "description": "50g de Essência Smyrna, sabor Blueberry Muffin",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://imgur.com/CVyyF6E"
+        },
         {
             "code": "essenciasmyrna-greenmint",
             "label": "Smyrna Green Mint 🌿",
@@ -4590,6 +4662,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/YjQiRVe.png"
+        },
+        {
+            "code": "garfo-furador-mekahfork",
+            "label": "Garfo com Furador MekahFork Zord",
+            "description": "CONFERIR CORES DISPONÍVEIS, Material: Plástico, 14cm de comprimento",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/lGLkz1E.png"
         },
         {
             "code": "garfo-furador-zord-rosa-claro",
