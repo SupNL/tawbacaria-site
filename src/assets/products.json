@@ -204,7 +204,7 @@
             "description": "Feita do que há de melhor. 100% cânhamo. Esse papel é uma verdadeira experiência. Feito a partir de fibras de cânhamo, tem baixa gramatura e possui uma cor única.) Cada livreto contém 36 folhas. Dimensões: 108 x 44 mm",
             "price": 400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/cwwwMcj.png"
         },
         {
@@ -587,7 +587,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Maracujá",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/snBIUQx.png",
             "discount": {
                 "discount": 200,
@@ -747,7 +747,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Goiaba Branca com Goiaba Vermelha",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/BIMLLcn.png",
             "discount": {
                 "discount": 200,
@@ -779,7 +779,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Laranja, Abacaxi e Maracujá 🍊🍍🥭",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/LH8aCga.png",
             "discount": {
                 "discount": 200,
@@ -795,7 +795,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Uva, Açaí, Amora, Framboesa e Mirtilo",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/MicXMm1.png",
             "discount": {
                 "discount": 200,
@@ -921,7 +921,7 @@
             "description": "50g de Essência Zomo para Narguile, sabor Torta de Limão 🍋🍰",
             "price": 900,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/c8TpvaP.png"
         },
         {
@@ -939,7 +939,7 @@
             "description": "50g de Essência Zomo para Narguile, sabor Chiclete de Tutti-frutti 🍬",
             "price": 900,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/pYdMppD.png"
         },
         {
@@ -1510,7 +1510,7 @@
             "description": "50g de Essência Magic para Narguile, sabor Morango com Baunilha",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WsKOyXo.jpeg"
         },
         {
@@ -1537,7 +1537,7 @@
             "description": "50g de Essência Magic para Narguile, sabor Pêssego com Framboesa 🍑",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/VGJTe6M.png"
         },
         {
@@ -1721,7 +1721,7 @@
             "description": "50g de Essência Nay, sabor Uva 🍇",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/71kNZdx.png"
         },
         {
@@ -1979,7 +1979,7 @@
             "description": "50g de Essência Ignite, sabor Uva 🍇",
             "price": 1400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/yJvRwer.png"
         },
         {
@@ -2207,7 +2207,7 @@
             "description": "50g de Essência Smyrna, a Essência Smyrna Poseidon tem sabor do mix de Melão e Maracujá. Uma essência adocicada e cítrica com alta intensidade de sabor",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/FxXjQCS.png"
         },
         {
@@ -2254,7 +2254,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão rosa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/YVDvspB.png"
         },
         {
@@ -2326,7 +2326,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão e menta",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WjlTPjR.png"
         },
         {
@@ -2335,7 +2335,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com cereja",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/OH94QKl.png"
         },
         {
@@ -2373,7 +2373,7 @@
             "description": "Caixa com 250g de Carvão Zomo Hexagonal",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/4QGHj4d.png"
         },
         {
@@ -2391,7 +2391,7 @@
             "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/7qzN2L8.png"
         },
         {
@@ -2400,7 +2400,7 @@
             "description": "Caixa com 2kg de Carvão Zomo Hexagonal",
             "price": 7500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Zc2WBjS.png"
         },
         {
@@ -2454,7 +2454,7 @@
             "description": "Caixa com 1kg de Carvão D'coco Hexagonal",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/QArp0rR.png"
         }
     ],
@@ -2620,7 +2620,7 @@
             "description": "Caixa com 10 unidades de palheiro Rio Negro, sabor menta 🌿",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/L6Ts2re.png"
         },
         {
@@ -2818,7 +2818,7 @@
             "description": "Maço com 20 unidades de cigarro, sabor Melancia",
             "price": 900,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/9iHD6Lp.png"
         },
         {
@@ -3162,7 +3162,7 @@
             "description": "15ml de NicSalt Caravela para pod (com 35mg de nicotina), sabor  Cereja 🍒",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/YBpQqb0.png"
         },
         {
@@ -3695,7 +3695,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de maçã verde, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/mrT6crn.png"
         },
         {
@@ -3731,7 +3731,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de uva, tamanho 110mm x 44mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6I8Tmw9.png"
         },
         {
@@ -3877,7 +3877,7 @@
             "description": "Unidade de Vidro Tubo Vaporesso Sky Solo com 3,5ml de volume",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/yXKzeoa.png"
         },
         {
@@ -3904,7 +3904,7 @@
             "description": "Unidade de Rosh de Cerâmica da Bking",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Vo0UFI8.png"
         },
         {
@@ -3949,7 +3949,7 @@
             "description": "Unidade de Rosh de Cerâmica da Bking",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/VSlGLXO.png"
         },
         {
@@ -4174,7 +4174,7 @@
             "description": "Unidade de Rosh Mini de Cerâmica da Pro Hookah",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/AjV3QAx.png"
         },
         {
@@ -4273,7 +4273,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/omLyB9L.png"
         },
         {
@@ -4408,7 +4408,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/sQ0IZ1S.png"
         },
         {
@@ -4435,7 +4435,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/2sGT8F9.png"
         },
         {
@@ -4498,7 +4498,7 @@
             "description": "Unidade de Prato de coroa pequeno de 16cm da Zion Hookah",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/RSKOyY7.png"
         },
         {
@@ -4768,7 +4768,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração rosê",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/gZnZFDI.png"
         },
         {
@@ -4813,7 +4813,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração rosê com estampa da Barbie",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/uZZLTMU.png"
         },
         {
@@ -4822,7 +4822,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração rosa com estampa da Barbie",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/F5dLVfs.png"
         },
         {
@@ -4912,7 +4912,7 @@
             "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Rosa",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/I4bUfKJ.png"
         },
         {
@@ -4966,7 +4966,7 @@
             "description": "Contra Piteira de Silicone, cor Preta",
             "price": 700,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/kWUgRI3.png"
         },
         {
@@ -5020,7 +5020,7 @@
             "description": "Abafador de alumínio, coloração Prata",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ZgEhVG0.png"
         },
         {
@@ -5103,7 +5103,7 @@
             "description": "BEBIDA GELADA - Cerveja Heineken em Garrafa Long Neck de 330ml, com Graduação Alcoólica 5,0%. Beba com moderação!",
             "price": 900,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/lthrdvG.png"
         },
         {
@@ -5112,7 +5112,7 @@
             "description": "BEBIDA GELADA - Cerveja Crystal em Lata de 350ml, com Graduação Alcoólica 5,0%. Beba com moderação!",
             "price": 400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/B3MbRs3.png"
         },
         {
@@ -5130,7 +5130,7 @@
             "description": "BEBIDA GELADA - Refrigerante Coca-cola em Lata de 350ml",
             "price": 300,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/N4eWtE7.png"
         },
         {
