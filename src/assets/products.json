@@ -3135,7 +3135,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Uva 🍇",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/g1zKxcM.png"
         },
         {
@@ -3153,7 +3153,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Tutti-Frutti 🍬",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Czenl48.png"
         },
         {
@@ -3171,7 +3171,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/NkhOxWb.png"
         },
         {
@@ -3180,7 +3180,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/yVAh82Y.png"
         },
         {
@@ -4156,7 +4156,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/0FCLjDU.png"
         },
         {
@@ -4363,7 +4363,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/hax7Xy6.png"
         },
         {
