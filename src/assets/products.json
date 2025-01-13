@@ -2598,7 +2598,7 @@
     "Fumos e Isqueiros": [
         {
             "code": "isqueiro-macarico-firestar2",
-            "label": "Isqueiro Maçarico Firestar 2 chamas",
+            "label": "(CONFERIR CORES DISPONÍVEIS) Isqueiro Maçarico Firestar 2 chamas",
             "description": "CONFERIR CORES DISPONÍVEIS - Unidade de Isqueiro Maçarico Firestar -  Possui 2 chamas e são recarregáveis com gás butano, assim você pode usar seu isqueiro por bastante tempo. 7cm de altura",
             "price": 4000,
             "is_highlight": false,
@@ -3250,8 +3250,8 @@
     "Headshop": [
         {
             "code": "case-tonabe",
-            "label": "(CONFERIR MODELOS) Case To na Bê",
-            "description": "Case para transportar seu kit para todos os rolês, viagens, festas, isso de maneira discreta, pois a case é slim e portátil. - Dimensões: 15x 9,5cm",
+            "label": "(CONFERIR MODELOS DISPONÍVEIS) Case To na Bê",
+            "description": "CONFERIR MODELOS DISPONÍVEIS - Case para transportar seu kit para todos os rolês, viagens, festas, isso de maneira discreta, pois a case é slim e portátil. - Dimensões: 15x 9,5cm",
             "price": 6000,
             "is_highlight": false,
             "in_stock": true,
@@ -3762,6 +3762,42 @@
             "image_url": "https://i.imgur.com/ukxr5Kv.png"
         },
         {
+            "code": "dichavador-metal-dourado-pequeno",
+            "label": "Dichavador de Metal Dourado Pequeno",
+            "description": "Material: Metal; Divisórias: 2; Diâmetro: 4cm; Altura: 3cm",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/CPiWqXt.png"
+        },
+        {
+            "code": "dichavador-metal-camuflado",
+            "label": "Dichavador de Metal Camuflado",
+            "description": "Material: Metal; Divisórias: 3; Diâmetro: 4cm; Altura: 3,3cm",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/k1CTVBm.png"
+        },
+        {
+            "code": "dichavador-metal-tambor-prata",
+            "label": "Dichavador de Metal Tambor Prata",
+            "description": "Material: Metal; Divisórias: 3; Diâmetro: 4cm; Altura: 4,5cm",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/rk8AdKk.png"
+        },
+        {
+            "code": "dichavador-metal-poker-grande",
+            "label": "Dichavador Metal Poker Grande - Preto",
+            "description": "Material: Metal; Divisórias: 3; Diâmetro: 5cm; Altura: 2,5cm",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/j7Ll6XL.png"
+        },
+        {
             "code": "7898960207446",
             "label": "King Blunt Maçã Verde",
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de maçã verde, tamanho 110mm x 44mm",
@@ -3931,6 +3967,15 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/o9FT7jt.png"
+        },
+        {
+            "code": "bong-acrilico-modelos",
+            "label": "(CONFERIR MODELOS DISPONÍVEIS) Bong de Acrílico 15cm",
+            "description": "CONFERIR MODELOS DISPONÍVEIS - 1 unidade de Bong de Acrílico, Dimensões: 15 cm, Material: Acrílico",
+            "price": 3500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/y9qUaWb.png"
         },
         {
             "code": "seda-smoking-king",
@@ -4511,6 +4556,33 @@
             "image_url": "https://i.imgur.com/2sGT8F9.png"
         },
         {
+            "code": "prato-yes-azulclaro",
+            "label": "Prato Yes Hookah Basic - Azul Claro",
+            "description": "Material: Alumínio, Altura 18 cm, Largura 18 cm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/a8G2QY0.png"
+        },
+        {
+            "code": "prato-yes-preto",
+            "label": "Prato Yes Hookah Basic - Preto",
+            "description": "Material: Alumínio, Altura 18 cm, Largura 18 cm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/cgcCvMF.png"
+        },
+        {
+            "code": "prato-yes-roxo",
+            "label": "Prato Yes Hookah Basic - Roxo",
+            "description": "Material: Alumínio, Altura 18 cm, Largura 18 cm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/Jsur6Pp.png"
+        },
+        {
             "code": "prato-zion-hookah-p-roxo",
             "label": "Prato Zion Hookah 18cm - Roxo",
             "description": "Unidade de Prato pequeno de 18cm da Zion Hookah",
@@ -4581,6 +4653,24 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/JMUx474.png"
+        },
+        {
+            "code": "prato-zion-hookah-coroa-p-cinzaescuro",
+            "label": "Prato Zion Hookah Coroa 16cm - Cinza Escuro",
+            "description": "Unidade de Prato de coroa pequeno de 16cm da Zion Hookah",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/0LAlrOc.png"
+        },
+        {
+            "code": "prato-zion-hookah-coroa-p-azulclaro",
+            "label": "Prato Zion Hookah Coroa 16cm - Azul Claro",
+            "description": "Unidade de Prato de coroa pequeno de 16cm da Zion Hookah",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/ILYcKE5.png"
         },
         {
             "code": "prato-simples-dourado",
@@ -4665,8 +4755,8 @@
         },
         {
             "code": "garfo-furador-mekahfork",
-            "label": "Garfo com Furador MekahFork Zord",
-            "description": "CONFERIR CORES DISPONÍVEIS, Material: Plástico, 14cm de comprimento",
+            "label": "(CONFERIR CORES DISPONÍVEIS) Garfo com Furador MekahFork Zord",
+            "description": "CONFERIR CORES DISPONÍVEIS - Material: Plástico, 14cm de comprimento",
             "price": 1200,
             "is_highlight": false,
             "in_stock": true,
@@ -5040,6 +5130,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/rseR5ca.png"
+        },
+        {
+            "code": "mangueira-conduite-preto",
+            "label": "Mangueira Conduíte Black Hookah - Preto",
+            "description": "Conduíte para Mangueira da marca Black Hookah, compatível com qualquer piteira, totalmente lavável e higiênico, com aproximadamente 1,50m de comprimento. Material: Plástico Corrugado. Obs: Não é anti-chamas.",
+            "price": 600,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/R4DfBul.png"
         },
         {
             "code": "contra-piteira-silicone-preta",
