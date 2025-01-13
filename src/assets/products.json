@@ -3587,7 +3587,7 @@
             "description": "Unidade de Dichavador de Metal Tambor",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/hHTuxct.png"
         },
         {
