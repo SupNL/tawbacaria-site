@@ -804,7 +804,7 @@
             "description": "50g de Essência Ziggy para Narguile, sabor Uva, Açaí, Amora, Framboesa e Mirtilo",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/MicXMm1.png",
             "discount": {
                 "discount": 200,
@@ -2890,7 +2890,7 @@
             "description": "Maço com 20 unidades de cigarro, sabor Melancia",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/9iHD6Lp.png"
         },
         {
@@ -4390,7 +4390,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/omLyB9L.png"
         },
         {
@@ -4408,7 +4408,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/hax7Xy6.png"
         },
         {
@@ -4525,7 +4525,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/sQ0IZ1S.png"
         },
         {
@@ -4651,7 +4651,7 @@
             "description": "Unidade de Prato de coroa pequeno de 16cm da Zion Hookah",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/JMUx474.png"
         },
         {
@@ -5083,7 +5083,7 @@
             "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Rosa",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/I4bUfKJ.png"
         },
         {
