@@ -817,6 +817,42 @@
     ],
     "Essências Zomo": [
         {
+            "code": "0619205823712",
+            "label": "Zomo Max Maçã Verde 🍏",
+            "description": "50g de Essência Zomo para Narguile, sabor Maçã Verde 🍏",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/6W9a2sf.png"
+        },
+        {
+            "code": "0619205823729",
+            "label": "Zomo Max Melão 🍈",
+            "description": "50g de Essência Zomo para Narguile, sabor Melão 🍈",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/J02uFkO.png"
+        },
+        {
+            "code": "0619205823811",
+            "label": "Zomo Mix Berries Mint",
+            "description": "50g de Essência Zomo para Narguile, sabor  morango, framboesa, mirtilo e amoras com um toque refrescante de menta",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/njEy3Tf.png"
+        },
+        {
+            "code": "0619205823828",
+            "label": "Zomo Passion Lemonade",
+            "description": "50g de Essência Zomo para Narguile, sabor Maracujá com Limão",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/oEzCdw4.png"
+        },
+        {
             "code": "0618341023673",
             "label": "Zomo Mint 🌿",
             "description": "50g de Essência Zomo para Narguile, sabor Menta 🌿",
@@ -1661,6 +1697,24 @@
         }
     ],
     "Essências Nay": [
+        {
+            "code": "0619205823835",
+            "label": "Nay Pineapple Twist 🍍🍋‍🟩",
+            "description": "50g de Essência Nay, sabor Abacaxi com Limão",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/2usBCZ5.png"
+        },
+        {
+            "code": "0619205823842",
+            "label": "Nay Pineapple Grape 🍍🍇",
+            "description": "50g de Essência Nay, sabor Abacaxi com Uva",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/N60qRdD.png"
+        },
         {
             "code": "0619205823781",
             "label": "Nay Mango Melon 🥭🍈",
@@ -2596,6 +2650,15 @@
         }
     ],
     "Fumos e Isqueiros": [
+        {
+            "code": "isqueiro-maçarico-prof",
+            "label": "(CONFERIR CORES DISPONÍVEIS) Isqueiro Maçarico Recarragável Prof",
+            "description": "CONFERIR CORES DISPONÍVEIS - 1 Unidade de Isqueiro Maçarico Recarragável Prof, conferir modelos disponíveis",
+            "price": 1000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/T7jEOYU.png"
+        },
         {
             "code": "isqueiro-macarico-firestar2",
             "label": "(CONFERIR CORES DISPONÍVEIS) Isqueiro Maçarico Firestar 2 chamas",
@@ -3562,6 +3625,24 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/RAtPbLU.png"
+        },
+        {
+            "code": "dichavador-metal-onepiece",
+            "label": "Dichavador Metal One Piece",
+            "description": "Material: Metal, Altura: 3cm, Diametro 5cm, composto por 3 partes",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/PM7ScJ4.png"
+        },
+        {
+            "code": "dichavador-metal-caveira-mexicana-3d",
+            "label": "Dichavador Metal Caveira Mexicana 3D",
+            "description": "Material: Metal, Altura: 3cm Diametro: 5cm, composto por 3 partes, com uma linda ilustração que trás um aspecto em alto relevo!",
+            "price": 5000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/iJuC4eU.png"
         },
         {
             "code": "dichavador-metal-cifrao",
