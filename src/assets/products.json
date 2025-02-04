@@ -4615,7 +4615,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/AvbXhwz.png"
         },
         {
@@ -5227,7 +5227,7 @@
             "description": "Contra Piteira de Silicone, cor Preta",
             "price": 700,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/kWUgRI3.png"
         },
         {
