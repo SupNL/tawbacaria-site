@@ -1,11 +1,21 @@
 import { useState } from 'react';
-import productsData from '../../assets/products.json';
+import rawProductsData from '../../assets/products.json';
+import rawCategoriesData from '../../assets/category_config.json';
 import { isWithinDateRange, normalizeString } from '../../utils';
 import useCurrentTimeContext from '../useCurrentTime';
 import ProductsQueryContext from './context';
 
 const normalizedItems: TawbacariaApp.ProductItem[] = [];
 const categories: string[] = [];
+
+const categoriesData = rawCategoriesData as Record<
+    string,
+    TawbacariaApp.CategoryJsonData | undefined
+>;
+const productsData = rawProductsData as Record<
+    string,
+    TawbacariaApp.ItemJsonData[]
+>;
 
 function instantiateDateWithTimezone(
     strDate: string,
@@ -22,35 +32,41 @@ function instantiateDateWithTimezone(
 
 function parseProduct(
     item: TawbacariaApp.ItemJsonData,
-    category: string
+    category: string,
+    categoryInfo: TawbacariaApp.CategoryJsonData | undefined,
 ): TawbacariaApp.ProductItem {
+    const price = item.price ?? categoryInfo?.price;
+    if (price == null) throw new Error('Produto sem preço definido: ' + item.code);
     const data: TawbacariaApp.ProductItem = {
         ...item,
+        price : item.price ?? categoryInfo?.price ?? 0,
         category,
         availability_period: undefined,
         discount: undefined,
     };
-    if (item.availability_period)
+    const availability = item.availability_period ?? categoryInfo?.availability_period;
+    if (availability)
         data['availability_period'] = {
             start: instantiateDateWithTimezone(
-                item.availability_period.start,
+                availability.start,
                 item
             ),
             end: instantiateDateWithTimezone(
-                item.availability_period.end,
+                availability.end,
                 item
             ),
         };
-    if (item.discount)
+    const discount = item.discount ?? categoryInfo?.discount;
+    if (discount)
         data['discount'] = {
-            discount: item.discount.discount,
+            discount: discount.discount,
             period: {
                 start: instantiateDateWithTimezone(
-                    item.discount.period.start,
+                    discount.period.start,
                     item
                 ),
                 end: instantiateDateWithTimezone(
-                    item.discount.period.end,
+                    discount.period.end,
                     item
                 ),
             },
@@ -60,6 +76,7 @@ function parseProduct(
 
 Object.entries(productsData).forEach(([key, value]) => {
     categories.push(key);
+    const categoryInfo = categoriesData[key];
     value
         .filter((item) => item.in_stock)
         .sort((item, prevItem) =>
@@ -69,7 +86,7 @@ Object.entries(productsData).forEach(([key, value]) => {
                 ? -1
                 : 0
         )
-        .map((item) => normalizedItems.push(parseProduct(item, key)));
+        .map((item) => normalizedItems.push(parseProduct(item, key, categoryInfo)));
 });
 
 const ProductsQueryProvider: React.FC<React.PropsWithChildren> = ({

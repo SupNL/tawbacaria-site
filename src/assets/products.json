@@ -49,25 +49,25 @@
             "code": "7898950283542",
             "label": "Piteira Mega Longa Papelito (72 piteiras)",
             "description": "Piteira Mega Longa do Papelito, contém 30 blocos com 72 piteiras, tamanho 5,5x4cm",
-            "price": 600,
+            "price": 800,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/SU9Swjv.jpg"
         },
         {
             "code": "7898950283481",
-            "label": "Piteira Longa Papelito (72 piteiras)",
+            "label": "Papelito Piteira Longa (72 piteiras)",
             "description": "Piteira Longa do Papelito, contém 30 blocos com 72 piteiras, tamanho 4x4cm",
-            "price": 600,
+            "price": 800,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/4PbSrHk.jpg"
         },
         {
             "code": "7898950283467",
-            "label": "Seda com Bandeja Dobrável Papelito (36 piteiras)",
+            "label": "Seda com Bandeja Dobrável Papelito Branca (36 piteiras)",
             "description": "Seda com Bandeja Dobrável do Papelito, papel branco, ultrafino, contém 36 piteiras e 36 papéis",
-            "price": 800,
+            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/n4j9KR2.jpg"
@@ -148,7 +148,7 @@
             "code": "papelito-ultra-longa-piteira",
             "label": "Piteira Papelito Ultra Longa",
             "description": "Contém 30 blocos com 72 piteiras, tamanho 4,5x4cm",
-            "price": 600,
+            "price": 800,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/SSFRAck.png"
@@ -220,7 +220,7 @@
             "code": "papelito-seda-brown-bandeja-dropavel",
             "label": "Seda com Bandeja Dobrável do Papelito Brown",
             "description": "Seda com Bandeja Dobrável do Papelito Brown, papel branco, ultrafino, contém 36 piteiras e 36 papéis",
-            "price": 800,
+            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/CEheX2W.png"
@@ -321,7 +321,6 @@
             "code": "essencia-luky-melon",
             "label": "Luky Melon Gaul 🍈",
             "description": "55g de essência Luky, feito com tabaco premium, sabor melão espanhol",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/4UbKzdM.png"
@@ -330,7 +329,6 @@
             "code": "essencia-luky-icemint",
             "label": "Luky Ice Mint 🥶",
             "description": "55g de essência Luky, feito com tabaco premium, sabor menta e hortelã",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/RfxzfPA.png"
@@ -339,7 +337,6 @@
             "code": "essencia-luky-uva",
             "label": "Luky Grape King 🍇",
             "description": "55g de essência Luky, feito com tabaco premium, sabor uva",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/MWV6RBQ.png"
@@ -348,7 +345,6 @@
             "code": "essencia-luky-lemon",
             "label": "Luky Lemon 🍋",
             "description": "55g de essência Luky, feito com tabaco premium, sabor limão",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/OC2V1YW.png"
@@ -357,7 +353,6 @@
             "code": "essencia-luky-redfruits",
             "label": "Luky Red Fruits 🍓",
             "description": "55g de essência Luky, feito com tabaco premium, sabor framboesa, morango e amora",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/6w4FZ18.png"
@@ -366,7 +361,6 @@
             "code": "essencia-luky-bluefruits",
             "label": "Luky Blue Fruits 🫐",
             "description": "55g de essência Luky, feito com tabaco premium, sabor amora, blueberry e jabuticaba",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/7tXA7rK.png"
@@ -375,7 +369,6 @@
             "code": "essencia-luky-nectar",
             "label": "Luky Nectar of the Gods",
             "description": "55g de essência Luky, feito com tabaco premium, sabor pêssego e ameixa",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/io1Kd2A.png"
@@ -386,353 +379,177 @@
             "code": "ziggy-sorvete-pistache",
             "label": "Ziggy Sorvete de Pistache 🍦💚",
             "description": "50g de Essência Ziggy para Narguile, sabor Sorvete de Pistache 🍦💚",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/rpKvvZx.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/rpKvvZx.png"
         },
         {
             "code": "7908479402079",
             "label": "Ziggy Abacaxi Tropical 🍍🌴",
             "description": "50g de Essência Ziggy para Narguile, sabor Abacaxi com Hortelã 🍍🌴",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/1c3faw2.jpg",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/1c3faw2.jpg"
         },
         {
             "code": "7898965792060",
             "label": "Ziggy Banana Tropical 🍌",
             "description": "50g de Essência Ziggy para Narguile, sabor Banana 🍌",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/VxKOQR5.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/VxKOQR5.png"
         },
         {
             "code": "7898962227060",
             "label": "Ziggy Fresh Açaí",
             "description": "50g de Essência Ziggy para Narguile, sabor Açaí",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/opke5pQ.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/opke5pQ.png"
         },
         {
             "code": "7908479402192",
             "label": "Ziggy Duas Maçãs Verdes 🍏🍏",
             "description": "50g de Essência Ziggy para Narguile, sabor Maçã Verde",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/Qn4e23p.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/Qn4e23p.png"
         },
         {
             "code": "7898962227091",
             "label": "Ziggy Berry",
             "description": "50g de Essência Ziggy para Narguile, sabor Framboesa",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/3aBaRTS.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/3aBaRTS.png"
         },
         {
             "code": "7898965792039",
             "label": "Ziggy Caju Tropical",
             "description": "50g de Essência Ziggy para Narguile, sabor Caju",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/vYLARw7.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/vYLARw7.png"
         },
         {
             "code": "7898962227107",
             "label": "Ziggy Frutti 🍬",
             "description": "50g de Essência Ziggy para Narguile, sabor Tutti-Frutti 🍬",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/xHx3IYD.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/xHx3IYD.png"
         },
         {
             "code": "789896579053",
             "label": "Ziggy Laranjola Tropical",
             "description": "50g de Essência Ziggy para Narguile, sabor Laranja com Acerola",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/dzPvYhc.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/dzPvYhc.png"
         },
         {
             "code": "7898927097691",
             "label": "Ziggy Fresh Lemon 🍋",
             "description": "50g de Essência Ziggy para Narguile, sabor Limão 🍋",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/Ji4tOsW.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/Ji4tOsW.png"
         },
         {
             "code": "7898965792046",
             "label": "Ziggy Tropical 🌴",
             "description": "50g de Essência Ziggy para Narguile, sabor de mix de frutas tropical: Limão, Abacaxi, Maracujá e Mamão 🌴",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/K8lnkaq.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/K8lnkaq.png"
         },
         {
             "code": "7898962227114",
             "label": "Ziggy Tanger Bomb 🍊",
             "description": "50g de Essência Ziggy para Narguile, sabor Tangerina 🍊",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/krCad56.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/krCad56.png"
         },
         {
             "code": "7898927097806",
             "label": "Ziggy Cherry Starbust 🍒",
             "description": "50g de Essência Ziggy para Narguile, sabor Cereja 🍒",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/NtodnQU.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/NtodnQU.png"
         },
         {
             "code": "7898927097707",
             "label": "Ziggy Yellow Starbust",
             "description": "50g de Essência Ziggy para Narguile, sabor Maracujá",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/snBIUQx.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/snBIUQx.png"
         },
         {
             "code": "7898927097684",
             "label": "Ziggy Hapocalyx Mint 🌿",
             "description": "50g de Essência Ziggy para Narguile, sabor Menta 🌿",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/fd4Qm1q.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/fd4Qm1q.png"
         },
         {
             "code": "7898927097820",
             "label": "Ziggy Watermelon Bomb 🍉",
             "description": "50g de Essência Ziggy para Narguile, sabor Melancia 🍉",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/oJCCgGx.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/oJCCgGx.png"
         },
         {
             "code": "7898927097790",
             "label": "Ziggy Macchiato ☕️",
             "description": "50g de Essência Ziggy para Narguile, sabor Café ☕️",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/HaoWBDO.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/HaoWBDO.png"
         },
         {
             "code": "7908479401911",
             "label": "Ziggy Red Lemonade (Sakamoto)",
             "description": "50g de Essência Ziggy para Narguile, sabor Limão com Frutas vermelhas",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/fVO2fwL.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/fVO2fwL.png"
         },
         {
             "code": "7908479402086",
             "label": "Ziggy Coco Tropical 🥥",
             "description": "50g de Essência Ziggy para Narguile, sabor Coco 🥥",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/LfnyLhV.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/LfnyLhV.png"
         },
         {
             "code": "7908479402109",
             "label": "Ziggy Yogurt 🍓",
             "description": "50g de Essência Ziggy para Narguile, sabor Iogurt de Morango 🍓",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/FZGAOnz.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/FZGAOnz.png"
         },
         {
             "code": "7908479402116",
             "label": "Ziggy Grape Starburst 🍇",
             "description": "50g de Essência Ziggy para Narguile, sabor Uva 🍇",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/rhU7wNA.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/rhU7wNA.png"
         },
         {
             "code": "7908479402130",
             "label": "Ziggy Mix Morango e Laranja 🍓🍊",
             "description": "50g de Essência Ziggy para Narguile, sabor Morango com Laranja 🍓🍊",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/xKvBLqm.jpg",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/xKvBLqm.jpg"
         },
         {
             "code": "7898962227213",
@@ -741,78 +558,39 @@
             "price": 1400,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/Kx7OT8T.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/Kx7OT8T.png"
         },
         {
             "code": "7908479402161",
             "label": "Ziggy Mix Duas Goiabas",
             "description": "50g de Essência Ziggy para Narguile, sabor Goiaba Branca com Goiaba Vermelha",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/BIMLLcn.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/BIMLLcn.png"
         },
         {
             "code": "7908479402185",
             "label": "Ziggy Fresh Melon 🍈",
             "description": "50g de Essência Ziggy para Narguile, sabor Melão 🍈",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/oX1vHPX.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/oX1vHPX.png"
         },
         {
             "code": "7908479402321",
             "label": "Ziggy Mix Frutas Amarela",
             "description": "50g de Essência Ziggy para Narguile, sabor Laranja, Abacaxi e Maracujá 🍊🍍🥭",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/LH8aCga.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/LH8aCga.png"
         },
         {
             "code": "7908479402338",
             "label": "Ziggy Mix Frutas Roxas",
             "description": "50g de Essência Ziggy para Narguile, sabor Uva, Açaí, Amora, Framboesa e Mirtilo",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/MicXMm1.png",
-            "discount": {
-                "discount": 200,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/MicXMm1.png"
         }
     ],
     "Essências Zomo": [
@@ -820,25 +598,22 @@
             "code": "zomo-strong-mint-stone",
             "label": "Zomo Stone - Linha Strong Mint",
             "description": "50g de Essência Zomo para Narguile. A fusão perfeita entre mentas da Europa e da Índia, proporcionando uma intensidade única",
-            "price": 900,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/GlhkKmc.png"
-        },
-        {
-            "code": "zomo-strong-mint-hype",
-            "label": "Zomo Hype - Linha Strong Mint",
-            "description": "50g de Essência Zomo para Narguile, mix de mentas Européias com um sabor suave da bala de menta",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/UFexXSB.png"
         },
         {
+            "code": "zomo-strong-mint-hype",
+            "label": "Zomo Hype - Linha Strong Mint",
+            "description": "50g de Essência Zomo para Narguile, mix de mentas Européias com um sabor suave da bala de menta",
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/GlhkKmc.png"
+        },
+        {
             "code": "0619205823712",
             "label": "Zomo Max Maçã Verde 🍏",
             "description": "50g de Essência Zomo para Narguile, sabor Maçã Verde 🍏",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/6W9a2sf.png"
@@ -847,7 +622,6 @@
             "code": "0619205823729",
             "label": "Zomo Max Melão 🍈",
             "description": "50g de Essência Zomo para Narguile, sabor Melão 🍈",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/J02uFkO.png"
@@ -856,7 +630,6 @@
             "code": "0619205823811",
             "label": "Zomo Mix Berries Mint",
             "description": "50g de Essência Zomo para Narguile, sabor  morango, framboesa, mirtilo e amoras com um toque refrescante de menta",
-            "price": 900,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/njEy3Tf.png"
@@ -865,7 +638,6 @@
             "code": "0619205823828",
             "label": "Zomo Passion Lemonade",
             "description": "50g de Essência Zomo para Narguile, sabor Maracujá com Limão",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/oEzCdw4.png"
@@ -874,7 +646,6 @@
             "code": "0618341023673",
             "label": "Zomo Mint 🌿",
             "description": "50g de Essência Zomo para Narguile, sabor Menta 🌿",
-            "price": 900,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/Togowzv.png"
@@ -883,7 +654,6 @@
             "code": "0618341023697",
             "label": "Zomo Strong Mint 🌿🌿🌿",
             "description": "50g de Essência Zomo para Narguile, sabor Hortelã 🌿",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/8FAkjE3.png"
@@ -892,7 +662,6 @@
             "code": "78420059",
             "label": "Zomo Gum 🍬",
             "description": "50g de Essência Zomo para Narguile, sabor Chiclete 🍬",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/HCBrkqg.png"
@@ -901,7 +670,6 @@
             "code": "0618341023703",
             "label": "Zomo Swiss Alps 🧊",
             "description": "50g de Essência Zomo para Narguile, sabor Menta com toque refrescante de Chicelete, Caramelo e Baunilha 🧊",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/opPyMmV.png"
@@ -910,7 +678,6 @@
             "code": "0619205174210",
             "label": "Zomo Watermelon Mint 🍉🥶",
             "description": "50g de Essência Zomo para Narguile, sabor Melancia com Menta 🍉🌿",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/OMH1SOk.png"
@@ -919,7 +686,6 @@
             "code": "7841881022209",
             "label": "Zomo Naranja Pink 🍊🍹",
             "description": "50g de Essência Zomo para Narguile, sabor Toranja (Laranja Vermelha) 🍊🍹",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/T44QEJJ.png"
@@ -928,7 +694,6 @@
             "code": "0618341023635",
             "label": "Zomo Hungria 🫐🍈",
             "description": "50g de Essência Zomo para Narguile, sabor Melão com Blueberry (Mirtilo) 🫐🍈",
-            "price": 900,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/W3S0PBf.png"
@@ -937,7 +702,6 @@
             "code": "78421189",
             "label": "Zomo Melon Drops 🍈",
             "description": "50g de Essência Zomo para Narguile, sabor Melão 🍈",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/xe3HHCo.png"
@@ -946,7 +710,6 @@
             "code": "78421110",
             "label": "Zomo Hungria Brabo (Nesquik Morango) 🍓",
             "description": "50g de Essência Zomo para Narguile, sabor Nesquik de Morango 🍓",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/RW3kEab.png"
@@ -955,7 +718,6 @@
             "code": "7841881019452",
             "label": "Zomo Refri Loko 🥤🍋",
             "description": "50g de Essência Zomo para Narguile, sabor Lima + Limão com Menta 🥤🍋",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Bd2O0XN.png"
@@ -964,7 +726,6 @@
             "code": "7841881022216",
             "label": "Zomo Strong Choco 🍫",
             "description": "50g de Essência Zomo para Narguile, sabor Chocolate Amargo 🍫",
-            "price": 900,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/3HahsxL.png"
@@ -973,7 +734,6 @@
             "code": "78419070",
             "label": "Zomo Bluberry Mint 🫐🌿",
             "description": "50g de Essência Zomo para Narguile, sabor Blueberry (Mirtilo) com Menta 🫐🌿",
-            "price": 900,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/Gb8aJhf.png"
@@ -982,7 +742,6 @@
             "code": "0618341023734",
             "label": "Zomo Max Lemon Cake 🍋🍰",
             "description": "50g de Essência Zomo para Narguile, sabor Torta de Limão 🍋🍰",
-            "price": 900,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/c8TpvaP.png"
@@ -991,7 +750,6 @@
             "code": "0619205823507",
             "label": "Zomo Max Milkshake de Banana 🥤🍌",
             "description": "50g de Essência Zomo para Narguile, sabor Milkshake de Banana 🥤🍌",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/KhoYevM.png"
@@ -1000,7 +758,6 @@
             "code": "0619205174142",
             "label": "Zomo Max Chiclete de Tutti-frutti 🍬",
             "description": "50g de Essência Zomo para Narguile, sabor Chiclete de Tutti-frutti 🍬",
-            "price": 900,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/pYdMppD.png"
@@ -1009,7 +766,6 @@
             "code": "0619205174388",
             "label": "Zomo Gum Mint 🍬🌿",
             "description": "50g de Essência Zomo para Narguile, sabor Chiclete de Hortelã 🍬🌿",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/NlwfsOk.png"
@@ -1018,7 +774,6 @@
             "code": "0619205174357",
             "label": "Zomo Max Strawberry Candy (Bala de Morango) 🍓🍬",
             "description": "50g de Essência Zomo para Narguile, sabor Bala de Morango 🍓🍬",
-            "price": 900,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/wRbgure.png"
@@ -1027,7 +782,6 @@
             "code": "zomo-strong-drops-menthol",
             "label": "Zomo Menthol - Linha Strong Drops",
             "description": "50g de Essência Zomo para Narguile. Strong Drops Menthol é para quem curte uma experiência intensa e refrescante, essa essência é uma explosão de frescor a qualquer momento do dia. Uma combinação desenvolvida com o máximo do menthol e que deixa qualquer esquentadinho numa fria.",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Rd8jXMq.png"
@@ -1036,7 +790,6 @@
             "code": "zomo-strong-drops-uva",
             "label": "Zomo Uva 🍇 -  Linha Strong Drops",
             "description": "50g de Essência Zomo para Narguile. Strong Drops Uva é uma explosão de sabor frutado e refrescância! Feito para quem quer ter uma experiência intensa, mas com aquele docinho azedo que só a Zomo entrega em suas essências.",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/2d3BAPM.png"
@@ -1045,7 +798,6 @@
             "code": "zomo-strong-drops-cereja",
             "label": "Zomo Cereja 🍒 - Linha Strong Drops",
             "description": "50g de Essência Zomo para Narguile. Strong Drops Cereja é a solução para você que coloca aquela balinha no arguile. Essa essência tem aquele sabor que você já conhece muito bem, só que com refrescância e ousadia Zomo!",
-            "price": 900,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/enfP4lW.png"
@@ -1056,305 +808,153 @@
             "code": "onix-essencia-high-fusion",
             "label": "Onix High Fusion 🧡",
             "description": "50g de Essência Onix Experience para Narguile, sabor mix de frutas: banana, maracujá, laranja, melão e manga 🧡",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/Wt23FqL.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/Wt23FqL.png"
         },
         {
             "code": "onix-essencia-high-mint",
             "label": "Onix High Mint 🥶",
             "description": "50g de Essência Onix Experience para Narguile, sabor Hortelã 🥶",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/FQbNqDs.jpeg",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/FQbNqDs.jpeg"
         },
         {
             "code": "9MQCWTFCS",
             "label": "Onix High Cherry (Cereja) 🍒",
             "description": "50g de Essência Onix Experience para Narguile, sabor Cereja 🍒",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/fJqVa4y.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/fJqVa4y.png"
         },
         {
             "code": "7898967524027",
             "label": "Onix Pear (Pêra) 🍐",
             "description": "50g de Essência Onix Experience para Narguile, sabor Pêra 🍐",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/F5zilYk.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/F5zilYk.png"
         },
         {
             "code": "7898967424041",
             "label": "Onix Apple (Maçã Verde) 🍏",
             "description": "50g de Essência Onix Experience para Narguile, sabor Maçã Verde 🍏",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/G4nTb4R.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/G4nTb4R.png"
         },
         {
             "code": "7898967524010",
             "label": "Onix Danon (Danone) 🍓",
             "description": "50g de Essência Onix Experience para Narguile, sabor Iogurte de Morango 🍓",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/F6CDUhO.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/F6CDUhO.png"
         },
         {
             "code": "7898967524003",
             "label": "Onix Mint (Menta) 🌿",
             "description": "50g de Essência Onix Experience para Narguile, sabor Menta 🌿",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/jFoPZlY.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/jFoPZlY.png"
         },
         {
             "code": "7898967524102",
             "label": "Onix Banana e Açaí Fusion 🍌",
             "description": "50g de Essência Onix Experience para Narguile, sabor Açaí com Banana 🍌",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/WinL6wV.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/WinL6wV.png"
         },
         {
             "code": "4898967524065",
             "label": "Onix Grape (Uva) 🍇",
             "description": "50g de Essência Onix Experience para Narguile, sabor Uva 🍇",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/MVmXreg.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/MVmXreg.png"
         },
         {
             "code": "7898967524126",
             "label": "Onix Chicelete Canela",
             "description": "50g de Essência Onix Experience para Narguile, sabor Chiclete com Canela",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/HpJal6V.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/HpJal6V.png"
         },
         {
             "code": "7898967524096",
             "label": "Onix Mango 🥭",
             "description": "50g de Essência Onix Experience para Narguile, sabor Manga 🥭",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/9iKT9lR.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/9iKT9lR.png"
         },
         {
             "code": "0618231942503",
             "label": "Onix Yellow Drops (Frutas Amarelas) 🍍🥭",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Manga, Abacaxi e Maracujá 🍍🥭",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/Sd2yTzb.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/Sd2yTzb.png"
         },
         {
             "code": "0619205200797",
             "label": "Onix High Lemon 🍋",
             "description": "50g de Essência Onix para Narguile, sabor Limão 🍋",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/ujKOViF.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/ujKOViF.png"
         },
         {
             "code": "0619205200773",
             "label": "Onix High Passion (Maracujá)",
             "description": "50g de Essência Onix para Narguile, sabor Maracujá",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/QtYwGDR.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/QtYwGDR.png"
         },
         {
             "code": "0619205943042",
             "label": "Onix Starcoffee ☕️",
             "description": "50g de Essência Onix para Narguile, sabor Café ☕️",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/bJsHJkq.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/bJsHJkq.png"
         },
         {
             "code": "0619205200803",
             "label": "Onix Red Drops 🍓🍒",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Morango, Cereja e Tutti-frutti",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/ETrSTEZ.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/ETrSTEZ.png"
         },
         {
             "code": "7898967524119",
             "label": "Onix Drops 🍓🍉",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Morango e Melancia 🍓🍉",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/aV8Dzww.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/aV8Dzww.png"
         },
         {
             "code": "0631430045342",
             "label": "Onix Goiaba e Morango 🍓",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Goiaba e Morango 🍓",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/TAp0pEz.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/TAp0pEz.png"
         },
         {
             "code": "06131430044359",
             "label": "Onix High Tutti",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Tutti-Frutti",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/GdvosLc.png",
-            "discount": {
-                "discount": 150,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/GdvosLc.png"
         }
     ],
     "Essências Adalya": [
@@ -1371,7 +971,6 @@
             "code": "8681655727003",
             "label": "Adalya Sheik Money 🤑",
             "description": "50g de Essência Adalya para Narguile, sabor Mix de frutas com predominância de Abacaxi 🍍",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/MK4eDdW.png"
@@ -1380,7 +979,6 @@
             "code": "8681511387303",
             "label": "Adalya Banana Milk Ice 🍌🥛🧊",
             "description": "50g de Essência Adalya para Narguile, sabor Creme de Banana com toque de Menta 🍌🌿",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/SlUuVkp.png"
@@ -1389,7 +987,6 @@
             "code": "86811511386108",
             "label": "Adalya Banana Milk 🍌🥛",
             "description": "50g de Essência Adalya para Narguile, sabor Creme de Banana 🍌",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/JO4gHXo.png"
@@ -1398,7 +995,6 @@
             "code": "8681511387594",
             "label": "Adalya Blue Melon 🍈💙",
             "description": "50g de Essência Adalya para Narguile, sabor Blueberry (Mirtilo) com Melão 🫐🍈",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/5AEsDpN.png"
@@ -1407,7 +1003,6 @@
             "code": "8681655725245",
             "label": "Adalya Horchata 🖤🥛",
             "description": "50g de Essência Adalya para Narguile, sabor Amêndoa Cremosa",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/BWXxIWd.png"
@@ -1416,7 +1011,6 @@
             "code": "8681511387846",
             "label": "Adalya Hazelnut 🥜",
             "description": "50g de Essência Adalya para Narguile, sabor Creme de Avelã (Nutella) 🥜",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/PtcZ2cY.png"
@@ -1425,7 +1019,6 @@
             "code": "8681511387600",
             "label": "Adalya Gipsy Kings",
             "description": "50g de Essência Adalya para Narguile, sabor Melão, Melancia e muuuito mais Menta 🍈🍉🌿",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/Ld9YwZd.png"
@@ -1434,7 +1027,6 @@
             "code": "8681511386603",
             "label": "Adalya Hawaii",
             "description": "50g de Essência Adalya para Narguile, sabor Manga, Abacaxi e Menta 🍍🥭🌿",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/ROwpzEg.png"
@@ -1443,7 +1035,6 @@
             "code": "861655725191",
             "label": "Adalya Melona 🍈🍋",
             "description": "50g de Essência Adalya para Narguile, sabor Melão, Limão Siciliano e Menta 🍈🍋🌿",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/ODT8wJF.png"
@@ -1452,7 +1043,6 @@
             "code": "8681655728284",
             "label": "Adalya Chapolin",
             "description": "50g de Essência Adalya para Narguile, sabor Açai, Menta e Pitaya 🌿🐉",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/51sAoVw.png"
@@ -1461,7 +1051,6 @@
             "code": "8681655728369",
             "label": "Adalya Mario Brothers",
             "description": "50g de Essência Adalya para Narguile, sabor Maracujá, Framboesa e Limão 🍋",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/jB7Wdw6.png"
@@ -1470,7 +1059,6 @@
             "code": "8681655728406",
             "label": "Adalya Pica-Pau",
             "description": "50g de Essência Adalya para Narguile, sabor Melão, Limão e Pitaya 🍈🍋🐉",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/h4MzvZT.png"
@@ -1479,7 +1067,6 @@
             "code": "8681655728383",
             "label": "Adalya Máskara",
             "description": "50g de Essência Adalya para Narguile, sabor Manga, Abacaxi e Pitaya 🍍🥭🐉",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/amBlLP7.png"
@@ -1488,7 +1075,6 @@
             "code": "8681655728420",
             "label": "Adalya Popeye",
             "description": "50g de Essência Adalya para Narguile, sabor Maracujá, Melancia e Menta 🍉🌿",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/1PEmTj9.png"
@@ -1497,7 +1083,6 @@
             "code": "8681655728307",
             "label": "Adalya Chaves",
             "description": "50g de Essência Adalya para Narguile, sabor Melão, Pêssego, Laranja e Limão Siciliano 🍈🍑🍊🍋",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/wd0Fvf0.png"
@@ -1506,7 +1091,6 @@
             "code": "8681655728345",
             "label": "Adalya Majin Boo",
             "description": "50g de Essência Adalya para Narguile, sabor Tutti-Frutti, Cereja e Menta 🍒🌿",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/iYsNxBA.png"
@@ -1515,7 +1099,6 @@
             "code": "8681655728024",
             "label": "Adalya Picolé Groselha",
             "description": "50g de Essência Adalya para Narguile, sabor Groselha",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/JeBLvjs.png"
@@ -1524,7 +1107,6 @@
             "code": "8681655727140",
             "label": "Adalya Caipirinha Brazil 🍸",
             "description": "50g de Essência Adalya para Narguile, sabor Limão Verde Refrescante",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/9pkFppO.png"
@@ -1533,7 +1115,6 @@
             "code": "8681511389161",
             "label": "Adalya Swiss Bonbon 🥶",
             "description": "50g de Essência Adalya para Narguile, sabor Chiclete com Refrescância",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/JZFsSrW.png"
@@ -1542,7 +1123,6 @@
             "code": "8681511368303",
             "label": "Adalya Exagelado",
             "description": "50g de Essência Adalya para Narguile, sabor Framboesa, Limão e Menta 🍋🌿",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Oa0j74o.png"
@@ -1551,7 +1131,6 @@
             "code": "8681511794853",
             "label": "Adalya Mango & Tango 🥭",
             "description": "50g de Essência Adalya para Narguile, sabor Manga 🥭",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/DwOrdRa.png"
@@ -1562,7 +1141,6 @@
             "code": "7908479402390",
             "label": "Magic Space Mint 🌿",
             "description": "50g de Essência Magic para Narguile, sabor Hortelã 🌿",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/hX6yRSK.png"
@@ -1571,7 +1149,6 @@
             "code": "magic-essencia-space-strawnilla",
             "label": "Magic Space Strawnilla 🍓🍦",
             "description": "50g de Essência Magic para Narguile, sabor Morango com Baunilha",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/WsKOyXo.jpeg"
@@ -1580,7 +1157,6 @@
             "code": "magic-essencia-space-pineapple-red-fruit",
             "label": "Magic Space Pineapple Red Fruit 🍍🍓",
             "description": "50g de Essência Magic para Narguile, sabor Abacaxi e Morango",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/5fSHz7A.png"
@@ -1589,7 +1165,6 @@
             "code": "7908479400105",
             "label": "Magic Space Guava (Goiaba)",
             "description": "50g de Essência Magic para Narguile, sabor Goiaba",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/ZL5Tl84.png"
@@ -1598,7 +1173,6 @@
             "code": "7908479402123",
             "label": "Magic Space Peach 🍑 (Pêssego e Framboesa)",
             "description": "50g de Essência Magic para Narguile, sabor Pêssego com Framboesa 🍑",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/VGJTe6M.png"
@@ -1607,7 +1181,6 @@
             "code": "7908479402093",
             "label": "Magic Space Lemon Mint 🍋 (Limão e Menta)",
             "description": "50g de Essência Magic para Narguile, sabor Limão com Menta 🍋🌿",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/VC4AYo4.png"
@@ -1616,7 +1189,6 @@
             "code": "7908479401928",
             "label": "Magic Space Citric 🍋🍊 (Frutas cítricas)",
             "description": "50g de Essência Magic para Narguile, sabor Limão com toque de Laranja 🍋🍊",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/0xTdrTv.png"
@@ -1625,7 +1197,6 @@
             "code": "7908479402154",
             "label": "Magic Space Purple Passion 💜 (Maracujá Roxo)",
             "description": "50g de Essência Magic para Narguile, sabor Maracujá",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/6wexqrM.png"
@@ -1634,7 +1205,6 @@
             "code": "7908479400082",
             "label": "Magic Space Mix 🍓🫐 (Frutas Vermelhas)",
             "description": "50g de Essência Magic para Narguile, sabor Morango, Framboesa, Blueberry (Mirtilo) e Menta 🍓🫐🌿",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/qFd2Sgd.png"
@@ -1643,7 +1213,6 @@
             "code": "7898962227169",
             "label": "Magic Space Corn 🌽 (Milho Verde)",
             "description": "50g de Essência Magic para Narguile, sabor Milho Verde 🌽",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/DkDCnfY.png"
@@ -1652,7 +1221,6 @@
             "code": "0619205354612",
             "label": "Magic Space Green Grape 🍇💚 (Uva Verde)",
             "description": "50g de Essência Magic para Narguile, sabor Uva Verde 🍇💚",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/LXOLwIA.png"
@@ -1661,7 +1229,6 @@
             "code": "0619205354629",
             "label": "Magic Space Pear Strawberry 🍐🍓 (Pêra com Morango)",
             "description": "50g de Essência Magic para Narguile, sabor Pêra com Morango 🍐🍓",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/QDccbLD.png"
@@ -1670,7 +1237,6 @@
             "code": "0630941831571",
             "label": "Magic Space Kiwi Strawberry 🥝🍓",
             "description": "50g de Essência Magic para Narguile, sabor Kiwi com Morango 🥝🍓",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/h0o0TAs.png"
@@ -1681,7 +1247,6 @@
             "code": "1759401080",
             "label": "Haze PCK (Paçoca)",
             "description": "50g de Essência Haze Tobacco, sabor Amendoim 🥜",
-            "price": 1700,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/53hkwhb.png"
@@ -1690,7 +1255,6 @@
             "code": "1759401044",
             "label": "Haze Whooo-Weee (Framboesa e Pêssego)",
             "description": "50g de Essência Haze Tobacco, sabor Framboesa com Pêssego",
-            "price": 1700,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/Vux4aR0.png"
@@ -1699,7 +1263,6 @@
             "code": "1759401099",
             "label": "Haze Mint Supreme 🧊",
             "description": "50g de Essência Haze Tobacco, sabor Hortelã 🌿",
-            "price": 1700,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/6H8Fj2Z.png"
@@ -1708,7 +1271,6 @@
             "code": "1759401502",
             "label": "Haze Icy Tango 🥭🍊",
             "description": "50g de Essência Haze Tobacco, sabor Tangerina com Manga 🥭🍊",
-            "price": 1700,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/xA1FAM9.png"
@@ -1719,7 +1281,6 @@
             "code": "0619205823835",
             "label": "Nay Pineapple Twist 🍍🍋‍🟩",
             "description": "50g de Essência Nay, sabor Abacaxi com Limão",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/2usBCZ5.png"
@@ -1728,7 +1289,6 @@
             "code": "0619205823842",
             "label": "Nay Pineapple Grape 🍍🍇",
             "description": "50g de Essência Nay, sabor Abacaxi com Uva",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/N60qRdD.png"
@@ -1737,7 +1297,6 @@
             "code": "0619205823781",
             "label": "Nay Mango Melon 🥭🍈",
             "description": "50g de Essência Nay, sabor manga com melão",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/dJOXsE4.png"
@@ -1746,7 +1305,6 @@
             "code": "nay-maracuja-goiaba",
             "label": "Nay Maracujá Goiaba",
             "description": "50g de Essência Nay, experimente a combinação do cítrico do maracujá com o doce sabor da goiaba, unidos em um só blend",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/C3CE31D.png"
@@ -1755,7 +1313,6 @@
             "code": "nay-limao-goiaba",
             "label": "Nay Limão Goiaba",
             "description": "50g de Essência Nay, delicie-se com a combinação vibrante do sabor cítrico do limão com o toque suave e doce da goiaba. Uma experiência de sabor totalmente única!",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/YIqobHu.png"
@@ -1764,7 +1321,6 @@
             "code": "nay-blueberry-grape",
             "label": "Nay Limão Goiaba",
             "description": "50g de Essência Nay, descubra a união perfeita entre o sabor intenso do blueberry e a suavidade da uva. Uma combinação única que proporciona o melhor dos dois mundos em cada sessão",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/lMHFYCq.png"
@@ -1773,7 +1329,6 @@
             "code": "78420557",
             "label": "Nay Bubble Blend (Bubbaloo) 🍬",
             "description": "50g de Essência Nay, sabor Bubbaloo Tutti-Frutti 🍬",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/BFch9mK.png"
@@ -1782,7 +1337,6 @@
             "code": "78420694",
             "label": "Nay Berries Blend (Frutas Vermelhas) 🍓",
             "description": "50g de Essência Nay, sabor Frutas Vermelhas",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/pVFC5Ky.png"
@@ -1791,7 +1345,6 @@
             "code": "78417809",
             "label": "Nay Passion Blend (Maracujá)",
             "description": "50g de Essência Nay, sabor Maracujá",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/aMOEsX0.png"
@@ -1800,7 +1353,6 @@
             "code": "78420670",
             "label": "Nay Bubble Grape (Uva) 🍇",
             "description": "50g de Essência Nay, sabor Uva 🍇",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/71kNZdx.png"
@@ -1809,7 +1361,6 @@
             "code": "78420700",
             "label": "Nay Floresta Negra 🎂🍒",
             "description": "50g de Essência Nay, sabor Floresta Negra (Chocoloate, Chantili e Cereja) 🎂🍒",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/z45tpBh.png"
@@ -1818,7 +1369,6 @@
             "code": "7841881019681",
             "label": "Nay Biscoito de Morango 🍪🍓",
             "description": "50g de Essência Nay, sabor Biscoito de Morango 🍪🍓",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/oaJCLVY.png"
@@ -1827,7 +1377,6 @@
             "code": "7841881019162",
             "label": "Nay Gummy Blend 🍍",
             "description": "50g de Essência Nay, sabor Goma de Abacaxi 🍍",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/PnIepYo.png"
@@ -1836,7 +1385,6 @@
             "code": "78417854",
             "label": "Nay Spell of Love (Melão e Melancia) 🍈🍉",
             "description": "50g de Essência Nay, sabor Melão e Melancia 🍈🍉",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/9lmEFov.png"
@@ -1845,7 +1393,6 @@
             "code": "78412965",
             "label": "Nay Fresh Tanger 🍊",
             "description": "50g de Essência Nay, sabor Tangerina 🍊",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/eZzs4Pu.png"
@@ -1854,7 +1401,6 @@
             "code": "0618341023581",
             "label": "Nay Mint 🌿",
             "description": "50g de Essência Nay, sabor Menta 🌿",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/7yFHeAW.png"
@@ -1863,7 +1409,6 @@
             "code": "78420625",
             "label": "Nay Dulce de Leche",
             "description": "50g de Essência Nay, sabor Doce de Leite",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/zdUg1rj.png"
@@ -1872,7 +1417,6 @@
             "code": "0618341023628",
             "label": "Nay Fresh Watermelon 🍉",
             "description": "50g de Essência Nay, sabor Melancia 🍉",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/mffykI8.png"
@@ -1881,7 +1425,6 @@
             "code": "0618341023604",
             "label": "Nay Cherry Blend (Cereja) 🍒",
             "description": "50g de Essência Nay, sabor Cereja 🍒",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/QhFp0Ny.png"
@@ -1890,7 +1433,6 @@
             "code": "78419858",
             "label": "Nay Strawberry Blend (Morango) 🍓",
             "description": "50g de Essência Nay, sabor Morango 🍓",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/C8Quius.png"
@@ -1899,7 +1441,6 @@
             "code": "0619205174111",
             "label": "Nay Snow (Menta com Baunilha) ❄️",
             "description": "50g de Essência Nay, sabor Menta com Baunilha",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/EsK8Iwn.png"
@@ -1908,7 +1449,6 @@
             "code": "0619205823514",
             "label": "Nay Yogurt Fruits 🍓",
             "description": "50g de Essência Nay, sabor Yogurt de Morango 🍓",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/8YajecH.png"
@@ -1917,7 +1457,6 @@
             "code": "0619205823521",
             "label": "Nay Vanilla 🍦 (Baunilha)",
             "description": "50g de Essência Nay, sabor Baunilha 🍦",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/YzqjLzM.png"
@@ -1928,7 +1467,6 @@
             "code": "619205423691",
             "label": "Chacal Ice 🧊",
             "description": "50g de Essência Chacal Refrescante 🧊",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/kdDVnJ9.png"
@@ -1937,7 +1475,6 @@
             "code": "619205423660",
             "label": "Chacal Mint 🌿",
             "description": "50g de Essência Chacal, sabor Hortelã 🌿",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/fkcQBL3.png"
@@ -1946,7 +1483,6 @@
             "code": "619205423677",
             "label": "Chacal Bubba Grape 🍇",
             "description": "50g de Essência Chacal, sabor Uva 🍇",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/JiIKwDe.png"
@@ -1955,7 +1491,6 @@
             "code": "619205423646",
             "label": "Chacal Bubba Sweet Lemon 🍋",
             "description": "50g de Essência Chacal, sabor Limão 🍋",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/KNABeoG.png"
@@ -1964,7 +1499,6 @@
             "code": "619205423684",
             "label": "Chacal Bubba Strawberry 🍓",
             "description": "50g de Essência Chacal, sabor Morango 🍓",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/B0zMFm2.png"
@@ -1975,7 +1509,6 @@
             "code": "8681654700136",
             "label": "Blue Horse Jamaica (Bob Marley)",
             "description": "50g de Essência Blue Horse, Bob Marley (No Woman No Cry), sabor Morango com leve toque da Pêra 🍓🍐",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/g09iBth.png"
@@ -1984,7 +1517,6 @@
             "code": "8601655700295",
             "label": "Blue Horse Sputnik",
             "description": "50g de Essência Blue Horse, sabor Toranja com Maracujá",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/2hpgO4J.png"
@@ -1993,7 +1525,6 @@
             "code": "8681655700020",
             "label": "Blue Horse Baku Nights",
             "description": "50g de Essência Blue Horse, sabor Salada de Frutas com Menta 🌿",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/1xfauuE.png"
@@ -2004,7 +1535,6 @@
             "code": "0619205894774",
             "label": "Ignite Banana Ice 🍌🧊",
             "description": "50g de Essência Ignite, sabor Banana 🍌",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/ZC4sVmH.png"
@@ -2013,7 +1543,6 @@
             "code": "0619205894798",
             "label": "Ignite Lemon Melon 🍋🍈",
             "description": "50g de Essência Ignite, sabor Limão com Melão 🍋🍈",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/DOVZZCO.png"
@@ -2022,7 +1551,6 @@
             "code": "0619205894811",
             "label": "Ignite Peach Cantaloupe 🍑🍈",
             "description": "50g de Essência Ignite, sabor Pêssego com Melão 🍋🍈",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/AEY80rh.png"
@@ -2031,7 +1559,6 @@
             "code": "0619205894804",
             "label": "Ignite Blue Razz Ice 🫐",
             "description": "50g de Essência Ignite, sabor Blueberry (Mirtilo) com Framboesa 🫐",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/HEbbHtz.png"
@@ -2040,7 +1567,6 @@
             "code": "0631430044373",
             "label": "Ignite Grape Ice 🍇🧊",
             "description": "50g de Essência Ignite, sabor Uva 🍇",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/yJvRwer.png"
@@ -2049,7 +1575,6 @@
             "code": "0631430044380",
             "label": "Ignite Guava Watermelon (Goiaba e Melancia)",
             "description": "50g de Essência Ignite, sabor Goiaba com Melancia",
-            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/odeOp8I.png"
@@ -2060,97 +1585,49 @@
             "code": "00205009",
             "label": "Pimp Moranguete (Chocolate c Morango) 🍓🍫",
             "description": "50g de Essência Pimp, sabor Chocolate com Morango 🍓🍫",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/8XVfLU5.png",
-            "discount": {
-                "discount": 300,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/8XVfLU5.png"
         },
         {
             "code": "00206006",
             "label": "Pimp Crazy Sweet (Citrus)",
             "description": "50g de Essência Pimp, sabor mix de Frutas Cítricas",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/vaaWZMx.png",
-            "discount": {
-                "discount": 300,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/vaaWZMx.png"
         },
         {
             "code": "00202039",
             "label": "Pimp New Morangie 🍊🥭",
             "description": "50g de Essência Pimp, sabor Manga e Laranja 🍊🥭",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/mUqYwL7.png",
-            "discount": {
-                "discount": 300,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/mUqYwL7.png"
         },
         {
             "code": "00203203",
             "label": "Pimp Banana Papaya",
             "description": "50g de Essência Pimp, sabor Banana com Mamão",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/Uw465hS.png",
-            "discount": {
-                "discount": 300,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/Uw465hS.png"
         },
         {
             "code": "00202077",
             "label": "Pimp Artic Cherry 🍒🧊",
             "description": "50g de Essência Pimp, sabor Cereja Refrescante 🍒🧊",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/O5ptokQ.png",
-            "discount": {
-                "discount": 300,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/O5ptokQ.png"
         },
         {
             "code": "00202084",
             "label": "Pimp Explosion Green 🍏",
             "description": "50g de Essência Pimp, sabor Maçã Verde 🍏",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
-            "image_url": "https://i.imgur.com/r7l6YM2.png",
-            "discount": {
-                "discount": 300,
-                "period": {
-                    "start": "2023-11-25T00:00:00",
-                    "end": "2023-11-28T00:00:00"
-                }
-            }
+            "image_url": "https://i.imgur.com/r7l6YM2.png"
         }
     ],
     "Essências Sense": [
@@ -2158,7 +1635,6 @@
             "code": "sense-essencia-banana",
             "label": "Sense Banana 🍌",
             "description": "50g de Essência Sense, sabor Banana 🍌",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/mmrbdqs.png"
@@ -2167,7 +1643,6 @@
             "code": "0618231813452",
             "label": "Sense Lychee Candy (Du Macário)",
             "description": "50g de Essência Sense, sabor Doce de Lichia",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/3VC0E8t.png"
@@ -2176,7 +1651,6 @@
             "code": "0619205629949",
             "label": "Sense Melancia e Framboesa",
             "description": "50g de Essência Sense, sabor Melancia e Framboesa",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/6QKidkR.png"
@@ -2185,7 +1659,6 @@
             "code": "0618231451876",
             "label": "Sense Absolut Mint 🧊",
             "description": "50g de Essência Sense, sabor refrescante de Menta Azul 🧊",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/7vQC9Sq.png"
@@ -2194,7 +1667,6 @@
             "code": "0618231813490",
             "label": "Sense Candy Fruit 🍬",
             "description": "50g de Essência Sense, sabor Chiclete de Tutti-frutti 🍬",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/CqxtAoR.png"
@@ -2203,7 +1675,6 @@
             "code": "0618231813483",
             "label": "Sense Candy Strawberry Ice 🍓🧊",
             "description": "50g de Essência Sense, sabor Morango Refrescante 🍓🧊",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/I9G79mJ.png"
@@ -2212,7 +1683,6 @@
             "code": "0618231813476",
             "label": "Sense Mangonana 🥭🍌",
             "description": "50g de Essência Sense, sabor Manga com Banana 🥭🍌",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/oVYLN6l.png"
@@ -2221,7 +1691,6 @@
             "code": "0631430014703",
             "label": "Sense Pera Ice 🍐🧊",
             "description": "50g de Essência Sense, sabor Pera refrescante 🍐🧊",
-            "price": 1000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/vOiZRUC.png"
@@ -2232,7 +1701,6 @@
             "code": "essenciasmyrna-true-love",
             "label": "Smyrna True Love ❤️‍🔥",
             "description": "50g de Essência Smyrna, a Smyrna True Love, aquele sabor mega conhecido do mix de melancia com melão que todo mundo ama",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/iwtm4En.png"
@@ -2241,7 +1709,6 @@
             "code": "essenciasmyrna-melancia-kiwi",
             "label": "Smyrna Melancia Kiwi 🍉🥝",
             "description": "50g de Essência Smyrna, a Smyrna Melancia Kiwi traz o sabor das frutas do Kiwi e Melancia juntas, proporcionando um mix perfeito e muito saboroso. A essência une o doce e cítrico, sendo ideal para fumar em qualquer época do ano",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/wUabzXR.png"
@@ -2250,7 +1717,6 @@
             "code": "essenciasmyrna-greenfruits",
             "label": "Smyrna Green Fruits Feat Du Macário",
             "description": "50g de Essência Smyrna, sabor frutas verdes",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/n6AwJFB.png"
@@ -2259,7 +1725,6 @@
             "code": "essenciasmyrna-odin",
             "label": "Smyrna Odyn",
             "description": "50g de Essência Smyrna, sabor doce de jabuticaba",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/HIXJeBU.png"
@@ -2268,7 +1733,6 @@
             "code": "essenciasmyrna-bluemint",
             "label": "Smyrna Blue Mint",
             "description": "50g de Essência Smyrna, sabor hortelã, semelhante ao de balas mentos ou trident azul",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/afDTa9X.png"
@@ -2277,7 +1741,6 @@
             "code": "essenciasmyrna-colalemon",
             "label": "Smyrna Cola Lemon Feat Du Macário 🥤🍋",
             "description": "50g de Essência Smyrna, sabor Coca-Cola com Limão",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/vBeC6l4.png"
@@ -2286,7 +1749,6 @@
             "code": "essenciasmyrna-evassin",
             "label": "Smyrna Eva's Sin 🍏",
             "description": "50g de Essência Smyrna, sabor Maçã-verde",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/QIYgBFn.png"
@@ -2295,7 +1757,6 @@
             "code": "essenciasmyrna-danon",
             "label": "Smyrna Danon 🍓",
             "description": "50g de Essência Smyrna, sabor Danone de Morango",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/IiyaVRp.png"
@@ -2304,7 +1765,6 @@
             "code": "essenciasmyrna-blueberrymuffin",
             "label": "Smyrna Blueberry Muffin Vovó Disse... 🫐🧁",
             "description": "50g de Essência Smyrna, sabor Blueberry Muffin",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/CVyyF6E.png"
@@ -2313,7 +1773,6 @@
             "code": "essenciasmyrna-greenmint",
             "label": "Smyrna Green Mint 🌿",
             "description": "50g de Essência Smyrna, sabor Hortelã",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/cwV3SyF.png"
@@ -2322,7 +1781,6 @@
             "code": "essenciasmyrna-peraice",
             "label": "Smyrna Pera Ice 🍐🧊",
             "description": "50g de Essência Smyrna, sabor Pera refrescante",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/yznPeYD.png"
@@ -2331,7 +1789,6 @@
             "code": "essenciasmyrna-mangamorango",
             "label": "Smyrna Manga Morango 🥭🍓",
             "description": "50g de Essência Smyrna, sabor Manga com Morango",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/WDaG7Jy.png"
@@ -2340,7 +1797,6 @@
             "code": "essenciasmyrna-hefesto",
             "label": "Smyrna Hefesto - Linha dos Deuses",
             "description": "50g de Essência Smyrna, a Smyrna Hefesto traz o puro sabor do Maracujá. Um sabor cítrico digno dos deuses que tomará conta da sua sessão",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/z0EUCZi.png"
@@ -2349,7 +1805,6 @@
             "code": "essenciasmyrna-poseidon",
             "label": "Smyrna Poseidon - Linha dos Deuses",
             "description": "50g de Essência Smyrna, a Essência Smyrna Poseidon tem sabor do mix de Melão e Maracujá. Uma essência adocicada e cítrica com alta intensidade de sabor",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/FxXjQCS.png"
@@ -2358,7 +1813,6 @@
             "code": "essenciasmyrna-zeus",
             "label": "Smyrna Zeus - Linha dos Deuses 🥶",
             "description": "50g de Essência Smyrna, a essência Zeus da linha Era dos Deuses da Smyrna apresenta um sabor incrível de menta gelada. Essa foi feita para você que é amante de menta",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/tgnYBzI.png"
@@ -2367,7 +1821,6 @@
             "code": "essenciasmyrna-ruby",
             "label": "Smyrna Ruby 🍓🥝",
             "description": "50g de Essência Smyrna. Com um sabor muito mais precioso do que joias, a essência Ruby traz o poder do puro sabor do morango combinado com a refrescância do kiwi ice. Esse mix de sabores garante uma sessão deliciosa do início ao fim",
-            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/IKdSEDI.png"
@@ -2378,7 +1831,6 @@
             "code": "0618231624423",
             "label": "Chacal Erva-Mate Menta Limão Rosa",
             "description": "50g de Essência Chacal Erva-Mate Menta Limão Rosa",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/YhWQ4Ku.png"
@@ -2387,7 +1839,6 @@
             "code": "0618231624560",
             "label": "Chacal Erva-Mate Tangerina da Roça",
             "description": "50g de Essência Chacal Erva-Mate Tangerina da Roça",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/KT9bOoF.png"
@@ -2396,7 +1847,6 @@
             "code": "chacal-erva-limao",
             "label": "Chacal Erva-Mate Limão",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/TCQWUSR.png"
@@ -2405,7 +1855,6 @@
             "code": "0619205423567",
             "label": "Chacal Erva-Mate Hortelã Ice",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com hortelã refrescante",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/U9pdeJf.png"
@@ -2414,7 +1863,6 @@
             "code": "0619205423554",
             "label": "Chacal Erva-Mate Limão Rosa",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão rosa",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/YVDvspB.png"
@@ -2423,7 +1871,6 @@
             "code": "0602883951099",
             "label": "Chacal Erva-Mate Fit Hibisco",
             "description": "500g de Erva-Mate para Tereré, sabor for de hibisco bem tropical",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/6oDjv0Y.png"
@@ -2432,7 +1879,6 @@
             "code": "0602883951167",
             "label": "Chacal Erva-Mate Pura Folha",
             "description": "500g de Erva-Mate para Tereré, sabor autêntico das folhas do mate",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/n7P7aOk.png"
@@ -2441,7 +1887,6 @@
             "code": "0602883951075",
             "label": "Chacal Erva-Mate Burrito",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate e burrito",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/ILcBLcw.png"
@@ -2450,7 +1895,6 @@
             "code": "0602883951136",
             "label": "Chacal Erva-Mate Menta Boldo",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com boldo combinado com menta",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/WtdLkmO.png"
@@ -2459,7 +1903,6 @@
             "code": "0602883951082",
             "label": "Chacal Erva-Mate Energético",
             "description": "500g de Erva-Mate para Tereré, inspiradas nos energéticos",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/1osV5PY.png"
@@ -2468,7 +1911,6 @@
             "code": "0602883851129",
             "label": "Chacal Erva-Mate Menta",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com menta",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Jt7cQI7.png"
@@ -2477,7 +1919,6 @@
             "code": "0602883951143",
             "label": "Chacal Erva-Mate Menta Forte",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com menta extra",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/0pPhl6B.png"
@@ -2486,7 +1927,6 @@
             "code": "0602883951150",
             "label": "Chacal Erva-Mate Menta Limão",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão e menta",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/WjlTPjR.png"
@@ -2495,7 +1935,6 @@
             "code": "0618231164882",
             "label": "Chacal Erva-Mate Cereja",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com cereja",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/OH94QKl.png"
@@ -2504,7 +1943,6 @@
             "code": "0619205423523",
             "label": "Chacal Erva-Mate Menta Xtreme 🥶",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com um intenso sabor de menta",
-            "price": 2000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/gFb8TIP.png"

@@ -4,7 +4,7 @@ namespace TawbacariaApp {
         code: string;
         label: string;
         in_stock: boolean;
-        price: number;
+        price?: number;
 
         description?: string | null;
         is_highlight?: boolean | null;
@@ -17,10 +17,19 @@ namespace TawbacariaApp {
             period: StringDateRange;
         };
     };
+    type CategoryJsonData = {
+        price?: number;
+        availability_period?: StringDateRange;
+        discount?: {
+            discount: number;
+            period: StringDateRange;
+        };
+    }
     type ProductItem = Omit<
         ItemJsonData,
-        'availability_period' | 'discount'
+        'availability_period' | 'discount' | 'price'
     > & {
+        price : number;
         category: string;
         availability_period?: DateRange;
         discount?: {
