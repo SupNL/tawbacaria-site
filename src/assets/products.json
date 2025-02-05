@@ -817,6 +817,24 @@
     ],
     "Essências Zomo": [
         {
+            "code": "zomo-strong-mint-stone",
+            "label": "Zomo Stone - Linha Strong Mint",
+            "description": "50g de Essência Zomo para Narguile. A fusão perfeita entre mentas da Europa e da Índia, proporcionando uma intensidade única",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/GlhkKmc.png"
+        },
+        {
+            "code": "zomo-strong-mint-hype",
+            "label": "Zomo Hype - Linha Strong Mint",
+            "description": "50g de Essência Zomo para Narguile, mix de mentas Européias com um sabor suave da bala de menta",
+            "price": 900,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/UFexXSB.png"
+        },
+        {
             "code": "0619205823712",
             "label": "Zomo Max Maçã Verde 🍏",
             "description": "50g de Essência Zomo para Narguile, sabor Maçã Verde 🍏",
@@ -2211,6 +2229,24 @@
     ],
     "Essências Smyrna": [
         {
+            "code": "essenciasmyrna-true-love",
+            "label": "Smyrna True Love ❤️‍🔥",
+            "description": "50g de Essência Smyrna, a Smyrna True Love, aquele sabor mega conhecido do mix de melancia com melão que todo mundo ama",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/iwtm4En.png"
+        },
+        {
+            "code": "essenciasmyrna-melancia-kiwi",
+            "label": "Smyrna Melancia Kiwi 🍉🥝",
+            "description": "50g de Essência Smyrna, a Smyrna Melancia Kiwi traz o sabor das frutas do Kiwi e Melancia juntas, proporcionando um mix perfeito e muito saboroso. A essência une o doce e cítrico, sendo ideal para fumar em qualquer época do ano",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/wUabzXR.png"
+        },
+        {
             "code": "essenciasmyrna-greenfruits",
             "label": "Smyrna Green Fruits Feat Du Macário",
             "description": "50g de Essência Smyrna, sabor frutas verdes",
@@ -3311,6 +3347,96 @@
         }
     ],
     "Headshop": [
+        {
+            "code": "pipe-vidro-caveira-rick-morty",
+            "label": "Pipe Vidro Rick and Morty",
+            "description": "Pipe Vidro Rick and Morty D&K  uma das melhores marcas do mercado. Com ótimo custo benefício, design moderno, leve e prático. Possui tela. Maior redução de danos á saúde. Medida: 13cm",
+            "price": 4000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/4jE1Wk9.png"
+        },
+        {
+            "code": "pipe-vidro-caveira-folhas",
+            "label": "Pipe Vidro Caveira Folhas",
+            "description": "Pipe de Vidro super estiloso. É ideal para levar em rolês e usos no dia a dia. Medida: 13cm",
+            "price": 4000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/DK3UINK.png"
+        },
+        {
+            "code": "pipe-vidro-caveira-colorida",
+            "label": "Pipe Vidro Caveira Colorida",
+            "description": "Pipe de Vidro super estiloso. É ideal para levar em rolês e usos no dia a dia. Medida: 13cm",
+            "price": 4000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/6WnvXfA.png"
+        },
+        {
+            "code": "tesoura-metal-abduzido-rainbow",
+            "label": "Tesoura Metal Abduzido - Rainbow",
+            "description": "Unidade de Tesoura de metal, marca Abduzido, modelo Rainbow, medindo 9cm de comprimento e 5cm de largura",
+            "price": 3000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/ckhk5Co.png"
+        },
+        {
+            "code": "tesoura-dobravel-metal-abduzido-prata",
+            "label": "Tesoura Dobrável Metal Abduzido - Prata",
+            "description": "Unidade de Tesoura de metal, marca Abduzido, modelo Prata, medindo 11,5cm de comprimento e 6cm de largura",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/2QsGUMN.png"
+        },
+        {
+            "code": "slick-triangulo-13",
+            "label": "(CONSULTAR CORES DISPONÍVEIS) Slick Triangulo 13ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS - O Slick triangulo é ideal para transportar sua crema com seu aspecto e aroma original, sem perder nada e sem explanar. É produzido com silicone de alta qualidade com cura de platina, material que evita que qualquer textura grude em sua superfície além de não alterar o sabor de sua especiaria. Tamanho 5x2cm",
+            "price": 2500,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/ypS1kPD.png"
+        },
+        {
+            "code": "slick-lego-26",
+            "label": "(CONSULTAR CORES DISPONÍVEIS) Slick Lego Grande 26ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS - Feito para conservar suas melhores especiarias, este slick de silicone oferece um fechamento hermético por pressão, resistência à água e ao calor, um verdadeiro container de silicone! Suas 5 divisórias permitem que armazene até 26 ml de diferentes tipos de extração sem que uma interfira na outra.",
+            "price": 3200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/tOaKjLn.png"
+        },
+        {
+            "code": "slick-tokahauu",
+            "label": "(CONSULTAR CORES DISPONÍVEIS) Slick 7,5ml",
+            "description": "CONSULTAR CORES DISPONÍVEIS - Container de silicone da marca Tokahauú, capacidade de armazenamento de 7,5ml",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/PaZrv8V.png"
+        },
+        {
+            "code": "tubelito-kunk",
+            "label": "Tubelito Kunk",
+            "description": "Os tubos plásticos Kunk são a solução para armazenar e transportar com segurança. Feitos de plástico resistente, garantem bom fechamento e facilidade na limpeza. Compactos e duráveis, eles são a escolha certa para quem valoriza praticidade e proteção. Tamanho: 12x7cm",
+            "price": 1200,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/KC33ogv.png"
+        },
+        {
+            "code": "tesoura-dobravel",
+            "label": "(CONFERIR MODELOS DISPONÍVEIS) Tesoura Dobrável",
+            "description": "CONFERIR MODELOS DISPONÍVEIS - Unidade de Tesoura Dobrável, escolher entre as cores disponíveis",
+            "price": 2000,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/cmXM8eU.png"
+        },
         {
             "code": "case-tonabe",
             "label": "(CONFERIR MODELOS DISPONÍVEIS) Case To na Bê",
@@ -4923,6 +5049,24 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/xnR8Iak.png"
+        },
+        {
+            "code": "furador-narguile-dourado",
+            "label": "Furador/Chaveiro Narguilé - Dourado",
+            "description": "Unidade de furador e chaveiro na cor dourado",
+            "price": 800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/4CAzPZt.png"
+        },
+        {
+            "code": "furador-narguile-preto",
+            "label": "Furador/Chaveiro Narguilé - Preto",
+            "description": "Unidade de furador e chaveiro na cor preto",
+            "price": 800,
+            "is_highlight": false,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/5DqTyOl.png"
         },
         {
             "code": "furador-chaveiro-amazon-future-branco",
