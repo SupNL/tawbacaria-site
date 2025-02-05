@@ -60,7 +60,7 @@
             "description": "Piteira Longa do Papelito, contém 30 blocos com 72 piteiras, tamanho 4x4cm",
             "price": 600,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/4PbSrHk.jpg"
         },
         {
@@ -1820,7 +1820,7 @@
             "description": "50g de Essência Nay, sabor Melão e Melancia 🍈🍉",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/9lmEFov.png"
         },
         {
@@ -1838,7 +1838,7 @@
             "description": "50g de Essência Nay, sabor Menta 🌿",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/7yFHeAW.png"
         },
         {
@@ -2344,7 +2344,7 @@
             "description": "50g de Essência Chacal Erva-Mate Menta Limão Rosa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/YhWQ4Ku.png"
         },
         {
@@ -2353,7 +2353,7 @@
             "description": "50g de Essência Chacal Erva-Mate Tangerina da Roça",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/KT9bOoF.png"
         },
         {
@@ -2380,7 +2380,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão rosa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/YVDvspB.png"
         },
         {
@@ -2452,7 +2452,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão e menta",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/WjlTPjR.png"
         },
         {
@@ -2461,7 +2461,7 @@
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com cereja",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/OH94QKl.png"
         },
         {
