@@ -1847,7 +1847,7 @@
             "description": "50g de Essência Nay, sabor Doce de Leite",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/zdUg1rj.png"
         },
         {
