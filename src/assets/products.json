@@ -1833,6 +1833,15 @@
             "image_url": "https://i.imgur.com/KCcWjy2.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "essenciasmyrna-teste-dois",
+            "label": "Smyrna Teste 2",
+            "description": "Aaa",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/bOG2PZU.jpeg",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Ervas para Tereré": [
