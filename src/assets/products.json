@@ -810,6 +810,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/enfP4lW.png"
+        },
+        {
+            "code": "zomo-max-blueberry",
+            "label": "Zomo Max Blueberry",
+            "description": "50g de Essência Zomo sabor Blueberry. Mais conhecido no Brasil como Mirtilo, um sabor frutado, com muita intensidade e duração MAX. Um sabor que traz o docinho da fruta e ao mesmo tempo tem um toque de refrescância super equilibrada ",
+            "price": 900,
+            "image_url": "https://i.imgur.com/RqW5LRY.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Onix": [
@@ -882,7 +891,7 @@
             "label": "Onix Grape (Uva) 🍇",
             "description": "50g de Essência Onix Experience para Narguile, sabor Uva 🍇",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/MVmXreg.png"
         },
         {
@@ -964,6 +973,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/GdvosLc.png"
+        },
+        {
+            "code": "onix-blue-uva",
+            "label": "Onix Blue Uva",
+            "description": "50g de Essência Onix. Sabor Uva com Blueberry",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/OfxmOAu.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Adalya": [
@@ -1849,7 +1867,7 @@
             "label": "Chacal Erva-Mate Tangerina da Roça",
             "description": "50g de Essência Chacal Erva-Mate Tangerina da Roça",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/KT9bOoF.png"
         },
         {
@@ -1913,7 +1931,7 @@
             "label": "Chacal Erva-Mate Energético",
             "description": "500g de Erva-Mate para Tereré, inspiradas nos energéticos",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/1osV5PY.png"
         },
         {
@@ -2492,6 +2510,24 @@
             "image_url": "https://i.imgur.com/IK0VODj.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "charuto-talvis-caixa",
+            "label": "Caixa Charuto Talvis Tradicional - 5 unidades",
+            "description": "Curta o sabor autêntico com o charuto Talvis sabor tradicional, perfeito para quem aprecia a essência pura do tabaco de alta qualidade. Este charuto é ideal para momentos de reflexão ou celebração, oferecendo uma experiência rica e plena que só um verdadeiro clássico pode proporcionar. Seja para marcar uma ocasião especial, acompanhar um bom whisky ou simplesmente para finalizar o dia com chave de ouro, o Talvis tradicional é sua escolha de confiança. Acenda um e sinta o prazer da tradição em cada tragada!\r\n\r\n\r\nCaracterísticas do produto:\r\nMarca: Talvis\r\nQuantidade: 5 charutos\r\nTamanho: 16cm (Altura) x 1,75cm (Largura)\r\n",
+            "price": 4000,
+            "image_url": "https://i.imgur.com/V2PgvXw.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "charuto-talvis-unidade",
+            "label": "Charuto Talvis Tradicional Unidade",
+            "description": "1 unidadade de Charuto Talviz Tradicional\r\nCaracterísticas do produto:\r\nMarca: Talvis\r\nQuantidade: 1 charuto\r\nTamanho: 16cm (Altura) x 1,75cm (Largura)",
+            "price": 800,
+            "image_url": "https://i.imgur.com/EmZoSzS.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Juices e Nic Salts": [
@@ -2818,7 +2854,7 @@
             "description": "Pipe de Vidro super estiloso. É ideal para levar em rolês e usos no dia a dia. Medida: 13cm",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/DK3UINK.png"
         },
         {
@@ -3648,6 +3684,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/y7MI1VN.png"
+        },
+        {
+            "code": "seda-smoking-supreme",
+            "label": "Seda Smoking Supreme Branca",
+            "description": "Supreme King Size da Smoking Paper. Experimente a última inovação do mercado com sua textura ultramacia que irá surpreendê-lo desde o primeiro toque e encantá-lo até o último uso. Esta nova fórmula de papel foi criada para uma experiência suprema! O formato King Size é perfeito para quem prefere tudo em grande escala.\r\n\r\nCada livreto contém 33 folhas de papel ultrafino, desenvolvido para queima lenta e com goma 100% natural, sem corantes ou aditivos. Seu design moderno certamente chamará sua atenção instantaneamente. Além disso, possui certificação FSC, refletindo o nosso compromisso em utilizar papel proveniente de florestas onde a preservação da biodiversidade é fundamental. Experimente a grandiosidade da nova linha Supreme da Smoking em King Size!",
+            "price": 600,
+            "image_url": "https://i.imgur.com/xAWMwtQ.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Acessórios": [
@@ -4359,7 +4404,7 @@
             "description": "Unidade de Fogareiro da MD",
             "price": 15000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/TFeXNJU.png"
         },
         {
