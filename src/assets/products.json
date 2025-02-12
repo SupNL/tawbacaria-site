@@ -141,7 +141,7 @@
             "description": "Feitas em papel maleável, perfurado e biodegradável, nossas piteiras ajudam a resfriar a fumaça e reduzir danos. Cada livreto contém 36 piteiras. Dimensões: 55 mm x 40 mm",
             "price": 500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/7mHHhOH.png"
         },
         {
@@ -314,6 +314,15 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/IUP6Ns1.png"
+        },
+        {
+            "code": "piteira-large-duelo-mcs",
+            "label": "Piteira Papelito Large Duelo de MCS",
+            "description": "Piteira Papelito Large Duelo de MCS é a escolha perfeita para os amantes do rap e da cultura MC, produzida com todo o cuidado no Brasil.36 piteiras com medidas de 5,5 x 4 cm, essa piteira valoriza a autenticidade dos MCs, oferecendo um suporte ideal para suas rimas e estilos. Feitas com papel vergê 100% celulose, as piteiras são livres de tinta e biodegradáveis.",
+            "price": 500,
+            "image_url": "https://i.imgur.com/fXqO28t.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Luky": [
@@ -2474,6 +2483,15 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/Jqoo3Uc.png"
+        },
+        {
+            "code": "kumbuya-tonabe",
+            "label": "Kumbuya Tonabê - Mix de ervas",
+            "description": "Kumbaya Tonabê (Tobemzen) Melt 15gr\r\nMix de ervas sabor:\r\nHIBÍSCO\r\nMENTA\r\nMARACUJÁ\r\nALECRIM\r\nCAMOMILA",
+            "price": 1500,
+            "image_url": "https://i.imgur.com/IK0VODj.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Juices e Nic Salts": [
