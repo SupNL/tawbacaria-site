@@ -3693,6 +3693,24 @@
             "image_url": "https://i.imgur.com/xAWMwtQ.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "bandeja-tokahauu-cannabis",
+            "label": "Bandeja de Metal Pequena Toka Hauú - Cannabis",
+            "description": "1 unidade de Bandeja de Metal Pequena Toka Hauú Cannabis\r\nMedindo: Largura: 18,5cm Comprimento: 9cm",
+            "price": 2500,
+            "image_url": "https://i.imgur.com/hF09rVX.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "bandeja-tokahayy-alien",
+            "label": "Bandeja de Metal Pequena Toka Hauú - Alien",
+            "description": "1 unidade de Bandeja de Metal Pequena Toka Hauú Alien.\r\nMedindo: Largura: 18,5cm Comprimento: 9cm",
+            "price": 2500,
+            "image_url": "https://i.imgur.com/GnCAEvP.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Acessórios": [
