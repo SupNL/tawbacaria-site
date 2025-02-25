@@ -2537,7 +2537,7 @@
             "description": "15ml de Juice Xerife para vaper (sem nicotina), sabor Hortelã",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/fCSqYiH.jpeg"
         },
         {
@@ -2735,7 +2735,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Menta Refrescante 🌿",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ruPwZMk.png"
         },
         {
@@ -2753,7 +2753,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Cereja 🍒",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6sfduFY.png"
         },
         {
