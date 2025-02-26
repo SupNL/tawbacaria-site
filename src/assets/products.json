@@ -1729,6 +1729,7 @@
             "label": "Smyrna True Love ❤️‍🔥",
             "description": "50g de Essência Smyrna, a Smyrna True Love, aquele sabor mega conhecido do mix de melancia com melão que todo mundo ama",
             "is_highlight": false,
+            "price": 1400,
             "in_stock": true,
             "image_url": "https://i.imgur.com/iwtm4En.png"
         },
@@ -2425,7 +2426,7 @@
             "code": "7898956381426",
             "label": "Tabaco/Fumo Tabaquin 20g",
             "description": "Descubra a excelência do Tabaco Tabaquin Hi Tobacco, uma escolha perfeita para os apreciadores de tabaco de qualidade superior. Com suas qualidades distintas, esse tabaco oferece uma experiência única, proporcionando uma fumaça suave e aromática.",
-            "price": 1200,
+            "price": 1400,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/uRsOoCm.png"
@@ -3068,7 +3069,7 @@
             "code": "8414775013547",
             "label": "Seda Smoking Brown",
             "description": "Unidade de pacote com 33 folhas de Papel de Seda Smoking Brown, na cor marrom",
-            "price": 600,
+            "price": 700,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/PvUAl0C.png"
