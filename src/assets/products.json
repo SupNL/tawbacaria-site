@@ -760,7 +760,7 @@
             "label": "Zomo Max Milkshake de Banana 🥤🍌",
             "description": "50g de Essência Zomo para Narguile, sabor Milkshake de Banana 🥤🍌",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/KhoYevM.png"
         },
         {
@@ -1265,7 +1265,7 @@
             "label": "Magic Space Kiwi Strawberry 🥝🍓",
             "description": "50g de Essência Magic para Narguile, sabor Kiwi com Morango 🥝🍓",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/h0o0TAs.png"
         }
     ],
@@ -1275,7 +1275,7 @@
             "label": "Haze PCK (Paçoca)",
             "description": "50g de Essência Haze Tobacco, sabor Amendoim 🥜",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/53hkwhb.png"
         },
         {
@@ -1299,7 +1299,7 @@
             "label": "Haze Icy Tango 🥭🍊",
             "description": "50g de Essência Haze Tobacco, sabor Tangerina com Manga 🥭🍊",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/xA1FAM9.png"
         }
     ],
@@ -1851,6 +1851,42 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/IKdSEDI.png"
+        },
+        {
+            "code": "essenciasmyrna-behappy",
+            "label": "Smyrna Be Happy",
+            "description": "50g de Essência Smyrna, sabor mix de frutas",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/fTWfDaF.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "essenciasmyrna-melanciamorango",
+            "label": "Smyrna Melancia Morango 🍉🍓",
+            "description": "50g de Essência Smyrna, sabor Melancia e Morango",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/SFLVOlD.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "essenciasmyrna-cherryorange",
+            "label": "Smyrna Cherry Orange 🍒🍊",
+            "description": "50g de Essência Smyrna, sabor Cereja e Laranja",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/0aJYh2L.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "essenciasmyrna-freshmelon",
+            "label": "Smyrna Fresh Melon 🍈",
+            "description": "50g de Essência Smyrna, sabor Melão Refrescante",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/fN45Qji.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Ervas para Tereré": [
@@ -1859,7 +1895,7 @@
             "label": "Chacal Erva-Mate Menta Limão Rosa",
             "description": "50g de Essência Chacal Erva-Mate Menta Limão Rosa",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/YhWQ4Ku.png"
         },
         {
@@ -1891,7 +1927,7 @@
             "label": "Chacal Erva-Mate Limão Rosa",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão rosa",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/YVDvspB.png"
         },
         {
@@ -2526,6 +2562,24 @@
             "description": "1 unidadade de Charuto Talviz Tradicional\r\nCaracterísticas do produto:\r\nMarca: Talvis\r\nQuantidade: 1 charuto\r\nTamanho: 16cm (Altura) x 1,75cm (Largura)",
             "price": 800,
             "image_url": "https://i.imgur.com/EmZoSzS.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "kumbaya-tonabe-trip",
+            "label": "Kumbaya Tonabê Trip",
+            "description": "Unidade de Kumbaya Tonabê (Tobemzen) Trip 15gr, mix de ervas sabor:\r\nERVA CIDREIRA, ALECRIM DO NORTE, CAMOMILA, SALVIA e MENTA.",
+            "price": 1500,
+            "image_url": "https://i.imgur.com/hRjBLCu.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "isqueiro-maçarico-prof-pepper",
+            "label": "Isqueiro Maçarico Prof - Pepper",
+            "description": "CONFERIR MODELOS DISPONÍVEIS - 1 Unidade de Isqueiro Maçarico Prof Recarregável a gás butano. Dimensões: 6,8 x 3,9cm.",
+            "price": 1600,
+            "image_url": "https://i.imgur.com/X3wEn2m.png",
             "in_stock": true,
             "is_highlight": false
         }
@@ -3709,6 +3763,24 @@
             "description": "1 unidade de Bandeja de Metal Pequena Toka Hauú Alien.\r\nMedindo: Largura: 18,5cm Comprimento: 9cm",
             "price": 2500,
             "image_url": "https://i.imgur.com/GnCAEvP.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "cuia-tonabe",
+            "label": "Cuia de Silicone ToNaBê",
+            "description": "CONFERIR MODELOS DISPONÍVEIS - A Cuia de Silicone ToNaBê é o acessório perfeito para quem busca eficiência e durabilidade na preparação do seu ritual de fumo. Feita inteiramente com silicone de alta qualidade, ela é resistente ao calor, fácil de manusear e ideal para quem deseja praticidade e conforto. Material: Silicone de alta qualidade",
+            "price": 2200,
+            "image_url": "https://i.imgur.com/MJANqBq.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "dichavador-tonabe",
+            "label": "Dichavador Tonabê",
+            "description": "CONFERIR MODELOS DISPONÍVEIS - 1 unidade de dichavador da marca Tonabê. - Diâmetro: 5,2 cm, Altura: 3 cm, Partes: 3, Material: Plástico ",
+            "price": 1500,
+            "image_url": "https://i.imgur.com/GO2CL8h.png",
             "in_stock": true,
             "is_highlight": false
         }
@@ -4955,6 +5027,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Fk6GQBb.png"
+        },
+        {
+            "code": "fogareiro-gas-bak",
+            "label": "Fogareiro a Gás BAK Preto",
+            "description": "Fogareiro a Gás da Marca BAK na cor preto. ",
+            "price": 15000,
+            "image_url": "https://i.imgur.com/OV75Ddy.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Bebidas": [
@@ -5074,6 +5155,15 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/X8HIZEz.png"
+        },
+        {
+            "code": "energetico-redbull",
+            "label": "Energético Redbull 250ml (GELADO)",
+            "description": "1 Energético Redbull 250ml (GELADO)",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/AIQ4r66.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ]
 }
