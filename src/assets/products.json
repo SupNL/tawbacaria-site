@@ -69,7 +69,7 @@
             "description": "Seda com Bandeja Dobrável do Papelito, papel branco, ultrafino, contém 36 piteiras e 36 papéis",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/n4j9KR2.jpg"
         },
         {
@@ -453,7 +453,7 @@
             "label": "Ziggy Laranjola Tropical",
             "description": "50g de Essência Ziggy para Narguile, sabor Laranja com Acerola",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/dzPvYhc.png"
         },
         {
@@ -1890,6 +1890,7 @@
             "is_highlight": false
         }
     ],
+    "Essências Fusion": [],
     "Ervas para Tereré": [
         {
             "code": "0618231624423",
@@ -2655,7 +2656,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Uva com Creme 🍇🍦",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/u6L7l0U.png"
         },
         {
@@ -3791,6 +3792,15 @@
             "description": "CONFERIR MODELOS DISPONÍVEIS - Contém 20 divisórias que permitem que você armazene até 12,5ml de diferentes tipos de extração, sem que uma interfira na outra.  Também acompanha uma espátula para manuseio das extrações. Material: Silicone - Medidas: 10,5cm de diâmetro, 1,5cm de altura.",
             "price": 4500,
             "image_url": "https://i.imgur.com/v5Fehqb.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "piteira-de-vidro-strabe-glass",
+            "label": "Piteira de Vidro Strabe Glass - UNIDADE",
+            "description": "CONFERIR MODELOS DISPONÍVEIS - 1 Unidade de Piteira de Vidro da marca Strabe Glass. Tamanhos disponíveis: 6mm, 7mm e 8mm. Feitas com vidro de alta qualidade e resistência.",
+            "price": 4000,
+            "image_url": "https://i.imgur.com/kcl6JfV.jpeg",
             "in_stock": true,
             "is_highlight": false
         }
