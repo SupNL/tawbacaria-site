@@ -598,7 +598,7 @@
             "label": "Ziggy Mix Frutas Roxas",
             "description": "50g de Essência Ziggy para Narguile, sabor Uva, Açaí, Amora, Framboesa e Mirtilo",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/MicXMm1.png"
         }
     ],
@@ -1890,7 +1890,44 @@
             "is_highlight": false
         }
     ],
-    "Essências Fusion": [],
+    "Essências Fusion": [
+        {
+            "code": "essencia-fusion-wild-africa",
+            "label": "Fusion Wild África ",
+            "description": "50g de Essência Fusion para narguilé, sabor maracujá, laranja e limão",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/CkLrgtF.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "essencia-fusion-miami-nights",
+            "label": "Fusion Miami Nights",
+            "description": "50g de Essência Fusion para narguilé, sabor laranja, manga e gelo",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/yvxLOmF.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "essencia-fusion-splash-lemon",
+            "label": "Fusion Splash Lemon",
+            "description": "50g de Essência Fusion para narguilé, sabor limão gelado",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/BtA98KU.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "essencia-fusion-mint",
+            "label": "Fusion Mint",
+            "description": "50g de Esseência Fusion para narguilé, sabor menta",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/LIl1krP.png",
+            "in_stock": true,
+            "is_highlight": false
+        }
+    ],
     "Ervas para Tereré": [
         {
             "code": "0618231624423",
@@ -4541,7 +4578,7 @@
             "description": "Unidade de Cartucho de gás de Butano da NTK 190g",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/QhpfDoS.png"
         },
         {
@@ -5054,7 +5091,7 @@
             "description": "Fogareiro a Gás da Marca BAK na cor preto. ",
             "price": 15000,
             "image_url": "https://i.imgur.com/OV75Ddy.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         }
     ],
