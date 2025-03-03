@@ -2241,7 +2241,7 @@
             "description": "CONFERIR CORES DISPONÍVEIS - Unidade de Isqueiro Maçarico Firestar -  Possui 2 chamas e são recarregáveis com gás butano, assim você pode usar seu isqueiro por bastante tempo. 7cm de altura",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Zohyt2I.png"
         },
         {
