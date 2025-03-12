@@ -4020,7 +4020,7 @@
             "description": "Unidade de Rosh de Barro da Osiris",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/bTJQJN0.png"
         },
         {
@@ -4137,7 +4137,7 @@
             "description": "Este modelo Siberian, com 9,5cm de altura e um diâmetro de cuba de 6,5cm, é fabricado em cerâmica de primeira linha, garantindo eficácia na retenção e distribuição de calor. O design é inspirado na robustez e no ambiente inóspito da Sibéria.",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6tUn4PP.png"
         },
         {
@@ -4218,7 +4218,7 @@
             "description": "Material: Cerâmica com pintura esmaltada. Tamanho: Altura: 10cm Largura: 7cm. Cuba: 1,5 cm",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ljKOXWZ.png"
         },
         {
@@ -4227,7 +4227,7 @@
             "description": "Material: Cerâmica com pintura esmaltada. Tamanho: Altura: 10cm Largura: 7cm. Cuba: 1,5 cm",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/4dEdQWR.png"
         },
         {
@@ -5128,6 +5128,78 @@
             "price": 15000,
             "image_url": "https://i.imgur.com/OV75Ddy.png",
             "in_stock": false,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-mini-pro-branco",
+            "label": "Rosh Mini Pro Branco",
+            "description": "Unidade de Rosh Branco Mini Pro Hookah",
+            "price": 4000,
+            "image_url": "https://i.imgur.com/vNseCOC.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-yes-branco-m2",
+            "label": "Rosh Yes Branco M2",
+            "description": "Unidade de Rosh Yes M2, na cor branca",
+            "price": 2000,
+            "image_url": "https://i.imgur.com/0xSMmeR.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-ia-mesclado-branco-preto",
+            "label": "Rosh IA Mesclado Branco e Preto",
+            "description": "Unidade de Rosh IA Mesclado Branco e Preto",
+            "price": 4000,
+            "image_url": "https://i.imgur.com/jtvYmCp.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-ia-mesclado-azul",
+            "label": "Rosh IA Mesclado Azul",
+            "description": "Unidade de Rosh IA Mesclado Azul",
+            "price": 4000,
+            "image_url": "https://i.imgur.com/vwZyl1O.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-ia-bege",
+            "label": "Rosh IA Bege Cuba Branca",
+            "description": "Unidade de Rosh IA Bege Cuba Branca",
+            "price": 4000,
+            "image_url": "https://i.imgur.com/vhS4gjw.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-rr-camaleao",
+            "label": "Rosh RR Camaleão",
+            "description": "Unidade de Rosh RR Camaleão",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/oCXAlwQ.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-rr-branco-perolado",
+            "label": "Rosh RR Branco Perolado",
+            "description": "Unidade de Rosh RR Branco Perolado",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/5TA2AZ6.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-rr-azul-perolado",
+            "label": "Rosh RR Azul Perolado",
+            "description": "Unidade de Rosh RR Azul Perolado",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/4ZwQ7hw.jpeg",
+            "in_stock": true,
             "is_highlight": false
         }
     ],
