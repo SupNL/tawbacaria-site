@@ -323,6 +323,24 @@
             "image_url": "https://i.imgur.com/fXqO28t.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "seda-com-piteira-slim-papelito",
+            "label": "Seda com Piteira Slim Papelito",
+            "description": "1 unidade de Seda com Piteira Papelito Slim, contendo 36 sedas e 36 piteiras, papel branco.",
+            "price": 800,
+            "image_url": "https://i.imgur.com/XvgHocB.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "papelito-tubelitos-neon",
+            "label": "Tubelito Neon Papelito",
+            "description": "CONFERIR CORES DISPONÍVEIS - 1 Unidade de Tubelito Papelito - 3 opções de cor (rosa neon, alaranjada neon e verde neon. Dimensões: 120mm de comprimento e 18mm de espessura total\r\n",
+            "price": 1400,
+            "image_url": "https://i.imgur.com/ReAmDsA.jpeg",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Luky": [
@@ -980,6 +998,15 @@
             "description": "50g de Essência Onix. Sabor Uva com Blueberry",
             "price": 1000,
             "image_url": "https://i.imgur.com/OfxmOAu.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "onix-essencia-ice-corn",
+            "label": "Onix Ice Corn 🌽",
+            "description": "50g de essência para narguilé Onix, sabor sorvete de milho verde.",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/wFLtMdU.jpeg",
             "in_stock": true,
             "is_highlight": false
         }
@@ -1924,6 +1951,15 @@
             "description": "50g de Esseência Fusion para narguilé, sabor menta",
             "price": 1000,
             "image_url": "https://i.imgur.com/LIl1krP.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "essencia-fusion-timao",
+            "label": "Fusion Timão",
+            "description": "50g de essência para narguilé Fusion, sabor melancia gelada",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/UMRUHsE.jpeg",
             "in_stock": true,
             "is_highlight": false
         }
