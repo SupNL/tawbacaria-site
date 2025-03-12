@@ -405,7 +405,7 @@
             "label": "Ziggy Banana Tropical 🍌",
             "description": "50g de Essência Ziggy para Narguile, sabor Banana 🍌",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/VxKOQR5.png"
         },
         {
@@ -574,7 +574,7 @@
             "label": "Ziggy Mix Duas Goiabas",
             "description": "50g de Essência Ziggy para Narguile, sabor Goiaba Branca com Goiaba Vermelha",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/BIMLLcn.png"
         },
         {
@@ -598,7 +598,7 @@
             "label": "Ziggy Mix Frutas Roxas",
             "description": "50g de Essência Ziggy para Narguile, sabor Uva, Açaí, Amora, Framboesa e Mirtilo",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/MicXMm1.png"
         }
     ],
@@ -891,7 +891,7 @@
             "label": "Onix Grape (Uva) 🍇",
             "description": "50g de Essência Onix Experience para Narguile, sabor Uva 🍇",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/MVmXreg.png"
         },
         {
@@ -907,7 +907,7 @@
             "label": "Onix Mango 🥭",
             "description": "50g de Essência Onix Experience para Narguile, sabor Manga 🥭",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/9iKT9lR.png"
         },
         {
@@ -955,7 +955,7 @@
             "label": "Onix Drops 🍓🍉",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Morango e Melancia 🍓🍉",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/aV8Dzww.png"
         },
         {
@@ -1015,7 +1015,7 @@
             "label": "Adalya Banana Milk 🍌🥛",
             "description": "50g de Essência Adalya para Narguile, sabor Creme de Banana 🍌",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/JO4gHXo.png"
         },
         {
@@ -1143,7 +1143,7 @@
             "label": "Adalya Swiss Bonbon 🥶",
             "description": "50g de Essência Adalya para Narguile, sabor Chiclete com Refrescância",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/JZFsSrW.png"
         },
         {
@@ -1413,7 +1413,7 @@
             "label": "Nay Spell of Love (Melão e Melancia) 🍈🍉",
             "description": "50g de Essência Nay, sabor Melão e Melancia 🍈🍉",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/9lmEFov.png"
         },
         {
@@ -1762,7 +1762,7 @@
             "label": "Smyrna Blue Mint",
             "description": "50g de Essência Smyrna, sabor hortelã, semelhante ao de balas mentos ou trident azul",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/afDTa9X.png"
         },
         {
@@ -3370,7 +3370,7 @@
             "description": "Dichavador Metal Poker Vermelho, 3 partes, medindo 4cm de comprimento e 2,5cm de altura",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/TLUXPq3.png"
         },
         {
@@ -4767,7 +4767,7 @@
             "description": "Unidade de Tapete para Narguilé com resistência a fogo da Ivy Bowl",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/3dZF9q2.png"
         },
         {
@@ -4776,7 +4776,7 @@
             "description": "Unidade de Tapete para Narguilé com resistência a fogo da Ivy Bowl",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6q6Kpci.png"
         },
         {
