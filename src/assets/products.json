@@ -186,7 +186,7 @@
             "description": "Os papéis para enrolar, ou sedas, da Papelito têm marca d’água exclusiva e são de baixa gramatura, com queima lenta e goma arábica natural. O usuário tem a garantia de redução de danos , com menos fumaça e sem gosto residual. Todas as linhas vêm com o selo FSC, que comprova matéria prima de qualidade. Cada livreto contém 36 folhas. Dimensões: 108 x 36 mm",
             "price": 400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/naV84c5.png"
         },
         {
@@ -195,7 +195,7 @@
             "description": " Os papéis para enrolar, ou sedas, da Papelito têm marca d’água exclusiva e são de baixa gramatura, com queima lenta e goma arábica natural. O usuário tem a garantia de redução de danos , com menos fumaça e sem gosto residual. Todas as linhas vêm com o selo FSC, que comprova matéria prima de qualidade. Cada livreto contém 36 folhas. Dimensões: 108 x 36 mm",
             "price": 400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/bSa6Df5.png"
         },
         {
@@ -885,7 +885,7 @@
             "label": "Onix Danon (Danone) 🍓",
             "description": "50g de Essência Onix Experience para Narguile, sabor Iogurte de Morango 🍓",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/F6CDUhO.png"
         },
         {
@@ -1986,7 +1986,7 @@
             "label": "Chacal Erva-Mate Limão",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/TCQWUSR.png"
         },
         {
@@ -2066,7 +2066,7 @@
             "label": "Chacal Erva-Mate Menta Limão",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão e menta",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WjlTPjR.png"
         },
         {
@@ -2082,7 +2082,7 @@
             "label": "Chacal Erva-Mate Menta Xtreme 🥶",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com um intenso sabor de menta",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/gFb8TIP.png"
         }
     ],
@@ -4263,7 +4263,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/2F3oe7u.png"
         },
         {
@@ -4614,7 +4614,7 @@
             "description": "Unidade de Cartucho de gás de Butano da NTK 190g",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/QhpfDoS.png"
         },
         {
@@ -4722,7 +4722,7 @@
             "description": "Unidade de Garfo com Furador da Ziggy",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/5OdziMf.png"
         },
         {
@@ -4857,7 +4857,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração rosa",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/q8I18St.png"
         },
         {
@@ -5037,7 +5037,7 @@
             "description": "Mangueira de silicone, com 1,5 metros de comprimento, em coloração Roxa",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/rseR5ca.png"
         },
         {
