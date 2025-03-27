@@ -341,6 +341,24 @@
             "image_url": "https://i.imgur.com/ReAmDsA.jpeg",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "seda-papelito-brown-piteira",
+            "label": "Seda com Piteira Brown Papelito",
+            "description": "1 unidade de Seda com Piteira Papelito Slim, contendo 36 sedas e 36 piteiras, papel marrom.",
+            "price": 800,
+            "image_url": "https://i.imgur.com/cr8uQvx.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "seda-papelito-duelo-mcs",
+            "label": "Seda Papelito Duelo de Mcs",
+            "description": "1 unidade de Seda Papelito Duelo de Mcs. Contém 36 folhas colecionáveis, uma característica que faz toda a diferença para quem aprecia exclusividade, benefícios e conexão com a cultura. Produzido com papel branqueado e goma arábica natural",
+            "price": 400,
+            "image_url": "https://i.imgur.com/0X1LYf4.jpeg",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Luky": [
@@ -2655,6 +2673,15 @@
             "description": "CONFERIR MODELOS DISPONÍVEIS - 1 Unidade de Isqueiro Maçarico Prof Recarregável a gás butano. Dimensões: 6,8 x 3,9cm.",
             "price": 1600,
             "image_url": "https://i.imgur.com/X3wEn2m.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "tabaco-acrema",
+            "label": "Tabaco Acrema Blend",
+            "description": "1 unidade de Tabaco Acrema Blend de 20g. Um dos baquinhos mais procurados para blend com extrações. Tabaco virgínia, destalado manualmente, com corte extra fino e coloração clara.",
+            "price": 1600,
+            "image_url": "https://i.imgur.com/n5cZwIM.jpeg",
             "in_stock": true,
             "is_highlight": false
         }
@@ -5199,6 +5226,15 @@
             "description": "Unidade de Rosh RR Azul Perolado",
             "price": 3500,
             "image_url": "https://i.imgur.com/4ZwQ7hw.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "garfo-com-furador-metal-variado",
+            "label": "Garfo com Furador Metal",
+            "description": "1 unidade de garfo com furador de metal, consultar modelos disponíveis!",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/9C6Ch3Q.jpeg",
             "in_stock": true,
             "is_highlight": false
         }
