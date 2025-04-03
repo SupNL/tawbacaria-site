@@ -1442,7 +1442,7 @@
             "label": "Nay Biscoito de Morango 🍪🍓",
             "description": "50g de Essência Nay, sabor Biscoito de Morango 🍪🍓",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/oaJCLVY.png"
         },
         {
@@ -1783,7 +1783,7 @@
             "label": "Smyrna Melancia Kiwi 🍉🥝",
             "description": "50g de Essência Smyrna, a Smyrna Melancia Kiwi traz o sabor das frutas do Kiwi e Melancia juntas, proporcionando um mix perfeito e muito saboroso. A essência une o doce e cítrico, sendo ideal para fumar em qualquer época do ano",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/wUabzXR.png"
         },
         {
@@ -1863,7 +1863,7 @@
             "label": "Smyrna Manga Morango 🥭🍓",
             "description": "50g de Essência Smyrna, sabor Manga com Morango",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WDaG7Jy.png"
         },
         {
@@ -3001,6 +3001,87 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/8dikvSO.png"
+        },
+        {
+            "code": "juice-dym-cereja",
+            "label": "Juice Dym (Nic 3mg) Cereja 🍒 30ml",
+            "description": "1 Unidade de Juice Dym, sabor Cereja 30ml e 3mg de nicotina",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/sVgvjJ0.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "juice-dym-hortela",
+            "label": "Juice Dym (Nic 3mg) Hortelã 30ml",
+            "description": "1 Unidade de Juice Dym, sabor Hortelã 30ml e 3mg de nicotina",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/p3kjgMA.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "juice-dym-maca-verde",
+            "label": "Juice Dym (Nic 3mg) Maçã Verde 🍏 30ml",
+            "description": "1 Unidade de Juice Dym, sabor Maçã Verde 30ml e 3mg de nicotina",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/VHlHo9T.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "juice-dym-melao-melancia",
+            "label": "Juice Dym (Nic 3mg) Melão e Melancia 🍈🍉 30ml",
+            "description": "1 Unidade de Juice Dym, sabor Melão e Melancia 30ml e 3mg de nicotina",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/DfebBmg.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "juice-dym-morango-kiwi",
+            "label": "Juice Dym (Nic 3mg) Morango e Kiwi 🍓🥝 30ml",
+            "description": "1 Unidade de Juice Dym, sabor Morango e Kiwi 30ml e 3mg de nicotina",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/lGcUL1z.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "juice-dym-uva",
+            "label": "Juice Dym (Nic 3mg) Uva 🍇 30ml",
+            "description": "1 Unidade de Juice Dym, sabor Uva 30ml e 3mg de nicotina",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/Qx0adej.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "juice-zomo-lemon-twist",
+            "label": "Juice Zomo (Nic 3mg) 60ml Lemon Twist 🍋‍🟩",
+            "description": "1 Unidade de Juice Zomo, sabor Lemon Twist 60ml, com 3mg de nicotina",
+            "price": 5500,
+            "image_url": "https://i.imgur.com/NUZ8MxF.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "juice-zomo-pinkman",
+            "label": "Juice Zomo (Nic 3mg) 60ml Pinkman ",
+            "description": "1 Unidade de Juice Zomo, sabor frutas vermelhas 60ml, com 3mg de nicotina",
+            "price": 5500,
+            "image_url": "https://i.imgur.com/umm10yR.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "juice-zomo-iceburst-blueberry-ice ",
+            "label": "Juice Zomo (Nic 3mg) 60ml Iceburst Blueberry Ice 🫐🧊 ",
+            "description": "1 Unidade de Juice Zomo Blueberry Ice (60ml com 3mg de nicotina) com um frasco adicional de Zomo Iceburst (5ml) para dar aquele plus no seu liquido e ficar ainda mais gelado! ",
+            "price": 6000,
+            "image_url": "https://i.imgur.com/nYg7U9p.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Headshop": [
@@ -3910,6 +3991,15 @@
             "description": "CONFERIR MODELOS DISPONÍVEIS - 1 Unidade de Piteira de Vidro da marca Strabe Glass. Tamanhos disponíveis: 6mm, 7mm e 8mm. Feitas com vidro de alta qualidade e resistência.",
             "price": 4000,
             "image_url": "https://i.imgur.com/kcl6JfV.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "seda-de-vidro-9-18",
+            "label": "Seda De Vidro 9cm x 18mm",
+            "description": "1 Unidade de Seda de Vidro, medindo 9cm x 18mm. \r\nComo usar: Ela é feita para funcionar como uma seda, você coloca a erva dentro do cilindro maior e puxa a piteira de acordo com o quanto você colocar.",
+            "price": 2000,
+            "image_url": "https://i.imgur.com/QsVG1Vw.jpeg",
             "in_stock": true,
             "is_highlight": false
         }
