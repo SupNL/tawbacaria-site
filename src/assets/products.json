@@ -3091,7 +3091,7 @@
             "description": "Pipe Vidro Rick and Morty D&K  uma das melhores marcas do mercado. Com ótimo custo benefício, design moderno, leve e prático. Possui tela. Maior redução de danos á saúde. Medida: 13cm",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/4jE1Wk9.png"
         },
         {
@@ -3109,7 +3109,7 @@
             "description": "Pipe de Vidro super estiloso. É ideal para levar em rolês e usos no dia a dia. Medida: 13cm",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6WnvXfA.png"
         },
         {
@@ -3118,7 +3118,7 @@
             "description": "Unidade de Tesoura de metal, marca Abduzido, modelo Rainbow, medindo 9cm de comprimento e 5cm de largura",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ckhk5Co.png"
         },
         {
@@ -3325,7 +3325,7 @@
             "description": "CONSULTAR CORES DISPONÍVEIS - Container de silicone Lego com 7 divisórias, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não deixa passar odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua crema, capacidade de armazenamento de 34ml. MEDIDAS: 10x2,5cm",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/p4qzc92.png"
         },
         {
@@ -3469,7 +3469,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 7cm de comprimento",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WLjfnly.png"
         },
         {
@@ -3505,7 +3505,7 @@
             "description": "Material: Metal, Altura: 3cm Diametro: 5cm, composto por 3 partes, com uma linda ilustração que trás um aspecto em alto relevo!",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/iJuC4eU.png"
         },
         {
@@ -3577,7 +3577,7 @@
             "description": "Mini Dichavador de Fibra de Coco, com 4cm de diâmetro e 1,6cm de altura. Possui três compartimentos. Disponível em várias estampas",
             "price": 200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/UB5snmS.png"
         },
         {
