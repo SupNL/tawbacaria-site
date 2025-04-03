@@ -1988,7 +1988,7 @@
             "label": "Chacal Erva-Mate Menta Limão Rosa",
             "description": "50g de Essência Chacal Erva-Mate Menta Limão Rosa",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/YhWQ4Ku.png"
         },
         {
@@ -1996,7 +1996,7 @@
             "label": "Chacal Erva-Mate Tangerina da Roça",
             "description": "50g de Essência Chacal Erva-Mate Tangerina da Roça",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/KT9bOoF.png"
         },
         {
@@ -2004,7 +2004,7 @@
             "label": "Chacal Erva-Mate Limão",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/TCQWUSR.png"
         },
         {
@@ -2020,7 +2020,7 @@
             "label": "Chacal Erva-Mate Limão Rosa",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão rosa",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/YVDvspB.png"
         },
         {
@@ -2060,7 +2060,7 @@
             "label": "Chacal Erva-Mate Energético",
             "description": "500g de Erva-Mate para Tereré, inspiradas nos energéticos",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/1osV5PY.png"
         },
         {
@@ -2084,7 +2084,7 @@
             "label": "Chacal Erva-Mate Menta Limão",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão e menta",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/WjlTPjR.png"
         },
         {
@@ -2100,8 +2100,17 @@
             "label": "Chacal Erva-Mate Menta Xtreme 🥶",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com um intenso sabor de menta",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/gFb8TIP.png"
+        },
+        {
+            "code": "chacal-erva-mate-uva",
+            "label": "Chacal Erva-Mate Uva 🍇",
+            "description": "500g de Erva-Mate para Tereré, sabor uva",
+            "price": 2000,
+            "image_url": "https://i.imgur.com/raDC97l.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Carvão": [
@@ -4875,7 +4884,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração rosê",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/gZnZFDI.png"
         },
         {
@@ -4884,7 +4893,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração rosa",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/q8I18St.png"
         },
         {
