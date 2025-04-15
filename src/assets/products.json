@@ -529,7 +529,7 @@
             "label": "Ziggy Yellow Starbust",
             "description": "50g de Essência Ziggy para Narguile, sabor Maracujá",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/snBIUQx.png"
         },
         {
@@ -991,7 +991,7 @@
             "label": "Onix Drops 🍓🍉",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Morango e Melancia 🍓🍉",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/aV8Dzww.png"
         },
         {
@@ -4992,7 +4992,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração preto fumê",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Ovdzd12.png"
         },
         {
@@ -5118,7 +5118,7 @@
             "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Rosa",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/I4bUfKJ.png"
         },
         {
@@ -5307,7 +5307,7 @@
             "description": "Unidade de Rosh RR Camaleão",
             "price": 3500,
             "image_url": "https://i.imgur.com/oCXAlwQ.jpeg",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
