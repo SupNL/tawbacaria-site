@@ -359,6 +359,15 @@
             "image_url": "https://i.imgur.com/0X1LYf4.jpeg",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "filtro-papelito-slim",
+            "label": "Filtros Papelito Slim",
+            "description": "Unidade de pacote com 120 filtros slim, de 5mmx1,5cm",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/E0ITBnU.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Luky": [
@@ -1270,7 +1279,7 @@
             "label": "Magic Space Purple Passion 💜 (Maracujá Roxo)",
             "description": "50g de Essência Magic para Narguile, sabor Maracujá",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6wexqrM.png"
         },
         {
@@ -1532,6 +1541,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/YzqjLzM.png"
+        },
+        {
+            "code": "nay-cereja-blend",
+            "label": "Nay Cereja Blend",
+            "description": "50g de Essência NAY para narguilé, sabor cereja",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/Z92zd6o.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Chacal": [
@@ -2221,6 +2239,24 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/QArp0rR.png"
+        },
+        {
+            "code": "carvao-rainbow-1kg",
+            "label": "Caixa 1kg Carvão Hexagonal Rainbow",
+            "description": "Caixa com 1kg de Carvão Rainbow Hexagonal",
+            "price": 4500,
+            "image_url": "https://i.imgur.com/TtZY0fe.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "carvao-arco-fire-1kg",
+            "label": "Caixa 500g Carvão Hexagonal Arco Fire",
+            "description": "Caixa com 500g de Carvão Arco Fire Hexagonal",
+            "price": 1400,
+            "image_url": "https://i.imgur.com/wFM8C9j.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Papel Alumínio": [
