@@ -105,7 +105,7 @@
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/QLua3qK.png"
         },
         {
@@ -368,6 +368,24 @@
             "image_url": "https://i.imgur.com/E0ITBnU.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "seda-papelito-longa-tradicional",
+            "label": "Seda Papelito Longa Tradicional",
+            "description": "1 unidade de caixa de Seda Papelito Longa Tradicional, suas dimensões são 130mm x 43mm, contendo 36 folhas de papel branco.",
+            "price": 500,
+            "image_url": "https://i.imgur.com/lBXgJHG.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "seda-papelito-longa-brown",
+            "label": "Seda Papelito Longa Brown",
+            "description": "1 unidade de caixa de Seda Papelito Longa Brown, suas dimensões são 130mm x 43mm, contendo 36 folhas de papel marrom.",
+            "price": 600,
+            "image_url": "https://i.imgur.com/ojt4zA0.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Luky": [
@@ -392,7 +410,7 @@
             "label": "Luky Grape King 🍇",
             "description": "55g de essência Luky, feito com tabaco premium, sabor uva",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/MWV6RBQ.png"
         },
         {
@@ -408,7 +426,7 @@
             "label": "Luky Red Fruits 🍓",
             "description": "55g de essência Luky, feito com tabaco premium, sabor framboesa, morango e amora",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6w4FZ18.png"
         },
         {
@@ -458,7 +476,7 @@
             "label": "Ziggy Fresh Açaí",
             "description": "50g de Essência Ziggy para Narguile, sabor Açaí",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/opke5pQ.png"
         },
         {
@@ -635,7 +653,7 @@
             "label": "Ziggy Mix Frutas Amarela",
             "description": "50g de Essência Ziggy para Narguile, sabor Laranja, Abacaxi e Maracujá 🍊🍍🥭",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/LH8aCga.png"
         },
         {
@@ -685,7 +703,7 @@
             "label": "Zomo Mix Berries Mint",
             "description": "50g de Essência Zomo para Narguile, sabor  morango, framboesa, mirtilo e amoras com um toque refrescante de menta",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/njEy3Tf.png"
         },
         {
@@ -928,7 +946,7 @@
             "label": "Onix Banana e Açaí Fusion 🍌",
             "description": "50g de Essência Onix Experience para Narguile, sabor Açaí com Banana 🍌",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WinL6wV.png"
         },
         {
@@ -936,7 +954,7 @@
             "label": "Onix Grape (Uva) 🍇",
             "description": "50g de Essência Onix Experience para Narguile, sabor Uva 🍇",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/MVmXreg.png"
         },
         {
@@ -1558,7 +1576,7 @@
             "label": "Chacal Ice 🧊",
             "description": "50g de Essência Chacal Refrescante 🧊",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/kdDVnJ9.png"
         },
         {
@@ -1566,7 +1584,7 @@
             "label": "Chacal Mint 🌿",
             "description": "50g de Essência Chacal, sabor Hortelã 🌿",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/fkcQBL3.png"
         },
         {
@@ -1574,7 +1592,7 @@
             "label": "Chacal Bubba Grape 🍇",
             "description": "50g de Essência Chacal, sabor Uva 🍇",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/JiIKwDe.png"
         },
         {
@@ -1590,7 +1608,7 @@
             "label": "Chacal Bubba Strawberry 🍓",
             "description": "50g de Essência Chacal, sabor Morango 🍓",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/B0zMFm2.png"
         }
     ],
@@ -1608,7 +1626,7 @@
             "label": "Blue Horse Sputnik",
             "description": "50g de Essência Blue Horse, sabor Toranja com Maracujá",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/2hpgO4J.png"
         },
         {
@@ -1666,7 +1684,7 @@
             "label": "Ignite Guava Watermelon (Goiaba e Melancia)",
             "description": "50g de Essência Ignite, sabor Goiaba com Melancia",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/odeOp8I.png"
         }
     ],
@@ -1849,7 +1867,7 @@
             "label": "Smyrna Danon 🍓",
             "description": "50g de Essência Smyrna, sabor Danone de Morango",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/IiyaVRp.png"
         },
         {
@@ -1996,7 +2014,7 @@
             "description": "50g de essência para narguilé Fusion, sabor melancia gelada",
             "price": 1000,
             "image_url": "https://i.imgur.com/UMRUHsE.jpeg",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         }
     ],
@@ -3271,7 +3289,7 @@
             "description": "Unidade com 33 de folhas de Papel de Seda Zomo Perfect Hemp feita em Goma Arábica Natural. Papel de fibra de cânhamo, 100% orgânico, livre de psicoativos, sem químicas e aditivos. O papel de cânhamo é mais resistente do que o papel normal, sete vezes mais reciclável e não contém toxinas.",
             "price": 400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/V4bzEE1.png"
         },
         {
@@ -3730,7 +3748,7 @@
             "description": "Possui 3 partes, com imã, medindo 4x2,5cm",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/tMszsHY.png"
         },
         {
@@ -3982,7 +4000,7 @@
             "description": "1 unidade de Bandeja de Metal Pequena Toka Hauú Cannabis\r\nMedindo: Largura: 18,5cm Comprimento: 9cm",
             "price": 2500,
             "image_url": "https://i.imgur.com/hF09rVX.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
