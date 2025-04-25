@@ -663,6 +663,15 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/MicXMm1.png"
+        },
+        {
+            "code": "7908479404547",
+            "label": "Ziggy Frutas Verdes 🥝🍐",
+            "description": "50g de Essência Ziggy para narguilé, sabor frutas verdes (pera, kiwi, uva verde e um toque de menta)",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/HJSsYb1.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Zomo": [
@@ -4054,6 +4063,24 @@
             "description": "1 Unidade de Seda de Vidro, medindo 9cm x 18mm. \r\nComo usar: Ela é feita para funcionar como uma seda, você coloca a erva dentro do cilindro maior e puxa a piteira de acordo com o quanto você colocar.",
             "price": 2000,
             "image_url": "https://i.imgur.com/QsVG1Vw.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "dichavador-metal-rosa-vermelho",
+            "label": "Dichavador Metal Rosa e Vermelho Alto Relevo",
+            "description": "1 unidade de Dichavador Metal Rosa e Vermelho Alto Relevo, contendo 3 partes, medindo 3cm de altura e 5cm de comprimento",
+            "price": 5000,
+            "image_url": "https://i.imgur.com/y5JGU3Q.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "dichavador-metal-caveira-relevo-2",
+            "label": "Dichavador Metal Caveira Alto Relevo",
+            "description": "1 unidade de Dichavador Metal Caveira Alto Relevo, contendo 3 partes, medindo 3cm de altura e 5cm de comprimento",
+            "price": 5000,
+            "image_url": "https://i.imgur.com/qpkzBdx.png",
             "in_stock": true,
             "is_highlight": false
         }
