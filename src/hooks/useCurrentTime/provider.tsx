@@ -30,12 +30,8 @@ const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
             );
             if (!res.ok) return null;
             const data = await res.json();
-            const nonBRDate = new Date(data.fulldate);
-            // Subtract 3 hours (3 * 60 * 60 * 1000 milliseconds)
-            const brazilDate = new Date(
-                nonBRDate.getTime() - 3 * 60 * 60 * 1000
-            );
-            return brazilDate;
+            const date = new Date(data.fulldate);
+            return date;
         } catch (err) {
             console.error(err);
             return null;
@@ -45,7 +41,6 @@ const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
     async function getCurrentDate() {
         const apisAttempt = [getTimeApiIoDate(), getTimeDavidAyalasGithubApi()];
         const results = await Promise.all(apisAttempt);
-        console.log(results);
 
         let validResult: Date | null = results.find((date) => !!date) ?? null;
         if (!validResult) throw 'Erro ao consultar horário';
