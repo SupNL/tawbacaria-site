@@ -3568,7 +3568,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 4cm x 5mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/RAtPbLU.png"
         },
         {
@@ -3577,7 +3577,7 @@
             "description": "Material: Metal, Altura: 3cm, Diametro 5cm, composto por 3 partes",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/PM7ScJ4.png"
         },
         {
@@ -3685,7 +3685,7 @@
             "description": "Dichavador de Acrílico Bob Marley, com 5,5cm, 3 partes, com imã. Disponível em várias cores: Preto, vermelho, verde, verde neon, azul e transparente",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/9PWiNFT.png"
         },
         {
@@ -3793,7 +3793,7 @@
             "description": "Material: Metal; Divisórias: 2; Diâmetro: 4cm; Altura: 3cm",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/CPiWqXt.png"
         },
         {
@@ -3811,7 +3811,7 @@
             "description": "Material: Metal; Divisórias: 3; Diâmetro: 4cm; Altura: 4,5cm",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/rk8AdKk.png"
         },
         {
@@ -4090,7 +4090,7 @@
             "description": "1 unidade de Dichavador Metal Rosa e Vermelho Alto Relevo, contendo 3 partes, medindo 3cm de altura e 5cm de comprimento",
             "price": 5000,
             "image_url": "https://i.imgur.com/y5JGU3Q.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -4153,7 +4153,7 @@
             "description": "O primeiro tabaco desenvolvido pela HBT é extremamente leve de fumar e possui cores claras que remetem ao ouro. O fumo Virginia é livre de processos químicos, 100% natural, e mantém sabor e cheiro da própria folha. A embalagem amarela, além de representar fielmente a cor do tabaco, possui três camadas de materiais que melhora a conservação, protegendo contra perdas de umidade e conservando seu sabor. Por ser um produto natural, é importante que o Golden Virginia seja mantido longe do sol, em local fresco, por até 12 meses.",
             "price": 3000,
             "image_url": "https://i.imgur.com/eErPfK4.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -4171,6 +4171,24 @@
             "description": "Medidas:\r\nComprimento: 11,5 cm\r\nLargura: 6,0 cm\r\nPonta: 3,5 cm",
             "price": 2500,
             "image_url": "https://i.imgur.com/ixLibkY.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "dichavador-metal-engrenagem-caveira",
+            "label": "Dichavador De Metal Engrenagem Cromado Caveira - 3 Partes",
+            "description": "Dichavador de Metal Engrenagem Cromado - Caveira com Espada e Chamas (5,5x2cm) - 3 Partes\r\n\r\nFabricado em metal cromado de alta resistência, possui 3 partes funcionais: dentes afiados para trituração precisa, tela de filtragem e compartimento inferior para armazenar o conteúdo moído. Seu tamanho de 5,5cm de diâmetro x 2cm de altura garante praticidade sem abrir mão do desempenho.",
+            "price": 5000,
+            "image_url": "https://i.imgur.com/CxKhWrs.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "dichavador-metal-colorido-olho",
+            "label": "Dichavador de Metal Colorido",
+            "description": "Dichavador de Metal Colorido 3 Partes, medindo 5x2,5cm\r\n\r\n",
+            "price": 5000,
+            "image_url": "https://i.imgur.com/7wPFaQt.jpeg",
             "in_stock": true,
             "is_highlight": false
         }
@@ -4560,7 +4578,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/2F3oe7u.png"
         },
         {
