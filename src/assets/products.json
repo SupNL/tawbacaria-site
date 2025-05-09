@@ -96,7 +96,7 @@
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/fz9g8Qd.png"
         },
         {
@@ -105,7 +105,7 @@
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/QLua3qK.png"
         },
         {
@@ -907,7 +907,7 @@
             "label": "Onix High Mint 🥶",
             "description": "50g de Essência Onix Experience para Narguile, sabor Hortelã 🥶",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/FQbNqDs.jpeg"
         },
         {
@@ -939,7 +939,7 @@
             "label": "Onix Danon (Danone) 🍓",
             "description": "50g de Essência Onix Experience para Narguile, sabor Iogurte de Morango 🍓",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/F6CDUhO.png"
         },
         {
@@ -955,7 +955,7 @@
             "label": "Onix Banana e Açaí Fusion 🍌",
             "description": "50g de Essência Onix Experience para Narguile, sabor Açaí com Banana 🍌",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/WinL6wV.png"
         },
         {
@@ -963,7 +963,7 @@
             "label": "Onix Grape (Uva) 🍇",
             "description": "50g de Essência Onix Experience para Narguile, sabor Uva 🍇",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/MVmXreg.png"
         },
         {
@@ -1019,7 +1019,7 @@
             "label": "Onix Red Drops 🍓🍒",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Morango, Cereja e Tutti-frutti",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/ETrSTEZ.png"
         },
         {
@@ -1027,7 +1027,7 @@
             "label": "Onix Drops 🍓🍉",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Morango e Melancia 🍓🍉",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/aV8Dzww.png"
         },
         {
@@ -1112,7 +1112,7 @@
             "label": "Adalya Horchata 🖤🥛",
             "description": "50g de Essência Adalya para Narguile, sabor Amêndoa Cremosa",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/BWXxIWd.png"
         },
         {
@@ -1120,7 +1120,7 @@
             "label": "Adalya Hazelnut 🥜",
             "description": "50g de Essência Adalya para Narguile, sabor Creme de Avelã (Nutella) 🥜",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/PtcZ2cY.png"
         },
         {
@@ -1406,7 +1406,7 @@
             "label": "Nay Mango Melon 🥭🍈",
             "description": "50g de Essência Nay, sabor manga com melão",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/dJOXsE4.png"
         },
         {
@@ -1414,7 +1414,7 @@
             "label": "Nay Maracujá Goiaba",
             "description": "50g de Essência Nay, experimente a combinação do cítrico do maracujá com o doce sabor da goiaba, unidos em um só blend",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/C3CE31D.png"
         },
         {
@@ -1422,7 +1422,7 @@
             "label": "Nay Limão Goiaba",
             "description": "50g de Essência Nay, delicie-se com a combinação vibrante do sabor cítrico do limão com o toque suave e doce da goiaba. Uma experiência de sabor totalmente única!",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/YIqobHu.png"
         },
         {
@@ -1753,7 +1753,7 @@
             "label": "Sense Banana 🍌",
             "description": "50g de Essência Sense, sabor Banana 🍌",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/mmrbdqs.png"
         },
         {
@@ -1761,7 +1761,7 @@
             "label": "Sense Lychee Candy (Du Macário)",
             "description": "50g de Essência Sense, sabor Doce de Lichia",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/3VC0E8t.png"
         },
         {
@@ -1860,7 +1860,7 @@
             "label": "Smyrna Cola Lemon Feat Du Macário 🥤🍋",
             "description": "50g de Essência Smyrna, sabor Coca-Cola com Limão",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/vBeC6l4.png"
         },
         {
@@ -1987,7 +1987,7 @@
             "description": "50g de Essência Fusion para narguilé, sabor maracujá, laranja e limão",
             "price": 1000,
             "image_url": "https://i.imgur.com/CkLrgtF.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -2057,7 +2057,7 @@
             "label": "Chacal Erva-Mate Hortelã Ice",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com hortelã refrescante",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/U9pdeJf.png"
         },
         {
@@ -2105,7 +2105,7 @@
             "label": "Chacal Erva-Mate Energético",
             "description": "500g de Erva-Mate para Tereré, inspiradas nos energéticos",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/1osV5PY.png"
         },
         {
@@ -2475,7 +2475,7 @@
             "description": "Caixa com 10 unidades de palheiro JC, sabor Menta 🌿",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/YLarUJx.png"
         },
         {
@@ -2765,6 +2765,15 @@
             "image_url": "https://i.imgur.com/GYxNbKI.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "isqueiro-prof-macarico-legalize",
+            "label": "Isqueiro Maçarico Prof - Legalize (CONFERIR MODELOS DISPONÍVEIS)",
+            "description": "1 Unidade de Isqueiro maçarico recarregável Prof, escolher entre os modelos disponíveis.",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/grSAzKX.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Juices e Nic Salts": [
@@ -2837,7 +2846,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Uva com Creme 🍇🍦",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/u6L7l0U.png"
         },
         {
@@ -2846,7 +2855,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Morango 🍓",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/eL07U12.png"
         },
         {
@@ -2864,7 +2873,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/vczPr7Y.png"
         },
         {
@@ -2873,7 +2882,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Menta 🌿",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/uZQ7zz0.png"
         },
         {
@@ -3080,7 +3089,7 @@
             "description": "1 Unidade de Juice Dym, sabor Cereja 30ml e 3mg de nicotina",
             "price": 3500,
             "image_url": "https://i.imgur.com/sVgvjJ0.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -3125,7 +3134,7 @@
             "description": "1 Unidade de Juice Dym, sabor Uva 30ml e 3mg de nicotina",
             "price": 3500,
             "image_url": "https://i.imgur.com/Qx0adej.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -3379,7 +3388,7 @@
             "description": "Unidade de Cuia de Silicone da Na Boa, disponível em várias cores",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/1C9ZH47.png"
         },
         {
@@ -3532,7 +3541,7 @@
             "description": "Unidade de Piteira de Vidro Chillin, tamanho 6mm x 40mm",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6Zo6ONX.png"
         },
         {
@@ -3541,7 +3550,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 7cm de comprimento",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/WLjfnly.png"
         },
         {
@@ -5280,7 +5289,7 @@
             "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Rosa",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/I4bUfKJ.png"
         },
         {
