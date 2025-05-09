@@ -2756,6 +2756,15 @@
             "image_url": "https://i.imgur.com/n5cZwIM.jpeg",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "tabaco-hi-tobacco",
+            "label": "Tabaco/Fumo para Cigarro Hi Tobacco 35g",
+            "description": "O primeiro tabaco desenvolvido pela HBT é extremamente leve de fumar e possui cores claras que remetem ao ouro. O fumo Virginia é livre de processos químicos, 100% natural, e mantém sabor e cheiro da própria folha. A embalagem amarela, além de representar fielmente a cor do tabaco, possui três camadas de materiais que melhora a conservação, protegendo contra perdas de umidade e conservando seu sabor. Por ser um produto natural, é importante que o Golden Virginia seja mantido longe do sol, em local fresco, por até 12 meses.",
+            "price": 2800,
+            "image_url": "https://i.imgur.com/GYxNbKI.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Juices e Nic Salts": [
@@ -4081,6 +4090,78 @@
             "description": "1 unidade de Dichavador Metal Caveira Alto Relevo, contendo 3 partes, medindo 3cm de altura e 5cm de comprimento",
             "price": 5000,
             "image_url": "https://i.imgur.com/qpkzBdx.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "seda-lion-circus-14",
+            "label": "Seda Lion Circus Regular 1/4",
+            "description": "1 unidade com 32 folhas, papel branco. A Seda Lion Rolling Circus Edição Brasil 1-1/4 é uma escolha excepcional para quem valoriza a qualidade e a originalidade na arte de enrolar. Esta edição especial celebra a rica cultura do Brasil, oferecendo uma experiência única e emocionante.\r\n\r\nFabricada com materiais de alta qualidade, a Seda Lion Rolling Circus Brasil 1-1/4 oferece uma textura suave e resistente, facilitando o processo de enrolar.",
+            "price": 400,
+            "image_url": "https://i.imgur.com/AYchTIl.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "seda-king-paper-branca",
+            "label": "Seda King Original King Size ",
+            "description": "1 unidade com 33 folhas de Seda King Original King Size Regular, papel branco.",
+            "price": 400,
+            "image_url": "https://i.imgur.com/nBpMmzA.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "seda-bem-bolado-brown",
+            "label": "Seda Bem Bolado Brown King Size",
+            "description": "1 unidade com 33 folhas de Seda Bem Bolado Brown King Size, papel marrom.",
+            "price": 500,
+            "image_url": "https://i.imgur.com/remVxwf.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "dichavador-lion-circus",
+            "label": "Dichavador Acrílico Lion Circus (CONFERIR MODELOS DISPONÍVEIS)",
+            "description": "A Lion Rolling Circus busca levar sua experiência de fumo para outro nível, com produtos de qualidade, funcionais e lindos.\r\nPensando nisso desenvolveram os incríveis dichavadores de acrílico de 3 partes, com dentes afiados e reservatório para guardar seu fumo.\r\n\r\nCaracterísticas do produto:\r\n- Marca: Lion Rolling Circus\r\n- Quantidade: 1 Dichavador\r\n- Dimensões: 6 x 2,5 cm\r\n- Composição: Acrílico \r\n- Modelo: 3 Partes",
+            "price": 2500,
+            "image_url": "https://i.imgur.com/yzF6oU8.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "tesoura-flip-dry-abdz",
+            "label": "Tesoura ABDZ Flip Dry - Rainbow",
+            "description": "Medidas:\r\nComprimento: 11,5 cm\r\nLargura: 6,0 cm\r\nPonta: 3,5 cm",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/2bmEzHG.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "tesoura-x-pink-abdz",
+            "label": "Tesoura ABDZ Hash Round - X-Pink",
+            "description": "O primeiro tabaco desenvolvido pela HBT é extremamente leve de fumar e possui cores claras que remetem ao ouro. O fumo Virginia é livre de processos químicos, 100% natural, e mantém sabor e cheiro da própria folha. A embalagem amarela, além de representar fielmente a cor do tabaco, possui três camadas de materiais que melhora a conservação, protegendo contra perdas de umidade e conservando seu sabor. Por ser um produto natural, é importante que o Golden Virginia seja mantido longe do sol, em local fresco, por até 12 meses.",
+            "price": 3000,
+            "image_url": "https://i.imgur.com/eErPfK4.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "tesoura-abdz-x-pink-hash-round",
+            "label": "Tesoura ABDZ Hash Round - X-Pink",
+            "description": "Medidas:\r\nComprimento: 9,0 cm\r\nLargura: 4,8 cm\r\nPonta: 2,7 cm",
+            "price": 3000,
+            "image_url": "https://i.imgur.com/317Gcqh.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "tesoura-abdz--round-metal-rose",
+            "label": "Tesoura ABDZ Dobrável Round Metal - Rosê",
+            "description": "Medidas:\r\nComprimento: 11,5 cm\r\nLargura: 6,0 cm\r\nPonta: 3,5 cm",
+            "price": 2500,
+            "image_url": "https://i.imgur.com/ixLibkY.png",
             "in_stock": true,
             "is_highlight": false
         }
