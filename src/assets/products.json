@@ -2529,7 +2529,7 @@
             "description": "CONSULTAR MODELOS DISPONÍVEIS: Unidade de Isqueiro Clipper, da coleção Caveira Mexicana. Escolher uma das cores da foto",
             "price": 800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/IxPqLAO.png"
         },
         {
