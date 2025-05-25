@@ -2188,21 +2188,35 @@
         },
         {
             "code": "carvao-zomo-caixa-500g",
-            "label": "Caixa 500g Carvão Hexagonal Zomo",
+            "label": "Promoção - Caixa 500g Carvão Hexagonal Zomo",
             "description": "Caixa com 500g de Carvão Zomo Hexagonal",
             "price": 2000,
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/rAQImr6.png"
+            "is_highlight": true,
+            "in_stock": true,
+            "image_url": "https://i.imgur.com/rAQImr6.png",
+            "discount": {
+                "discount": 400,
+                "period": {
+                    "start": "2025-05-25T00:00:00",
+                    "end": "2026-05-25T00:00:00"
+                }
+            }
         },
         {
             "code": "carvao-zomo-caixa-1kg",
-            "label": "Caixa 1kg Carvão Hexagonal Zomo",
+            "label": "Promoção - Caixa 1kg Carvão Hexagonal Zomo",
             "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
             "price": 4500,
-            "is_highlight": false,
+            "is_highlight": true,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/7qzN2L8.png"
+            "image_url": "https://i.imgur.com/7qzN2L8.png",
+            "discount": {
+                "discount": 1500,
+                "period": {
+                    "start": "2025-05-25T00:00:00",
+                    "end": "2026-05-25T00:00:00"
+                }
+            }
         },
         {
             "code": "carvao-zomo-caixa-2kg",

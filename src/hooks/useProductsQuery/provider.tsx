@@ -33,42 +33,32 @@ function instantiateDateWithTimezone(
 function parseProduct(
     item: TawbacariaApp.ItemJsonData,
     category: string,
-    categoryInfo: TawbacariaApp.CategoryJsonData | undefined,
+    categoryInfo: TawbacariaApp.CategoryJsonData | undefined
 ): TawbacariaApp.ProductItem {
     const price = item.price ?? categoryInfo?.price;
-    if (price == null) throw new Error('Produto sem preço definido: ' + item.code);
+    if (price == null)
+        throw new Error('Produto sem preço definido: ' + item.code);
     const data: TawbacariaApp.ProductItem = {
         ...item,
-        price : item.price ?? categoryInfo?.price ?? 0,
+        price: item.price ?? categoryInfo?.price ?? 0,
         category,
         availability_period: undefined,
         discount: undefined,
     };
-    const availability = item.availability_period ?? categoryInfo?.availability_period;
+    const availability =
+        item.availability_period ?? categoryInfo?.availability_period;
     if (availability)
         data['availability_period'] = {
-            start: instantiateDateWithTimezone(
-                availability.start,
-                item
-            ),
-            end: instantiateDateWithTimezone(
-                availability.end,
-                item
-            ),
+            start: instantiateDateWithTimezone(availability.start, item),
+            end: instantiateDateWithTimezone(availability.end, item),
         };
     const discount = item.discount ?? categoryInfo?.discount;
     if (discount)
         data['discount'] = {
             discount: discount.discount,
             period: {
-                start: instantiateDateWithTimezone(
-                    discount.period.start,
-                    item
-                ),
-                end: instantiateDateWithTimezone(
-                    discount.period.end,
-                    item
-                ),
+                start: instantiateDateWithTimezone(discount.period.start, item),
+                end: instantiateDateWithTimezone(discount.period.end, item),
             },
         };
     return data;
@@ -86,7 +76,9 @@ Object.entries(productsData).forEach(([key, value]) => {
                 ? -1
                 : 0
         )
-        .map((item) => normalizedItems.push(parseProduct(item, key, categoryInfo)));
+        .map((item) =>
+            normalizedItems.push(parseProduct(item, key, categoryInfo))
+        );
 });
 
 const ProductsQueryProvider: React.FC<React.PropsWithChildren> = ({
@@ -96,6 +88,7 @@ const ProductsQueryProvider: React.FC<React.PropsWithChildren> = ({
 
     const [products] = useState(() => {
         return normalizedItems
+            .sort((i) => (i.is_highlight ? -1 : 0))
             .filter((i) => {
                 if (
                     i.availability_period &&
