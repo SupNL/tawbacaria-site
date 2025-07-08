@@ -85,7 +85,7 @@
             "code": "dichavador-papelito-neon",
             "label": "Dichavador Papelito Neon",
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
-            "price": 2000,
+            "price": 2200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/G8ZQvIw.png"
@@ -94,7 +94,7 @@
             "code": "dichavador-papelito-colors",
             "label": "Dichavador Papelito Colors",
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
-            "price": 2000,
+            "price": 2200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/fz9g8Qd.png"
@@ -103,7 +103,7 @@
             "code": "dichavador-papelito-brilho",
             "label": "Dichavador Papelito Brilho",
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
-            "price": 2000,
+            "price": 2200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/QLua3qK.png"
@@ -112,16 +112,25 @@
             "code": "dichavador-papelito-tradicional",
             "label": "Dichavador Papelito Tradicional",
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
-            "price": 2000,
+            "price": 2200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/CaKgzrl.png"
         },
         {
+            "code": "papelito-dichavador-cristal",
+            "label": "Dichavador Papelito Cristal",
+            "description": "Triturador com container, feita de Policarbonato. Atóxico, ultra resistente e de design exclusivo",
+            "price": 2200,
+            "is_highlight": false,
+            "in_stock": false,
+            "image_url": "https://i.imgur.com/9pR4SHY.png"
+        },
+        {
             "code": "papelito-piteira-tradicional",
             "label": "Piteira Papeplito Tradicional",
             "description": "Feitas em papel maleável, perfurado e biodegradável, nossas piteiras ajudam a resfriar a fumaça e reduzir danos. Cada livreto contém 36 piteiras. Dimensões: 55 mm x 25 mm",
-            "price": 400,
+            "price": 500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/8yhCJKN.png"
@@ -130,7 +139,7 @@
             "code": "papelito-piteira-slim",
             "label": "Piteira Papelito Slim",
             "description": "Feitas em papel maleável, perfurado e biodegradável, nossas piteiras ajudam a resfriar a fumaça e reduzir danos. Cada livreto contém 36 piteiras. Dimensões: 55 mm x 20 mm",
-            "price": 400,
+            "price": 500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/2THRXE3.png"
@@ -226,15 +235,6 @@
             "image_url": "https://i.imgur.com/CEheX2W.png"
         },
         {
-            "code": "papelito-dichavador-cristal",
-            "label": "Dichavador Papelito Cristal",
-            "description": "Triturador com container, feita de Policarbonato. Atóxico, ultra resistente e de design exclusivo",
-            "price": 2000,
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/9pR4SHY.png"
-        },
-        {
             "code": "papelito-tubelitos",
             "label": "Tubelitos Papelito",
             "description": "ESCOLHER DAS 3 OPÇÕES DE COR (Amarelo, verde escuro e preto). Resistente a altas temperaturas. À prova d’água. Vedação completa",
@@ -319,7 +319,7 @@
             "code": "piteira-large-duelo-mcs",
             "label": "Piteira Papelito Large Duelo de MCS",
             "description": "Piteira Papelito Large Duelo de MCS é a escolha perfeita para os amantes do rap e da cultura MC, produzida com todo o cuidado no Brasil.36 piteiras com medidas de 5,5 x 4 cm, essa piteira valoriza a autenticidade dos MCs, oferecendo um suporte ideal para suas rimas e estilos. Feitas com papel vergê 100% celulose, as piteiras são livres de tinta e biodegradáveis.",
-            "price": 500,
+            "price": 600,
             "image_url": "https://i.imgur.com/fXqO28t.png",
             "in_stock": true,
             "is_highlight": false
@@ -2703,7 +2703,7 @@
             "code": "7897414100197",
             "label": "Fumo Juriti 30g",
             "description": "30g de fumo de corda já desfiado e pronto para ser enrolado",
-            "price": 500,
+            "price": 600,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/ABxXf7V.png"
@@ -2721,7 +2721,7 @@
             "code": "78938380",
             "label": "Cigarro Chesterfield Remix Wild",
             "description": "Maço com 20 unidades de cigarro, sabor Uva",
-            "price": 1000,
+            "price": 1050,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/9hajKrs.png"
@@ -2730,7 +2730,7 @@
             "code": "78942660",
             "label": "Cigarro Chesterfield Remix Beats",
             "description": "Maço com 20 unidades de cigarro, sabor Melancia",
-            "price": 1000,
+            "price": 1050,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/9iHD6Lp.png"
@@ -2739,10 +2739,19 @@
             "code": "78945555",
             "label": "Cigarro Chesterfield Remix Blossom",
             "description": "Maço com 20 unidades de cigarro, sabor Chiclete",
-            "price": 1000,
+            "price": 1050,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/s8k9B3J.png"
+        },
+        {
+            "code": "chesterfield-remix-fresh",
+            "label": "Chesterfield Remix Fresh & Mint",
+            "description": "Maço com 20 unidades de cigarro, sabor Menta",
+            "price": 1050,
+            "image_url": "https://i.imgur.com/u3mPV6V.png",
+            "in_stock": true,
+            "is_highlight": false
         },
         {
             "code": "7897963400281",
@@ -2850,15 +2859,6 @@
             "price": 1200,
             "image_url": "https://i.imgur.com/grSAzKX.png",
             "in_stock": false,
-            "is_highlight": false
-        },
-        {
-            "code": "chesterfield-remix-fresh",
-            "label": "Chesterfield Remix Fresh & Mint",
-            "description": "Maço com 20 unidades de cigarro, sabor Menta",
-            "price": 1050,
-            "image_url": "https://i.imgur.com/u3mPV6V.png",
-            "in_stock": true,
             "is_highlight": false
         },
         {
@@ -3616,7 +3616,7 @@
             "code": "02010302",
             "label": "Piteira Bem Bolado Brown Large",
             "description": "Unidade de pacote com 32 Piteiras Bem Bolado Brown Large, tamanho 6cm x 2,5cm, fabricado de forma mais natural, sem clareamento e livre de componentes químicos",
-            "price": 400,
+            "price": 500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/6kJ4t4W.png"
@@ -3769,7 +3769,7 @@
             "code": "742832800082",
             "label": "Dichavador Bem Bolado",
             "description": "Dichavador de Policarbonato Bem Bolado, com 4cm de diâmetro. Possui três compartimentos",
-            "price": 1500,
+            "price": 1700,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Kb7Liy0.png"
