@@ -2896,6 +2896,15 @@
             "image_url": "https://i.imgur.com/02mi70W.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "caixa-palheiro-pitti-menta",
+            "label": "Palheiro Pitti Menta 20 Unidades",
+            "description": "Caixa com 20 unidades de Palheiro Pitti, sabor Menta ",
+            "price": 1800,
+            "image_url": "https://i.imgur.com/oFv9jK6.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Juices e Nic Salts": [
