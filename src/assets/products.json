@@ -42,7 +42,7 @@
             "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Tropical Slim",
             "price": 400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/NRbIPAk.png"
         },
         {
@@ -195,7 +195,7 @@
             "description": "Os papéis para enrolar, ou sedas, da Papelito têm marca d’água exclusiva e são de baixa gramatura, com queima lenta e goma arábica natural. O usuário tem a garantia de redução de danos , com menos fumaça e sem gosto residual. Todas as linhas vêm com o selo FSC, que comprova matéria prima de qualidade. Cada livreto contém 36 folhas. Dimensões: 108 x 36 mm",
             "price": 400,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/naV84c5.png"
         },
         {
@@ -222,7 +222,7 @@
             "description": "Feita do que há de melhor. 100% cânhamo. Esse papel é uma verdadeira experiência. Feito a partir de fibras de cânhamo, tem baixa gramatura e possui uma cor única.) Cada livreto contém 36 folhas. Dimensões: 108 x 44 mm",
             "price": 400,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/cwwwMcj.png"
         },
         {
@@ -276,7 +276,7 @@
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/3KgTQMq.png"
         },
         {
@@ -285,7 +285,7 @@
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/UpmAqxg.png"
         },
         {
@@ -312,7 +312,7 @@
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/IUP6Ns1.png"
         },
         {
@@ -393,6 +393,51 @@
             "description": "Unidade de pacote com 120 filtros de 6mm x 22mm.",
             "price": 1200,
             "image_url": "https://i.imgur.com/zKzDqXr.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "bandeja-papelito-metal-ouro",
+            "label": "Bandeja Papelito De Metal Ouro",
+            "description": "Características do produto:\r\n- Marca: Papelito\r\n- Dimensões: 27 x 16 x 2 cm \r\n- Material: Metal\r\n- Modelo: Ouro Metalizado",
+            "price": 7000,
+            "image_url": "https://i.imgur.com/e1ULqTO.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "bandeja-papelito-metal-onca",
+            "label": "Bandeja Papelito De Metal Onça",
+            "description": "Características do produto:\r\n- Marca: Papelito\r\n- Dimensões: 27 x 16 x 2 cm \r\n- Material: Metal\r\n- Modelo: Ouro Metalizado",
+            "price": 6000,
+            "image_url": "https://i.imgur.com/ps6bbO3.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "bandeja-papelito-metal-fauna-flora-laranja",
+            "label": "Bandeja Papelito De Metal Fauna e Flora Laranja",
+            "description": "Características do produto:\r\n- Marca: Papelito\r\n- Dimensões: 27 x 16 x 2 cm \r\n- Material: Metal\r\n",
+            "price": 6000,
+            "image_url": "https://i.imgur.com/8nK8add.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "bandeja-papelito-metal-orbita",
+            "label": "Bandeja Papelito De Metal Órbita",
+            "description": "Características do produto:\r\n- Marca: Papelito\r\n- Dimensões: 27 x 16 x 2 cm \r\n- Material: Metal\r\n",
+            "price": 6000,
+            "image_url": "https://i.imgur.com/Ov1uDtr.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "filtro-papelito-biodegradavel-longo",
+            "label": "Filtro Papelito Biodegradável Longo ",
+            "description": "\r\nComprimento: 2.2 cm.\r\nDiâmetro: 6 mm.\r\nBio Longo é um filtro biodegradável para cigarros.\r\nEmbalagem contém 120 unidades.\r\nSabor neutro para não alterar o gosto do tabaco.",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/fY8YZf6.png",
             "in_stock": true,
             "is_highlight": false
         }
@@ -597,7 +642,7 @@
             "label": "Ziggy Red Lemonade (Sakamoto)",
             "description": "50g de Essência Ziggy para Narguile, sabor Limão com Frutas vermelhas",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/fVO2fwL.png"
         },
         {
@@ -679,6 +724,15 @@
             "description": "50g de Essência Ziggy para narguilé, sabor frutas verdes (pera, kiwi, uva verde e um toque de menta)",
             "price": 1200,
             "image_url": "https://i.imgur.com/HJSsYb1.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "ziggy-corn-magic",
+            "label": "Ziggy Corn Magic 🌽 ",
+            "description": "50g de essência Ziggy, sabor milho-verde.",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/RaT3em3.png",
             "in_stock": true,
             "is_highlight": false
         }
@@ -1123,7 +1177,7 @@
             "label": "Adalya Banana Milk 🍌🥛",
             "description": "50g de Essência Adalya para Narguile, sabor Creme de Banana 🍌",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/JO4gHXo.png"
         },
         {
@@ -1131,7 +1185,7 @@
             "label": "Adalya Blue Melon 🍈💙",
             "description": "50g de Essência Adalya para Narguile, sabor Blueberry (Mirtilo) com Melão 🫐🍈",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/5AEsDpN.png"
         },
         {
@@ -1163,7 +1217,7 @@
             "label": "Adalya Hawaii",
             "description": "50g de Essência Adalya para Narguile, sabor Manga, Abacaxi e Menta 🍍🥭🌿",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ROwpzEg.png"
         },
         {
@@ -1317,7 +1371,7 @@
             "label": "Magic Space Lemon Mint 🍋 (Limão e Menta)",
             "description": "50g de Essência Magic para Narguile, sabor Limão com Menta 🍋🌿",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/VC4AYo4.png"
         },
         {
@@ -1449,7 +1503,7 @@
             "label": "Nay Limão Goiaba",
             "description": "50g de Essência Nay, delicie-se com a combinação vibrante do sabor cítrico do limão com o toque suave e doce da goiaba. Uma experiência de sabor totalmente única!",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/YIqobHu.png"
         },
         {
@@ -1602,7 +1656,7 @@
             "description": "50g de Essência NAY para narguilé, sabor cereja",
             "price": 1000,
             "image_url": "https://i.imgur.com/Z92zd6o.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -1611,7 +1665,7 @@
             "description": "50g de Essência Nay para narguilé, sabor manga e banana.",
             "price": 1000,
             "image_url": "https://i.imgur.com/PNC8bnJ.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -1873,7 +1927,7 @@
             "label": "Smyrna Melancia Kiwi 🍉🥝",
             "description": "50g de Essência Smyrna, a Smyrna Melancia Kiwi traz o sabor das frutas do Kiwi e Melancia juntas, proporcionando um mix perfeito e muito saboroso. A essência une o doce e cítrico, sendo ideal para fumar em qualquer época do ano",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/wUabzXR.png"
         },
         {
@@ -1953,7 +2007,7 @@
             "label": "Smyrna Manga Morango 🥭🍓",
             "description": "50g de Essência Smyrna, sabor Manga com Morango",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/WDaG7Jy.png"
         },
         {
@@ -1961,7 +2015,7 @@
             "label": "Smyrna Hefesto - Linha dos Deuses",
             "description": "50g de Essência Smyrna, a Smyrna Hefesto traz o puro sabor do Maracujá. Um sabor cítrico digno dos deuses que tomará conta da sua sessão",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/z0EUCZi.png"
         },
         {
@@ -2032,6 +2086,15 @@
             "image_url": "https://i.imgur.com/fMioDi5.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "smyrna-uva-menta",
+            "label": "Smyrna Uva Menta",
+            "description": "50g de essência Smyrna, sabor uva com menta",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/0pkyJTm.jpeg",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Fusion": [
@@ -2079,6 +2142,15 @@
             "image_url": "https://i.imgur.com/UMRUHsE.jpeg",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "fusion-vision",
+            "label": "Fusion Vision Cola e Limão🥤🍋‍🟩 ",
+            "description": "50g de essência Fusion, sabor cola e limão",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/3ddWE2f.jpeg",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Ervas para Tereré": [
@@ -2087,7 +2159,7 @@
             "label": "Chacal Erva-Mate Menta Limão Rosa",
             "description": "50g de Essência Chacal Erva-Mate Menta Limão Rosa",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/YhWQ4Ku.png"
         },
         {
@@ -2103,7 +2175,7 @@
             "label": "Chacal Erva-Mate Limão",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/TCQWUSR.png"
         },
         {
@@ -2183,7 +2255,7 @@
             "label": "Chacal Erva-Mate Menta Limão",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão e menta",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/WjlTPjR.png"
         },
         {
@@ -2191,7 +2263,7 @@
             "label": "Chacal Erva-Mate Cereja",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com cereja",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/OH94QKl.png"
         },
         {
@@ -2291,7 +2363,7 @@
             "description": "1 Pacote com 9 unidades de Carvão Rainbow Hexagonal",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/RhB0aWG.png"
         },
         {
@@ -2327,7 +2399,7 @@
             "description": "Caixa com 1kg de Carvão Rainbow Hexagonal",
             "price": 4500,
             "image_url": "https://i.imgur.com/TtZY0fe.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -2392,7 +2464,7 @@
             "description": "Caixa com 50 unidades de folha de papel alumínio Brasuka",
             "price": 1300,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ujwZ2gj.png"
         },
         {
@@ -2601,7 +2673,7 @@
             "description": "Unidade de Isqueiro Bic Maxi",
             "price": 600,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/PYg6QDY.png"
         },
         {
@@ -2891,6 +2963,15 @@
             "image_url": "https://i.imgur.com/oFv9jK6.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "clipper-palm-beach",
+            "label": "Isqueiro Clipper - Palm Beach",
+            "description": "1 unidade de isqueiro clipper recarregável da coleção Palm Beach",
+            "price": 800,
+            "image_url": "https://i.imgur.com/xpcd9LY.jpeg",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Juices e Nic Salts": [
@@ -2999,7 +3080,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Menta 🌿",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/uZQ7zz0.png"
         },
         {
@@ -3107,7 +3188,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Tutti-Frutti 🍬",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Czenl48.png"
         },
         {
@@ -3125,7 +3206,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/NkhOxWb.png"
         },
         {
