@@ -950,7 +950,6 @@
             "code": "zomo-max-blueberry",
             "label": "Zomo Max Blueberry",
             "description": "50g de Essência Zomo sabor Blueberry. Mais conhecido no Brasil como Mirtilo, um sabor frutado, com muita intensidade e duração MAX. Um sabor que traz o docinho da fruta e ao mesmo tempo tem um toque de refrescância super equilibrada ",
-            "price": 900,
             "image_url": "https://i.imgur.com/RqW5LRY.png",
             "in_stock": true,
             "is_highlight": false
@@ -959,7 +958,6 @@
             "code": "zomo-guava-crush",
             "label": "Zomo Guava Crush",
             "description": "50g de Essência Zomo para Narguile. Sabor Goiaba com Kiwi.",
-            "price": 900,
             "image_url": "https://i.imgur.com/GVNRctC.png",
             "in_stock": true,
             "is_highlight": false
@@ -968,7 +966,6 @@
             "code": "zomo-max-uva",
             "label": "Zomo Max Uva",
             "description": "50g de Essência Zomo para Narguile. Sabor Uva.",
-            "price": 900,
             "image_url": "https://i.imgur.com/nNcs0Xl.png",
             "in_stock": true,
             "is_highlight": false
