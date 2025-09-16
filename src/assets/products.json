@@ -2634,7 +2634,7 @@
             "description": "Caixa com 10 unidades de palheiro JC, sabor Menta 🌿",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/YLarUJx.png"
         },
         {
@@ -3457,7 +3457,7 @@
             "description": "CONSULTAR CORES DISPONÍVEIS - Container de silicone da marca Tokahauú, capacidade de armazenamento de 7,5ml",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/PaZrv8V.png"
         },
         {
@@ -4539,6 +4539,33 @@
             "image_url": "https://i.imgur.com/pbYbYhv.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "piteira-tonabe-double-cotton",
+            "label": "Piteira Tonabê Double Cotton",
+            "description": "Produzida com papel de celulose e 100% algodão, entrega resistência incomparável e preserva o sabor original da sua sessão.\r\nO diferencial está no modelo Double, que traz folhas duplas elaboradas para proporcionar um filtro mais estruturado e extremamente confiável. Essa característica dá mais firmeza na hora de bolar, evitando deformações e deixando o resultado uniforme e bem-acabado. A experiência se torna mais equilibrada, com tragadas suaves, estáveis e prazerosas. Cada livreto contém 50 folhas (cada folha rende quatro partes, totalizando 200 unidades)\r\n",
+            "price": 800,
+            "image_url": "https://i.imgur.com/SWSn3JX.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "seda-de-vidro-eai-bateu-8",
+            "label": "Seda de Vidro 8,5cm",
+            "description": "DESCRIÇÃO\r\nSeda de Vidro da marca Eai bateu? \r\nESPECIFICAÇÕES\r\nTamanho: 8,5cm",
+            "price": 2000,
+            "image_url": "https://i.imgur.com/EbwLvou.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "dichavador-metal-yin-yang",
+            "label": "Dichavador de Metal Grande Yin & Yang",
+            "description": "Dichavador de Metal Grande Yin & Yang, contém 3 partes",
+            "price": 5000,
+            "image_url": "https://i.imgur.com/UqrahHS.jpeg",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Acessórios": [
@@ -5043,7 +5070,7 @@
             "description": "Unidade de Pegador de Carvão de 25cm da Invictus",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/pEbnkb8.png"
         },
         {
@@ -5394,7 +5421,7 @@
             "description": "Unidade de Garfo com Furador",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/xnR8Iak.png"
         },
         {
@@ -5502,7 +5529,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração roxa",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/9BP48El.png"
         },
         {
@@ -5988,6 +6015,15 @@
             "description": "Unidade de Rosh Basic Bowl Branco",
             "price": 2000,
             "image_url": "https://i.imgur.com/Hzzg9rZ.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "vaso-sky-glass-roxo-escuro",
+            "label": "Vaso Glass Sky Roxo Escuro",
+            "description": "Vaso Glass Sky Roxo Escuro 14cm",
+            "price": 4000,
+            "image_url": "https://i.imgur.com/0GTGX8h.png",
             "in_stock": true,
             "is_highlight": false
         }
