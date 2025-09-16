@@ -2394,7 +2394,7 @@
             "code": "carvao-dcoco-caixa-250g",
             "label": "Caixa 250g Carvão Hexagonal D'Coco",
             "description": "Caixa com 250g de Carvão D'coco Hexagonal",
-            "price": 1000,
+            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/OAYGvxG.png"
@@ -2403,7 +2403,7 @@
             "code": "carvao-dcoco-caixa-500g",
             "label": "Caixa 500g Carvão Hexagonal D'Coco",
             "description": "Caixa com 500g de Carvão D'coco Hexagonal",
-            "price": 2250,
+            "price": 2500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/bmJc50H.jpeg"
@@ -3378,12 +3378,12 @@
             "is_highlight": false
         },
         {
-            "code": "juice-zomo-iceburst-blueberry-ice ",
+            "code": "juice-zomo-iceburst-blueberry-ice",
             "label": "Juice Zomo (Nic 3mg) 60ml Iceburst Blueberry Ice 🫐🧊 ",
             "description": "1 Unidade de Juice Zomo Blueberry Ice (60ml com 3mg de nicotina) com um frasco adicional de Zomo Iceburst (5ml) para dar aquele plus no seu liquido e ficar ainda mais gelado! ",
             "price": 6000,
             "image_url": "https://i.imgur.com/nYg7U9p.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         }
     ],
@@ -3527,7 +3527,7 @@
             "code": "78425590",
             "label": "Seda Zomo Slim Alfafa",
             "description": "Unidade de pacote com 33 folhas de Papel de Seda Zomo Slim Alfafa na cor verde",
-            "price": 500,
+            "price": 600,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/fQk1RyS.png"
@@ -3770,7 +3770,7 @@
             "code": "piteira-vidro-longa-70",
             "label": "Piteira de Vidro Longa",
             "description": "Unidade de Piteira de Vidro Longa, 7cm de comprimento",
-            "price": 1200,
+            "price": 1500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/WLjfnly.png"
