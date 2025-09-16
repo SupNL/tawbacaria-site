@@ -5936,6 +5936,60 @@
             "image_url": "https://i.imgur.com/Wdm6VvB.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "rosh-rr-preto-perolado",
+            "label": "Rosh RR Preto Perolado",
+            "description": "Unidade de Rosh RR Preto Perolado",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/hMec5Ov.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-rr-cuba-vermelho",
+            "label": "Rosh RR Cuba Vermelho Perolado",
+            "description": "Unidade de Rosh RR Cuba Vermelho Perolado",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/Fj9J6lC.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-rr-cuba-azul-perolado",
+            "label": "Rosh RR Cuba Azul Perolado",
+            "description": "Unidade de Rosh RR Cuba Azul Perolado",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/M9rSWP1.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-basic-preto-fosco",
+            "label": "Rosh Basic Bowl Preto Fosco",
+            "description": "Unidade de Rosh Basic Bowl Preto Fosco",
+            "price": 2000,
+            "image_url": "https://i.imgur.com/hr8msIg.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-basic-preto-brilhante",
+            "label": "Rosh Basic Bowl Preto Brilhante",
+            "description": "Unidade de Rosh Basic Bowl Preto Brilhante",
+            "price": 2000,
+            "image_url": "https://i.imgur.com/4ETGDdm.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-basic-branco",
+            "label": "Rosh Basic Bowl Branco",
+            "description": "Unidade de Rosh Basic Bowl Branco",
+            "price": 2000,
+            "image_url": "https://i.imgur.com/Hzzg9rZ.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Bebidas": [
