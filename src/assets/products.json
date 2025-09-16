@@ -51,7 +51,7 @@
             "description": "Piteira Mega Longa do Papelito, contém 30 blocos com 72 piteiras, tamanho 5,5x4cm",
             "price": 800,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/SU9Swjv.jpg"
         },
         {
@@ -440,6 +440,15 @@
             "image_url": "https://i.imgur.com/fY8YZf6.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "safe-screen-narguile",
+            "label": "Safe Screen (Telinha pra Rosh)",
+            "description": "A tela ajuda a evitar o contato direto do carvão com o papel alumínio, o que permite uma distribuição de calor mais equilibrada e evita que o fumo queime. ",
+            "price": 2000,
+            "image_url": "https://i.imgur.com/apHYu9U.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Luky": [
@@ -456,7 +465,7 @@
             "label": "Luky Ice Mint 🥶",
             "description": "55g de essência Luky, feito com tabaco premium, sabor menta e hortelã",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/RfxzfPA.png"
         },
         {
@@ -554,7 +563,7 @@
             "label": "Ziggy Caju Tropical",
             "description": "50g de Essência Ziggy para Narguile, sabor Caju",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/vYLARw7.png"
         },
         {
@@ -927,7 +936,7 @@
             "label": "Zomo Menthol - Linha Strong Drops",
             "description": "50g de Essência Zomo para Narguile. Strong Drops Menthol é para quem curte uma experiência intensa e refrescante, essa essência é uma explosão de frescor a qualquer momento do dia. Uma combinação desenvolvida com o máximo do menthol e que deixa qualquer esquentadinho numa fria.",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Rd8jXMq.png"
         },
         {
@@ -1113,7 +1122,7 @@
             "label": "Onix Goiaba e Morango 🍓",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Goiaba e Morango 🍓",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/TAp0pEz.png"
         },
         {
@@ -1139,6 +1148,15 @@
             "description": "50g de essência para narguilé Onix, sabor sorvete de milho verde.",
             "price": 1000,
             "image_url": "https://i.imgur.com/wFLtMdU.jpeg",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "onix-banana",
+            "label": "Onix Banana 🍌",
+            "description": "50g de Essência Onix Experience para Narguile, sabor Banana 🍌",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/rEnfxbo.png",
             "in_stock": true,
             "is_highlight": false
         }
@@ -1294,7 +1312,7 @@
             "label": "Adalya Caipirinha Brazil 🍸",
             "description": "50g de Essência Adalya para Narguile, sabor Limão Verde Refrescante",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/9pkFppO.png"
         },
         {
@@ -1310,7 +1328,7 @@
             "label": "Adalya Exagelado",
             "description": "50g de Essência Adalya para Narguile, sabor Framboesa, Limão e Menta 🍋🌿",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Oa0j74o.png"
         },
         {
@@ -1384,7 +1402,7 @@
             "label": "Magic Space Purple Passion 💜 (Maracujá Roxo)",
             "description": "50g de Essência Magic para Narguile, sabor Maracujá",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6wexqrM.png"
         },
         {
@@ -1516,7 +1534,7 @@
             "label": "Nay Bubble Blend (Bubbaloo) 🍬",
             "description": "50g de Essência Nay, sabor Bubbaloo Tutti-Frutti 🍬",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/BFch9mK.png"
         },
         {
@@ -1604,7 +1622,7 @@
             "label": "Nay Fresh Watermelon 🍉",
             "description": "50g de Essência Nay, sabor Melancia 🍉",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/mffykI8.png"
         },
         {
@@ -1671,6 +1689,15 @@
             "description": "50g de Essência Nay para narguilé, sabor framboesa e uva.",
             "price": 1000,
             "image_url": "https://i.imgur.com/fj0ZRdr.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "nay-banana-melon",
+            "label": "Nay Banana Melon",
+            "description": "50g de Essência Nay, sabor Banana e Melão",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/NJY15Vd.png",
             "in_stock": true,
             "is_highlight": false
         }
@@ -1749,7 +1776,7 @@
             "label": "Ignite Banana Ice 🍌🧊",
             "description": "50g de Essência Ignite, sabor Banana 🍌",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ZC4sVmH.png"
         },
         {
@@ -1916,7 +1943,7 @@
             "description": "50g de Essência Smyrna, a Smyrna True Love, aquele sabor mega conhecido do mix de melancia com melão que todo mundo ama",
             "is_highlight": false,
             "price": 1400,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/iwtm4En.png"
         },
         {
@@ -2244,7 +2271,7 @@
             "label": "Chacal Erva-Mate Menta Forte",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com menta extra",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/0pPhl6B.png"
         },
         {
@@ -2268,7 +2295,7 @@
             "label": "Chacal Erva-Mate Menta Xtreme 🥶",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com um intenso sabor de menta",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/gFb8TIP.png"
         },
         {
@@ -2315,7 +2342,7 @@
             "description": "Caixa com 500g de Carvão Zomo Hexagonal",
             "price": 2000,
             "is_highlight": true,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/rAQImr6.png"
         },
         {
@@ -2324,7 +2351,7 @@
             "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
             "price": 4000,
             "is_highlight": true,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/7qzN2L8.png"
         },
         {
@@ -2369,7 +2396,7 @@
             "description": "Caixa com 250g de Carvão D'coco Hexagonal",
             "price": 1000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/OAYGvxG.png"
         },
         {
@@ -2405,7 +2432,7 @@
             "description": "Caixa com 500g de Carvão Arco Fire Hexagonal",
             "price": 1400,
             "image_url": "https://i.imgur.com/wFM8C9j.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         }
     ],
@@ -2425,7 +2452,7 @@
             "description": "Caixa com 50 unidades de folha de alto relevo de papel alumínio Stan Special Foil",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/INy6GHj.png"
         },
         {
@@ -2733,7 +2760,7 @@
             "description": "O Tabaco Dublin traz toda o frescor do Hortelã para seu cigarro de enrolar. Para quem gosta de refrescância, com certeza vai adorar a experiência do Tabaco Dublin ice mint.",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Iitgfuc.png"
         },
         {
@@ -2958,7 +2985,7 @@
             "description": "Caixa com 20 unidades de Palheiro Pitti, sabor Menta ",
             "price": 1800,
             "image_url": "https://i.imgur.com/oFv9jK6.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -3185,7 +3212,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Tutti-Frutti 🍬",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Czenl48.png"
         },
         {
@@ -3203,7 +3230,7 @@
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Melancia 🍉",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/NkhOxWb.png"
         },
         {
@@ -3230,7 +3257,7 @@
             "description": "30ml de NicSalt Crazy Clouds para pod (com 35mg de nicotina), sabor Manga 🥭",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/djHV4Mp.png"
         },
         {
@@ -3412,7 +3439,7 @@
             "description": "CONSULTAR CORES DISPONÍVEIS - O Slick triangulo é ideal para transportar sua crema com seu aspecto e aroma original, sem perder nada e sem explanar. É produzido com silicone de alta qualidade com cura de platina, material que evita que qualquer textura grude em sua superfície além de não alterar o sabor de sua especiaria. Tamanho 5x2cm",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ypS1kPD.png"
         },
         {
@@ -3439,7 +3466,7 @@
             "description": "Os tubos plásticos Kunk são a solução para armazenar e transportar com segurança. Feitos de plástico resistente, garantem bom fechamento e facilidade na limpeza. Compactos e duráveis, eles são a escolha certa para quem valoriza praticidade e proteção. Tamanho: 12x7cm",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/KC33ogv.png"
         },
         {
@@ -3619,7 +3646,7 @@
             "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 10ml MEDIDAS: 4x2cm",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/7rcV0Lj.png"
         },
         {
@@ -3628,7 +3655,7 @@
             "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 7ml MEDIDAS: 3,5x2cm",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/jMpH06P.png"
         },
         {
@@ -3637,7 +3664,7 @@
             "description": "CONSULTAR CORES DISPONÍVEIS Container de silicone redondo, resistente á altas temperaturas, ideal para armazenamento e manuseio de extrações, não passa odor, lavável, material que evita que qualquer textura grude em sua superfície e não altera o sabor da sua creme, capacidade de armazenamento 5ml MEDIDAS: 3x2cm",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/mXvocJr.png"
         },
         {
@@ -3709,7 +3736,7 @@
             "description": "Unidade de pacote com 50 Piteiras Bem Bolado Super Large 6cm x 4cm, papel branco",
             "price": 800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/iZlnVE9.png"
         },
         {
@@ -3745,7 +3772,7 @@
             "description": "Unidade de Piteira de Vidro Longa, 7cm de comprimento",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/WLjfnly.png"
         },
         {
@@ -3889,7 +3916,7 @@
             "description": "Dichavador de Bob Marley de metal, contém 3 partes, medindo 5x3cm",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/9ZzhqQU.png"
         },
         {
@@ -3916,7 +3943,7 @@
             "description": "Disponível nas cores branco e verde. MEDIDAS 5x3cm",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Xa7Pm5C.png"
         },
         {
@@ -3997,7 +4024,7 @@
             "description": "Material: Metal; Divisórias: 3; Diâmetro: 4cm; Altura: 3,3cm",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/k1CTVBm.png"
         },
         {
@@ -4069,7 +4096,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de morango, tamanho 110mm x 44mm",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/gAPCQMU.png"
         },
         {
@@ -4249,7 +4276,7 @@
             "description": "CONFERIR MODELOS DISPONÍVEIS - 1 unidade de dichavador da marca Tonabê. - Diâmetro: 5,2 cm, Altura: 3 cm, Partes: 3, Material: Plástico ",
             "price": 1500,
             "image_url": "https://i.imgur.com/GO2CL8h.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -4294,7 +4321,7 @@
             "description": "1 unidade de Dichavador Metal Caveira Alto Relevo, contendo 3 partes, medindo 3cm de altura e 5cm de comprimento",
             "price": 5000,
             "image_url": "https://i.imgur.com/qpkzBdx.png",
-            "in_stock": false,
+            "in_stock": true,
             "is_highlight": false
         },
         {
@@ -4366,7 +4393,7 @@
             "description": "Medidas:\r\nComprimento: 11,5 cm\r\nLargura: 6,0 cm\r\nPonta: 3,5 cm",
             "price": 2500,
             "image_url": "https://i.imgur.com/ixLibkY.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -4476,6 +4503,42 @@
             "image_url": "https://i.imgur.com/CXtomKl.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "bolador-lion",
+            "label": "Bolador Grande Lion Circus",
+            "description": "Bolador Lion Circus e The Rolling Stones King Size 110mm - Preto",
+            "price": 2600,
+            "image_url": "https://i.imgur.com/38shM4c.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "tesoura-bud-cutter",
+            "label": "Tesoura Bud Cutter - Yellow Finger (CONFERIR CORES DISPONÍVEIS)",
+            "description": "Tesoura multiuso da consagrada Yellow Finger. Possui lâminas de aço com corte super afiado e molas responsivas que agilizam e facilitam os processos de trituração, trimação e poda. Produto feito de metal esmaltado colorido de alta qualidade com acabamento impecável que não descasca. E, por fim, não perdendo o estilo, a lâmina e o corpo possuem o marcante logo e texto da Yellow Finger.\r\n\r\nDimensões: 11 x 2,5 x 1,1cm.",
+            "price": 1800,
+            "image_url": "https://i.imgur.com/dQ9Stcp.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "slick-sadhu-11",
+            "label": "Slick Sadhu 11ml (CONFERIR CORES DISPONÍVEIS)",
+            "description": "Slick Sadhu 11ml \r\nMaterial Silicone",
+            "price": 2500,
+            "image_url": "https://i.imgur.com/meZpGSo.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "piteira-bem-bolado-hiper",
+            "label": "Piteira Bem Bolado Girls in + Green - Hiper Large",
+            "description": "Piteira de Papel Vergê (Hiper Large) - Bem Bolado Girls in Green\r\nPiteira de papel de umas das mais famosas marcas do mercado nacional, Bem Bolado. Produzido em papel não branqueado (Vergê). Cada livreto possui 50 folhas com dimensões de 6 x 5 cm. ",
+            "price": 800,
+            "image_url": "https://i.imgur.com/pbYbYhv.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Acessórios": [
@@ -4566,7 +4629,7 @@
             "description": "Unidade de Rosh de Cerâmica da Bking",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/gw3HNQU.png"
         },
         {
@@ -4584,7 +4647,7 @@
             "description": "Unidade de Rosh de Barro da Econo",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/5vNXYDj.png"
         },
         {
@@ -4593,7 +4656,7 @@
             "description": "Unidade de Rosh de Barro da Econo",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/5LcybLZ.png"
         },
         {
@@ -4602,7 +4665,7 @@
             "description": "Unidade de Rosh de Barro da Econo",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/pye71pN.png"
         },
         {
@@ -4665,7 +4728,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/qxe1dVM.png"
         },
         {
@@ -4674,7 +4737,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 7000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/GJU3Twp.png"
         },
         {
@@ -4692,7 +4755,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 6000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/0FCLjDU.png"
         },
         {
@@ -4728,7 +4791,7 @@
             "description": "Este modelo Siberian, com 9,5cm de altura e um diâmetro de cuba de 6,5cm, é fabricado em cerâmica de primeira linha, garantindo eficácia na retenção e distribuição de calor. O design é inspirado na robustez e no ambiente inóspito da Sibéria.",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/TaLqOGB.png"
         },
         {
@@ -4773,7 +4836,7 @@
             "description": "Unidade de Rosh Mini de Cerâmica da Pro Hookah",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/LOIMlWm.png"
         },
         {
@@ -4872,7 +4935,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/iQs3J5a.png"
         },
         {
@@ -4917,7 +4980,7 @@
             "description": "Unidade de Pegador de Carvão de 24cm da Brasuka",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/o8zNxuj.png"
         },
         {
@@ -5007,7 +5070,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/suYaCYs.png"
         },
         {
@@ -5070,7 +5133,7 @@
             "description": "Material: Alumínio, Altura 18 cm, Largura 18 cm",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Jsur6Pp.png"
         },
         {
@@ -5241,7 +5304,7 @@
             "description": "Unidade de Fogareiro Pequeno para 220w",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/YjQiRVe.png"
         },
         {
@@ -5340,7 +5403,7 @@
             "description": "Unidade de furador e chaveiro na cor dourado",
             "price": 800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/4CAzPZt.png"
         },
         {
@@ -5349,7 +5412,7 @@
             "description": "Unidade de furador e chaveiro na cor preto",
             "price": 800,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/5DqTyOl.png"
         },
         {
@@ -5376,7 +5439,7 @@
             "description": "Unidade de Chaveiro e Furador Seven na cor preto",
             "price": 1500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/MdsTgtB.png"
         },
         {
@@ -5628,7 +5691,7 @@
             "description": "Mangueira de silicone, com 1,5 metros de comprimento, em coloração Branca",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/kmpWwBW.png"
         },
         {
@@ -5646,7 +5709,7 @@
             "description": "Conduíte para Mangueira da marca Black Hookah, compatível com qualquer piteira, totalmente lavável e higiênico, com aproximadamente 1,50m de comprimento. Material: Plástico Corrugado. Obs: Não é anti-chamas.",
             "price": 600,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/R4DfBul.png"
         },
         {
@@ -5691,7 +5754,7 @@
             "description": "Abafador de alumínio, coloração Preta",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/XFLhc3J.png"
         },
         {
@@ -5700,7 +5763,7 @@
             "description": "Abafador de alumínio, coloração Dourada",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/ytsGuOR.png"
         },
         {
@@ -5745,7 +5808,7 @@
             "description": "Unidade de Rosh Yes M2, na cor branca",
             "price": 2000,
             "image_url": "https://i.imgur.com/0xSMmeR.jpeg",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -5772,7 +5835,7 @@
             "description": "Unidade de Rosh IA Bege Cuba Branca",
             "price": 4000,
             "image_url": "https://i.imgur.com/vhS4gjw.jpeg",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -5799,7 +5862,7 @@
             "description": "Unidade de Rosh RR Azul Perolado",
             "price": 3500,
             "image_url": "https://i.imgur.com/4ZwQ7hw.jpeg",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -5817,7 +5880,7 @@
             "description": "Pegador Invictus Rosa Pink 24cm",
             "price": 2000,
             "image_url": "https://i.imgur.com/t5uHf8t.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
