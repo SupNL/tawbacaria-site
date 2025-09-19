@@ -440,15 +440,6 @@
             "image_url": "https://i.imgur.com/fY8YZf6.png",
             "in_stock": true,
             "is_highlight": false
-        },
-        {
-            "code": "safe-screen-narguile",
-            "label": "Safe Screen (Telinha pra Rosh)",
-            "description": "A tela ajuda a evitar o contato direto do carvão com o papel alumínio, o que permite uma distribuição de calor mais equilibrada e evita que o fumo queime. ",
-            "price": 2000,
-            "image_url": "https://i.imgur.com/apHYu9U.png",
-            "in_stock": true,
-            "is_highlight": false
         }
     ],
     "Essências Luky": [
@@ -3482,7 +3473,7 @@
             "code": "case-tonabe",
             "label": "(CONFERIR MODELOS DISPONÍVEIS) Case To na Bê",
             "description": "CONFERIR MODELOS DISPONÍVEIS - Case para transportar seu kit para todos os rolês, viagens, festas, isso de maneira discreta, pois a case é slim e portátil. - Dimensões: 15x 9,5cm",
-            "price": 6000,
+            "price": 4500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/tdVXzFO.png"
@@ -6024,6 +6015,15 @@
             "description": "Vaso Glass Sky Roxo Escuro 14cm",
             "price": 4000,
             "image_url": "https://i.imgur.com/0GTGX8h.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "safe-screen-narguile",
+            "label": "Safe Screen (Telinha pra Rosh)",
+            "description": "A tela ajuda a evitar o contato direto do carvão com o papel alumínio, o que permite uma distribuição de calor mais equilibrada e evita que o fumo queime. ",
+            "price": 2000,
+            "image_url": "https://i.imgur.com/apHYu9U.png",
             "in_stock": true,
             "is_highlight": false
         }
