@@ -15,6 +15,21 @@ const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
         return fetch(input, { ...init, signal: AbortSignal.timeout(3000) });
     }
 
+    async function getWorldTimeApi() {
+        try {
+            const url =
+                'http://worldtimeapi.org/api/timezone/America/Sao_Paulo';
+            const res = await wrapFetch(url);
+            if (!res.ok) return null;
+            const data = await res.json();
+            const date = new Date(data.datetime);
+            return date;
+        } catch (err) {
+            console.error(err);
+            return null;
+        }
+    }
+
     async function getTimeApiIoDate() {
         try {
             const url =
@@ -46,7 +61,11 @@ const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
     }
 
     async function getCurrentDate() {
-        const apisAttempt = [getTimeApiIoDate(), getTimeDavidAyalasGithubApi()];
+        const apisAttempt = [
+            getWorldTimeApi(),
+            getTimeApiIoDate(),
+            getTimeDavidAyalasGithubApi(),
+        ];
         const results = await Promise.all(apisAttempt);
 
         let validResult: Date | null = results.find((date) => !!date) ?? null;
@@ -55,15 +74,28 @@ const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
     }
 
     useEffect(() => {
-        getCurrentDate()
-            .then((date) => {
-                setDate(date);
-            })
-            .catch((err) => {
-                if (typeof err === 'string') setError(err);
-                else if (err instanceof Error) setError(err.message);
-                else setError('Erro inesperado ao consultar');
-            });
+        const MAX_RETRIES = 3;
+        let retryCount = 0;
+
+        const attemptFetch = () => {
+            console.log(retryCount)
+            getCurrentDate()
+                .then((date) => {
+                    setDate(date);
+                })
+                .catch((err) => {
+                    retryCount++;
+                    if (retryCount < MAX_RETRIES) {
+                        attemptFetch()
+                    } else {
+                        if (typeof err === 'string') setError(err);
+                        else if (err instanceof Error) setError(err.message);
+                        else setError('Erro inesperado ao consultar');
+                    }
+                });
+        };
+
+        attemptFetch();
     }, []);
 
     if (error)
