@@ -60,11 +60,22 @@ const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
         }
     }
 
+    async function getDateFromBrowser() {
+        try {
+            const date = new Date();
+            return date;
+        } catch (err) {
+            console.error(err);
+            return null;
+        }
+    }
+
     async function getCurrentDate() {
         const apisAttempt = [
             getWorldTimeApi(),
             getTimeApiIoDate(),
             getTimeDavidAyalasGithubApi(),
+            getDateFromBrowser(),
         ];
         const results = await Promise.all(apisAttempt);
 
@@ -78,7 +89,6 @@ const CurrentTimeProvider: React.FC<React.PropsWithChildren> = ({
         let retryCount = 0;
 
         const attemptFetch = () => {
-            console.log(retryCount)
             getCurrentDate()
                 .then((date) => {
                     setDate(date);
