@@ -130,20 +130,21 @@ export default function Cart() {
     );
 
     const savedAddress = getAddress();
-    const deliveryFee =
+    const deliveryDistrict =
         savedAddress && savedAddress?.district !== '' && toRetire === 'no'
             ? deliveryFeeData[
                   savedAddress.district as keyof typeof deliveryFeeData
-              ].price
-            : 0;
-    const freeDeliveryPrice = deliveryFeeData?.['@free']?.price ?? null;
+              ]
+            : null;
+    const freeDeliveryPrice = deliveryDistrict?.freeAbove ?? null;
 
     const totalPriceNoFee = Object.values(items).reduce(
         (prev, curr) => prev + curr.price * (curr.count <= 0 ? 1 : curr.count),
         0
     );
 
-    const isDeliveryFree = totalPriceNoFee >= freeDeliveryPrice;
+    const isDeliveryFree = !!freeDeliveryPrice && totalPriceNoFee >= freeDeliveryPrice;
+    const deliveryFee = deliveryDistrict?.price ?? 0;
     const totalPrice = totalPriceNoFee + (!isDeliveryFree ? deliveryFee : 0);
 
     const textAddress =

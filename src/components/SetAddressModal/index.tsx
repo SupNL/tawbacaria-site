@@ -12,7 +12,6 @@ import {
     Select,
     Text,
 } from '@chakra-ui/react';
-import { formatToCurrency } from '../../utils';
 
 import deliveryFeeData from '../../assets/delivery_fee.json';
 import { getLocalStorageObjectSafely } from '../../utils';
@@ -60,12 +59,7 @@ const SetAddressModal: React.FC<{
     };
 
     const infoTexts = useMemo(() => {
-        const freeDeliveryPrice = deliveryFeeData?.['@free']?.price ?? null;
         const texts: string[] = [];
-        if (freeDeliveryPrice != null)
-            texts.push(
-                `Frete grátis acima de ${formatToCurrency(freeDeliveryPrice)}`
-            );
         texts.push(
             'Valor do frete sujeito à alteração se o local de entrega não corresponder ao bairro'
         );
