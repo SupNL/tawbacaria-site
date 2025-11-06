@@ -42,6 +42,7 @@ export function buildAndEncodeMessage({
     paymentMethod,
     fullAddress,
     deliveryFee,
+    isDeliveryFree,
     totalPrice,
     shoppingCart,
     changeValue,
@@ -52,6 +53,7 @@ export function buildAndEncodeMessage({
     shoppingCart: Cart;
     fullAddress?: string | null;
     deliveryFee?: number | null;
+    isDeliveryFree?: boolean;
     changeValue?: number | null;
 }) {
     const message = `*Pedido Tawbacaria*
@@ -61,7 +63,9 @@ export function buildAndEncodeMessage({
 *Forma de pagamento*: ${paymentMethod}${
         fullAddress ? `\n*Endereço*: ${fullAddress}` : '\n*RETIRADA NO LOCAL*'
     }${
-        deliveryFee
+        isDeliveryFree ? `\n*FRETE GRÁTIS*` : ''
+    }${
+        !isDeliveryFree && deliveryFee
             ? `\nFrete: R$ ${formatToCurrency((deliveryFee ?? 0) / 100)}`
             : ''
     }

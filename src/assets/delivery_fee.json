@@ -1,4 +1,6 @@
 {
+    "@free" : { "label": "", "price" : 3000 },
+
     "Boate Cristal": { "label": "Boate Cristal", "price": 1500 },
     "Gelatina": { "label": "Gelatina", "price": 2000 },
     "Jardim Renascer": { "label": "Jardim Renascer", "price": 800 },

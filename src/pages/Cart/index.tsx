@@ -40,7 +40,7 @@ import {
 import { AiOutlineMinus, AiOutlinePlus } from 'react-icons/ai';
 import { FaTimesCircle } from 'react-icons/fa';
 
-import deliveryFeeData from '../../assets/delivery_free.json';
+import deliveryFeeData from '../../assets/delivery_fee.json';
 import SetAddressModal from '../../components/SetAddressModal';
 import { Link, useNavigate } from 'react-router-dom';
 import useCurrentTimeContext from '../../hooks/useCurrentTime';
@@ -130,20 +130,25 @@ export default function Cart() {
     );
 
     const savedAddress = getAddress();
-    const textAddress =
-        toRetire === 'no' ? buildAddressText(savedAddress) : null;
     const deliveryFee =
         savedAddress && savedAddress?.district !== '' && toRetire === 'no'
             ? deliveryFeeData[
                   savedAddress.district as keyof typeof deliveryFeeData
               ].price
-            : null;
-    const totalPrice =
-        Object.values(items).reduce(
-            (prev, curr) =>
-                prev + curr.price * (curr.count <= 0 ? 1 : curr.count),
-            0
-        ) + (deliveryFee ?? 0);
+            : 0;
+    const freeDeliveryPrice = deliveryFeeData?.['@free']?.price ?? null;
+
+    const totalPriceNoFee = Object.values(items).reduce(
+        (prev, curr) => prev + curr.price * (curr.count <= 0 ? 1 : curr.count),
+        0
+    );
+
+    const isDeliveryFree = totalPriceNoFee >= freeDeliveryPrice;
+    const totalPrice = totalPriceNoFee + (!isDeliveryFree ? deliveryFee : 0);
+
+    const textAddress =
+        toRetire === 'no' ? buildAddressText(savedAddress) : null;
+
     const changeNumeric =
         paymentMethod.change && paymentMethod.changeValue
             ? Number(paymentMethod.changeValue)
@@ -175,6 +180,7 @@ export default function Cart() {
                 shoppingCart: items,
                 totalPrice: totalPrice,
                 deliveryFee: deliveryFee,
+                isDeliveryFree : isDeliveryFree,
                 changeValue: changeNumeric,
                 fullAddress: textAddress,
             });
@@ -497,25 +503,44 @@ export default function Cart() {
                                 </Flex>
                             </>
                         )}
-                        <Text fontSize='3xl'>
+                        {isDeliveryFree && <Text fontSize='3xl'>
+                            Total:{' '}
+                            <span  style={{ fontSize: '1rem', textDecoration: 'line-through', marginRight: '8px' }}>
+                                R$ {formatToCurrency((totalPrice + deliveryFee) / 100)}
+                            </span>
+                            <span style={{ fontWeight: 'bold' }}>
+                                R$ {formatToCurrency(totalPrice / 100)}
+                            </span>
+                        </Text>}
+                        {!isDeliveryFree && <Text fontSize='3xl'>
                             Total:{' '}
                             <span style={{ fontWeight: 'bold' }}>
                                 R$ {formatToCurrency(totalPrice / 100)}
                             </span>
-                        </Text>
+                        </Text>}
                         {!isShopOpen && (
                             <ErrorText>
                                 Não é possível realizar pedido fora do horário
                             </ErrorText>
                         )}
-                        {isShopOpen && deliveryFee && (
-                            <Text fontSize='md'>
-                                (Inclui frete:{' '}
-                                <span style={{ fontWeight: 'bold' }}>
-                                    R$ {formatToCurrency(deliveryFee / 100)}
-                                </span>
-                                )
-                            </Text>
+                        {isShopOpen && (
+                            <>
+                                {isDeliveryFree && (
+                                    <Text fontSize='md' fontWeight='bold' color='green.500'>Frete grátis!</Text>
+                                )}
+                                {!isDeliveryFree && !!deliveryFee && (
+                                    <Text fontSize='md'>
+                                        (Inclui frete:{' '}
+                                        <span style={{ fontWeight: 'bold' }}>
+                                            R${' '}
+                                            {formatToCurrency(
+                                                deliveryFee / 100
+                                            )}
+                                        </span>
+                                        )
+                                    </Text>
+                                )}
+                            </>
                         )}
                         {isShopOpen && (
                             <>

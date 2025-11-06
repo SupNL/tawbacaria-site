@@ -1,4 +1,4 @@
-import { PropsWithChildren, useState } from 'react';
+import { PropsWithChildren, useMemo, useState } from 'react';
 import {
     Button,
     Flex,
@@ -12,8 +12,9 @@ import {
     Select,
     Text,
 } from '@chakra-ui/react';
+import { formatToCurrency } from '../../utils';
 
-import deliveryFeeData from '../../assets/delivery_free.json';
+import deliveryFeeData from '../../assets/delivery_fee.json';
 import { getLocalStorageObjectSafely } from '../../utils';
 
 const storageKeyAddress = 'tawbacaria-app-address';
@@ -57,6 +58,20 @@ const SetAddressModal: React.FC<{
         localStorage.setItem(storageKeyAddress, JSON.stringify(addressInfo));
         onClose();
     };
+
+    const infoTexts = useMemo(() => {
+        const freeDeliveryPrice = deliveryFeeData?.['@free']?.price ?? null;
+        const texts: string[] = [];
+        if (freeDeliveryPrice != null)
+            texts.push(
+                `Frete grátis acima de ${formatToCurrency(freeDeliveryPrice)}`
+            );
+        texts.push(
+            'Valor do frete sujeito à alteração se o local de entrega não corresponder ao bairro'
+        );
+        texts.push('Entregas apenas em Presidente Epitácio - SP');
+        return texts;
+    }, []);
 
     return (
         <Modal isOpen={isOpen} onClose={onClose}>
@@ -107,6 +122,7 @@ const SetAddressModal: React.FC<{
                             Selecione o bairro
                         </option>
                         {Object.entries(deliveryFeeData)
+                            .filter(([key]) => !key.startsWith('@'))
                             .sort(([key], [keyPrev]) =>
                                 key > keyPrev ? 1 : key < keyPrev ? -1 : 0
                             )
@@ -130,14 +146,11 @@ const SetAddressModal: React.FC<{
                     <Input disabled value='São Paulo' />
                 </FormControl>
 
-                <Text>
-                    <SmallText>(1)</SmallText> Valor do frete sujeito à
-                    alteração se o local de entrega não corresponder ao bairro
-                </Text>
-                <Text>
-                    <SmallText>(2)</SmallText> Entregas apenas em Presidente
-                    Epitácio - SP
-                </Text>
+                {infoTexts.map((text, index) => (
+                    <Text>
+                        <SmallText>({index + 1})</SmallText> {text}
+                    </Text>
+                ))}
                 <Flex gap='2'>
                     <Button
                         colorScheme={'green'}

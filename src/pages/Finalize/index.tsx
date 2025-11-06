@@ -56,6 +56,9 @@ export default function Finalize() {
                             bg: 'green.500',
                         }}
                         leftIcon={<AiOutlineWhatsApp />}
+                        onClick={() => {
+                            setTimeout(() => window.location.href = 'https://www.tawbacaria.com.br/', 300)
+                        }}
                     >
                         Finalizar pedido pelo WhatsApp
                     </Button>
