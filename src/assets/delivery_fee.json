@@ -1,103 +1,217 @@
 {
     "Boate Cristal": {
+        "freeAbove": null,
         "label": "Boate Cristal",
-        "price": 1500,
-        "freeAbove": 3000
+        "price": 1500
     },
-    "Gelatina": { "label": "Gelatina", "price": 2000, "freeAbove": 3000 },
-    "Jardim Renascer": {
-        "label": "Jardim Renascer",
-        "price": 800,
-        "freeAbove": 3000
-    },
-    "Fepasa": { "label": "Fepasa", "price": 700, "freeAbove": 3000 },
-
-    "Ecovile": { "label": "Ecovile", "price": 1000, "freeAbove": 3000 },
-    "Friboi": { "label": "Friboi", "price": 1500, "freeAbove": 3000 },
-    "Jardim Real 1": {
-        "label": "Jardim Real 1",
-        "price": 800,
-        "freeAbove": 3000
-    },
-    "Jardim Real 2": {
-        "label": "Jardim Real 2",
-        "price": 800,
-        "freeAbove": 3000
-    },
-    "Hossoume": { "label": "Hossoume", "price": 800, "freeAbove": 3000 },
-
-    "Village": { "label": "Village", "price": 1500, "freeAbove": 3000 },
-    "Pioneiros": { "label": "Pioneiros", "price": 1000, "freeAbove": 3000 },
-    "Mirante 1": { "label": "Mirante 1", "price": 800, "freeAbove": 3000 },
-    "Mirante 2": { "label": "Mirante 2", "price": 800, "freeAbove": 3000 },
-    "Orla": { "label": "Orla", "price": 1000, "freeAbove": 3000 },
-
-    "Portal": { "label": "Portal", "price": 1000, "freeAbove": 3000 },
-    "Vila Bordon": { "label": "Vila Bordon", "price": 800, "freeAbove": 3000 },
-    "Paineiras": { "label": "Paineiras", "price": 800, "freeAbove": 3000 },
-    "Novo Lar": { "label": "Novo Lar", "price": 700, "freeAbove": 3000 },
-
-    "Topázio": { "label": "Topázio", "price": 1200, "freeAbove": 3000 },
-    "Vista Alegre": {
-        "label": "Vista Alegre",
-        "price": 800,
-        "freeAbove": 3000
-    },
-    "Jóia Ribeirinha": {
-        "label": "Jóia Ribeirinha",
-        "price": 800,
-        "freeAbove": 3000
-    },
-    "Vila Esperança": {
-        "label": "Vila Esperança",
-        "price": 700,
-        "freeAbove": 3000
-    },
-
-    "Sesi": { "label": "Sesi", "price": 1500, "freeAbove": 3000 },
-    "Jardim Aeroporto": {
-        "label": "Jardim Aeroporto",
-        "price": 1000,
-        "freeAbove": 3000
-    },
-    "Vila Martins": {
-        "label": "Vila Martins",
-        "price": 700,
-        "freeAbove": 3000
-    },
-    "Jardim Campo Grande": {
-        "label": "Jardim Campo Grande",
-        "price": 700,
-        "freeAbove": 3000
-    },
-
-    "Vila Geronimo": {
-        "label": "Vila Geronimo",
-        "price": 700,
-        "freeAbove": 3000
+    "Centro": {
+        "freeAbove": 3000,
+        "label": "Centro",
+        "price": 700
     },
     "Chácara Helvécio": {
+        "freeAbove": 3000,
         "label": "Chácara Helvécio",
-        "price": 800,
-        "freeAbove": 3000
+        "price": 800
     },
-    "Vila Maria": { "label": "Vila Maria", "price": 700, "freeAbove": 3000 },
+    "Ecovile": {
+        "freeAbove": null,
+        "label": "Ecovile",
+        "price": 1000
+    },
+    "Fepasa": {
+        "freeAbove": null,
+        "label": "Fepasa",
+        "price": 700
+    },
+    "Friboi": {
+        "freeAbove": null,
+        "label": "Friboi",
+        "price": 1500
+    },
+    "Gelatina": {
+        "freeAbove": null,
+        "label": "Gelatina",
+        "price": 2000
+    },
+    "Hossoume": {
+        "freeAbove": 3000,
+        "label": "Hossoume",
+        "price": 800
+    },
+    "Jardim Aeroporto": {
+        "freeAbove": null,
+        "label": "Jardim Aeroporto",
+        "price": 1000
+    },
+    "Jardim Campo Grande": {
+        "freeAbove": 3000,
+        "label": "Jardim Campo Grande",
+        "price": 700
+    },
+    "Jardim Centenario": {
+        "freeAbove": 3000,
+        "label": "Jardim Centenário",
+        "price": 700
+    },
     "Jardim Primavera": {
+        "freeAbove": 3000,
         "label": "Jardim Primavera",
-        "price": 700,
-        "freeAbove": 3000
+        "price": 700
     },
-
+    "Jardim Real 1": {
+        "freeAbove": 3000,
+        "label": "Jardim Real 1",
+        "price": 800
+    },
+    "Jardim Real 2": {
+        "freeAbove": 3000,
+        "label": "Jardim Real 2",
+        "price": 800
+    },
+    "Jardim Renascer": {
+        "freeAbove": null,
+        "label": "Jardim Renascer",
+        "price": 800
+    },
+    "Jóia Ribeirinha": {
+        "freeAbove": 3000,
+        "label": "Jóia Ribeirinha",
+        "price": 800
+    },
+    "Mirante 1": {
+        "freeAbove": 3000,
+        "label": "Mirante 1",
+        "price": 800
+    },
+    "Mirante 2": {
+        "freeAbove": 3000,
+        "label": "Mirante 2",
+        "price": 800
+    },
+    "Novo Lar": {
+        "freeAbove": 3000,
+        "label": "Novo Lar",
+        "price": 700
+    },
+    "Orla": {
+        "freeAbove": null,
+        "label": "Orla",
+        "price": 1000
+    },
+    "Paineiras": {
+        "freeAbove": 3000,
+        "label": "Paineiras",
+        "price": 800
+    },
+    "Pioneiros": {
+        "freeAbove": null,
+        "label": "Pioneiros",
+        "price": 1000
+    },
+    "Portal": {
+        "freeAbove": null,
+        "label": "Portal",
+        "price": 1000
+    },
+    "Santa Rosa": {
+        "freeAbove": 3000,
+        "label": "Santa Rosa",
+        "price": 700
+    },
+    "Sesi": {
+        "freeAbove": null,
+        "label": "Sesi",
+        "price": 1500
+    },
+    "Topázio": {
+        "freeAbove": null,
+        "label": "Topázio",
+        "price": 1200
+    },
+    "Vila Bela Vista": {
+        "freeAbove": 3000,
+        "label": "Vila Bela Vista",
+        "price": 700
+    },
+    "Vila Boa Vista": {
+        "freeAbove": 3000,
+        "label": "Vila Boa Vista",
+        "price": 700
+    },
+    "Vila Bordon": {
+        "freeAbove": 3000,
+        "label": "Vila Bordon",
+        "price": 800
+    },
+    "Vila Continental": {
+        "freeAbove": 3000,
+        "label": "Vila Continental",
+        "price": 700
+    },
+    "Vila Cruzeiro": {
+        "freeAbove": 3000,
+        "label": "Vila Cruzeiro",
+        "price": 700
+    },
+    "Vila Esperança": {
+        "freeAbove": 3000,
+        "label": "Vila Esperança",
+        "price": 700
+    },
+    "Vila Geronimo": {
+        "freeAbove": 3000,
+        "label": "Vila Gerônimo",
+        "price": 700
+    },
+    "Vila Industrial": {
+        "freeAbove": 3000,
+        "label": "Vila Industrial",
+        "price": 700
+    },
+    "Vila Maria": {
+        "freeAbove": 3000,
+        "label": "Vila Maria",
+        "price": 700
+    },
+    "Vila Martins": {
+        "freeAbove": 3000,
+        "label": "Vila Martins",
+        "price": 700
+    },
     "Vila Monte Castelo": {
+        "freeAbove": 3000,
         "label": "Vila Monte Castelo",
-        "price": 700,
-        "freeAbove": 3000
+        "price": 700
     },
-    "Centro": { "label": "Centro", "price": 700, "freeAbove": 3000 },
+    "Vila Natal": {
+        "freeAbove": 3000,
+        "label": "Vila Natal",
+        "price": 700
+    },
     "Vila Palmira": {
+        "freeAbove": 3000,
         "label": "Vila Palmira",
-        "price": 700,
-        "freeAbove": 3000
+        "price": 700
     },
-    "Santa Rosa": { "label": "Santa Rosa", "price": 700, "freeAbove": 3000 }
+    "Vila Progresso": {
+        "freeAbove": null,
+        "label": "Vila Progresso",
+        "price": 1500
+    },
+    "Vila So Brasil": {
+        "freeAbove": 3000,
+        "label": "Vila Só Brasil",
+        "price": 700
+    },
+    "Village": {
+        "freeAbove": null,
+        "label": "Village",
+        "price": 1500
+    },
+    "Vista Alegre": {
+        "freeAbove": 3000,
+        "label": "Vista Alegre",
+        "price": 800
+    }
 }
