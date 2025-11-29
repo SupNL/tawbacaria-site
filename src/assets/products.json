@@ -737,9 +737,9 @@
             "is_highlight": false
         },
         {
-            "code": "ziggyjabutica",
-            "label": "Ziggy Jabutica Tropical",
-            "description": "50g de essência para narguilé sabor Jabutica.",
+            "code": "ziggyjabuticaba",
+            "label": "Ziggy Jabuticaba Tropical",
+            "description": "50g de essência para narguilé sabor Jabuticaba.",
             "price": 1200,
             "image_url": "https://i.imgur.com/eIlcunf.png",
             "in_stock": true,
@@ -4211,7 +4211,7 @@
             "code": "bolador",
             "label": "Bolador",
             "description": "Bolador simples para enrolar seus cigarros, 12cm de comprimento. Disponível nas cores vermelha e azul",
-            "price": 2000,
+            "price": 2200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/6brwpuF.png"
@@ -4526,7 +4526,7 @@
             "code": "slick-tokahauu-nuvem",
             "label": "Slick TokaHauu 22ml Nuvem",
             "description": "Slick de Silicone TokaHauu 22ml Nuvem. Contém 4 repartições. (CONFERIR MODELOS DISPONÍVEIS)",
-            "price": 2500,
+            "price": 3500,
             "image_url": "https://i.imgur.com/OGVq0Qt.png",
             "in_stock": true,
             "is_highlight": false
