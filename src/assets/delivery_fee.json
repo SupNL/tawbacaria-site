@@ -20,7 +20,7 @@
         "price": 1000
     },
     "Fepasa": {
-        "freeAbove": null,
+        "freeAbove": 3000,
         "label": "Fepasa",
         "price": 700
     },
@@ -70,7 +70,7 @@
         "price": 800
     },
     "Jardim Renascer": {
-        "freeAbove": null,
+        "freeAbove": 3000,
         "label": "Jardim Renascer",
         "price": 800
     },
