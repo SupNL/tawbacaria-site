@@ -13,7 +13,7 @@
             "code": "filtro-papelito-ultralongo",
             "label": "Filtros Papelito Ultra Longos Tradicionais",
             "description": "Unidade de pacote com 120 filtros de 30mm x 6mm. Filtro Papelito Tradicional Ultra Longo é uma escolha excelente para consumidores que buscam uma solução prática e eficaz para consumir de forma mais consciente e segura, oferecendo proteção superior e uma redução significativa de danos à saúde.",
-            "price": 1000,
+            "price": 1200,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/xf9qvBq.png"
@@ -2391,9 +2391,9 @@
     ],
     "Carvão": [
         {
-            "code": "carvao-dcodo-unidade",
-            "label": "Carvão Hexagonal D'coco - UNIDADE",
-            "description": "Uma unidade de Carvão D'coco Hexagonal",
+            "code": "carvao-unidade",
+            "label": "Carvão Hexagonal Zomo - UNIDADE",
+            "description": "Uma unidade de Carvão Zomo Hexagonal",
             "price": 100,
             "is_highlight": false,
             "in_stock": true,
@@ -2419,18 +2419,18 @@
         },
         {
             "code": "carvao-zomo-caixa-500g",
-            "label": "Promoção - Caixa 500g Carvão Hexagonal Zomo",
+            "label": "Caixa 500g Carvão Hexagonal Zomo",
             "description": "Caixa com 500g de Carvão Zomo Hexagonal",
-            "price": 2000,
+            "price": 2500,
             "is_highlight": true,
             "in_stock": true,
             "image_url": "https://i.imgur.com/rAQImr6.png"
         },
         {
             "code": "carvao-zomo-caixa-1kg",
-            "label": "Promoção - Caixa 1kg Carvão Hexagonal Zomo",
+            "label": "Caixa 1kg Carvão Hexagonal Zomo",
             "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
-            "price": 4000,
+            "price": 4500,
             "is_highlight": true,
             "in_stock": true,
             "image_url": "https://i.imgur.com/7qzN2L8.png"
@@ -2448,7 +2448,7 @@
             "code": "carvao-chacal-caixa-1kg",
             "label": "Caixa 1kg Carvão Hexagonal Chacal",
             "description": "Caixa com 1kg de Carvão Chacal Hexagonal",
-            "price": 5000,
+            "price": 5500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/s3Em5lU.png"
@@ -3647,7 +3647,14 @@
             "price": 400,
             "is_highlight": false,
             "in_stock": true,
-            "image_url": "https://i.imgur.com/V4bzEE1.png"
+            "image_url": "https://i.imgur.com/V4bzEE1.png",
+            "discount": {
+                "discount": 200,
+                "period": {
+                    "start": "2026-01-01T00:00:00",
+                    "end": "2027-01-01T00:00:00"
+                }
+            }
         },
         {
             "code": "zomo-seda-timao",
@@ -4542,7 +4549,7 @@
         },
         {
             "code": "seda-organica-live-your-life",
-            "label": "Seda King Size Orgânica Marrom",
+            "label": "Seda King Size Orgânica Branca",
             "description": "Produzida com folhas orgânicas premium ultrafinas, essa seda garante uma queima suave e uniforme, realçando o sabor natural do conteúdo. Seu formato King Size é ideal para quem busca praticidade sem abrir mão da qualidade. Contém 33 folhas.",
             "price": 200,
             "image_url": "https://i.imgur.com/nMI0zEy.png",
@@ -4924,7 +4931,7 @@
             "code": "rosh-seven-hookah-gold-rosa",
             "label": "Rosh Seven Hookah Gold Rosa",
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
-            "price": 6000,
+            "price": 6500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/hI6bwzn.png"
@@ -4933,7 +4940,7 @@
             "code": "rosh-seven-hookah-gold-preto",
             "label": "Rosh Seven Hookah Gold Preto",
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
-            "price": 6000,
+            "price": 6500,
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/0FCLjDU.png"
@@ -4942,7 +4949,7 @@
             "code": "rosh-seven-hookah-gold-branco",
             "label": "Rosh Seven Hookah Gold Branco",
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
-            "price": 6000,
+            "price": 6500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/6UyDbfk.png"
@@ -4951,7 +4958,7 @@
             "code": "rosh-seven-hookah-gold-azul",
             "label": "Rosh Seven Hookah Gold Azul",
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
-            "price": 6000,
+            "price": 6500,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/Ol2IRbT.png"
@@ -6226,7 +6233,7 @@
             "is_highlight": false
         }
     ],
-    "Bebidas": [
+    "Bebidas e Comidas": [
         {
             "code": "7896092502453",
             "label": "Vodka Askov 900ml (GELADA)",
@@ -6355,8 +6362,8 @@
         },
         {
             "code": "agua-sem-gas",
-            "label": "Água sem Gás 510ml",
-            "description": "Água sem Gás 510ml",
+            "label": "Água sem Gás 510ml (GELADA)",
+            "description": "Água sem Gás 510ml (GELADA)",
             "price": 300,
             "image_url": "https://i.imgur.com/vo9izwh.png",
             "in_stock": true,
@@ -6382,8 +6389,8 @@
         },
         {
             "code": "coca-2litros",
-            "label": "Coca-Cola Original 2l",
-            "description": "Coca-Cola Original 2l",
+            "label": "Coca-Cola Original 2l (GELADO)",
+            "description": "Coca-Cola Original 2l (GELADO)",
             "price": 1400,
             "image_url": "https://i.imgur.com/o1v7kiD.png",
             "in_stock": true,
@@ -6392,7 +6399,7 @@
         {
             "code": "coca-2litros-zero",
             "label": "Coca-Cola Zero 2l (GELADO)",
-            "description": "Coca-Cola Zero 2l",
+            "description": "Coca-Cola Zero 2l (GELADO)",
             "price": 1400,
             "image_url": "https://i.imgur.com/OrTqZZN.png",
             "in_stock": true,
