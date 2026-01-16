@@ -76,7 +76,7 @@
             "code": "filtro-papelito-tradicional",
             "label": "Filtros Papelito Tradicional",
             "description": "Unidade de pacote com 120 filtros de 6mm x 15mm",
-            "price": 800,
+            "price": 1000,
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/0M8jfzV.png"
@@ -2422,7 +2422,7 @@
             "label": "Caixa 500g Carvão Hexagonal Zomo",
             "description": "Caixa com 500g de Carvão Zomo Hexagonal",
             "price": 2500,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/rAQImr6.png"
         },
@@ -2431,7 +2431,7 @@
             "label": "Caixa 1kg Carvão Hexagonal Zomo",
             "description": "Caixa com 1kg de Carvão Zomo Hexagonal",
             "price": 4500,
-            "is_highlight": true,
+            "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/7qzN2L8.png"
         },
